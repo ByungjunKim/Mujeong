@@ -1,0 +1,574 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ko"><teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>무정 — 제공 자료 31–40 태깅본</title>
+      <author>이광수</author>
+      <respStmt xml:id="encoder">
+        <resp>원문 보존, 주석 전이·문맥 검토 및 기계 검증</resp>
+        <name>Codex</name>
+      </respStmt>
+    <respStmt xml:id="reviewer"><resp>태깅 검수 및 인물·집단 지칭 판정</resp><name>우인진</name></respStmt></titleStmt>
+    <publicationStmt>
+      <p>미간행.</p>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl type="digitalSource"><author>이광수</author><title>무정</title><publisher>위키문헌 (Wikisource)</publisher><biblScope unit="chapter">31–40</biblScope><ref target="https://ko.wikisource.org/wiki/무정/21장~40장">무정/21장~40장</ref></bibl>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <langUsage>
+      <language ident="ko">한국어</language>
+      <language ident="zh">한자 병기의 호환 표지</language>
+    </langUsage>
+    <particDesc>
+      <listPerson>
+        <person xml:id="YC">
+          <persName type="canonical" xml:lang="ko">박영채</persName>
+          <persName type="alias" xml:lang="ko">영채</persName>
+          <persName type="alias" xml:lang="ko">계월향</persName>
+          <persName type="alias" xml:lang="ko">월향</persName>
+        </person>
+        <person xml:id="WH">
+          <persName type="canonical" xml:lang="ko">계월화</persName>
+          <persName type="alias" xml:lang="ko">월화</persName>
+          <persName type="alias">솔이</persName>
+          <note>31 구간 친구들이 붙인 별명 솔이. 시조를 지은 인물 SI와 구별한다.</note>
+        </person>
+        <person xml:id="HS">
+          <persName type="canonical" xml:lang="ko">이형식</persName>
+          <persName type="alias" xml:lang="ko">형식</persName>
+        </person>
+        <person xml:id="US">
+          <persName type="canonical" xml:lang="ko">신우선</persName>
+          <persName type="alias" xml:lang="ko">우선</persName>
+        </person>
+        <person xml:id="HSM">
+          <persName type="canonical" xml:lang="ko">함상모</persName>
+          <persName type="alias" xml:lang="ko">함교장</persName>
+        </person>
+        <person xml:id="KHS">
+          <persName type="canonical" xml:lang="ko">김현수</persName>
+          <persName type="alias" xml:lang="ko">현수</persName>
+        </person>
+        <person xml:id="BMS">
+          <persName type="canonical" xml:lang="ko">배명식</persName>
+          <persName type="alias" xml:lang="ko">배학감</persName>
+          <persName type="alias" xml:lang="ko">배</persName>
+        </person>
+        <person xml:id="KJL">
+          <persName type="canonical" xml:lang="ko">김장로</persName>
+        </person>
+        <person xml:id="SH">
+          <persName type="canonical" xml:lang="ko">선형</persName>
+        </person>
+        <person xml:id="SA">
+          <persName type="canonical" xml:lang="ko">순애</persName>
+        </person>
+        <person xml:id="KYS">
+          <persName type="canonical" xml:lang="ko">김윤수</persName>
+        </person>
+        <person xml:id="KYS_SON">
+          <persName type="canonical" xml:lang="ko">김윤수의 맏아들</persName>
+          <persName type="alias" xml:lang="ko">김윤수의 아들</persName>
+          <note>31·34 구간 김윤수의 맏아들. 김윤수 본인과 구별.</note>
+        </person>
+        <person xml:id="SI">
+          <persName type="canonical" xml:lang="ko">솔이</persName>
+        </person>
+        <person xml:id="LTB">
+          <persName type="canonical" xml:lang="ko">이태백</persName>
+        </person>
+        <person xml:id="GJ">
+          <persName type="canonical" xml:lang="ko">고적</persName>
+        </person>
+        <person xml:id="WCR">
+          <persName type="canonical" xml:lang="ko">왕창령</persName>
+        </person>
+        <person xml:id="YCG">
+          <persName type="canonical" xml:lang="ko">양창곡</persName>
+        </person>
+        <person xml:id="LDL">
+          <persName type="canonical" xml:lang="ko">이도령</persName>
+        </person>
+        <person xml:id="TMG">
+          <persName type="canonical" xml:lang="ko">탁문군</persName>
+        </person>
+        <person xml:id="SMSY">
+          <persName type="canonical" xml:lang="ko">사마상여</persName>
+        </person>
+        <person xml:id="HK">
+          <persName type="canonical" xml:lang="ko">희경</persName>
+        </person>
+        <person xml:id="NP">
+          <persName type="canonical" xml:lang="ko">노파</persName>
+          <note>36 구간 영채의 거처에서 형식을 상대하는 노파. 월화의 어미와 구별.</note>
+        </person>
+        <person xml:id="MAN">
+          <persName type="canonical" xml:lang="ko">어떤 남자</persName>
+          <note>36 구간 안에서 누구요라고 묻는 익명 남자.</note>
+        </person>
+        <person xml:id="CG">
+          <persName type="canonical" xml:lang="ko">늙은 총각</persName>
+          <note>36 구간 아이스크림을 외치는 늙은 총각.</note>
+        </person>
+        <person xml:id="CJ">
+          <persName type="canonical" xml:lang="ko">차장</persName>
+          <note>37 구간 전차의 차장.</note>
+        </person>
+        <person xml:id="KNJ">
+          <persName type="canonical" xml:lang="ko">김남작</persName>
+        </person>
+        <person xml:id="STUDENT">
+          <persName type="canonical" xml:lang="ko">학생</persName>
+          <note>33 구간 의자 둘을 가져와 월화와 영채를 안내한 특정 학생.</note>
+        </person>
+        <person xml:id="MOTHER">
+          <persName type="canonical" xml:lang="ko">어미</persName>
+          <note>31·34 구간 월화의 어미 노릇을 하던 사람.</note>
+        </person>
+        <personGrp xml:id="STUDENTS32">
+          <p>청류벽 노래 학생 집단 — 32 구간의 사오 인. 개별 구성원을 추측하지 않는다.</p>
+        </personGrp>
+        <personGrp xml:id="STUDENTS33">
+          <p>연설회 학생 집단 — 33 구간의 패성학교 학생 집단. 의자를 가져온 학생과 구별한다.</p>
+        </personGrp>
+        <personGrp xml:id="NUNS37">
+          <p>상상 속 여승들 — 37 구간에서 형식이 상상한 여승 집단. 실제 사건 참여자로 집계하지 않는다.</p>
+        </personGrp>
+        <personGrp xml:id="AUDIENCE33">
+          <p>연설회 청중 — 33 구간 연설회 장면의 청중.</p>
+        </personGrp>
+        <personGrp xml:id="GISAENG31">
+          <p>영채가 접한 기생 집단 — 31 구간 처음에 제시된 여러 기생. 개별 호칭 수신자는 분리 등록하지 않음.</p>
+        </personGrp>
+        <personGrp xml:id="GISAENG-PARTY31">
+          <p>연회 기생들 — 31 구간 부벽루 연회에 모인 기생들.</p>
+        </personGrp>
+        <personGrp xml:id="PARTY-MEN31">
+          <p>부벽루 연회 인사들 — 31 구간에서 월화가 가리키는 일류 명사 집단.</p>
+        </personGrp>
+        <personGrp xml:id="SUITORS31">
+          <p>월화를 찾아온 남자들 — 31 구간의 복수 구혼자·손님 집단.</p>
+        </personGrp>
+        <personGrp xml:id="CARRIERS34">
+          <p>시체를 옮긴 물지게꾼 집단 — 34 구간의 이삼 인. 개인 2명 또는 3명으로 분해하지 않음.</p>
+        </personGrp>
+        <personGrp xml:id="VISITORS38">
+          <p>평안도 출신 방문 신사들 — 38 구간에서 월향에게 놀러 온 삼사 인.</p>
+        </personGrp>
+        <personGrp xml:id="US-FRIENDS38">
+          <p>우선의 평양 친구들 — 38 구간 대화의 이삼 인. 이형식 외 구성원 미확정.</p>
+        </personGrp>
+        <personGrp xml:id="YC-BROTHERS">
+          <p>영채의 두 형제 — 35 구간에서 부친과 함께 구원하려 했다고 언급된 두 형제.</p>
+        </personGrp>
+        <person xml:id="DETECTIVE">
+          <persName>종로경찰서 형사</persName>
+          <note>38–40 구간에서 우선과 동행한 형사.</note>
+        </person>
+        <person xml:id="VOICE36">
+          <persName>거리에서 노래하는 익명 화자</persName>
+          <note>36 구간에서 같은 목소리라고 서술됨. 주변의 여러 웃는 사람과 구별.</note>
+        </person>
+        <person xml:id="YC-FATHER">
+          <persName>영채의 아버지</persName>
+          <note>33·35 구간의 부친. 본 구간에서 확인되지 않은 본명은 추가하지 않음.</note>
+        </person>
+        <person xml:id="LYRIC-SOL">
+          <persName>시조의 일인칭 화자</persName>
+          <note>솔이의 시조에서 내를 말하는 시적 화자. 낭송자 월화와 구별.</note>
+        </person>
+        <person xml:id="LYRIC-STUDENT">
+          <persName>청류벽에서 두 번째 노래를 부르는 학생</persName><note>우인진의 2026-09-15 검수에 따라 32구간 16·30문단의 단수 학생과 두 번째 노래의 가창자를 연결한다. 기존 가사 속 나의 참조도 이 ID로 유지한다. 가사의 일인칭과 가창자 연결은 이번 검수에서 채택한 해석이며, 학생 집단 STUDENTS32 및 연설회의 학생 STUDENT와 구별한다.</note></person>
+        <person xml:id="LYRIC-STREET">
+          <persName>거리 노래의 일인칭 화자</persName>
+          <note>거리에서 부르는 노래 가사의 나. 가창자와 구별.</note>
+        </person>
+      </listPerson>
+      <listOrg>
+        <org xml:id="ORG-DSH">
+          <orgName>대성학교</orgName>
+        </org>
+        <org xml:id="ORG-SMG">
+          <orgName>신문관</orgName>
+        </org>
+        <org xml:id="ORG-PSH">
+          <orgName>패성학교</orgName>
+        <orgName type="variant">패성중학</orgName><note>32구간 편자 주에 근거하여 패성중학과 패성학교의 기관 동일성을 통합. 모델로 제시된 대성학교는 별도 기관.</note></org>
+        <org xml:id="ORG-SJD">
+          <orgName>삼중당</orgName>
+        </org>
+        <org xml:id="ORG-CNHG">
+          <orgName>청년회관</orgName>
+        </org>
+        <org xml:id="ORG-DSM">
+          <orgName>대신문</orgName>
+        </org>
+        <org xml:id="ORG-GSH">
+          <orgName>경성학교</orgName>
+        </org>
+        <org xml:id="ORG-JRPS">
+          <orgName>종로경찰서</orgName>
+        </org>
+      </listOrg>
+    </particDesc>
+    <settingDesc>
+      <listPlace>
+        <place xml:id="PL-AMJA39">
+          <placeName>39 구간 우물 북쪽 암자</placeName>
+        </place>
+        <place xml:id="PL-PY">
+          <placeName>평양</placeName>
+        </place>
+        <place xml:id="PL-JS">
+          <placeName>조선</placeName>
+        </place>
+        <place xml:id="PL-GN">
+          <placeName>강남</placeName>
+        </place>
+        <place xml:id="PL-DDG">
+          <placeName>대동강</placeName>
+        </place>
+        <place xml:id="PL-MRB">
+          <placeName>모란봉</placeName>
+        </place>
+        <place xml:id="PL-BBR">
+          <placeName>부벽루</placeName>
+        </place>
+        <place xml:id="PL-CRB">
+          <placeName>청류벽</placeName>
+        </place>
+        <place xml:id="PL-NRD">
+          <placeName>능라도</placeName>
+        </place>
+        <place xml:id="PL-PYS">
+          <placeName>평양성</placeName>
+        </place>
+        <place xml:id="PL-EMD">
+          <placeName>을밀대</placeName>
+        </place>
+        <place xml:id="PL-AJ">
+          <placeName>안주</placeName>
+        </place>
+        <place xml:id="PL-BM">
+          <placeName>북문</placeName>
+        </place>
+        <place xml:id="PL-BMS">
+          <placeName>북망산</placeName>
+        </place>
+        <place xml:id="PL-CNR">
+          <placeName>청량리</placeName>
+        </place>
+        <place xml:id="PL-DBG">
+          <placeName>다방골</placeName>
+        </place>
+        <place xml:id="PL-GCG">
+          <placeName>광충교</placeName>
+        </place>
+        <place xml:id="PL-DDM">
+          <placeName>동대문</placeName>
+        </place>
+        <place xml:id="PL-JG">
+          <placeName>종각</placeName>
+        </place>
+        <place xml:id="PL-GRG">
+          <placeName>구리개</placeName>
+        </place>
+        <place xml:id="PL-SDM">
+          <placeName>서대문</placeName>
+        </place>
+        <place xml:id="PL-JR">
+          <placeName>종로</placeName>
+        </place>
+        <place xml:id="PL-CMG">
+          <placeName>철물교</placeName>
+        </place>
+        <place xml:id="PL-BOG">
+          <placeName>배오개</placeName>
+        </place>
+        <place xml:id="PL-SW">
+          <placeName>상원</placeName>
+        </place>
+        <place xml:id="PL-HR">
+          <placeName>홍릉</placeName>
+        </place>
+        <place xml:id="PL-SL">
+          <placeName>서울</placeName>
+        </place>
+        <place xml:id="PL-SZ">
+          <placeName>소주</placeName>
+        </place>
+        <place xml:id="PL-HZ">
+          <placeName>항주</placeName>
+        </place>
+        <place xml:id="PL-TANG">
+          <placeName>당나라</placeName>
+        </place>
+        <place xml:id="PL-PAD">
+          <placeName>평안도</placeName>
+        </place>
+        <place xml:id="PL-TK">
+          <placeName>동경</placeName>
+        </place>
+        <place xml:id="PL-CNS">
+          <placeName>청량사</placeName>
+        </place>
+      </listPlace>
+    </settingDesc>
+  </profileDesc>
+  <revisionDesc>
+    <change when="2026-09-14" who="#encoder">평문 원문에 태그를 조립하고 인물·집단·발화 분류 및 참조를 검토하였다. 검증 결과는 별도 기록 참조.</change>
+  <change when="2026-09-15" who="#reviewer">우인진이 체크리스트와 본문을 검수하고 집단 지칭, 김윤수 맏아들 지칭, 단수 학생의 동일성을 판정하였다.</change><change when="2026-09-15" who="#encoder">검수 의견을 반영하여 참조·생각 범위·헤더를 수정하고 원문 보존, 스키마 및 참조를 재검증하였다.</change></revisionDesc>
+</teiHeader><text><body><div type="segment" n="31"><p><persName ref="#YC">영채</persName>는 그 동안 <rs type="person" ref="#GISAENG31">여러 기생</rs>을 보았다. 그러고 <rs type="person" ref="#GISAENG31">그네들</rs> 중에 어떠한 사람이 있는가 보았다. <persName ref="#YC">영채</persName>가 ‘<said who="#YC" aloud="true" direct="true">형님</said>’ 하고 정답게 지내던 자도 수십 인이요, ‘<said who="#YC" aloud="true" direct="true">야, 네더냐</said>’ 하고 동무로 지내던 자도 수십 인이요, <persName ref="#YC">영채</persName>더러 ‘<said who="#GISAENG31" aloud="true" direct="true">형님!</said>’ 하고 정답게 따르던 자도 몇 사람이 있었다.</p>
+
+<p><persName ref="#YC">영채</persName>가 <placeName ref="#PL-PY">평양</placeName>서 기생이 되어 맨 처음 ‘<said who="#YC" aloud="true" direct="true">형님</said>’ 하고 정들인 기생은 <persName ref="#WH">계 월화</persName>라 하는 얼굴 곱고 소리 잘하는 사람이었다. 그때에 <placeName ref="#PL-PY">평양</placeName> 화류계에 풍류 남자들의 눈은 실로 이 <persName ref="#WH">월화</persName> 한 사람에게 모였었다. <persName ref="#WH">월화</persName>는 단율도 잘 짓고 묵화도 남 지지 아니하게 쳤다. 그래서 <persName ref="#WH">월화</persName>는 매우 자존하는 마음이 있어서 여간한 남자는 가까이하지도 아니하였다. 그러므로 퇴맞은 남자들에게는 ‘<said who="#SUITORS31" aloud="true" direct="true">교만한 년</said>’ ‘<said who="#SUITORS31" aloud="true" direct="true">괘씸한 년</said>’이라는 책망도 듣고, 그 소위 <rs type="person" ref="#MOTHER">어미</rs> 되는 <rs type="person" ref="#MOTHER">노파</rs>에게는 ‘<said who="#MOTHER" aloud="true" direct="true">손님께 공손하라</said>’는 경계도 들었다. 그러나 <persName ref="#WH">월화</persName>는 <rs type="person" ref="#WH">자기</rs>의 얼굴과 재주를 높이 믿었다. 그래서 <rs type="person" ref="#WH">제</rs> 눈에 낮게 보이는 손님을 대할 때에는, “<said who="#WH" aloud="true" direct="true">솔이 솔이 하니 무슨 솔이로만 여겼던가 / 천인 절벽에 낙락장송 <rs type="person" ref="#LYRIC-SOL">내</rs> 기로다 / 길 아래 초동의 낫이야 걸어 볼 줄 있으랴</said>” 하는 <persName ref="#SI">솔이〔<foreign xml:lang="zh">松伊</foreign>〕</persName>가 지은 시조를 불렀다. 그래서 <rs type="person" ref="#GISAENG31"><rs type="person" ref="#WH">그</rs>의 친구들</rs>은 <persName ref="#WH">월화</persName>를 <seg>‘솔이’라고 별명</seg>을 지었다. 실로 <persName ref="#WH">월화</persName>의 이상은 ‘<persName ref="#SI">솔이</persName>’였었다. <persName ref="#YC">영채</persName>가 <persName ref="#WH">월화</persName>를 사랑하게 된 것도 이 때문이라. <persName ref="#YC">영채</persName>의 눈에 <persName ref="#WH">월화</persName>라는 기생은 족히 열녀전에 들어갈 만하다 하였다. 그러고 ‘<persName ref="#SI">솔이</persName>’라는 기생이 어떠한 기생인지도 모르면서 <persName ref="#WH">월화</persName>가 <persName ref="#SI">솔이</persName>를 이상으로 하는 것을 보고 <rs type="person" ref="#YC">자기</rs>도 그 모양으로 <persName ref="#SI">솔이</persName>를 이상으로 하였다. <persName ref="#YC">영채</persName>가 일찍 <persName ref="#WH">월화</persName>에게 안기며, “<said who="#YC" aloud="true" direct="true"><rs type="person" ref="#WH">형님</rs>! <rs type="person" ref="#WH">형님</rs>과 <rs type="person" ref="#YC">저</rs>와 <persName ref="#SI">솔이</persName>와 <rs type="person" ref="#YC #WH #SI">세 사람</rs>이 친구가 됩시다</said>” 한 일이 있었다. 그러고 <said who="#YC" aloud="false" direct="true"><rs type="person" ref="#YC">나</rs>도 반드시 <persName ref="#WH">월화</persName> <rs type="person" ref="#WH">형님</rs>과 같이 <persName ref="#SI">솔이</persName>가 되리라</said> 하였다. </p>
+
+<p><persName ref="#WH">월화</persName>의 얼굴과 재주를 보고 <rs type="person" ref="#SUITORS31">여러 남자</rs>가 침을 흘리며 모여들었다. 그러한 사람들 중에는 부자도 있고 미남자도 있었다. <rs type="person" ref="#SUITORS31">그</rs> 사람들은 다투어 옷을 잘 입고 금시계와 금반지를 끼고 아무리 하여서라도 <persName ref="#WH">월화</persName>의 사랑을 얻으려 하였다. 그러나 <persName ref="#WH">월화</persName>가 머릿속에 그리는 남자는 그러한 경박자는 아니었다. <persName ref="#WH">월화</persName>는 <persName ref="#LTB">이태백</persName>을 생각하고 <persName ref="#GJ">고적(<foreign xml:lang="zh">高適</foreign>)</persName>과 <persName ref="#WCR">왕창령(<foreign xml:lang="zh">王昌齡</foreign>)</persName> 같은 성당시대(<foreign xml:lang="zh">盛唐時代</foreign>)의 시인을 생각하고 <persName ref="#YCG">양창곡(<foreign xml:lang="zh">楊昌曲</foreign>)</persName>과 <persName ref="#LDL">이도령(<foreign xml:lang="zh">李道令</foreign>)</persName>을 생각하였다. 그러나 <persName ref="#WH">월화</persName>의 주위에 모여드는 남자들 중에는 하나도 그러한 사람이 없고 다만 ‘<mentioned>돈</mentioned>’과 ‘<mentioned>육욕</mentioned>’이 있는 사람뿐이었다. <persName ref="#WH">월화</persName>는 어느 요리점 같은 데 불려 갔다가 밤이 깊어 돌아오는 길에 <persName ref="#YC">영채</persName>를 찾아와서는 흔히 눈물을 흘리며,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true"><persName ref="#YC">영채</persName>야, 세상이 왜 이렇게 적막하냐. <placeName ref="#PL-PY">평양</placeName> 천지에 사람 같은 사람을 볼 수가 없구나</said>” 하였다. <persName ref="#YC">영채</persName>는 아직 그것이 무슨 뜻인지는 모르거니와 대체 ‘<rs type="person" ref="#WH">제</rs> 마음에 드는 사람’이 없다는 뜻이어니 하였다. 그러고는 <persName ref="#YC">영채</persName>는 어린 생각에 ‘<said aloud="false" who="#YC" direct="true"><rs type="person" ref="#YC">나</rs>는 <persName ref="#HS">이형식</persName>이가 있는데</said>’ 하였다.</p>
+
+<p><persName ref="#WH">월화</persName>는 점점 세상을 비감하게 되었다. <rs type="person" ref="#WH">그</rs>가 <persName ref="#YC">영채</persName>에게 당시를 가르치다 흔히 <persName ref="#YC">영채</persName>를 꼭 껴안고 눈물을 흘리며,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true"><persName ref="#YC">영채</persName>야, <rs type="person" ref="#YC">네</rs>나 <rs type="person" ref="#WH">내</rs>나 왜 이러한 <placeName ref="#PL-JS">조선</placeName>에 났겠느냐</said>” 하였다. 그때에 <persName ref="#YC">영채</persName>는 무슨 뜻인지 모르고,</p>
+
+<p>“<said who="#YC" aloud="true" direct="true">그러면 어디 났으면 좋겠소?</said>” 하였다. <persName ref="#WH">월화</persName>는 <persName ref="#YC">영채</persName>의 어린 것을 불쌍히 여기는 듯이,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true"><rs type="person" ref="#YC">너</rs>는 아직 모르는구나</said>” 하였다. <persName ref="#WH">월화</persName>는 성당시대 <placeName ref="#PL-GN">강남</placeName>에 나지 못한 것을 한하였다. <persName ref="#TMG">탁문군</persName>은 <rs type="person" ref="#WH">자기</rs>언마는 봉황곡으로 <rs type="person" ref="#WH">자기</rs>를 후리는 <persName ref="#SMSY">사마상여</persName>의 없음을 한하였다. <persName ref="#WH">월화</persName>의 생각에는 <said who="#WH" aloud="false" direct="true">하늘이 <placeName ref="#PL-DDG">대동강</placeName>을 내시매, <placeName ref="#PL-MRB">모란봉</placeName>을 또 내셨으니 <persName ref="#WH">계월화</persName>는 <placeName ref="#PL-DDG">대동강</placeName>이 되려니와 누가 <placeName ref="#PL-MRB">모란봉</placeName>이 되어 봄에는 꽃으로, 가을에는 단풍으로 그 그림자를 <placeName ref="#PL-BBR">부벽루</placeName> 앞에 비추리요</said> 하였다.</p>
+
+<p><persName ref="#WH">월화</persName>는 <placeName ref="#PL-JS">조선</placeName> 사람의 무지하고 야속함을 원망하였다. 더구나 <placeName ref="#PL-PY">평양</placeName> 남자에 일개 시인이 없고 일개 문사가 없음을 한하였다. <rs type="person" ref="#WH">그</rs>가 나이 이십이 되도록 한 번도 <rs type="person" ref="#WH">자기</rs>의 뜻에 맞는 남자를 만나지 못하고 슬픈 마음과 세상을 경멸하는 비웃음으로 옛날 시를 읊고 <rs type="person" ref="#WH">저</rs>도 시와 노래를 짓기로 유일의 벗을 삼았었다. 그러고 <persName ref="#YC">영채</persName>를 사랑하여 친동생같이 귀애하며, 시 읽기와 시 짓기를 가르치고 마음이 슬픈 때에는 잘 알아듣지도 못하는 <persName ref="#YC">영채</persName>에게 <rs type="person" ref="#WH">자기</rs>의 회포를 말하였다. 그러할 때마다 <persName ref="#YC">영채</persName>는 “<said who="#YC" aloud="true" direct="true"><rs type="person" ref="#WH">형님</rs>!</said>” 하고 <persName ref="#WH">월화</persName>의 가슴에 안겨 울었다.</p>
+
+<p>일찍 어느 연회에 <placeName ref="#PL-PY">평양</placeName> 성내 소위 <rs type="person" ref="#PARTY-MEN31">일류 인사들</rs>과 <rs type="person" ref="#GISAENG-PARTY31">일등 명기</rs>가 일제히 모였다. 이(른 여름) 바람 잔잔한 <placeName ref="#PL-MRB">모란봉</placeName> 밑 <placeName ref="#PL-BBR">부벽루</placeName>가 그 회장이었다. 그때 <persName ref="#WH">월화</persName>가 <persName ref="#YC">영채</persName>에게, “<said who="#WH" aloud="true" direct="true">야 <persName ref="#YC">영채</persName>야, <rs type="person" ref="#YC">너</rs>는 보느냐?</said>” 하고 한편 구석에 끌고 가서 귓속말을 하였다. “<said who="#YC" aloud="true" direct="true">무엇이오?</said>” 하고 <persName ref="#YC">영채</persName>는 좌석을 돌아보았다. <persName ref="#WH">월화</persName>는 <persName ref="#YC">영채</persName>의 귀에 입을 대고, “<said who="#WH" aloud="true" direct="true">저기 모인 <rs type="person" ref="#PARTY-MEN31">저 사람들</rs>이 <placeName ref="#PL-PY">평양</placeName>의 일류 명사란다. 그런데 <rs type="person" ref="#PARTY-MEN31">저 소위 일류 명사</rs>란 것이 모두 다 허자비에게 옷 입혀 놓은 것이란다</said>” 하고 다시 <rs type="person" ref="#GISAENG-PARTY31">기생들</rs>을 가리키며, “<said who="#WH" aloud="true" direct="true"><rs type="person" ref="#GISAENG-PARTY31">저것들</rs>은 소리와 몸을 팔아먹고 사는 더러운 계집년들이란다</said>” 하였다. 그때에는 <persName ref="#YC">영채</persName>가 열다섯 살이었다. 그러므로 전보다 분명하게 <persName ref="#WH">월화</persName>의 말하는 뜻을 알아들었다. 그러고, “<said who="#YC" aloud="true" direct="true">참 그렇소</said>” 하고 조고마한 고개를 까닥까닥 흔들었다. 이러한 말을 할 때에 <rs type="person" ref="#KYS_SON">어떤 양복 입은 신사</rs>가 웃으며 <persName ref="#WH">월화</persName>의 곁에 오더니 목에 손을 얹으며, “<said who="#KYS_SON" aloud="true" direct="true">야 <persName ref="#WH">월화</persName>야, 어째 여기 섰느냐</said>” 하고 끌고 가려 한다. <rs type="person" ref="#KYS_SON">이 신사</rs>는 그때에 한창 <persName ref="#WH">월화</persName>에게 미쳤던 <placeName ref="#PL-PY">평양</placeName> 일부 <persName ref="#KYS">김윤수</persName>의 맏아들이니, 지금 나이 삼십여 세에 여태껏 하여 온 일이 기생 오입밖에 없었다. <persName ref="#WH">월화</persName>는 무론 <rs type="person" ref="#KYS_SON">이 사람</rs>을 천히 여겼다. 그래서 <rs type="person" ref="#KYS_SON">이 사람</rs> 앞에서도 ‘<said who="#WH" aloud="true" direct="true">솔이 솔이 하니</said>’를 불렀다. 이때에 <persName ref="#WH">월화</persName>는 너무 불쾌하여, “<said who="#WH" aloud="true" direct="true">왜 이러시오</said>” 하고 몸을 뿌리쳤다. 뒤에 알아본즉, 이때에 이 좌석에 <persName ref="#WH">월화</persName>의 마음을 끄는 <rs type="person" ref="#HSM">어떤 신사</rs>가 있었더라. <rs type="person" ref="#HSM">그</rs>는 어떠한 사람이며 <rs type="person" ref="#HSM">그</rs>와 <persName ref="#WH">월화</persName>와의 관계는 장차 어찌 될는고.</p>
+</div><div type="segment" n="32"><p>그 연회로서 돌아오는 길에 <persName ref="#YC">영채</persName>는 <persName ref="#WH">월화</persName>를 따라 <placeName ref="#PL-CRB">청류벽</placeName> 밑으로 산보하였다. 그때에 마침 <placeName ref="#PL-PY">평양</placeName> <orgName ref="#ORG-PSH">패성중학</orgName>(<orgName ref="#ORG-DSH">대성학교</orgName>를 모델로 한 것임. 신문연재본과 <orgName ref="#ORG-SMG">신문관</orgName>본에는 모두 ‘<orgName ref="#ORG-PSH">패성학교</orgName>’로 되어 있으며, <orgName ref="#ORG-SJD">삼중당</orgName> 전집 이후 현재는 <orgName ref="#ORG-DSH">대성학교</orgName>로 고쳐져 있음. 이하 동일―편자 주)이라는 학교의 <rs type="person" ref="#STUDENTS32">학생 사오 인</rs>이 <placeName ref="#PL-CRB">청류벽</placeName> 바위 위에 서서 유쾌하게 노래를 부른다. 그 노래는 이러하다.</p>
+
+
+<p><said who="#STUDENTS32" aloud="true" direct="true">굽이지는 <placeName ref="#PL-DDG">대동강</placeName>이</said></p>
+
+<p><said who="#STUDENTS32" aloud="true" direct="true"><placeName ref="#PL-NRD">능라도</placeName>를 싸고도니</said></p>
+
+<p><said who="#STUDENTS32" aloud="true" direct="true">둥두렷한 <placeName ref="#PL-MRB">모란봉</placeName>이</said></p>
+
+<p><said who="#STUDENTS32" aloud="true" direct="true">우쭐우쭐 춤을 추네</said></p>
+
+<p><said who="#STUDENTS32" aloud="true" direct="true"><placeName ref="#PL-CRB">청류벽</placeName>에 걸어앉아</said></p>
+
+<p><said who="#STUDENTS32" aloud="true" direct="true">가는 물아 말을 들어</said></p>
+
+<p><said who="#STUDENTS32" aloud="true" direct="true">청춘의 더운 피를</said></p>
+
+<p><said who="#STUDENTS32" aloud="true" direct="true">네게 부쳐 보내고저</said></p>
+
+
+<p><persName ref="#WH">월화</persName>가 <persName ref="#YC">영채</persName>의 소매를 당기며,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true">얘, 저 노래를 듣느냐.</said>”</p>
+
+<p>“<said who="#YC" aloud="true" direct="true">매우 듣기 좋습니다.</said>”</p>
+
+<p><persName ref="#WH">월화</persName>는 한숨을 쉬며,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true">저 속에 시인이 있기는 있고나</said>” 하고 잠연히 눈물을 흘렸다. <persName ref="#YC">영채</persName>는 무슨 뜻인지 모르고 다만 <placeName ref="#PL-CRB">청류벽</placeName> 위에서 노래 부르던 <rs type="person" ref="#STUDENTS32">학생들</rs>을 보았다. <rs type="person" ref="#STUDENTS32">학생들</rs>은 여전히 노래를 부르는데 두루막자락이 바람에 펄펄 날린다. <persName ref="#YC">영채</persName>도 어째 자연히 <rs type="person" ref="#STUDENTS32">그 학생들</rs>이 정다운 듯하고 알 수 없는 설움이 가슴에 떠오르는 듯하여 <persName ref="#WH">월화</persName>의 어깨에 엎데어 <persName ref="#WH">월화</persName>와 함께 울었다. <persName ref="#WH">월화</persName>는 <persName ref="#YC">영채</persName>를 안으며,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true"><persName ref="#YC">영채</persName>야, 저 속에 참시인이 있느니라</said>” 하고 아까 하던 말을 또 한다. “<said who="#WH" aloud="true" direct="true"><rs type="person" ref="#YC #WH">우리</rs>가 날마다 만나는 사람들은 죽은 사람들이다. 그것들은 먹고 입고, 계집 희롱하는 것밖에 아무것도 없는 것들이니라. 그러나 <rs type="person" ref="#STUDENTS32">저 학생들</rs> 속에 참시인이 있느니라.</said>”</p>
+
+<p>이때에 <rs type="person" ref="#LYRIC-STUDENT">학생</rs>이 또 다른 노래를 부른다.</p>
+
+
+<p><said who="#LYRIC-STUDENT" aloud="true" direct="true">새벽빛이 솟는다</said></p>
+
+<p><said who="#LYRIC-STUDENT" aloud="true" direct="true">해가 오른다</said></p>
+
+<p><said who="#LYRIC-STUDENT" aloud="true" direct="true">땅 위에 만물이</said></p>
+
+<p><said who="#LYRIC-STUDENT" aloud="true" direct="true">기뻐 춤을 추노나</said></p>
+
+<p><said who="#LYRIC-STUDENT" aloud="true" direct="true">천하 사람 꿈꿀 제</said></p>
+
+<p><said who="#LYRIC-STUDENT" aloud="true" direct="true"><rs type="person" ref="#LYRIC-STUDENT">나</rs>만 일어나</said></p>
+
+<p><said who="#LYRIC-STUDENT" aloud="true" direct="true">하늘을 우러러</said></p>
+
+<p><said who="#LYRIC-STUDENT" aloud="true" direct="true">슬픈 노래 부르네</said></p>
+
+
+<p><persName ref="#WH">월화</persName>는 못 견디어하는 듯이 발을 동동 굴렀다. <persName ref="#YC">영채</persName>더러,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true">이애, 저기 올라가 보자.</said>”</p>
+
+<p>그러자 이 말이 끝나기 전에 <rs type="person" ref="#STUDENTS32">학생들</rs>은 모자를 벗어 두르고 저편 고개로 넘어가고 말았다. <persName ref="#WH">월화</persName>는 길가 돌 위에 펄썩 주저앉아서 아까 <rs type="person" ref="#STUDENTS32">학생들</rs>이 부르던 노래를 십여 차나 불러 보았다. <persName ref="#YC">영채</persName>도 자연히 그 노래가 마음에 드는 듯하여 <persName ref="#WH">월화</persName>와 함께 십여 차나 불렀다. 그러고 <persName ref="#WH">월화</persName>는 한참이나 지금 <rs type="person" ref="#STUDENTS32">학생들</rs> 섰던 곳을 바라보았다. 그러나 <rs type="person" ref="#STUDENTS32">그 학생들</rs>은 다시는 보이지 아니하였다.</p>
+
+<p>그로부터 <persName ref="#WH">월화</persName>는 더욱 우는 날이 많게 되었다. <persName ref="#YC">영채</persName>는 <persName ref="#WH">월화</persName>와 함께 울고, 틈이 있는 대로는 <persName ref="#WH">월화</persName>와 같이 있었다. <persName ref="#YC">영채</persName>는 더욱더욱 <persName ref="#WH">월화</persName>에게 정이 들고 <persName ref="#WH">월화</persName>도 더욱더욱 <persName ref="#YC">영채</persName>를 사랑하였다. 열다섯 살이나 된 <persName ref="#YC">영채</persName>는 차차 <persName ref="#WH">월화</persName>의 뜻을 알게 되었다. 뜻을 알게 될수록 <persName ref="#WH">월화</persName>의 눈물에 동정하게 되었다. <persName ref="#YC">영채</persName>도 점점 미인이라는 이름과 노래 잘하고 단율 잘 짓는다는 이름이 나서, <persName ref="#YC">영채</persName>라는 오늘 아침에 핀 꽃을 제가 꺾으리라 하는 사람이 많게 되었다. 그리하여 일찍 <persName ref="#WH">월화</persName>가 <placeName ref="#PL-BBR">부벽루</placeName>에서 하던 말이 무슨 뜻인지를 알게 되었다.</p>
+
+<p>그러나 <placeName ref="#PL-BBR">부벽루</placeName> 연회 이래로 <persName ref="#WH">월화</persName>의 변하고 괴로워하는 모양을 보매, 어린 <persName ref="#YC">영채</persName>도 <persName ref="#WH">월화</persName>에게 무슨 일이 생긴 줄은 짐작하였다. <persName ref="#YC">영채</persName>도 이제는 남자가 그리운 생각이 나게 되었다. 못 보던 남자를 대할 때에는 얼굴도 후끈후끈하고, 밤에 혼자 자리에 누워 잘 때에는 품어 줄 누구가 있었으면 하는 생각이 나게 되었다. 한번은 <persName ref="#YC">영채</persName>와 <persName ref="#WH">월화</persName>가 연회에서 늦게 돌아와 한자리에서 잘 때에 <persName ref="#YC">영채</persName>가 자면서 <persName ref="#WH">월화</persName>를 꼭 껴안으며, <persName ref="#WH">월화</persName>의 입을 맞추는 것을 보고 <persName ref="#WH">월화</persName>는 혼자 웃으며, “<said who="#WH" aloud="true" direct="true">아아, <rs type="person" ref="#YC">너</rs>도 깨었구나― <rs type="person" ref="#YC">네</rs> 앞에 설움과 고생이 있겠구나</said>” 하고 <persName ref="#YC">영채</persName>를 깨워,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true"><persName ref="#YC">영채</persName>야, <rs type="person" ref="#YC">네</rs>가 지금 <rs type="person" ref="#WH">나</rs>를 꼭 껴안고 입을 맞추더구나</said>” 하였다. <persName ref="#YC">영채</persName>는 부끄러운 듯이 낯을 <persName ref="#WH">월화</persName>의 가슴의(가슴에) 비비고 <persName ref="#WH">월화</persName>의 하얀 젖꼭지를 물며, “<said who="#YC" aloud="true" direct="true"><rs type="person" ref="#WH">형님</rs>이니 그렇지</said>” 하였다. 이만큼 <persName ref="#YC">영채</persName>도 철이 났으므로 <persName ref="#WH">월화</persName>의 눈물에는 반드시 무슨 뜻이 있으리라 하였다. 그러고 물어 볼까 물어 볼까 하면서도 자연히 <rs type="person" ref="#YC">제</rs>가 부끄러워 물어 보지 못하고, 다만 <persName ref="#YC">영채</persName> 혼자 생각에 아마 <persName ref="#WH">월화</persName>가 그때 <placeName ref="#PL-CRB">청류벽</placeName>에서 노래 부르던 <rs type="person" ref="#LYRIC-STUDENT">학생</rs>을 생각하는 게로다 하였다. <persName ref="#YC">영채</persName>의 눈에도 그 <placeName ref="#PL-CRB">청류벽</placeName>에서 노래 부르던 <rs type="person" ref="#LYRIC-STUDENT">학생</rs>의 모양이 잊히지를 아니한다. 무론 길에서 <placeName ref="#PL-CRB">청류벽</placeName>을 바라보면, 그 위에 선 사람의 얼굴의 윤곽이 보일 뿐이요 눈과 코도 잘 분별하지는 못하겠으나, 다만 거룩한 듯한 모양과 깨끗한 목소리와 뜻있고 아름다운 노래가 <rs type="person" ref="#YC #WH">두 여자</rs>의 가슴을 서느렇게 한 것이라. <rs type="person" ref="#STUDENTS32">그 청년들</rs>은 아마 무심하게 그 노래를 불렀으련마는 아직 ‘<mentioned>진실한 사람</mentioned>’, ‘<mentioned>정성 있는 사람</mentioned>’, ‘<mentioned>희망 있는 사람</mentioned>’, ‘<mentioned>사람다운 사람</mentioned>’을 만나 보지 못하던 <rs type="person" ref="#YC #WH">그네</rs>에게는 <rs type="person" ref="#STUDENTS32">그 학생들</rs>의 모양과 노래가 지극히 분명하게 청신하게 인상이 박힌 것이라. <persName ref="#YC">영채</persName>는 가만히 그 노래 부르던 <rs type="person" ref="#STUDENTS32">학생들</rs>과, 지금껏 같이 놀던 소위 신사들을 비교할 때에 아무리 하여도 <rs type="person" ref="#LYRIC-STUDENT">그 학생</rs>이 정이 든다 하였다. <persName ref="#YC">영채</persName>는 근래에 더욱 가슴속이 서늘하고 몸이 간질간질하고 자연히 마음이 적막함을 깨닫는다. <persName ref="#WH">월화</persName>가 물끄러미 <rs type="person" ref="#YC">자기</rs>의 얼굴을 볼 때에는, 혹 <rs type="person" ref="#YC">자기</rs>의 속을 꿰뚫어보지나 아니하는가 하여 가만히 고개를 숙였다. <persName ref="#WH">월화</persName>도 <persName ref="#YC">영채</persName>의 마음이 점점 익어 옴을 깨달았다. 그러고 <rs type="person" ref="#WH">자기</rs>의 과거를 생각하매, <persName ref="#YC">영채</persName>의 장래에 설움이 많을 것을 생각하였다. 그래서 <persName ref="#WH">월화</persName>는 <persName ref="#YC">영채</persName>가 잘못하여 세상에 섞이기를 두려워하는 모양으로 항상, “<said who="#WH" aloud="true" direct="true"><persName ref="#YC">영채</persName>야, 지금 세상에는 <rs type="person" ref="#YC #WH">우리</rs>의 몸을 의탁할 만한 사람이 없나니라</said>” 하고 옛날 시로 일생의 벗을 삼기를 권하였다.</p>
+
+<p><persName ref="#YC">영채</persName>는 <persName ref="#WH">월화</persName>의 눈물의 뜻을 알려 하였다. 그러다가 마침내 알 기회가 이르렀다.</p>
+</div><div type="segment" n="33"><p>하루 저녁에는 <persName ref="#WH">월화</persName>가 <persName ref="#YC">영채</persName>를 찾아와서 연설 구경을 가자고 한다. 그때에 <placeName ref="#PL-PY">평양</placeName>에는 <orgName ref="#ORG-PSH">패성학교</orgName>라는 새로운 학교가 일어나, 사방으로서 수백 명 청년이 모여들고, <orgName ref="#ORG-PSH">패성학교</orgName>장 <persName ref="#HSM">함상모</persName>는 <rs type="person" ref="#STUDENTS33">그 수백여 명 청년</rs>의 진정으로 앙모하는 선각자러라. <rs ref="#HSM" type="person">함교장</rs>은 매주일에 일차씩 <orgName ref="#ORG-PSH">패성학교</orgName> 내에 연설회를 열고, 아무나 와서 방청하기를 청하였다. <placeName ref="#PL-PY">평양</placeName> 사람들은, 혹은 새로운 말을 들으리라는 정성으로, 혹은 다만 구경이나 하리라는 호기심으로 저녁 후면 <orgName ref="#ORG-PSH">패성학교</orgName> 대강당이 터지도록 모여들었다. <rs ref="#HSM" type="person">함교장</rs>은 열성이 있고 웅변이 있었다. <rs type="person" ref="#HSM">그</rs>가 슬픈 말을 하게 되면 <rs type="person" ref="#AUDIENCE33">청중</rs>은 모두 눈물을 흘리고, <rs type="person" ref="#HSM">그</rs>가 기쁜 말을 하게 되면 <rs type="person" ref="#AUDIENCE33">청중</rs>은 모두 손뼉을 치고 쾌하다 부르짖으며, <rs type="person" ref="#HSM">그</rs>가 만일 무슨 악한 일을 꾸짖게 되면 <rs type="person" ref="#AUDIENCE33">청중</rs>은 눈꼬리가 찢어지고 입에 거품을 물었다. <rs type="person" ref="#HSM">그</rs>의 말하는 제목은, <said who="#HSM" aloud="true" direct="false"><placeName ref="#PL-JS">조선</placeName> 사람도 남과 같이 옛날 껍데기를 벗어 버리고 새로운 문명을 실어 들여야 할 일과, 지금 <placeName ref="#PL-JS">조선</placeName> 사람은 게으르고 기력이 없나니 새롭고 잘사는 민족이 되려거든 불가불 새 정신을 가지고 새 용기를 내어야 한다는 것과, 이렇게 하려면 교육이 으뜸이니 아들이나 딸이나 반드시 새로운 교육을 받아야 한다</said> 함이라.</p>
+
+<p><persName ref="#YC">영채</persName>도 <rs ref="#HSM" type="person">함교장</rs>이란 말도 듣고, <rs ref="#HSM" type="person">함교장</rs>이 연설을 잘한다는 말도 들었으므로 <persName ref="#WH">월화</persName>를 따라 <orgName ref="#ORG-PSH">패성학교</orgName>에 갔다. <rs type="person" ref="#YC #WH">두 사람</rs>은 (아무쪼록) 검소한 의복을 입었으나 얼굴과 태도를 속일 수가 없으며, 또 <rs type="person" ref="#YC #WH">양인</rs>이 다 지금 <placeName ref="#PL-PY">평양</placeName>에 이름난 기생이라 모이는 사람들 중에 손가락질하고 소곤소곤하는 것이 보인다. <persName ref="#WH">월화</persName>와 <persName ref="#YC">영채</persName>는 <rs type="person" ref="#AUDIENCE33">회중</rs>을 헤치고 들어가 저편 구석에 가지런히 앉았다. 어떤 사람은 일부러 등을 밀치기도 하고 발을 밟기도 하고, 혹 제 손으로 <rs type="person" ref="#YC #WH">두 사람</rs>의 손을 스치기도 하고, 혹 어떤 사람은 <persName ref="#WH">월화</persName>의 겨드랑에 손을 넣는 자도 있다. <persName ref="#WH">월화</persName>는, “<said who="#WH" aloud="true" direct="true">너희는 기생이란 것만 알고, 사람이란 것은 모르는구나</said>” 하고 <persName ref="#YC">영채</persName>를 안는 듯이 앞세우고 들어간 것이라. 부인계에는 연설을 들을 자도 없고 들으려 하는 자도 없으매, 별로 부인석이란 것이 있지 아니하므로 남자들 앉은 걸상 한편 옆에 앉았다. <rs ref="#HSM" type="person">함교장</rs>이 이윽고 부인이 있음을 보더니 <rs type="person" ref="#STUDENT">어떤 학생</rs>을 불러 무슨 말을 한다. <rs type="person" ref="#STUDENT">그 학생</rs>이 의자 둘을 가져다가 맨 앞줄 왼편 끝에 놓더니 <rs type="person" ref="#YC #WH">두 사람</rs> 곁에 와서 은근히 경례하면서,</p>
+
+<p>“<said who="#STUDENT" aloud="true" direct="true">저편으로 와 앉으십시오</said>” 하고 <rs type="person" ref="#YC #WH">두 사람</rs>을 인도한다. <rs type="person" ref="#YC #WH">두 사람</rs>은 기생 된 뒤에 첫번 사람다운 대접을 받는다 하였다. 이윽고 <rs type="person" ref="#STUDENTS33">학생들</rs>이 들어와 착석한다. <persName ref="#WH">월화</persName>는 <rs type="person" ref="#STUDENTS33">저 학생들</rs>이 <rs type="person" ref="#WH">자기</rs>를 보는가 하고, 가만히 <rs type="person" ref="#STUDENTS33">학생들</rs>의 동정을 보았다. 그러나 <rs type="person" ref="#STUDENTS33">학생들</rs>은 모두 정면한 대로 까딱도 아니하고 앉았다. <persName ref="#WH">월화</persName>는 <persName ref="#YC">영채</persName>를 보고 가만히,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true">얘, <rs type="person" ref="#STUDENTS33">저 학생들</rs>은 <rs type="person" ref="#YC #WH">우리</rs>가 보던 사람과는 딴세상 사람이지?</said>” 하였다. 과연 <rs ref="#HSM" type="person">함교장</rs>은 청년을 잘 교육하였다. 설혹 개성을 무시하고 만인을 한 모형에 집어넣으려는 구식 교육가의 때를 아주 다 벗지는 못하였으나, 그래도 당시 <placeName ref="#PL-JS">조선</placeName>에는 유일한 가장 진보하고 열성 있는 교육가였다. 과연 <placeName ref="#PL-PY">평양</placeName> 성내에 <persName ref="#WH">월화</persName>를 보고 눈에 음란한 웃음을 아니 띄우는 자는 <orgName ref="#ORG-PSH">패성학교</orgName> <rs type="person" ref="#STUDENTS33">학생</rs>밖에 없을 것이라. <rs type="person" ref="#STUDENTS33">학생들</rs>도 만일 <persName ref="#WH">월화</persName>를 본다 하면 ‘<said aloud="false" who="#STUDENTS33" direct="true">어여쁘다</said>’ 하는 생각이 날는지도 모르고, ‘<said aloud="false" who="#STUDENTS33" direct="true">한번 더 보자</said>’ 하는 생각이 날는지도 모르거니와, <rs type="person" ref="#STUDENTS33">그네</rs>는 결코 다른 사람들과 같이, ‘<said aloud="false" who="#STUDENTS33" direct="true"><rs type="person" ref="#WH">저것</rs>을 하룻밤 데리고 놀았으면 좋겠다</said>’ 하는 생각을 두지 아니한다. 또 설혹 <rs type="person" ref="#STUDENTS33">그네</rs>가 ‘<said aloud="false" who="#STUDENTS33" direct="true"><rs type="person" ref="#WH">저것</rs>을 <rs type="person" ref="#STUDENTS33">내</rs> 것을 삼았으면</said>’ 하는 생각이 난다 하더라도 결코 다른 사람들과 같이 (무릎에 앉히고) 희롱하려 함이 아니요, ‘<said aloud="false" who="#STUDENTS33" direct="true"><rs type="person" ref="#STUDENTS33">나</rs>의 아내를 삼아 사랑하고 공경하리라</said>’ 함이라. 다른 사람들은 <persName ref="#WH">월화</persName>를 다만 한 장난감으로 알되, <rs type="person" ref="#STUDENTS33">그네</rs>는 비록 기생을 천히 여긴다 하더라도 <rs type="person" ref="#WH">그</rs> 역시 <rs type="person" ref="#STUDENTS33">내</rs> 동포여니 <rs type="person" ref="#STUDENTS33">내</rs> 누이어니 하는 생각은 있다.</p>
+
+<p>이윽고 <rs ref="#HSM" type="person">함교장</rs>이 연단에 올라선다. 만장에 박수가 일어나고, <persName ref="#WH">월화</persName>도 두어 번 박수한다. <persName ref="#YC">영채</persName>는 <said aloud="false" who="#YC" direct="true">옳지 <placeName ref="#PL-BBR">부벽루</placeName>에서 말하던 이로구나</said> 하였다. (<rs ref="#HSM" type="person">함교장</rs>은) 위엄 있는 태도로 이윽히 <rs type="person" ref="#AUDIENCE33">회중</rs>을 내려다보더니,</p>
+
+<p>“<said who="#HSM" aloud="true" direct="true"><rs type="person" ref="#AUDIENCE33">여러분</rs></said>” 하고 입을 열어, “<said who="#HSM" aloud="true" direct="true"><rs type="person" ref="#AUDIENCE33">여러분</rs>의 조상은 결코 <rs type="person" ref="#AUDIENCE33">여러분</rs>과 같이 마음이 썩어지지 아니하였고, <rs type="person" ref="#AUDIENCE33">여러분</rs>과 같이 게으르고 기운 없지 아니하였소. <placeName ref="#PL-PYS">평양성</placeName>을 쌓은 우리 조상의 기상은 웅대하였고, <placeName ref="#PL-EMD">을밀대</placeName>와 <placeName ref="#PL-BBR">부벽루</placeName>를 지은 우리 조상의 뜻은 컸소이다</said>” 하고 감개무량한 듯이 한참 고개를 숙이더니, “<said who="#HSM" aloud="true" direct="true"><rs type="person" ref="#AUDIENCE33">여러분</rs>! 저 <placeName ref="#PL-DDG">대동강</placeName>에 물은 날로 흘러가느니, <placeName ref="#PL-PYS">평양성</placeName>을 쌓고 <placeName ref="#PL-EMD">을밀대</placeName>를 짓는 우리 조상의 그림자를 비추었던 물은 지금 어디 간 곳을 알지 못하되, 오직 뚜렷한 <placeName ref="#PL-MRB">모란봉</placeName>은 만고에 한 모양으로 우리 조상의 발자국을 지니고 섰소이다. 아아, <rs type="person" ref="#AUDIENCE33">여러분</rs> 아, <rs type="person" ref="#AUDIENCE33">여러분</rs>의 웅장한 조상에게 받은 정신을 흘러가는 <placeName ref="#PL-DDG">대동강</placeName>에 부쳤는가, 만고에 우뚝 솟은 <placeName ref="#PL-MRB">모란봉</placeName>에 부쳤는가</said>” 하고 흐르는 눈물로써 말을 잠깐 그치니, 만장이 숙연히 고개를 숙인다. <rs ref="#HSM" type="person">함교장</rs>은 여러 가지로 <placeName ref="#PL-JS">조선</placeName> 사람의 타락한 것을 개탄한 뒤에 일단 더 소리를 높여, “<said who="#HSM" aloud="true" direct="true"><rs type="person" ref="#AUDIENCE33">여러분</rs>! <rs type="person" ref="#AUDIENCE33">여러분</rs>은 이 무너져 가는 <placeName ref="#PL-PYS">평양성</placeName>과 <placeName ref="#PL-EMD">을밀대</placeName>를 다 헐어 내어 흘러가는 <placeName ref="#PL-DDG">대동강</placeName>수에 부쳐 보내고, 우리의 새로운 정신과 새로운 기운으로 새로운 <placeName ref="#PL-PYS">평양성</placeName>과 새로운 <placeName ref="#PL-EMD">을밀대</placeName>를 쌓읍시다</said>” 하고 유연히 단을 내리니 만장이 박수갈채성에 한참이나 흔들리는 듯하다. <persName ref="#WH">월화</persName>는 <persName ref="#YC">영채</persName>의 손을 꼭 쥐고 몸을 바르르 떤다. <persName ref="#YC">영채</persName>는 놀라서 <persName ref="#WH">월화</persName>를 보니, 무릎 위 치맛자락에 굵은 눈물이 뚝뚝 떨어지더라.</p>
+
+<p><persName ref="#YC">영채</persName>도 <rs ref="#HSM" type="person">함교장</rs>의 풍채를 보고 연설을 들으매, 돌아가신 <rs type="person" ref="#YC-FATHER">아버지</rs>의 생각이 나서 울면서 <persName ref="#WH">월화</persName>를 따라 집에 돌아왔다. 그러나 <persName ref="#WH">월화</persName>의 눈물은 <persName ref="#YC">영채</persName>의 눈물과는 달랐다. <persName ref="#WH">월화</persName>의 눈물은 어떠한 눈물이던고.</p>
+</div><div type="segment" n="34"><p>집에 돌아와 <persName ref="#WH">월화</persName>는 펄썩 주저앉으며 <persName ref="#YC">영채</persName>더러,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true"><persName ref="#YC">영채</persName>야, <rs type="person" ref="#WH">나</rs>는 <rs type="person" ref="#WH">내</rs>가 구하던 사람을 찾았다. <rs type="person" ref="#WH">나</rs>는 <placeName ref="#PL-BBR">부벽루</placeName>에서 <rs ref="#HSM" type="person">함교장</rs>의 풍채를 보고 말을 들으매, 자연히 정신이 황홀하여짐을 깨달았다. 그러고 오늘 저녁 <rs type="person" ref="#HSM">그</rs>의 풍채와 말을 또 들으니, <rs type="person" ref="#WH">내</rs> 마음은 온통 <rs type="person" ref="#HSM">그이</rs>게로 가고 말았다. <placeName ref="#PL-JS">조선</placeName> 천지에서 <rs type="person" ref="#WH">내</rs>가 찾던 사람을 이제야 만났구나</said>” 하고 빙긋이 웃는다. <persName ref="#YC">영채</persName>는 그제야 <persName ref="#WH">월화</persName>의 눈물 뜻을 깨달았다. <rs type="person" ref="#YC">자기</rs>는 <rs ref="#HSM" type="person">함교장</rs>을 아버지같이 생각하였는데, <persName ref="#WH">월화</persName>는 <rs type="person" ref="#WH">자기</rs>의 정든 님같이 생각하더구나 하였다. 그러고는 다시 <persName ref="#WH">월화</persName>의 얼굴을 보았다. <persName ref="#WH">월화</persName>의 눈썹에는 맑은 눈물이 맺혔다. <persName ref="#WH">월화</persName>는 다시,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true"><persName ref="#YC">영채</persName>야, <rs type="person" ref="#YC">너</rs>는 그때에 <placeName ref="#PL-BBR">부벽루</placeName>에서 부르던 노래 뜻을 아느냐?  </said></p>
+
+
+<p><said who="#WH" aloud="true" direct="true">천하 사람 꿈꿀 제</said></p>
+
+<p><said who="#WH" aloud="true" direct="true"><rs type="person" ref="#LYRIC-STUDENT">나</rs>만 일어나</said></p>
+
+<p><said who="#WH" aloud="true" direct="true">하늘을 우러러</said></p>
+
+<p><said who="#WH" aloud="true" direct="true">슬픈 노래 부르네</said></p>
+
+<p><said who="#WH" aloud="true" direct="true">이 노래 뜻을 아느냐?</said>”</p>
+
+
+<p><persName ref="#YC">영채</persName>는 아는 듯도 하면서도 말할 수는 없어 잠자코 앉았다. <persName ref="#WH">월화</persName>는 <persName ref="#YC">영채</persName>를 이윽히 보더니,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true">온 <placeName ref="#PL-JS">조선</placeName> 사람이 다 자고 꿈을 꾸는데 <rs ref="#HSM" type="person">함교장</rs> 혼자 깨어 일어났구나. <rs type="person" ref="#YC #WH">우리</rs>를 찾아오는 소위 일류 신사님네는 다 자는 사람들인데, 그 속에 깨어 일어난 것은 <rs ref="#HSM" type="person">함교장</rs>뿐이로구나.</said>”</p>
+
+<p><persName ref="#YC">영채</persName>는 과연 그럴듯하다 하고,</p>
+
+<p>“<said who="#YC" aloud="true" direct="true">그러면 왜 하늘을 우러러 슬픈 노래를 부르나요?</said>”</p>
+
+<p>“<said who="#WH" aloud="true" direct="true">깨어 일어나 본즉 천하 사람은 아직도 꿈을 꾸겠지. 암만 깨어라 깨어라 하여도 깰 줄은 모르고 잠꼬대만 하니 왜 외롭고 슬프지를 아니하겠느냐. 그러니까 하늘을 우러러 슬픈 노래를 부르는 것이지</said>” 하고 <persName ref="#YC">영채</persName>의 손을 잡아 끌어다가 <rs type="person" ref="#WH">자기</rs>의 무릎 위에 엎디게 하고,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true">그런데 <rs type="person" ref="#WH">나</rs>도 역시 하늘을 우러러 슬픈 노래를 부른다.</said>”</p>
+
+<p><persName ref="#YC">영채</persName>는 얼마큼 알아들으면서도, “<said who="#YC" aloud="true" direct="true">왜? 왜 슬픈 노래를 불러?</said>” “<said who="#WH" aloud="true" direct="true"><placeName ref="#PL-PY">평양</placeName>성내 오륙십 명 기생 중에 <rs type="person" ref="#WH">나</rs>밖에 깨인 사람이 누구냐. 모두 다 사람이 무엇인지, 하늘이 무엇인지도 모르는 중에 <rs type="person" ref="#WH">나</rs>밖에 깨인 사람이 누구냐. <rs type="person" ref="#WH">나</rs>는 외롭구나, 슬프구나, <rs type="person" ref="#WH">내</rs> 정회를 들어 줄 사람이라고는 <rs type="person" ref="#YC">너</rs> 하나밖에 없구나</said>” 하고 <persName ref="#YC">영채</persName>의 등에 이마를 비비며 <persName ref="#YC">영채</persName>의 허리를 끊어져라 하고 끌어안는다. <persName ref="#YC">영채</persName>는 이제는 <persName ref="#WH">월화</persName>의 하는 말을 다 알아듣는다. <persName ref="#WH">월화</persName>는 다시 말을 이어,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true"><rs type="person" ref="#WH">나</rs>는 지금 스무 살이다. <rs type="person" ref="#WH">나</rs>는 이십 년 동안 찾던 친구를 이제는 찾아 만났다. 그러나 만나고 본즉 <rs type="person" ref="#HSM">그</rs>는 잠시 만날 친구요, 오래 이야기하지 못할 친군 줄을 알았다. 그러니까 <rs type="person" ref="#WH">나</rs>는 그만 갈란다</said>” 하고 <persName ref="#YC">영채</persName>를 일으켜 앉히며 더욱 다정한 말소리로,</p>
+
+<p>“<said who="#WH" aloud="true" direct="true">야, <rs type="person" ref="#YC">너</rs>와 <rs type="person" ref="#WH">나</rs>와 삼 년 동안 동기같이 지내었구나. 이것도 무슨 큰 연분이로다. <placeName ref="#PL-AJ">안주</placeName> 땅에 난 <rs type="person" ref="#YC">너</rs>와 <placeName ref="#PL-PY">평양</placeName> 땅에 난 <rs type="person" ref="#WH">나</rs>와 이렇게 만나서 이렇게 정답게 지낼 줄을 사람이야 누가 뜻하였겠느냐. 이후도 <rs type="person" ref="#WH">나</rs>를 잊지 말고 ‘<rs type="person" ref="#WH">형님</rs>’이라고 불러 다고</said>” 하면서 그만 울며 쓰러진다. <persName ref="#YC">영채</persName>는 <persName ref="#WH">월화</persName>의 말이 이상하게 들려 몸에 오싹 소름이 끼치면서,</p>
+
+<p>“<said who="#YC" aloud="true" direct="true"><rs type="person" ref="#WH">형님</rs>! 왜 오늘 저녁에는 그런 말씀을 하셔요?</said>” 하였다. <persName ref="#WH">월화</persName>는 일어나 눈물을 씻고(뿌리고 망연히 앉았다가),</p>
+
+<p>“<said who="#WH" aloud="true" direct="true"><rs type="person" ref="#YC">너</rs>는 부디 세상 사람에게 속지 말고 일생을 <rs type="person" ref="#YC">너</rs> 혼자 살아라, 옛날 사람으로 벗을 삼아라, 만일 <rs type="person" ref="#YC">네</rs> 마음에 드는 사람 만나지 못하거든</said>” 한다. 이런 말을 하고 그날 밤도 <rs type="person" ref="#YC #WH">둘</rs>이서 한자리에 잤다. <rs type="person" ref="#YC #WH">둘</rs>은 얼굴을 마주대고 서로 꽉 안았다. 그러나 나 어린 <persName ref="#YC">영채</persName>는 어느덧 잠이 들었다. <persName ref="#WH">월화</persName>는 숨소리 편안하게 잠이 든 <persName ref="#YC">영채</persName>의 얼굴을 이윽히 보고 있다가 힘껏 <persName ref="#YC">영채</persName>의 입술을 빨았다. <persName ref="#YC">영채</persName>는 잠이 깨지 아니한 채로 고운 팔로 <persName ref="#WH">월화</persName>의 목을 꼭 쓸어안았다. <persName ref="#WH">월화</persName>의 몸은 벌벌 떨린다. <persName ref="#WH">월화</persName>는 가만히 일어나 장문을 열고 서랍에서 <rs type="person" ref="#WH">자기</rs>의 옥지환을 내어 자는 <persName ref="#YC">영채</persName>의 손에 끼우고 또 <persName ref="#YC">영채</persName>를 꼭 껴안았다.</p>
+
+<p>짧은 여름밤이 새었다. <persName ref="#YC">영채</persName>는 어렴풋이 잠을 깨어 팔로 <persName ref="#WH">월화</persName>를 안으려 하였다. 그러나 <persName ref="#WH">월화</persName>가 누웠던 자리는 비었다. <persName ref="#YC">영채</persName>는 깜짝 놀라 일어나서, “<said who="#YC" aloud="true" direct="true"><rs type="person" ref="#WH">형님</rs>! <rs type="person" ref="#WH">형님</rs>!</said>” 하고 불렀다. 그러나 대답이 없었다. 영원히 없었다. <persName ref="#YC">영채</persName>는 <rs type="person" ref="#YC">자기</rs> 손에 낀 옥가락지를 보고 울었다. 그날 저녁때에 <placeName ref="#PL-DDG">대동강</placeName>에서 낚시질하던 배가 시체 하나를 얻었다. 그것은 <persName ref="#WH">월화</persName>더라. <persName ref="#WH">월화</persName>는 유언도 없었으며 아무도 <rs type="person" ref="#WH">그</rs>가 죽은 이유를 아는 자가 없고, 오직 옥가락지를 낀 <persName ref="#YC">영채</persName>가 홀로 <persName ref="#WH">월화</persName>의 뜻을 알고 뜨거운 눈물을 흘릴 뿐, 그 소위 <rs type="person" ref="#MOTHER">어미</rs>는 ‘<said aloud="true" who="#MOTHER" direct="true">안된년!</said>’ 하고 돈벌이할 밑천이 없어진 것을 원망하고, <placeName ref="#PL-PY">평양</placeName> 일부 <persName ref="#KYS">김윤수</persName>의 아들은 ‘<said aloud="true" who="#KYS_SON" direct="true">미친년!</said>’ 하고 <rs type="person" ref="#KYS_SON">자기</rs>의 희롱거리 없어짐을 한탄하더라. <rs type="person" ref="#WH">그</rs>의 시체는 굵다란 베에 묶어 <rs type="person" ref="#CARRIERS34">물지게꾼 이삼 인</rs>이 두루쳐 메어다가 <placeName ref="#PL-BM">북문</placeName> 밖 <placeName ref="#PL-BMS">북망산</placeName>에 묻었다. 묻은 날 저녁때에 옥가락지 끼인 손이 꽃 한줌과, 눈물 한줌을 그 무덤 위에 뿌렸다. 비도 아니 세웠으니 지금이야 어느 것이 일대 명기 <persName ref="#WH">계월화</persName>의 무덤인 줄을 알리요. <rs ref="#HSM" type="person">함교장</rs>은 이런 줄이야 알았는지 말았는지. <persName ref="#WH">계월화</persName>는 과연 <persName ref="#YC">영채</persName>의 ‘<rs type="person" ref="#WH">형님</rs>’이었다. 벗이었다. <persName ref="#WH">월화</persName>는 참 <persName ref="#YC">영채</persName>를 사랑하였었다. <persName ref="#YC">영채</persName>는 <persName ref="#WH">월화</persName>에게 큰 감화를 받았었다.</p>
+
+<p><persName ref="#YC">영채</persName>가 <persName ref="#HS">형식</persName>을 일생의 짝으로 알고 칠 년 동안 굳은 절을 지켜 온 것도 <persName ref="#WH">월화</persName>의 힘이 반이나 되었다. <persName ref="#YC">영채</persName>도 생각하기를 <said who="#YC" aloud="false" direct="true"><persName ref="#HS">이형식</persName>을 찾다가 못 찾으면 <persName ref="#WH">월화</persName>의 뒤를 따라 <placeName ref="#PL-DDG">대동강</placeName>에 몸을 던지리라</said> 하였었다. 하다가 우연히 <persName ref="#HS">이형식</persName>의 거처를 알고, <said who="#YC" aloud="false" direct="true">이제는 <rs type="person" ref="#YC">내</rs> 소원을 이루었구나</said> 하였다. <said who="#YC" aloud="false" direct="true">그러나 만일 <persName ref="#HS">형식</persName>이가 이미 혼인을 하였으면 어찌할까, 혼인을 아니했더라도 <rs type="person" ref="#YC">내</rs> 몸이 기생인 줄을 알고 <rs type="person" ref="#YC">나</rs>를 돌아보지 않으면 어찌할까</said> 하였다. <persName ref="#HS">형식</persName>의 거처를 안 지가 한 달이 넘도록 <persName ref="#HS">형식</persName>을 찾지 아니하고, 어젯 <persName ref="#HS">형식</persName>을 찾아가서 <rs type="person" ref="#YC">자기</rs>의 신세를 이야기하다가 중도에 끊고 돌아옴도 이를 위함이러라. <persName ref="#HS">형식</persName>의 집에서 돌아온 <persName ref="#YC">영채</persName>는 어떻게 되었는가.</p>
+</div><div type="segment" n="35"><p><persName ref="#YC">영채</persName>가 <persName ref="#HS">형식</persName>을 대하여 <rs type="person" ref="#YC">자기</rs>의 신세를 말하다가 문득 생각한즉 <rs type="person" ref="#YC">자기</rs>는 기생의 몸이라 <persName ref="#HS">형식</persName>이 아직 혼인 아니하였다는 말을 들으며 잠깐 기뻐하였으나, <said who="#YC" aloud="false" direct="false"><rs type="person" ref="#YC">자기</rs>가 기생인 줄을 알면 <persName ref="#HS">형식</persName>은 반드시 <rs type="person" ref="#YC">자기</rs>를 돌아보지 아니하리라</said> 하였다. <said who="#YC" aloud="false" direct="false">또 설혹 돌아볼 마음이 있다 하더라도 <rs type="person" ref="#YC">내</rs> 몸은 돈이 있고야 구원할 몸이어늘, 가만히 <persName ref="#HS">형식</persName>의 살림살이를 보매 <rs type="person" ref="#YC">자기</rs>를 구원할 능력이 없음</said>을 깨달았다. <said who="#YC" aloud="false" direct="false"><rs type="person" ref="#YC">자기</rs>가 기생인 줄을 알려 일생에 그리워하던 <persName ref="#HS">형식</persName>에서 마음으로까지 버림이 되기보다, 또는 <rs type="person" ref="#YC">나</rs>를 버리지 아니하더라도 구원할 힘이 없어 사랑하는 <persName ref="#HS">형식</persName>으로 하여금 부질없이 마음을 괴롭게 하기보다, 이러하기보다 차라리 <placeName ref="#PL-DDG">대동강</placeName>수에 풍덩실 몸을 던져 오 년 전에 먼저 간 <persName ref="#WH">월화</persName>의 뒤를 따라 저세상에서 <persName ref="#WH">월화</persName>로 더불어 같이 노닐려</said> 하였다. <persName ref="#WH">월화</persName>의 얼굴이 <persName ref="#YC">영채</persName>의 앞에 보이며 ‘<said who="#WH" aloud="true" direct="true"><persName ref="#YC">영채</persName>야 <rs type="person" ref="#WH">나</rs>와 같이 가자</said>’ 하는 듯하였다. 그래서 <persName ref="#YC">영채</persName>는 손에 있는 옥지환을 보다가 중도에 말을 끊고 집으로 돌아온 것이라.</p>
+
+<p><persName ref="#YC">영채</persName>는 곧 <placeName ref="#PL-PY">평양</placeName>으로 내려갈 결심을 하였다. 몸을 던져 세상을 버릴진대 사랑하던 ‘<persName ref="#WH">월화</persName> <rs type="person" ref="#WH">형님</rs>’의 몸을 던지던 <placeName ref="#PL-DDG">대동강</placeName>을 찾아가려 하였다. <said who="#YC" aloud="false" direct="true"><placeName ref="#PL-PY">평양</placeName>에 가 우선 <placeName ref="#PL-BMS">북망산</placeName>에 <rs type="person" ref="#YC-FATHER">아버지</rs>와 <persName ref="#WH">월화</persName>의 무덤을 찾아 그 동안 지내 오던 정회나 실컷 말하리라</said> 하였다. <said who="#YC" aloud="false" direct="true"><rs type="person" ref="#YC-FATHER">부친</rs>은 <rs type="person" ref="#YC">내</rs>가 기생 되었다는 말을 듣고 죽었으니 무덤에나마 가서 <rs type="person" ref="#YC">내</rs>가 기생으로 몸을 판 것은 <rs type="person" ref="#YC-FATHER">부친</rs>과 <rs type="person" ref="#YC-BROTHERS">두 형제</rs>를 구원하려 함임과, 기생이 된 지 육칠 년에 <rs type="person" ref="#YC-FATHER">부친</rs>의 혈육을 받은 이 몸을 다행히 더럽히지 아니하였음과, <rs type="person" ref="#YC-FATHER">부친</rs>께서 이 몸을 허하신 <persName ref="#HS">이형식</persName>을 위하여 지금껏 아내의 절행을 지켜 온 것을 말하고, 죽은 후에 만일 영혼이 있거든 생전에 섬기지 못하던 한을 사후에나 풀리라</said> 하였다. <said who="#YC" aloud="false" direct="true">만일 <rs type="person" ref="#YC-FATHER">부친</rs>이 극락에 가셨거든 극락으로 찾아가고, 만일 지옥에 가셨거든 지옥으로 찾아가리라</said> 하였다.</p>
+
+<p><said aloud="false" who="#YC" direct="true"><persName ref="#WH">월화</persName>의 부탁을 <rs type="person" ref="#YC">나</rs>는 지켰다. <rs type="person" ref="#YC">나</rs>는 세상에 섞이지 아니하고 <rs type="person" ref="#YC">내</rs>가 생각하는 사람을 위하여 육칠 년간 고절(<foreign xml:lang="zh">苦節</foreign>)을 지켰다. <rs type="person" ref="#YC">나</rs>는 <persName ref="#WH">월화</persName>가 하다가 남겨 둔 생활을 하였다. <rs type="person" ref="#YC">나</rs>는 이제 <rs type="person" ref="#WH">네</rs>게로 돌아간다</said> 하리라.</p>
+
+<p>이러한 생각을 하니 <persName ref="#YC">영채</persName>의 몸은 바로 그때에 <rs type="person" ref="#STUDENTS32">그 학생들</rs>이 ‘<said who="#STUDENTS32" aloud="true" direct="true">천하 사람 꿈꾸는데 <rs type="person" ref="#LYRIC-STUDENT">나</rs>만 깨어서, 하늘을 우러러 슬픈 노래 부르도다</said>’ 하는 노래를 부르던 <rs type="person" ref="#STUDENTS32">학생들</rs>이 <placeName ref="#PL-CRB">청류벽</placeName> 위에 선 듯하다. <persName ref="#YC">영채</persName>는 박명한 십구 년의 일생을 생각하였다. 더구나 <persName ref="#HS">형식</persName>을 대하였을 때에 말하던 과거의 기억이 바로 어저께 지난 일 모양으로 역력히 눈앞에 보이고, 그 모든 광경이 제가끔 <persName ref="#YC">영채</persName>의 가슴을 찌르고 창자를 박박 긁는 듯하다. 사람으로 세상에 생겨나서 즐거운 재미란 하나도 보지 못하고 꽃다운 청춘이 속절없이 <placeName ref="#PL-DDG">대동강</placeName> 무심한 물결 속에 스러질 것을 생각하니 원망스럽기도 하고 가이없고 원통하기도 하다. <said who="#YC" aloud="false" direct="true">십구 년 일생의 절반을 무정한 세상과 사람에게 부대끼고 희롱감이 되다가 매양에 그리고 바라던 <persName ref="#HS">이형식</persName>을 만나기는 만났으나 정작 만나고 보니 <persName ref="#HS">이형식</persName>은 <rs type="person" ref="#YC">나</rs>를 건져 줄 것 같지도 아니하고……</said> <said aloud="false" who="#YC" direct="true">아아, 이것이 무슨 팔자인고</said> 하고 그날 밤이 새도록 잠을 이루지 못하고 캄캄한 방에서 혼자 울었다. <said aloud="false" who="#YC" direct="true">이 팔은 어찌하여 생각하던 사람을 안아 보지 못하고, 이 젖은 어찌하여 사랑스러운 아들과 딸을 빨려 보지 못하는고, 가슴속에 가득 찬 정과 사랑을 생각하던 이에게 주어 보지 못하고 마는고. <rs type="person" ref="#YC">내</rs> 몸은 일생에 ‘<mentioned>기생</mentioned>’이란 이름만 듣고, 어찌하여 ‘<mentioned>아내</mentioned>’라든가 ‘<mentioned>부인</mentioned>’이라든가 ‘<mentioned>어머니</mentioned>’라든가 ‘<mentioned>아주머니</mentioned>’라든가 하는 정답고 거룩한 이름을 못 듣고 마는고. ‘<mentioned>기생!</mentioned>’ ‘<mentioned>기생!</mentioned>’ 에그 듣기 싫은 이름이도다.</said> ‘<mentioned>기생!</mentioned>’이라는 말만 하여도 치가 떨린다 하였다.
+<said who="#YC" aloud="false" direct="true">지금 황금을 가지고 <rs type="person" ref="#YC">자기</rs>의 몸을 사려는 사람이 사오 인이 된다고 한다. 지나간 칠 년 동안에 노래와 춤으로 수만 원 돈을 벌어 주어, 논밭도 사고 큰 집도 사고 비단 옷도 입게 되었으니 그만하면 자유로 놓아 주어도 마땅하건마는 아직도 욕심을 다 채우지 못하여 천 원이니 이천 원이니 하고 이 몸을 팔아먹으려 한다. 파는 놈도 파는 놈이어니와 사는 놈도 사는 놈이라. 지금까지는 이럭저럭 정절을 지켜 왔건마는 이제 몸이 뉘 첩으로 팔린 뒤에야 정절이 다 무슨 정절이뇨.</said> <said aloud="false" who="#YC" direct="true">다만 죽을 뿐이다, 다만 죽을 뿐이다</said> 하였다. </p>
+
+<p><said who="#YC" aloud="false" direct="false">바라던 <persName ref="#HS">형식</persName>을 만나 본 것은 기쁘건마는 바라던 그 <persName ref="#HS">형식</persName>조차 <rs type="person" ref="#YC">나</rs>를 구원할 능력이 없는 것이 절통하다</said> 하였다.</p>
+
+<p><persName ref="#YC">영채</persName>는 그만 절망하였다. <said who="#YC" aloud="false" direct="true">지금까지 <rs type="person" ref="#YC">자기</rs>는 잠시 타향에 길을 잃었다가 선한 세계, 선한 사람 사는 고향으로 돌아가 칠 년 전 <rs type="person" ref="#YC">자기</rs>의 가정에서 누리던 즐거움을 누릴 수 있을까 하였더니 모두 다 허사로다</said> 하였다. 지금껏 유일한 선인으로 알아 오고 유일한 의지할 사람으로 알아 오던 <persName ref="#HS">형식</persName>도 정작 얼굴을 대하니 그저 그러한 사람인 듯, 칠 년간 악인들 사이에서 부대껴 오던 <persName ref="#YC">영채</persName>의 생각에는 <persName ref="#HS">형식</persName>같이 선한 사람은 얼굴이며 풍채며 말하는 것이 온통 항용 사람과 다르리라 하였다. 그러나 <said aloud="false" who="#YC" direct="true">만나고 본즉 그저 그러한 사람이로고나. 옳다 죽는 수밖에 없다. <placeName ref="#PL-DDG">대동강</placeName>으로 가는 수밖에 없다. 구태 더러운 세상에 섞여 구차히 목숨을 늘여 가기는 차마 못 하리니 하루바삐 새맑은 <placeName ref="#PL-DDG">대동강</placeName> 물결 밑에서 정다운 <persName ref="#WH">월화</persName>를 만나 서로 안고 이야기하리라</said> 하였다.</p>
+
+<p>그러나 <persName ref="#YC">영채</persName>에게는 돈이 없었다. 이튿날 아침에 일어나 몇 친구에게 돈 오 원을 취하려 하였다. 그러나 마침내 얻지 못하고 점심때가 지나도록 방에 앉아 울었다. <persName ref="#HS">형식</persName>이가 <rs ref="#KJL" type="person">김장로</rs>의 집에서 <persName ref="#SH">선형</persName>과 <persName ref="#SA">순애</persName>를 대하여 즐거운 상상에 취하였을 때는 정히 <persName ref="#YC">영채</persName>가 <rs type="person" ref="#YC">자기</rs> 방에서 눈물을 흘리고 애통하던 때였다. 이날 저녁에 <persName ref="#YC">영채</persName>를 찾아온 <persName ref="#HS">형식</persName>은 <persName ref="#YC">영채</persName>를 만났는가.</p>
+</div><div type="segment" n="36"><p><persName ref="#HS">형식</persName>은 한참이나 ‘<persName ref="#YC">계월향</persName>’이라고 쓴 광명등을 보고 섰다가 <persName ref="#HK">희경</persName>을 돌려보내고 결심한 모양으로 문 안에 들어섰다. 객이 없는지 적적히 아무 소리도 아니 들린다. 서슴지 아니하고 마당에 들어서니 여러 방에 불을 켰으되 사람 그림자가 없다. <persName ref="#HS">형식</persName>은 가슴을 두근거리면서 어떻게 찾을 줄을 몰라 다만 발소리를 내며 ‘<said who="#HS" aloud="true" direct="true">에헴</said>’ 하고 크게 기침을 하였다. 저편 방으로서 뚱뚱한 <rs type="person" ref="#NP">노파</rs>가 나오는 것을 <persName ref="#HS">형식</persName>은 한 걸음 방 앞으로 (가까이) 갔다. 번적하는 화류자개 함롱이 보이고, 아랫목에는 분홍빛 그물 모기장이 걸리고, 오른편 구석에는 아롱아롱한 자루에 넣은 가얏고가 비스듬히 벽에 기대어 섰다. <persName ref="#HS">형식</persName>은 <said who="#HS" aloud="false" direct="true">이것이 ‘<persName ref="#YC">영채</persName>의 방’인가</said> 하였다. 그러고는 알 수 없는 슬픈 생각과 불쾌한 생각이 난다. <said who="#HS" aloud="false" direct="true">이 방에서 여러 남자로 더불어 저 가얏고를 타고 소리를 하고 춤을 추었는가. 그러다가 저 모기장 속에서 날마다 다른 남자와……</said> <persName ref="#HS">형식</persName>은 차마 더 생각하기가 싫었다. <said who="#HS" aloud="false" direct="true">그러나 <persName ref="#YC">영채</persName>는 어디 갔는가. 벌써 누구에게 ‘천 원’에 팔려 갔는가. 어젯저녁에 <rs type="person" ref="#HS">내</rs> 집에서 돌아오는 길로 팔려 가지나 아니하였는가. 또는 만일 <persName ref="#YC">영채</persName>가 절개가 굳다 하면 벌써 어디 가서 자살이나 아니하였는가.</said> 이때에 <persName ref="#HS">형식</persName>의 머릿속에는 수천 가지 생각이 뒤를 대어 나온다. <persName ref="#HS">형식</persName>은 저편 방으로서 나오는 뚱뚱한 <rs type="person" ref="#NP">노파</rs>―<rs type="person" ref="#NP">노파</rs>라 하여도 사오십이나 되었을까―를 보고, ‘<said aloud="false" who="#HS" direct="true"><rs type="person" ref="#NP">저것</rs>이 소위 <rs type="person" ref="#NP">어미</rs>로구나</said>’ 하였다. <rs type="person" ref="#NP">노파</rs>는 손에 태극선을 들고 담뱃대를 물었다. 지금까지 웃통을 벗고 앉았었는지 명주항라 적삼 고름을 매면서 나온다. ‘<said aloud="false" who="#HS" direct="true">더러운 <rs type="person" ref="#NP">노파</rs></said>’라는 생각이 <persName ref="#HS">형식</persName>의 가슴을 불쾌하게 한다. <rs type="person" ref="#NP">노파</rs>는 <persName ref="#HS">형식</persName>의 모양이 극히 초라함을 보고 경멸하는 모양으로, “<said who="#NP" aloud="true" direct="true">누구를 찾아요?</said>” 한다. 일찍 <persName ref="#HS">형식</persName>이와 같이 초라하게 차린 자가 <persName ref="#YC">월향</persName>을 찾아온 적이 없었음이라. <rs type="person" ref="#NP">노파</rs>의 생각에 <said who="#NP" aloud="false" direct="true">아마 <persName ref="#HS">형식</persName>은 어떤 부자의 아들의 심부름꾼인가</said> 하였다. 그러므로 기생의 집에 온 사람더러 “<said who="#NP" aloud="true" direct="true">누구를 찾아요?</said>” 하고 냉대함이라. <persName ref="#HS">형식</persName>은 <rs type="person" ref="#NP">노파</rs>가 <rs type="person" ref="#HS">자기</rs>를 멸시하는 줄을 알았다. 그러고 더욱 불쾌한 마음이 생겼다. ‘<said aloud="false" who="#HS" direct="true"><rs type="person" ref="#HS">나</rs>도 교육계에는 상당히 이름있는 사람인데</said>’ 하였다. 그러나 <rs type="person" ref="#NP">노파</rs>의 눈에는 부자가 있고 오입쟁이가 있을 따름이요, ‘교육계에 상당한 이름있는 사람’은 없었다. <persName ref="#HS">형식</persName>이가 만일 좋은 세비로 양복에 분홍 넥타이를 매고 술이 취하여 단장을 두르며 ‘<said who="#HS" aloud="true" direct="true">여보게</said>’ 하고 들어왔던들 <rs type="person" ref="#NP">노파</rs>는 분주히 담뱃대를 놓고 마당에 뛰어내리며 ‘<said who="#NP" aloud="true" direct="true">에그, 영감께서 오시는구랴</said>’ 하고 선웃음을 쳤으련마는, 굵은 모시 두루마기에 파리똥 묻은 맥고자를 쓰고, 술도 취하지 아니하고, 단장도 두르지 아니하고, ‘<said who="#HS" aloud="true" direct="true">여보게</said>’도 부르지 아니하는 <persName ref="#HS">형식</persName>과 같은 사람은 <rs type="person" ref="#NP">노파</rs>의 보기에 극히 하등 사람이었다. <persName ref="#HS">형식</persName>은 겨우 입을 열어,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true"><persName ref="#YC">월향</persName> 씨 어디 갔소?</said>” 하였다. 그러고는 곧 ‘<persName ref="#YC">월향</persName>’에게 ‘<mentioned>씨</mentioned>’자를 달아 부른 것을 한하였다. 그러나 <persName ref="#HS">형식</persName>은 아직 남의 이름에 ‘<mentioned>씨</mentioned>’자를 아니 달고 불러 본 적이 없다. 더구나 남의 여자의 이름을 부를 때에는 반드시 ‘<mentioned>씨</mentioned>’라는 존칭을 붙이는 것이 마땅하다 하였다. 소위 ‘<mentioned>째운 사람</mentioned>’들은 여학생을 (보고는 ‘<mentioned>씨</mentioned>’를 달고 기생을 보고는 ‘<mentioned>씨</mentioned>’를) 달지 아니할 줄을 알되, <persName ref="#HS">형식</persName>은 여학생과 기생을 구별할 줄을 모른다. <persName ref="#HS">형식</persName>의 생각에는 여학생이나 기생이나 사람은 마찬가지 사람이라 한다. 그러므로 <persName ref="#HS">형식</persName>은 ‘<persName ref="#YC">월향</persName>’에 ‘<mentioned>씨</mentioned>’를 붙이는 것이 옳으리라 하여 한참 생각한 뒤에 있는 용기를 다하여 ‘<said who="#HS" aloud="true" direct="true"><persName ref="#YC">월향</persName> 씨 어디 갔소</said>’ 한 것이언마는 말을 하고 생각한즉 미상불 부끄럽기도 하다. 그러고 <rs type="person" ref="#NP">노파</rs>의 얼굴을 보았다. <rs type="person" ref="#NP">노파</rs>는 웃음을 참는 듯이 입을 우물우물하더니,</p>
+
+<p>“<said who="#NP" aloud="true" direct="true"><persName ref="#YC">월향</persName> 씨가 손님 모시고 어디 갔소. 왜 그러시오?</said>”</p>
+
+<p>“<said who="#HS" aloud="true" direct="true">어디 갔습니까?</said>”</p>
+
+<p><rs type="person" ref="#NP">노파</rs>는 ‘<said aloud="false" who="#NP" direct="true"><rs type="person" ref="#HS">이것</rs>이 과연 시골뜨기로구나</said>’ 하면서,</p>
+
+<p>“<said who="#NP" aloud="true" direct="true">아까 오후에 <placeName ref="#PL-CNR">청량리</placeName> 나갔소. 여섯점에 들어온다더니 아직 아니 오구려</said>” 하고 성가신 듯이 ‘<said who="#NP" aloud="true" direct="true">잘 가오</said>’ 하는 말도 없이 안으로 들어가고 만다. “<said who="#MAN" aloud="true" direct="true">누구요?</said>” 하는 어떤 남자의 목소리에 “<said who="#NP" aloud="true" direct="true">모르겠소. 웬 거랑방인데 왔구면</said>” 하는 <rs type="person" ref="#NP">그 노파</rs>의 평양 사투리가 들린다. <persName ref="#HS">형식</persName>은 일변 실망도 하고, 일변 <rs type="person" ref="#NP">그 노파</rs>에게 멸시받은 것이 부끄럽기도 분하기도 하면서 발을 돌렸다. ‘<said aloud="false" who="#HS" direct="true"><persName ref="#YC">계월향</persName>! <persName ref="#YC">계월향</persName>이가 과연 <persName ref="#YC">박영채</persName>의 변명인가</said>’ 하고 <persName ref="#YC">계월향</persName>의 내력을 물어 보고도 싶었으나 <rs type="person" ref="#NP">노파</rs>에게 그러한 멸시를 받고는 다시 물어 볼 용기도 아니 나서 그만 대문 밖에 나섰다.</p>
+
+<p><persName ref="#HS">형식</persName>은 고개를 숙이고 아까 오던 길로 나온다. 아까 올 때에 ‘<said who="#VOICE36" aloud="true" direct="true">반나마 늙었으니……</said>’ 하던 목소리로 ‘<said who="#VOICE36" aloud="true" direct="true">간다 간다네 <rs type="person" ref="#LYRIC-STREET">나</rs>는 간다네</said>’ 하는 소리가 들리고, 아까 모양으로 여럿이 함께 웃는 웃음 소리가 들린다. 어찌할까 하고 <persName ref="#HS">형식</persName>은 생각하였다. ‘<said aloud="false" who="#HS" direct="true"><placeName ref="#PL-CNR">청량리</placeName>! 오후에 나가서 여섯점엔 온다던 것이 아직 아니 들어와!</said>’ <persName ref="#HS">형식</persName>은 이 말에 무슨 깊은 뜻이 있는 듯이 생각하고 몸이 오싹하였다. ‘<said aloud="false" who="#HS" direct="true"><persName ref="#YC">영채</persName>가 혼자 어떤 남자로 더불어 <placeName ref="#PL-CNR">청량리</placeName>에 가 있어! 더구나 밤이 여덟시나 지났는데!</said>’ 하고 <persName ref="#HS">형식</persName>은 주먹을 불끈 쥐었다. <persName ref="#HS">형식</persName>은 전속력으로 <placeName ref="#PL-DBG">다방골</placeName> 천변으로 내려온다. ‘<said aloud="false" who="#HS" direct="true">옳다! <placeName ref="#PL-CNR">청량리</placeName>로 가자</said>’ 하였다. <persName ref="#HS">형식</persName>의 귀에 <persName ref="#YC">영채</persName>가 우는 소리로 ‘<said aloud="true" who="#YC" direct="true"><persName ref="#HS">형식</persName> 씨, <rs type="person" ref="#YC">나</rs>를 건져 주시오, <rs type="person" ref="#YC">나</rs>는 지금 위급하외다</said>’ 하는 듯하다. <persName ref="#HS">형식</persName>은 지금 <placeName ref="#PL-GCG">광충교</placeName>로 지나가는 <placeName ref="#PL-DDM">동대문</placeName>행 전차를 잡아탈 양으로 구보로 <placeName ref="#PL-JG">종각</placeName>을 향하여 뛰었다. 그러나 전차는 찌구덩 하고 소리를 내며 <placeName ref="#PL-JG">종각</placeName> 모퉁이를 돌아 두어 사람을 내려놓고 달아난다. <persName ref="#HS">형식</persName>은 그래도 십여 보를 따라갔으나 전차는 본체만체하고 <orgName ref="#ORG-CNHG">청년회관</orgName> 앞으로 달아난다. 야시에는 아까보다도 사람이 많이 모였다. <placeName ref="#PL-JG">종각</placeName> 모퉁이 컴컴한 데로서 ‘<said who="#CG" aloud="true" direct="true">에, 아이쓰구림, 아이쓰구림</said>’ 하는 늙은 총각의 목소린 듯한 것이 들린다.</p>
+</div><div type="segment" n="37"><p><persName ref="#HS">형식</persName>은 다음 번 오는 전차를 탔다. 신호수가 푸른 등을 두르니, 전차는 또 찌국 하는 소리를 내며, 구부러진 데를 돌아간다. <persName ref="#HS">형식</persName>은 조민한 생각에 <placeName ref="#PL-GRG">구리개</placeName>로서 <placeName ref="#PL-SDM">서대문</placeName> 가는 전차를 잘못 탔다. <persName ref="#HS">형식</persName>은 전차에서 뛰어내려서 바로 뒤대어 오는 <placeName ref="#PL-DDM">동대문</placeName>행을 잡아탔다. <persName ref="#HS">형식</persName>은 손수건으로 이마와 목의 땀을 씻었다. <rs type="person" ref="#CJ">차장</rs>은 <persName ref="#HS">형식</persName>의 차세를 받고 ‘딸랑’ 하면서 유심히 <persName ref="#HS">형식</persName>의 얼굴을 본다. <persName ref="#HS">형식</persName>의 얼굴은 과연 몹시 붉게 되었더라. <persName ref="#HS">형식</persName>은 전차 속을 한번 둘러보고, 고개를 숙이고 눈을 감았다. <persName ref="#HS">형식</persName>은 전차가 일부러 속력을 뜨게 하는 것같이 생각하였다. 과연 야시에 사람이 많이 내왕하여 운전수는 연해 두 발로 종을 딸랑딸랑 울리면서 천천히 진행하더라. <persName ref="#HS">형식</persName>의 가슴에는 불이 일어난다. <persName ref="#HS">형식</persName>은 활동사진에서 서양 사람들이 자동차를 타고 질풍같이 달아나는 양을 생각하고, <said who="#HS" aloud="false" direct="true">이런 때에 <rs type="person" ref="#HS">나</rs>도 자동차를 탔으면</said> 하였다. <persName ref="#HS">형식</persName>은 <rs type="person" ref="#HS">자기</rs>가 <placeName ref="#PL-JR">종로</placeName>에서 자동차를 타고 <placeName ref="#PL-CMG">철물교</placeName>를 지나 <placeName ref="#PL-BOG">배오개</placeName>를 지나 <placeName ref="#PL-DDM">동대문</placeName>을 지나 친잠하시는 <placeName ref="#PL-SW">상원</placeName> 앞 버들 사이를 지나 <placeName ref="#PL-CNR">청량리</placeName>를 지나 <placeName ref="#PL-HR">홍릉</placeName> 솔숲 속으로 달려가는 것을 상상하였다. 그러고 <rs type="person" ref="#HS">자기</rs>가 어느 집에서 <persName ref="#YC">영채</persName>가 어떤 사람에게 고생을 당하는가 하고 땀을 흘리며 이집 저집으로 찾아다니는 양과, <rs type="person" ref="#NUNS37">여승들</rs>이 방글방글 웃으며 ‘<said aloud="true" who="#NUNS37" direct="true">모르겠습니다</said>’ 할 때에 <rs type="person" ref="#HS">자기</rs>가 더욱 초조하여 하는 양을 상상하였다. 이때에 누가 <persName ref="#HS">형식</persName>의 어깨를 툭 치며,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">요― 어디 가는가?</said>” 한다. <persName ref="#HS">형식</persName>은 놀라 고개를 들었다. 신문기자 <persName ref="#US">신우선</persName>이로다. <persName ref="#US">신우선</persName>은 <persName ref="#HS">형식</persName>의 곁에 앉아 그 대팻밥 모자로 부채질을 하며,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">그래 어떤가? <rs ref="#KJL" type="person">김장로</rs>의 따님이 <rs type="person" ref="#HS">자네</rs>를 사랑하던가?</said>” 하고 곁에 앉은 사람이 듣는 것도 상관치 아니하는 듯이 큰소리로 말한다. <persName ref="#HS">형식</persName>은 잠깐 아까 <rs type="person" ref="#HS">자기</rs>가 <rs ref="#KJL" type="person">김장로</rs> 집에서 <persName ref="#SH">선형</persName>과 <persName ref="#SA">순애</persName>를 대하였던 생각을 하고 곧 <persName ref="#US">우선</persName>이가 <rs type="person" ref="#HS">자기</rs>의 지금 가는 일에 도움이 될 것을 생각하였다. <persName ref="#HS">형식</persName>은 <persName ref="#US">우선</persName>의 귀에 입을 대고,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true">여보게 큰일이 났네</said>” 하였다. <persName ref="#US">우선</persName>은 껄껄 웃으며,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">아따, <rs type="person" ref="#HS">자네</rs>는 큰일도 많데, 또 무슨 큰일인가</said>” 한다. <persName ref="#HS">형식</persName>은 <persName ref="#US">우선</persName>의 팔을 잡아당기어 말소리를 높이지 말라는 뜻을 표하고 다시 말을 이어 <said who="#HS" aloud="true" direct="false"><rs type="person" ref="#HS">자기</rs>의 은인의 딸이 지금 기생으로 <placeName ref="#PL-SL">서울</placeName>에 와 있는데, <rs type="person" ref="#YC">그</rs>는 <rs type="person" ref="#HS">자기</rs>를 위하여 정절을 지켜 왔는데, 지금 여러 유력한 사람들이 <rs type="person" ref="#YC">그</rs>를 자기네의 손에 넣으려 하는데, 지금 <placeName ref="#PL-CNR">청량리</placeName>에서 어떤 사람에게 위협을 당하는 중인데, 지금 <rs type="person" ref="#HS">자기</rs>는 <rs type="person" ref="#YC">그</rs>를 구원하러 가는 길이라</said> 하고 마침내,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true">여보게, <rs type="person" ref="#US">자네</rs>는(<rs type="person" ref="#US">자네</rs>가) 좀 도와 주어야 되겠네</said>” 하고 말을 맺었다. <persName ref="#HS">형식</persName>은 이러한 말을 할 때에 <persName ref="#YC">영채</persName>가 방금 어떤 남자에게 위급한 위협을 받는 양이 눈에 보이는 듯하였다. <persName ref="#US">우선</persName>은, “<said who="#US" aloud="true" direct="true">응, 응, 그래, 응</said>” 하고 <persName ref="#HS">형식</persName>의 가늘게 하는 말을 주의하여 듣더니,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">그래, 그 이름은 무엇인가.</said>”</p>
+
+<p>“<said who="#HS" aloud="true" direct="true">본명은 <persName ref="#YC">박영채</persName>인데 <persName ref="#YC">계월향</persName>이라고 한다네</said>” 하고 <said aloud="false" who="#HS" direct="true">‘<persName ref="#YC">계월향</persName>’이가 과연 ‘<persName ref="#YC">박영채</persName>’인가</said> 하고 의심도 하였다. <persName ref="#US">우선</persName>은 <mentioned>‘<persName ref="#YC">계월향</persName>’</mentioned>이란 말을 듣고, 또 <persName ref="#YC">계월향</persName>이가 (<persName ref="#HS">형식</persName>의 은인의 따님이란 <persName ref="#YC">월향</persName>이가) <persName ref="#HS">형식</persName>을 위하여 정절을 지킨다는 말을 듣고 깜짝 놀랐다. <persName ref="#US">우선</persName>은 눈이 둥글하여지며,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">여보게, 그게 참말인가?</said>” 하고 <persName ref="#HS">형식</persName>의 얼굴을 보았다. <persName ref="#HS">형식</persName>은 조민한 마음을 이기지 못하여 하는 듯 숨소리가 커지며,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true">참말일세, 참말이어!</said>” 하고 <persName ref="#YC">영채</persName>가 어젯저녁에 <rs type="person" ref="#HS">자기</rs>를 찾아왔단 말과 <rs type="person" ref="#HS">자기</rs>를 찾아와서 신세 타령을 하던 말과, <rs type="person" ref="#HS">자기</rs>가 방금 <placeName ref="#PL-DBG">다방골</placeName> <persName ref="#YC">월향</persName>의 집으로 다녀온다는 말을 하고 다시,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true">그런데 <rs type="person" ref="#HS">나</rs>를 좀 도와 주게</said>” 한다. “<said who="#CJ" aloud="true" direct="true">도오다이몬 슈텐(동대문 종점)! 동대문이올시다</said>” 하는 <rs type="person" ref="#CJ">차장</rs>의 소리에, <rs type="person" ref="#HS #US">두 사람</rs>은 말을 끊고 전차에서 내렸다. 아직도 <placeName ref="#PL-CNR">청량리</placeName> 가는 전차가 오지 아니하였다.</p>
+
+<p><persName ref="#US">우선</persName>이가 <persName ref="#HS">형식</persName>의 말을 듣고 놀란 것은 까닭이 있다. 그 까닭은 이러하다. <persName ref="#US">우선</persName>이도 <persName ref="#YC">계월향</persName>을 처음 보고 그만 정신을 잃은 여러 사람 중의 하나이라. <persName ref="#US">우선</persName>은 백에 하나도 쉽지 아니한 호남자였다. 풍채는 좋겠다, 구변이 있겠다, 나이는 불과 이십오륙 세로되, 문여시(<foreign xml:lang="zh">文與詩</foreign>)를 깨끗이 하겠다, 원래 <placeName ref="#PL-SL">서울</placeName>에 똑똑한 집 자손으로 부귀한 집 자제들과 친분이 있겠다, 게다가 당시 서슬이 푸른 <orgName ref="#ORG-DSM">대신문</orgName>에 기자였다. 이러므로 <rs type="person" ref="#US">그</rs>는 계집을 후리는 데는 갖은 능력과 자격이 구비하였었다. <rs type="person" ref="#US">그</rs>는 여러 기생을 상종하였고, 또 연극장의 차리는 방〔<foreign xml:lang="zh">樂屋</foreign>〕에 출입하여 삼패며 광대도 희롱하였었다. 이렇게 말하면 <persName ref="#US">신우선</persName>이란 사람은 계집 궁둥이나 따라다니는 망가자와 같이 들리되, <rs type="person" ref="#US">그</rs>에게는 시인의 아량이 있고 신사의 풍채가 있고 정성이 있고 의리가 있었다. <rs type="person" ref="#US">그</rs>의 친구는 <rs type="person" ref="#US">그</rs>의 방탕함을 책망하면서도 오히려 <rs type="person" ref="#US">그</rs>의 재주와 쾌활한 기상을 사랑하였다. ‘<said aloud="true" who="#HS" direct="true"><persName ref="#US">신우선</persName>은 지나 소설에 뛰어나오는 풍류 남자라</said>’ 함은 <persName ref="#HS">형식</persName>의 <rs type="person" ref="#US">그</rs>를 평한 말이니, 과연 <rs type="person" ref="#US">그</rs>는 <placeName ref="#PL-SZ">소주</placeName>, <placeName ref="#PL-HZ">항주</placeName> 근방에 <placeName ref="#PL-TANG">당나라</placeName> 시절 호협한 청년의 풍이 있었다.</p>
+
+<p><persName ref="#US">신우선</persName>이가 <persName ref="#YC">계월향</persName>에게 마음을 둔 것은 한 달쯤 전이었다. <persName ref="#US">우선</persName>은 <rs type="person" ref="#US">자기</rs>의 힘을 믿으매 <persName ref="#YC">월향</persName>도 으레 <rs type="person" ref="#US">자기</rs>의 손에 들려니 하였다. <persName ref="#YC">월향</persName>이가 여러 부호가 자제의 청을 거절하는 것은 일생을 의탁할 만한 영웅 재자를 구함이라 하고, <rs type="person" ref="#US">자기</rs>는 족히 그 후보자가 되리라 하였다. 그래서 <persName ref="#US">우선</persName>은 남들이 돈과 육욕으로 <persName ref="#YC">월향</persName>을 달랠 때에, <rs type="person" ref="#US">자기</rs>는 인물과 재주와 기상으로 <persName ref="#YC">월향</persName>을 달래리라 하였다. 무론 <persName ref="#US">우선</persName>은 돈으로 경쟁할 만한 힘은 없었다. 그래서 <persName ref="#US">우선</persName>은 밤마다 시를 지어 혹은 우편으로 혹은 직접 <persName ref="#YC">월향</persName>에게 주었다. 이러노라면 <persName ref="#YC">월향</persName>은 <rs type="person" ref="#US">자기</rs>의 인격과 천재를 알아보고 ‘<said aloud="true" who="#YC" direct="true">이제야 <rs type="person" ref="#YC">내</rs> 배필을 만났구나</said>’ 하면서 두 팔을 벌리고 <rs type="person" ref="#US">자기</rs>에게 안기려니 하였다. 그러하던 즈음에 <persName ref="#HS">형식</persName>에게서 이러한 말을 들으니 놀라는 것도 마땅하다.</p>
+</div><div type="segment" n="38"><p><persName ref="#US">신우선</persName>은 전차 오기를 기다리면서 괴로워하는 <persName ref="#HS">형식</persName>의 얼굴을 보았다. 발전소에서는 쿵쿵쿵쿵 하는 발동기 소리가 나고 누런 복장 입은 차장과 운전사들이 전등빛 아래 왔다갔다하였다. <persName ref="#US">우선</persName>은 생각하였다. ‘<said aloud="false" who="#US" direct="true"><persName ref="#YC">월향</persName>이가 <rs type="person" ref="#US">나</rs>더러 <placeName ref="#PL-PY">평양</placeName> 친구를 묻던 것이 그 때문이로구나</said>’ 하였다. 한번 <persName ref="#US">우선</persName>이가 <persName ref="#YC">월향</persName>을 찾아가서 여러 가지 이야기를 하다가 <persName ref="#YC">월향</persName>이가 농담 모양으로 웃으며,</p>
+
+<p>“<said who="#YC" aloud="true" direct="true"><rs type="person" ref="#US">나리</rs>께 <placeName ref="#PL-PY">평양</placeName> 친구가 계셔요?</said>” 하고 <persName ref="#US">우선</persName>에게 물었다. <persName ref="#US">우선</persName>은 <persName ref="#YC">월향</persName>이가 <placeName ref="#PL-PY">평양</placeName> 사람이니까 <placeName ref="#PL-PY">평양</placeName> 친구를 묻는 줄로 생각하고,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">이삼 인 되지</said>” 하였다. <persName ref="#YC">월향</persName>은,</p>
+
+<p>“<said who="#YC" aloud="true" direct="true">그래, <rs type="person" ref="#US-FRIENDS38">그 어른들</rs>은 다 무엇을 하시는가요?</said>” 하였다. 이때에 <persName ref="#YC">월향</persName>은 첫째에 <persName ref="#HS">이형식</persName>의 거처를 알려 함과, <placeName ref="#PL-PAD">평안도</placeName> 사람들이 <placeName ref="#PL-SL">서울</placeName>에 와서 어떻게 지내는가를 알려 하는 두 가지 목적이 있었다. <persName ref="#YC">월향</persName>도 <placeName ref="#PL-PAD">평안도</placeName> 학생들이 많이 <placeName ref="#PL-SL">서울</placeName>에 와 있는 줄은 알건마는 몸이 기생이 되어서는 그 <placeName ref="#PL-PAD">평안도</placeName> 학생들과 또 <placeName ref="#PL-PAD">평안도</placeName> 사람 신사들이 어떠한 모양을 하고 있는지 알 길이 없었다. <persName ref="#YC">월향</persName>에게도 <rs type="person" ref="#VISITORS38"><placeName ref="#PL-PAD">평안도</placeName> 신사가 삼사 인</rs> 놀러 왔었다. <rs type="person" ref="#VISITORS38">그네들</rs>은 다 번적하는 양복을 입고 일본말로 회화를 하며 <placeName ref="#PL-TK">동경</placeName>에 가서 대학교에 다니던 이야기를 하고 매우 젠체하며 신사인 체하였다. 그러나 <persName ref="#YC">월향</persName>은 사 년 전 <placeName ref="#PL-BBR">부벽루</placeName>에서 <persName ref="#WH">월화</persName>가 ‘<said aloud="true" who="#WH" direct="true"><rs type="person" ref="#PARTY-MEN31">저것들</rs>은 허자비에 옷을 입힌 것이라</said>’ 하던 말을 생각하고 ‘<said aloud="false" who="#YC" direct="true"><rs type="person" ref="#VISITORS38">저들</rs>도 역시 허자비에 옷을 입힌 것이라</said>’ 하였다. 그러고는 <persName ref="#YC">월향</persName>의 생각에 ‘<said aloud="false" who="#YC" direct="true"><rs type="person" ref="#VISITORS38">저것들</rs>이 <placeName ref="#PL-PAD">평안도</placeName> 사람으로 <placeName ref="#PL-SL">서울</placeName>에 와 있는 일류 신사인가</said>’ 하고 <rs type="person" ref="#YC">자기</rs>의 고향을 위하여 슬퍼하였었다. 그러하던 차에 <persName ref="#US">우선</persName>이가 ‘<said aloud="true" who="#US" direct="true"><placeName ref="#PL-PAD">평안도</placeName> 친구가 이삼 인 있지</said>’ 하는 말을 듣고, 행여나 그 속에 ‘<mentioned><persName ref="#WH">월화</persName>의 이상적 인물</mentioned>’이 되임직한 사람이 있는가 하고, 또 그 사람이 <rs type="person" ref="#YC">자기</rs>가 기다리는 <persName ref="#HS">이형식</persName>이나 아닌가 하였다. <persName ref="#YC">월향</persName>의 눈에는 <persName ref="#US">우선</persName>은 <placeName ref="#PL-JS">조선</placeName>에 드문 남자라 하였다. 옛날 시에 있는 듯한 남자라 하였다. 그러고 그 의식의 호탕함을 더욱 사랑하여 ‘<said aloud="false" who="#YC" direct="true"><persName ref="#WH">월화</persName> <rs type="person" ref="#WH">형님</rs>에게 보였으면</said>’ 하기도 하였다. 그러므로 <persName ref="#US">우선</persName>의 친구라 하면 상당한 사람이려니 하고, “<said who="#YC" aloud="true" direct="true">그래 <rs type="person" ref="#US-FRIENDS38">그 어른들</rs>은 다 무엇을 하시는가요?</said>” 하고 물음이라. <persName ref="#US">우선</persName>은,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">혹은 교사도 하고, 글짓기도 하고, 실업도 한다</said>” 하였다. <persName ref="#YC">월향</persName>은 더욱 더욱 유심하게,</p>
+
+<p>“<said who="#YC" aloud="true" direct="true">그 중에 누가 제일 좋은 사람이에요? 누가 제일 이름이 있어요?</said>” 하였다. <persName ref="#US">우선</persName>은 유심히 <persName ref="#YC">월향</persName>의 얼굴을 보며 ‘<said aloud="false" who="#US" direct="true">옳지, <rs type="person" ref="#YC">저 계집</rs>이 본고향 사람 중에 배필을 구하는구나</said>’ 하고 얼마큼 시기하는 생각이 나서,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">그 중에 <persName ref="#HS">이형식</persName>이란 사람이 제일 유망하지마는</said>” 하고 <persName ref="#HS">이형식</persName>의 가치를 낮추기 위하여 ‘<mentioned>하지마는</mentioned>’에 힘을 주었다. <persName ref="#YC">월향</persName>은 가슴이 갑자기 뛰었다. 그러나 그 빛을 감추고 아양을 부리며, “<said who="#YC" aloud="true" direct="true">유망하지마는 어때요?</said>” 하였다. <persName ref="#US">우선</persName>은 <rs type="person" ref="#US">자기</rs>가 친구의 험담을 한 듯하여 적이 부끄러운 생각이 나면서,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">응, <persName ref="#HS">이형식</persName>이가 좋은 사람이지…… 매우 유망하지</said>” 하고는 그래도 행여나 <persName ref="#HS">이형식</persName>에게 <persName ref="#YC">월향</persName>을 빼앗길까 두려워, “<said who="#US" aloud="true" direct="true">아직 유치하지…… 때를 못 벗어서</said>” 하고 <rs type="person" ref="#US">자기</rs>보다 훨씬 낮은 사람 모양으로 말하였다. 무론 이것이 거짓말은 아니라. <persName ref="#US">우선</persName>은 결코 <persName ref="#HS">형식</persName>을 <rs type="person" ref="#US">자기</rs>보다 인격으로나 학식으로나 문필로나 승하다고는 생각하지 아니한다. (그뿐더러 <rs type="person" ref="#US">자기</rs>와 평등이라고도 생각지 아니한다.) 그래서 ‘<said aloud="false" who="#US" direct="true"><persName ref="#HS">형식</persName>은 우선 한문이 부족하니까</said>’ 하고 <persName ref="#HS">형식</persName>이가 <rs type="person" ref="#US">자기</rs>보다 일문과 영문이 넉넉한 것은 생각지 아니한다. 그러고 <rs type="person" ref="#US">자기</rs>는 어디까지든지 <persName ref="#HS">형식</persName>의 선배로 자처하며, <persName ref="#HS">형식</persName>도 구태여 <persName ref="#US">우선</persName>과 평등을 다투려 하지 아니하고, <persName ref="#US">우선</persName>이가 선배로 자처하면 <persName ref="#HS">형식</persName>도 <persName ref="#US">우선</persName>을 선배 모양으로 대접하였다. 그리하다가 일전에 <persName ref="#US">우선</persName>이가 <persName ref="#HS">형식</persName>에게 허교하기를 청할 적에도 <persName ref="#HS">형식</persName>은 윗사람에게서 허락을 받는 모양으로 극히 공손하였다. 그러나 <persName ref="#US">우선</persName>은 결코 <persName ref="#HS">형식</persName>을 미워하거나 멸시하지 아니하였다. <persName ref="#US">우선</persName>은 ‘<mentioned><persName ref="#HS">형식</persName>의 유망함</mentioned>’을 진실로 믿었다. 그러므로 <persName ref="#YC">월향</persName>에게 ‘<said aloud="true" who="#US" direct="true">유망은 하지마는 아직 때를 못 벗었어</said>’ 한 것은 결코 <persName ref="#HS">형식</persName>을 비방함이 아니요, <rs type="person" ref="#US">자기</rs>가 <persName ref="#HS">형식</persName>에게 대한 진정한 비평을 말한 것이라.</p>
+
+<p>‘<said aloud="false" who="#US" direct="true">아아, 그때에 <rs type="person" ref="#US">내</rs>가 <persName ref="#YC">월향</persName>에게 <persName ref="#HS">형식</persName>을 소개한 것이 이러한 뜻을 가졌던가</said>’ 하고 다시금 전차를 기다리고 섰는 <persName ref="#HS">형식</persName>을 보았다. <persName ref="#HS">형식</persName>은 조민한 듯이 왔다갔다하며 동편만 바라보고,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true">어째 전차가 아니 오는가?</said>”</p>
+
+<p>“<said who="#US" aloud="true" direct="true">밤이 깊었으니까 삼십 분에 한 번씩이나 다니는지</said>” 하고 <persName ref="#US">우선</persName>은 <persName ref="#HS">형식</persName>의 괴로워함을 동정하였다. <persName ref="#HS">형식</persName>은 애처로워서 <persName ref="#US">우선</persName>을 손을 꼭 쥐며,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true">참, 오늘 저녁 힘을 써주게</said>” 하였다. 외로운 <persName ref="#HS">형식</persName>의 지금 경우에는 <persName ref="#US">우선</persName>이밖에 믿는 사람이 없었다. <persName ref="#US">우선</persName>이만 <rs type="person" ref="#HS">자기</rs>를 도와 주면, <persName ref="#YC">영채</persName>는 건져 낼 수가 있거니 하였다. <persName ref="#US">우선</persName>은 “<said who="#US" aloud="true" direct="true">걱정 말게</said>” 하고 돌아서면서 픽 웃었다. 그 웃음에는 까닭이 있었다.</p>
+
+<p><persName ref="#US">우선</persName>은 <orgName ref="#ORG-GSH">경성학교</orgName> 교주 <rs ref="#KNJ" type="person">김남작</rs>의 아들 <persName ref="#KHS">김현수</persName>와 <persName ref="#BMS">배명식</persName> <rs type="person" ref="#KHS #BMS">양인</rs>이 <persName ref="#YC">월향</persName>을 <placeName ref="#PL-CNR">청량리</placeName>로 데리고 갔단 말을 <persName ref="#YC">월향</persName>의 집에서 듣고, <persName ref="#YC">월향</persName>은 오늘 저녁에는 <persName ref="#KHS">김현수</persName>의 손에 들어가는 줄을 짐작하였다. 그래서 <persName ref="#US">우선</persName>은 빨리 <orgName ref="#ORG-JRPS">종로경찰서</orgName>에 가서 <rs type="person" ref="#DETECTIVE">형사</rs>에게 말을 하여 (귓속하여) 후원을 청하고, <persName ref="#KHS">김현수</persName>의 계교를 깨트리려 하였다. <persName ref="#YC">월향</persName>을 아주 <persName ref="#KHS">김현수</persName>의 손에서 뽑아 내지 못한다 하더라도, 그 사실을 신문에 발표하여 실컷 분풀이나 하고, 혹 될 수 있으면 <persName ref="#KHS">김현수</persName>에게서 맥줏값이나 빼앗으려 하였다. 아까 <placeName ref="#PL-CMG">철물교</placeName>에서 전차를 탄 것은 바로 <orgName ref="#ORG-JRPS">종로경찰서</orgName>로서 나오던 길이었다. 그러한 일이러니 이제 들어 본즉, <persName ref="#YC">월향</persName>은 <persName ref="#HS">형식</persName>에게 마음을 바친 사람이라 한다. 미상불 시기로운 생각도 없지 아니하나 <persName ref="#HS">형식</persName>의 뜻을 이뤄 줌이 옳은 일이라 하였다.</p>
+</div><div type="segment" n="39"><p><rs type="person" ref="#HS #US">두 사람</rs>은 <placeName ref="#PL-CNS">청량사</placeName>에 다다랐다. <rs type="person" ref="#HS #US">두 사람</rs>의 뒤를 따르는 사람은 <orgName ref="#ORG-JRPS">종로경찰서</orgName>의 <rs type="person" ref="#DETECTIVE">형사</rs>였다. <persName ref="#US">우선</persName>은 <persName ref="#KHS">김현수</persName>의 가는 집을 잘 알았다. <rs type="place" ref="#PL-AMJA39">그 집</rs>은 우물 북쪽에 있는 <rs type="place" ref="#PL-AMJA39">조고마한 암자</rs>라, 여러 암자 중에 제일 깨끗하고 <rs type="place" ref="#PL-AMJA39">조용한 암자</rs>였다. <persName ref="#US">우선</persName>은 <persName ref="#HS">형식</persName>에게 손짓을 하여 문 밖에 서 있으라 하고 가만히 안에 들어갔다. <persName ref="#HS">형식</persName>은 ‘<said aloud="false" who="#HS" direct="true">여기 <persName ref="#YC">영채</persName>가 있는가</said>’ 하고 다리를 떨며 귀를 기울였다. 똑똑지는 아니하나 <rs type="person" ref="#YC">여자</rs>의 괴로워하는 소리가 나는 듯하다. <persName ref="#HS">형식</persName>은 손으로 가슴을 만지며 한 걸음 더 들어서서 귀를 기울였다. 과연 <rs type="person" ref="#YC">여자</rs>의 괴로워하는 소리로다. <persName ref="#HS">형식</persName>은 정신을 차리지 못하고 뛰어들어갔다. 방에는 불이 켜 있고, 문을 닫쳤는데 <rs type="person" ref="#KHS">머리를 깎은 사람</rs>의 그림자가 얼른얼른한다. <persName ref="#HS">형식</persName>의 호흡은 차차 빨라진다. <persName ref="#US">우선</persName>이가 창으로 엿보다가 고양이 모양으로 가만가만히 나오면서 <persName ref="#HS">형식</persName>의 어깨에 손을 짚고 가늘게 일본말로,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">모 다메다(벌써 틀렸다)</said>” 한다. <persName ref="#HS">형식</persName>은 그만 눈에 불이 번뜻 하면서 ‘<said aloud="true" who="#HS" direct="true">흑</said>’ 하고 툇마루에 뛰어오르며 구두 신은 발로 영창을 들입다 찼다. 영창은 와지끈 하고 소리를 내며 방 안으로 떨어져 들어간다. <persName ref="#HS">형식</persName>은 <rs type="person" ref="#KHS">영창을 떠들고 일어나는 사람</rs>을 얼굴도 보지 아니하고 발길로 차넘겼다. <rs type="person" ref="#BMS">어떤 사람</rs>이 <persName ref="#HS">형식</persName>의 팔을 잡는다. <persName ref="#HS">형식</persName>은 입에 거품을 물고,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true"><rs type="person" ref="#BMS">이놈</rs>, <persName ref="#BMS">배명식</persName>아!</said>” 하고는 기가 막혀 말이 아니 나온다. <persName ref="#HS">형식</persName>은 아니 잡힌 팔로 <rs ref="#BMS" type="person">배학감</rs>의 면상을 힘껏 때리고, <rs type="person" ref="#KHS">아까 <persName ref="#HS">형식</persName>의 발길에 채어 거꾸러진 사람</rs>을 힘껏 이삼 차나 발길로 찼다. <rs type="person" ref="#KHS">그 사람</rs>은 저편 문을 열고 뛰어나갔다. <persName ref="#HS">형식</persName>은,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true"><rs type="person" ref="#KHS">이놈</rs>, <persName ref="#KHS">김현수</persName>야!</said>” 하고 소리를 쳤다. 그러고는 넘어져 깨어진 영창을 들었다. <rs type="person" ref="#YC">여자</rs>는 두 손으로 낯을 가리우고 흑흑 느낀다. 손과 발은 동여매였다. 그러고 치마와 바지는 찢겼다. 머리채는 풀려 등에 깔렸고, 아랫입술에서는 빨간 피가 흐른다. 방 한편 구석에는 맥주병과 얼음 그릇이 넘느른하고 어떤 것은 깨어졌다. <persName ref="#HS">형식</persName>은 얼른 치마로 몸을 가리고 손발 동여맨 <rs type="person" ref="#YC">여자</rs>를 안아 일으켰다. <rs type="person" ref="#YC">여자</rs>는 얽어매인 두 손으로 낯을 가리운 대로 울기만 한다. <persName ref="#US">우선</persName>도 방 안에 들어왔다. 얽어매인 손발을 풀면서 <persName ref="#HS">형식</persName>더러,</p>
+
+<p>“<said who="#US" aloud="true" direct="true"><rs type="person" ref="#KHS #BMS">두 사람</rs>은 포박되었네</said>” 하고 웃는다. <persName ref="#HS">형식</persName>은 이러한 경우에 웃는 <persName ref="#US">우선</persName>을 원망스럽게 생각하였다. 그러나 <persName ref="#US">우선</persName>은 이러한 사건을 <persName ref="#HS">형식</persName>의 모양으로 그리 큰 사건이라고는 생각지 아니한다. <persName ref="#US">우선</persName>은 천하 만사를 웃고 지내려는 사람이었다. <persName ref="#HS">형식</persName>은 얼굴에 꼭 대고 있는 <rs type="person" ref="#YC">여자</rs>의 손목을 풀었다. 그러나 <rs type="person" ref="#YC">여자</rs>는 여전히 손을 낯에서 떼지 아니하고 운다. <persName ref="#HS">형식</persName>은 얼마큼 분한 마음이 스러지고 냉정하게 생각할 여유가 생겼다. <persName ref="#HS">형식</persName>은 우뚝 서서 옷고름이 온통 풀어지고 옷이 흘러내려 하얀 허리가 한 뼘이나 내어놓인 것을 보고 새로운 슬픔이 생긴다. <persName ref="#HS">형식</persName>은 ‘<said aloud="false" who="#HS" direct="true"><rs type="person" ref="#YC">이것</rs>이 과연 <persName ref="#YC">박영채</persName>인가</said>’ 하고 ‘<said aloud="false" who="#HS" direct="true"><persName ref="#YC">박영채</persName>가 아니면 좋겠다</said>’ 하였다. 그러고 그 옷을 보고 머리를 보았다. 무론 <rs type="person" ref="#YC">그 여자</rs>는 모시 치마도 입지 아니하고, 서양 머리도 쪽찌지 아니하였다. <persName ref="#HS">형식</persName>은 그 치마를 만든 감이 다만 무슨 비단이어니 할 따름이요, 무엇인지를 몰랐다. 머리에 핏빛 같은 왜증 댕기를 들이고 손에는 누런 빛 있는 옥지환을 꼈다. <persName ref="#HS">형식</persName>은 <rs type="person" ref="#YC">그 여자</rs>의 얼굴을 보고 싶었다. 그러나 차마 그 얼굴을 보고자 아니하였나니, 대개 그 얼굴이 ‘<persName ref="#YC">박영채</persName>’일까 보아 두려워함이라.</p>
+
+<p><persName ref="#US">우선</persName>은 <rs type="person" ref="#YC">그</rs>가 <persName ref="#YC">월향</persName>인 줄을 알았다. 그러나 <persName ref="#YC">월향</persName>이가 그 친구 되는 <persName ref="#HS">이형식</persName>의 은인의 따님이요, 또 <persName ref="#HS">이형식</persName>을 위하여 정절을 지킨다는 말을 듣고는 <persName ref="#YC">월향</persName>더러 ‘<said aloud="true" who="#US" direct="true">얘, <persName ref="#YC">월향</persName>아</said>’ 하고 부르기도 미안하고, 또 <persName ref="#YC">월향</persName>의 곁에 가까이 가기도 미안하였다. 그래서 한 걸음쯤 <persName ref="#HS">형식</persName>의 뒤에 서서 <persName ref="#HS">형식</persName>의 하는 양만 보고 섰다. 그러나 <rs type="person" ref="#YC">그 여자</rs>는 낯에 손을 대고 울 뿐이라 <persName ref="#HS">형식</persName>도 무어라고 부를 줄을 몰라 한참이나 우두커니 섰다가 <rs type="person" ref="#YC">그 여자</rs>더러,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true">여보시오! <rs type="person" ref="#KHS #BMS">그 짐승놈들</rs>은 포박되었으니 안심하시오</said>” 하였다. ‘<said who="#HS" aloud="true" direct="true">안심하시오</said>’ 하는 <persName ref="#HS">형식</persName>도 그 안심하라는 것이 무슨 뜻인지를 몰랐다. <rs type="person" ref="#KHS #BMS">그 짐승놈들</rs>이 포박되고 아니 되기에 무슨 안심하고 안심 아니함이 있으리요. 아까 <persName ref="#US">우선</persName>이가 <persName ref="#HS">형식</persName>에게 한 말과 같이 ‘<said who="#US" aloud="true" direct="true">모 다메다</said>’가 아니뇨. <persName ref="#US">우선</persName>은 참다못하여,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">여보시오. <persName ref="#YC">박영채</persName> 씨!</said>” 하였다. <persName ref="#US">우선</persName>은 <rs type="person" ref="#YC">그 여자</rs>가 <persName ref="#YC">월향</persName>인 줄을 알며 또 <persName ref="#YC">월향</persName>은 즉 <persName ref="#YC">박영채</persName>인 줄을 알았다. 그러므로 한 달 동안이나 ‘<said who="#US" aloud="true" direct="true">얘, <persName ref="#YC">월향</persName>아!</said>’ 하던 것을 고쳐 ‘<said who="#US" aloud="true" direct="true">여보시오, <persName ref="#YC">박영채</persName> 씨</said>’ 한 것이라. 갑자기 ‘<mentioned>씨</mentioned>’를 달고 ‘<mentioned>얘</mentioned>’를 변하여 ‘<mentioned>여보시오</mentioned>’ 하기가 보통 사람에게는 좀 어려운 일이언마는 <persName ref="#US">우선</persName>에게는 그처럼 어려운 일이 아니라 <persName ref="#US">우선</persName>은 다시,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">여보시오! <persName ref="#YC">박영채</persName> 씨! 여기 <persName ref="#HS">이형식</persName> 형이 오셨습니다</said>” 하였다. 이 말을 듣고 <rs type="person" ref="#YC">여자</rs>는 몸을 흠칫하며 두 손을 갑자기 떼더니 정신없는 듯한 눈으로 <persName ref="#HS">형식</persName>을 본다. <persName ref="#HS">형식</persName>도 그 얼굴을 보았다. <rs type="person" ref="#YC">그</rs>는 <persName ref="#YC">월향</persName>이었다! <persName ref="#YC">박영채</persName>였다! <persName ref="#YC">영채</persName>도 <persName ref="#HS">형식</persName>을 보았다. <rs type="person" ref="#HS">그</rs>는 <persName ref="#HS">형식</persName>이었다! <persName ref="#HS">이형식</persName>이었다! <persName ref="#HS">형식</persName>과 <persName ref="#YC">영채</persName>는 한참이나 나무로 새긴 사람 모양으로 마주보았다. <persName ref="#US">우선</persName>은 말없이 마주보는 <rs type="person" ref="#HS #YC">두 사람</rs>을 번갈아 보았다. 이렇게 <rs type="person" ref="#HS #YC #US">세 사람</rs>은 한참이나 마주보았다. 이윽고 <persName ref="#US">우선</persName>의 눈에는 눈물이 핑 돌았다. 다음에 <persName ref="#HS">형식</persName>과 <persName ref="#YC">영채</persName>의 눈에도 눈물이 돌았다. <persName ref="#YC">영채</persName>는 피 흐르는 입술을 한번 더 꼭 물었다. 옥으로 깎은 듯한 <persName ref="#YC">영채</persName>의 앞닛박이 빨갛게 물이 든다. <persName ref="#HS">형식</persName>은 두 팔로 가슴을 안으며 고개를 돌린다. <persName ref="#US">우선</persName>은 <persName ref="#HS">형식</persName>과 함께 고개를 돌렸다. <persName ref="#HS">형식</persName>은 소리를 내어 운다. <persName ref="#YC">영채</persName>는 다시 앞으로 쓰러지며 운다. <persName ref="#US">우선</persName>도 입술을 물고 옷소매로 눈물을 씻었다. 종소리가 서너 번 똥……똥 울어 온다.</p>
+</div><div type="segment" n="40"><p><rs type="person" ref="#DETECTIVE">형사</rs>는 <persName ref="#KHS">김현수</persName>, <persName ref="#BMS">배명식</persName> <rs type="person" ref="#KHS #BMS">양인</rs>에게 박승을 지워 마당으로 끌고 들어왔다. <persName ref="#HS">형식</persName>은 당장 마주 나가서 그 <rs type="person" ref="#KHS #BMS">두 사람</rs>의 살을 뜯어 먹고 뼈를 갈아 먹고 싶었다. <rs type="person" ref="#KHS #BMS">두 사람</rs>은 그래도 부끄러운 듯이 고개를 숙였다. 그러나 <rs type="person" ref="#KHS #BMS">그네</rs>는 결코 후회하는 것은 아니었다. <rs type="person" ref="#KHS #BMS">그네</rs>의 생각에 <said who="#KHS #BMS" aloud="false" direct="false">기생 같은 계집은 시키는 말을 아니 들으면 강간을 하여도 관계치 않다</said> 한다. <rs type="person" ref="#KHS #BMS">그네</rs>는 여염집 부인이 남의 남자와 밀통함이 죄인 줄을 알건마는 <said who="#KHS #BMS" aloud="false" direct="false">기생 같은 것은 으레 아무나 희롱하는 것이 마땅하다</said> 한다. <said who="#KHS #BMS" aloud="false" direct="false">여염집 부녀에게는 정절이 있으되, 기생에게는 정절이 없는 것이라</said> 한다. 과연 <rs type="person" ref="#KHS #BMS">그네</rs>의 생각하는 바는 옳다. 법률상 기생은 소리와 춤으로 객을 대하는 것이라 하건마는, 기실은 어느 기생치고 밤마다 소위 ‘<mentioned>손을 보</mentioned>’지 아니하는 자가 없다. 그러므로 <persName ref="#KHS">김현수</persName>나 <persName ref="#BMS">배명식</persName>의 생각에, <said who="#KHS #BMS" aloud="false" direct="false">기생이라는 계집사람은 모든 도덕과 모든 인륜을 벗어난 일종 특별한 동물이라</said> 하였다. 그러므로 <rs type="person" ref="#KHS #BMS">그</rs>가 오늘 저녁에 한 일이 결코 도덕이나 양심에 거슬리는 행위인 줄로는 생각지 아니한다. 다만 귀찮은 법률이라는 것이 있어 ‘<mentioned>부녀의 의사를 거슬리고 육교를 한 것</mentioned>’을 강간죄라 할 것이 두려울 뿐이었다. 그러므로 <rs type="person" ref="#KHS #BMS">그네</rs>가 만일 이 자리를 벗어나기만 하면 내일 아침부터는 <rs type="person" ref="#KHS #BMS">자기네</rs>는 아무 죄도 없는 사람인 줄로 알 것이라. 다만 <persName ref="#BMS">배명식</persName>은 소위 교육자라는 명목을 띠고서 이러한 허물로 박승을 지게 되면, <orgName ref="#ORG-GSH">경성학교</orgName>의 학감의 지위가 위태할 것을 근심하였을 뿐이라.</p>
+
+<p><persName ref="#HS">형식</persName>은 분한 마음으로 고개를 숙인 <rs type="person" ref="#KHS #BMS">두 사람</rs>을 보았다. <persName ref="#KHS">김현수</persName>로 말하면 마땅히 그러할 사람이라 하더라도, 소위 교육자라 일컫는 <persName ref="#BMS">배명식</persName>이가 이런 대죄악을 범하였음을 보고 더욱 분하여 하였다. <persName ref="#HS">형식</persName>은 <persName ref="#BMS">배</persName>의 곁에 서며 조롱하는 목소리로,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true">여보, <rs ref="#BMS" type="person">배형</rs>. 이게 무슨 짓이오? 교육가로 강간이란 말이 웬 말이오?</said>” 하였다. <persName ref="#BMS">배명식</persName>은 할 말이 없었다. 그러나 ‘<said aloud="false" who="#BMS" direct="true"><persName ref="#HS">이형식</persName>이가 왜 이 일에 참견하는가</said>’ 하고 그것을 이상히 여겼다. 그러고 <persName ref="#HS">이형식</persName>은 상관없는 일에 참견하는 놈이라 하고 괘씸하게도 여겼다. <rs type="person" ref="#BMS">자기</rs>가 강간죄를 범하였으니, <rs type="person" ref="#DETECTIVE">형사</rs>의 포박을 당하는 것은 마땅하거니와 상관없는 <persName ref="#HS">이형식</persName>에게 책망을 받을 이유야 무엇이랴 하였다. 그러고 이렇게 생각하였다. <said who="#BMS" aloud="false" direct="false">아마 <persName ref="#HS">이형식</persName>도 표면으로는 품행이 단정한 체하면서도 속으로 기생집에를 다녀 <persName ref="#YC">월향</persName>과 친하였다가, <rs type="person" ref="#BMS">자기</rs>가 <persName ref="#YC">월향</persName>을 손에 넣으려는 것을 시기하여 <rs type="person" ref="#DETECTIVE">형사</rs>를 데리고 온 것이라</said> 하였다. <said who="#BMS" aloud="false" direct="false">그렇지 아니하면 <persName ref="#HS">이형식</persName>이가 상관도 없는 일에 <rs type="person" ref="#DETECTIVE">형사</rs>를 데리고 오며 저렇게 성낼 까닭이 없으리라</said> 하였다. <persName ref="#BMS">배명식</persName>은 직접으로 <rs type="person" ref="#BMS">자기</rs>의 이해에 상관되는 일이 아니고는 슬퍼할 줄도 모르고 괴로워할 줄도 모르는 사람이라. <rs type="person" ref="#BMS">자기</rs>의 자식이 칼로 손가락을 조곰 벤 것을 보면 <persName ref="#BMS">명식</persName>은 슬퍼할 줄을 알지마는, 남의 집의 아들이 죽는 것을 보더라도 ‘<said who="#BMS" aloud="true" direct="true">참 슬프옵니다</said>’ 하고 입으로는 남보다 더 간절한 듯이 말하는 대신에 마음으로 슬퍼할 줄을 모르는 사람이로다. 만일 <persName ref="#YC">영채</persName>가 <rs type="person" ref="#BMS">자기</rs>의 누이동생이거나 딸이었던들, 남이 <persName ref="#YC">영채</persName>를 강간하는 것을 보면 반드시 <persName ref="#HS">형식</persName>보다 더욱 분을 내어 칼을 들고 덤비려니와 <persName ref="#YC">영채</persName>가 누이도 아니요, 딸도 아니므로 <rs type="person" ref="#YC">그</rs>가 강간을 받아도 관계치 않고 죽더라도 관계치 않다 한다.</p>
+
+<p><persName ref="#HS">형식</persName>은 <persName ref="#KHS">김현수</persName>를 대하여,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true">여보, <rs type="person" ref="#KHS">당신</rs>은 귀족이오! 귀족이란 악한 일을 하는 사람이라는 칭호는 아니지요. <rs type="person" ref="#KHS">당신</rs>도 사오 년간 <placeName ref="#PL-TK">동경</placeName>에 유학을 하였소. <rs type="person" ref="#KHS">당신</rs>이 어느 회석에서 말한 것을 기억하시오? <rs type="person" ref="#KHS">당신</rs>은 일생을 교육사업에 바친다고 한 말을</said>” 하고 <persName ref="#HS">형식</persName>은 발을 굴렀다. <persName ref="#KHS">현수</persName>는 시골 상놈한테 큰 수모를 당한다 하였다. <said who="#KHS" aloud="false" direct="true">암만하여도 <rs type="person" ref="#KHS">나</rs>는 남작이요, 수십만 원 부자요, <rs type="person" ref="#HS">너</rs>는 가난한 일서생이로구나. 지금은 <rs type="person" ref="#HS">네</rs>가 <rs type="person" ref="#KHS">나</rs>를 이렇게 모욕하되, 장차 <rs type="person" ref="#HS">네</rs>가 <rs type="person" ref="#KHS">내</rs> 발 앞에 꿇어 엎드릴 날이 있으리라</said> 하였다. <said who="#KHS" aloud="false" direct="true"><rs type="person" ref="#KHS">나</rs>는 이렇게 <rs type="person" ref="#DETECTIVE">형사</rs>에게 포박을 당하더라도 내일 아침이면 놓여 나올 수도 있건마는, <rs type="person" ref="#HS">너</rs>는 한번 옥에 들어가기가 바쁘게 일생을 그 속에서 썩으리라</said> 하였다. <said who="#KHS" aloud="false" direct="true"><rs type="person" ref="#HS">네</rs>가 아무리 행실이 단정하다 하더라도 일생에는 무슨 허물도 있으리니. 그때에는 <rs type="person" ref="#KHS">내</rs>가 오늘 받은 수모를 <rs type="person" ref="#HS">네</rs>게 갚으리라</said> 하였다. 그러고 아까 <persName ref="#YC">영채</persName>를 안던 쾌미를 생각하매 중도에 방해를 더한 <persName ref="#HS">형식</persName>의 행위가 괘씸하다 하였다. 그러나 이 자리에서는 말할 바가 아니니 외따른 <placeName ref="#PL-CNR">청량리</placeName> 솔수풀 속에서는 남작의 권위와 황금의 힘도 부릴 수가 없음이라.</p>
+
+<p><persName ref="#US">우선</persName>은 <persName ref="#HS">형식</persName>이가 <rs type="person" ref="#KHS #BMS">두 사람</rs>을 크게 책망할 줄 알았더니 교실에서 학생들에게 행실 잘하기를 가르치는 모양으로 말함을 보고 <persName ref="#HS">형식</persName>은 아직도 세상을 모르는 도련님이라 하였다. <said who="#US" aloud="false" direct="true">만일 <rs type="person" ref="#US">내</rs>가 <persName ref="#HS">형식</persName>이가 되었으면 이러한 때를 당하여 실컷 꾸지람이나 톡톡히 하여 분풀이를 하련마는</said> 하였다. 그러나 <persName ref="#HS">형식</persName>으로는 이보다 이상 더 심한 책망을 할 줄을 몰랐다. 그래서 <persName ref="#HS">형식</persName>이가 마침내 다시 한번 발을 구르며,</p>
+
+<p>“<said who="#HS" aloud="true" direct="true">여보! 사람들이 되시오!</said>” 하였다. <persName ref="#HS">형식</persName>은 생각에 아마 이만하면 <rs type="person" ref="#KHS #BMS">저 두 사람</rs>들이 양심에 부끄러움이 생겨 ‘<said aloud="false" who="#KHS #BMS" direct="true">다시는 이러한 일을 아니하리라</said>’ 하고 아프게 후회할 줄을 믿었다. <rs type="person" ref="#KHS #BMS">두 사람</rs>이 고개를 숙이고 앉았는 것은 아마 <rs type="person" ref="#HS">자기</rs>의 말에 부끄러움과 후회가 생겨 그러하는 것이어니 하였다. 그러나 <rs type="person" ref="#KHS #BMS">두 사람</rs>은 기실 부끄럽기는 하였으나 후회하지는 아니하였다.</p>
+
+<p><persName ref="#US">우선</persName>은 참다못하여,</p>
+
+<p>“<said who="#US" aloud="true" direct="true">여보게 <rs type="person" ref="#HS">자네</rs>는 <persName ref="#YC">영채</persName> 씨 모시고 들어가게. 이 일은 <rs type="person" ref="#US">내</rs>가 맡음세</said>” 하였다.</p>
+</div></body></text></TEI>
