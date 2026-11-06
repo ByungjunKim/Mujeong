@@ -2,173 +2,173 @@
 <?xml-model href="https://www.tei-c.org/Vault/P5/4.12.0/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ko">
   <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>무정</title>
-        <author>이광수</author>
-        <respStmt xml:id="encoder">
-          <resp>TEI 인코딩</resp>
-          <name>KNoTE Google AI Studio 앱 「Conversion of Korean Modern Literature xml/tei」</name>
-        </respStmt>
-        <respStmt xml:id="teiagent">
-          <resp>헤더·장소·기관 체계 참조 (자동 인코딩 결과물)</resp>
-          <name>TEI-Agent 0.1.3 (browser) with DeepSeek API</name>
-        </respStmt>
-        <respStmt xml:id="editor">
-          <resp>TEI 검수</resp>
-          <name>김강은</name>
-        </respStmt>
-      </titleStmt>
-      <publicationStmt>
-        <p>미간행.</p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="digitalSource"><author>이광수</author><title>무정</title><publisher>위키문헌 (Wikisource)</publisher><biblScope unit="chapter">91–100</biblScope><ref target="https://ko.wikisource.org/wiki/무정/81장~100장">무정/81장~100장</ref></bibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <projectDesc>
-        <p>본 전자본은 TEI P5 지침(TEI ALL)에 따라 구조화함.</p>
-      </projectDesc>
-      <editorialDecl>
-        <normalization>
-          <p>원문 표기와 문장부호를 그대로 둠. 괄호 속 교정은 저본의 것을 그대로 둠.</p>
-        </normalization>
-        <quotation>
-          <p>따옴표는 said 밖에 둠.</p>
-        </quotation>
-        <interpretation>
-          <p>Project encoding rules supplied by the encoders were added to every model instruction: 『무정』 태깅 — 우리 반 합의 규칙 (2026-2 한국문학텍스트와네트워크분석연구) | 인물 | 본명·예명(이형식, 박영채, 계월향)은 persName. 직함·관계·설명으로 특정인을 부르는 말(김장로, 배학감, 함교장, 한목사, 부친, 노파)은 persName이 아니라 rs type="person" ref="#…". | 조사와 '씨', '군', '님'은 태그 밖: &lt;persName&gt;형식&lt;/persName&gt;이, &lt;persName&gt;우영&lt;/persName&gt; 군. | 작품 전체에 인물 하나 = ID 하나. 월향·계월향은 박영채와 같은 인물이다. 같은 표면어라도 다른 사람이면 ID를 나눈다(형식의 하숙집 노파와 다른 노파). | 원문에 없는 이름으로 보충하지 않는다(외부 지식으로 성이나 본명을 채우지 않는다). | 구성원이 확정된 복수 지칭(두 사람, 장로 양주)은 ref에 여러 ID를 띄어 쓴다. | 발화 (said) | 모든 said에 who, aloud, direct를 적는다. | 따옴표("", '')는 said 밖. | 실제로 한 말(회상된 말 포함)은 aloud="true". 생각·상상·가정·말하지 않았다고 서술된 말은 aloud="false". | 따옴표가 없어도 인물의 생각·독백이 1인칭 어투로 이어지면 said aloud="false". | 1인칭과 인물 어투가 살아 있으면 direct="true", '자기'처럼 서술자 시점으로 바뀌었으면 direct="false". | 편지는 who=작성자, aloud="false". | 간접화법(…라고 말하였다의 내용 요약)은 said로 만들지 않는다. | 그 밖 | 한자 병기는 foreign xml:lang="zh", 괄호는 태그 밖: 고절(&lt;foreign xml:lang="zh"&gt;苦節&lt;/foreign&gt;). (인명의 한자는 아래 '결정 필요') | 원문에 없는 head나 장 번호를 만들지 않는다. 원문 글자·따옴표·괄호·오자를 고치지 않는다(교정은 choice/sic/corr로만).</p>
-        </interpretation>
-      </editorialDecl>
-      <tagsDecl>
-        <namespace name="http://www.tei-c.org/ns/1.0">
-          <tagUsage gi="persName" occurs="410"/>
-          <tagUsage gi="rs" occurs="380"/>
-          <tagUsage gi="said" occurs="178"/>
-          <tagUsage gi="p" occurs="161"/>
-          <tagUsage gi="placeName" occurs="29"/>
-          <tagUsage gi="mentioned" occurs="20"/>
-          <tagUsage gi="foreign" occurs="17"/>
-          <tagUsage gi="div" occurs="10"/>
-          <tagUsage gi="orgName" occurs="7"/>
-          <tagUsage gi="title" occurs="5"/>
-          <tagUsage gi="note" occurs="2"/>
-          <tagUsage gi="text" occurs="1"/>
-          <tagUsage gi="body" occurs="1"/>
-        </namespace>
-      </tagsDecl>
-    </encodingDesc>
-    <profileDesc>
-      <creation>
-        <date>1917</date>
-      </creation>
-      <langUsage>
-        <language ident="ko">Korean</language>
-      </langUsage>
-      <textClass>
-        <keywords scheme="local">
-          <term>근현대 한국문학</term>
-        </keywords>
-      </textClass>
-      <particDesc>
-        <listPerson>
-          <person xml:id="PYC">
-            <persName type="canonical" xml:lang="ko">박영채</persName>
-            <persName type="alias" xml:lang="ko">영채</persName>
-            <persName type="alias" xml:lang="ko">계월향</persName>
-            <persName type="alias" xml:lang="ko">월향</persName>
-          </person>
-          <person xml:id="KBU">
-            <persName type="canonical" xml:lang="ko">김병욱</persName>
-            <persName type="alias" xml:lang="ko">병욱</persName>
-            <persName type="alias" xml:lang="ko">병옥</persName>
-            <persName type="alias" xml:lang="ko">병목</persName>
-          </person>
-          <person xml:id="KBG">
-            <persName type="canonical" xml:lang="ko">김병국</persName>
-            <persName type="alias" xml:lang="ko">병국</persName>
-          </person>
-          <person xml:id="BUF">
-            <persName type="canonical" xml:lang="ko">김병욱의 부친</persName>
-          </person>
-          <person xml:id="BUM">
-            <persName type="canonical" xml:lang="ko">김병욱의 모친</persName>
-          </person>
-          <person xml:id="BUGM">
-            <persName type="canonical" xml:lang="ko">김병욱의 조모</persName>
-          </person>
-          <person xml:id="BUHN">
-            <persName type="canonical" xml:lang="ko">김병국의 처</persName>
-          </person>
-          <person xml:id="LHS">
-            <persName type="canonical" xml:lang="ko">이형식</persName>
-            <persName type="alias" xml:lang="ko">형식</persName>
-          </person>
-          <person xml:id="KSH">
-            <persName type="canonical" xml:lang="ko">김선형</persName>
-            <persName type="alias" xml:lang="ko">선형</persName>
-          </person>
-          <person xml:id="YSA">
-            <persName type="canonical" xml:lang="ko">윤순애</persName>
-            <persName type="alias" xml:lang="ko">순애</persName>
-          </person>
-          <person xml:id="KJL">
-            <persName type="canonical" xml:lang="ko">김광현</persName>
-            <persName type="alias" xml:lang="ko">김 장로</persName>
-            <persName type="alias" xml:lang="ko">김장로</persName>
-          </person>
-          <person xml:id="KJW">
-            <persName type="canonical" xml:lang="ko">김 장로의 부인</persName>
-          </person>
-          <person xml:id="SWS">
-            <persName type="canonical" xml:lang="ko">신우선</persName>
-            <persName type="alias" xml:lang="ko">우선</persName>
-          </person>
-          <person xml:id="GWH">
-            <persName type="canonical" xml:lang="ko">계월화</persName>
-            <persName type="alias" xml:lang="ko">월화</persName>
-          </person>
-          <person xml:id="NP">
-            <persName type="canonical" xml:lang="ko">영채의 노파</persName>
-          </person>
-          <person xml:id="HNP">
-            <persName type="canonical" xml:lang="ko">형식의 하숙집 주인 노파</persName>
-            <persName type="alias" xml:lang="ko">주인 노파</persName>
-          </person>
-          <person xml:id="JPS">
-            <persName type="canonical" xml:lang="ko">재판소 서기</persName>
-            <note>병욱의 부친이 사위로 삼으려는 인물(경성전수학교 졸업). 이름은 원문에 나오지 않음.</note>
-          </person>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
-    <revisionDesc>
-      <change when="2026-10-26">KNoTE 초벌을 검수한 수정본을 기준으로, TEI-Agent(DeepSeek) 결과물의 헤더 항목과 장소·기관 목록을 합침. 편지 aloud 값, 누락된 direct 속성, 간접화법 said를 반 규칙에 맞게 고치고 재판소 서기 인물을 추가함.</change>
-    </revisionDesc>
-  </teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>무정</title>
+          <author>이광수</author>
+          <respStmt xml:id="encoder">
+            <resp>TEI 인코딩</resp>
+            <name>KNoTE Google AI Studio 앱 「Conversion of Korean Modern Literature xml/tei」</name>
+          </respStmt>
+          <respStmt xml:id="teiagent">
+            <resp>헤더·장소·기관 체계 참조 (자동 인코딩 결과물)</resp>
+            <name>TEI-Agent 0.1.3 (browser) with DeepSeek API</name>
+          </respStmt>
+          <respStmt xml:id="editor">
+            <resp>TEI 검수</resp>
+            <name>김강은</name>
+          </respStmt>
+        </titleStmt>
+        <publicationStmt>
+          <p>미간행.</p>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="digitalSource"><author>이광수</author><title>무정</title><publisher>위키문헌 (Wikisource)</publisher><biblScope unit="chapter">91–100</biblScope><ref target="https://ko.wikisource.org/wiki/무정/81장~100장">무정/81장~100장</ref></bibl>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p>본 전자본은 TEI P5 지침(TEI ALL)에 따라 구조화함.</p>
+        </projectDesc>
+        <editorialDecl>
+          <normalization>
+            <p>원문 표기와 문장부호를 그대로 둠. 괄호 속 교정은 저본의 것을 그대로 둠.</p>
+          </normalization>
+          <quotation>
+            <p>따옴표는 said 밖에 둠.</p>
+          </quotation>
+          <interpretation>
+            <p>Project encoding rules supplied by the encoders were added to every model instruction: 『무정』 태깅 — 우리 반 합의 규칙 (2026-2 한국문학텍스트와네트워크분석연구) | 인물 | 본명·예명(이형식, 박영채, 계월향)은 persName. 직함·관계·설명으로 특정인을 부르는 말(김장로, 배학감, 함교장, 한목사, 부친, 노파)은 persName이 아니라 rs type="person" ref="#…". | 조사와 '씨', '군', '님'은 태그 밖: &lt;persName&gt;형식&lt;/persName&gt;이, &lt;persName&gt;우영&lt;/persName&gt; 군. | 작품 전체에 인물 하나 = ID 하나. 월향·계월향은 박영채와 같은 인물이다. 같은 표면어라도 다른 사람이면 ID를 나눈다(형식의 하숙집 노파와 다른 노파). | 원문에 없는 이름으로 보충하지 않는다(외부 지식으로 성이나 본명을 채우지 않는다). | 구성원이 확정된 복수 지칭(두 사람, 장로 양주)은 ref에 여러 ID를 띄어 쓴다. | 발화 (said) | 모든 said에 who, aloud, direct를 적는다. | 따옴표("", '')는 said 밖. | 실제로 한 말(회상된 말 포함)은 aloud="true". 생각·상상·가정·말하지 않았다고 서술된 말은 aloud="false". | 따옴표가 없어도 인물의 생각·독백이 1인칭 어투로 이어지면 said aloud="false". | 1인칭과 인물 어투가 살아 있으면 direct="true", '자기'처럼 서술자 시점으로 바뀌었으면 direct="false". | 편지는 who=작성자, aloud="false". | 간접화법(…라고 말하였다의 내용 요약)은 said로 만들지 않는다. | 그 밖 | 한자 병기는 foreign xml:lang="zh", 괄호는 태그 밖: 고절(&lt;foreign xml:lang="zh"&gt;苦節&lt;/foreign&gt;). (인명의 한자는 아래 '결정 필요') | 원문에 없는 head나 장 번호를 만들지 않는다. 원문 글자·따옴표·괄호·오자를 고치지 않는다(교정은 choice/sic/corr로만).</p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi="persName" occurs="410"/>
+            <tagUsage gi="rs" occurs="380"/>
+            <tagUsage gi="said" occurs="178"/>
+            <tagUsage gi="p" occurs="161"/>
+            <tagUsage gi="placeName" occurs="29"/>
+            <tagUsage gi="mentioned" occurs="20"/>
+            <tagUsage gi="foreign" occurs="17"/>
+            <tagUsage gi="div" occurs="10"/>
+            <tagUsage gi="orgName" occurs="7"/>
+            <tagUsage gi="title" occurs="5"/>
+            <tagUsage gi="note" occurs="2"/>
+            <tagUsage gi="text" occurs="1"/>
+            <tagUsage gi="body" occurs="1"/>
+          </namespace>
+        </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+        <creation>
+          <date>1917</date>
+        </creation>
+        <langUsage>
+          <language ident="ko">Korean</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="local">
+            <term>근현대 한국문학</term>
+          </keywords>
+        </textClass>
+        <particDesc>
+          <listPerson>
+            <person xml:id="PYC">
+              <persName type="canonical" xml:lang="ko">박영채</persName>
+              <persName type="alias" xml:lang="ko">영채</persName>
+              <persName type="alias" xml:lang="ko">계월향</persName>
+              <persName type="alias" xml:lang="ko">월향</persName>
+            </person>
+            <person xml:id="KBU">
+              <persName type="canonical" xml:lang="ko">김병욱</persName>
+              <persName type="alias" xml:lang="ko">병욱</persName>
+              <persName type="alias" xml:lang="ko">병옥</persName>
+              <persName type="alias" xml:lang="ko">병목</persName>
+            </person>
+            <person xml:id="KBG">
+              <persName type="canonical" xml:lang="ko">김병국</persName>
+              <persName type="alias" xml:lang="ko">병국</persName>
+            </person>
+            <person xml:id="BUF">
+              <persName type="canonical" xml:lang="ko">김병욱의 부친</persName>
+            </person>
+            <person xml:id="BUM">
+              <persName type="canonical" xml:lang="ko">김병욱의 모친</persName>
+            </person>
+            <person xml:id="BUGM">
+              <persName type="canonical" xml:lang="ko">김병욱의 조모</persName>
+            </person>
+            <person xml:id="BUHN">
+              <persName type="canonical" xml:lang="ko">김병국의 처</persName>
+            </person>
+            <person xml:id="LHS">
+              <persName type="canonical" xml:lang="ko">이형식</persName>
+              <persName type="alias" xml:lang="ko">형식</persName>
+            </person>
+            <person xml:id="KSH">
+              <persName type="canonical" xml:lang="ko">김선형</persName>
+              <persName type="alias" xml:lang="ko">선형</persName>
+            </person>
+            <person xml:id="YSA">
+              <persName type="canonical" xml:lang="ko">윤순애</persName>
+              <persName type="alias" xml:lang="ko">순애</persName>
+            </person>
+            <person xml:id="KJL">
+              <persName type="canonical" xml:lang="ko">김광현</persName>
+              <persName type="alias" xml:lang="ko">김 장로</persName>
+              <persName type="alias" xml:lang="ko">김장로</persName>
+            </person>
+            <person xml:id="KJW">
+              <persName type="canonical" xml:lang="ko">김 장로의 부인</persName>
+            </person>
+            <person xml:id="SWS">
+              <persName type="canonical" xml:lang="ko">신우선</persName>
+              <persName type="alias" xml:lang="ko">우선</persName>
+            </person>
+            <person xml:id="GWH">
+              <persName type="canonical" xml:lang="ko">계월화</persName>
+              <persName type="alias" xml:lang="ko">월화</persName>
+            </person>
+            <person xml:id="NP">
+              <persName type="canonical" xml:lang="ko">영채의 노파</persName>
+            </person>
+            <person xml:id="HNP">
+              <persName type="canonical" xml:lang="ko">형식의 하숙집 주인 노파</persName>
+              <persName type="alias" xml:lang="ko">주인 노파</persName>
+            </person>
+            <person xml:id="JPS">
+              <persName type="canonical" xml:lang="ko">재판소 서기</persName>
+              <note>병욱의 부친이 사위로 삼으려는 인물(경성전수학교 졸업). 이름은 원문에 나오지 않음.</note>
+            </person>
+          </listPerson>
+        </particDesc>
+      </profileDesc>
+      <revisionDesc>
+        <change when="2026-10-26">KNoTE 초벌을 검수한 수정본을 기준으로, TEI-Agent(DeepSeek) 결과물의 헤더 항목과 장소·기관 목록을 합침. 편지 aloud 값, 누락된 direct 속성, 간접화법 said를 반 규칙에 맞게 고치고 재판소 서기 인물을 추가함.</change>
+      </revisionDesc>
+    </teiHeader>
   <standOff>
-    <listPlace>
-      <place xml:id="L18" type="city"><placeName>황주</placeName></place>
-      <place xml:id="L19" type="city"><placeName>동경</placeName></place>
-      <place xml:id="L21" type="city"><placeName>평양</placeName></place>
-      <place xml:id="L22" type="district"><placeName>다방골</placeName></place>
-      <place xml:id="L23" type="district"><placeName>탑골</placeName></place>
-      <place xml:id="L24" type="country"><placeName>미국</placeName></place>
-      <place xml:id="L25" type="country"><placeName>조선</placeName></place>
-      <place xml:id="L26" type="city"><placeName>서울</placeName></place>
-      <place xml:id="L27" type="country"><placeName>일본</placeName></place>
-    </listPlace>
-    <listOrg>
-      <org xml:id="O27" type="school"><orgName>경성학교</orgName></org>
-      <org xml:id="O28" type="school"><orgName>경성전수학교</orgName></org>
-      <org xml:id="O29" type="company"><orgName>양잠회사</orgName></org>
-      <org xml:id="O30" type="religious"><orgName>교회</orgName></org>
-    </listOrg>
-  </standOff>
+      <listPlace>
+        <place xml:id="L18" type="city"><placeName>황주</placeName></place>
+        <place xml:id="L19" type="city"><placeName>동경</placeName></place>
+        <place xml:id="L21" type="city"><placeName>평양</placeName></place>
+        <place xml:id="L22" type="district"><placeName>다방골</placeName></place>
+        <place xml:id="L23" type="district"><placeName>탑골</placeName></place>
+        <place xml:id="L24" type="country"><placeName>미국</placeName></place>
+        <place xml:id="L25" type="country"><placeName>조선</placeName></place>
+        <place xml:id="L26" type="city"><placeName>서울</placeName></place>
+        <place xml:id="L27" type="country"><placeName>일본</placeName></place>
+      </listPlace>
+      <listOrg>
+        <org xml:id="O27" type="school"><orgName>경성학교</orgName></org>
+        <org xml:id="O28" type="school"><orgName>경성전수학교</orgName></org>
+        <org xml:id="O29" type="company"><orgName>양잠회사</orgName></org>
+        <org xml:id="O30" type="religious"><orgName>교회</orgName></org>
+      </listOrg>
+    </standOff>
   <text>
     <body>
-      <div n="91" type="chapter" xml:id="ch91">
+      <div type="chapter" n="91">
         <p><persName ref="#PYC">영채</persName>는 <rs type="person" ref="#KBU">여학생</rs>에게 끌려 <placeName ref="#L18">황주</placeName>서 내렸다. <rs type="person" ref="#KBU">여학생</rs>은 <persName ref="#PYC">영채</persName>를 <rs type="person" ref="#KBU">자기</rs>의 친구라 하여 집에 소개하고 <rs type="person" ref="#KBU">자기</rs>와 한방에 있기로 하였다. 그 집에는 사십여 세 되는 <rs type="person" ref="#BUF #BUM">부모</rs>와, <rs type="person" ref="#KBU">여학생</rs>보다 삼사 세 위 되는 <rs type="person" ref="#KBG">오라비</rs>와, 허리 구부러진 <rs type="person" ref="#BUGM">조모</rs>가 있었다. 그 <rs type="person" ref="#BUGM">조모</rs>는 <rs type="person" ref="#KBU">손녀</rs>를 보고 아무 말도 없이 너무 반가워서 눈물을 흘렸다. <rs type="person" ref="#KBU">여학생</rs>의 <rs type="person" ref="#BUM">자친</rs>은 다정하고 현숙한 부인이다. <rs type="person" ref="#BUF">부친</rs>은 <rs type="person" ref="#KBU">딸</rs>이 절하는 것을 보고도 별로 기쁜 빛도 표하지 아니하고 도리어 고개를 돌렸다. <rs type="person" ref="#KBU">여학생</rs>은 그것을 보고 혼자 빙긋 웃었다. <rs type="person" ref="#KBG">오라비</rs>는 웃으며 <rs type="person" ref="#KBU">누이</rs>를 맞았다. 그러고 <rs type="person" ref="#KBU">누이</rs>의 어깨를 만지며,</p>
         <p>“<said aloud="true" direct="true" who="#KBG">왜 오는 날을 알리지 아니했니?</said>” 하였다. 그러고 <placeName ref="#L19">동경</placeName>에 관한 말을 물었다. <rs type="person" ref="#BUHN">오라범댁</rs>은 <rs type="person" ref="#BUF #BUM">부모</rs> 앞에서는 가만히 웃기만 하다가 <rs type="person" ref="#KBU">여학생</rs>과 마주앉았을 때에는 손을 잡고 등을 만지고 하며 반기는 빛이 넘친다. <persName ref="#PYC">영채</persName>는 이러한 모든 광경을 보고 <said aloud="false" direct="true" who="#PYC">재미있는 가정이다</said> 하였다. 그러고 없어진 집 생각이 났다.</p>
         <p>그날 저녁에는 <rs type="person" ref="#BUF">부친</rs>을 빼어 놓고 온 가족이 모여앉아서 밀국수를 먹으며 즐겁게 이야기하였다. <persName ref="#PYC">영채</persName>는 <rs type="person" ref="#KBU">여학생</rs>의 곁에 잠자코 가만히 앉았다. <rs type="person" ref="#KBG">오라비</rs>는 <persName ref="#PYC">영채</persName>에게 대하여 어려운 생각이 나는지 한참 이야기하다가 밖으로 나가고 여자들만 모여앉았다. <rs type="person" ref="#KBU">여학생</rs>은 쾌활하게 <rs type="person" ref="#BUGM">조모</rs>와 <rs type="person" ref="#BUM">모친</rs>과 <rs type="person" ref="#BUHN">형수(오라범댁)</rs>를 번갈아 보아 가며, <placeName ref="#L19">동경</placeName>서 일 년 동안 지내던 이야기를 한다. <rs type="person" ref="#BUGM">조모</rs>는 이따금 웃으며 고개를 끄덕끄덕한다. 그 중에도 <rs type="person" ref="#BUHN">형수</rs>가 제일 재미있게 듣는다. <rs type="person" ref="#BUM">모친</rs>은 <rs type="person" ref="#KBU">딸</rs>의 이야기는 듣는지 마는지 먹을 것만 주선하며 이따금 <rs type="person" ref="#KBU">딸</rs>의 이야기에는 상관도 없는 질문을 한다. <rs type="person" ref="#KBU">딸</rs>이, “<said aloud="true" direct="true" who="#KBU">어머닌 남의 말은 아니 듣고</said>” 하면, “<said aloud="true" direct="true" who="#BUM">왜 안 들어. 어서 해라</said>” 하기는 하면서도 또 딴소리를 하여서는 젊은 사람들을 웃긴다. <persName ref="#PYC">영채</persName>도 남을 따라서 웃었다. 실상 <rs type="person" ref="#BUM">모친</rs>은 <rs type="person" ref="#KBU">딸</rs>의 말을 잘 알아듣지 못한다. (<note type="authorial" place="inline"><rs type="person" ref="#BUGM">조모</rs>는 더구나 알아듣지 못한다.</note>) <rs type="person" ref="#BUGM">조모</rs>는 웃기도 그치고 하품을 시작한다. <rs type="person" ref="#BUHN">형수</rs>와 <persName ref="#PYC">영채</persName>만이 턱을 받치고 재미나게 듣는다. 얼마 있다가 <rs type="person" ref="#BUM">모친</rs>도 졸린지 눈이 껌벅이며 눈물이 흐른다. (<rs type="person" ref="#BUM">모친</rs>이) 일어나 베개를 내려 <rs type="person" ref="#BUGM">조모</rs>께 드리며,</p>
@@ -179,7 +179,7 @@
         <p><persName ref="#KBU">병욱</persName>은 <persName ref="#PYC">영채</persName>를 매우 재주 있고, 깨닫기 잘하고, 공부 잘한 여자로 알았다. 처음에는 <rs type="person" ref="#KBU">자기</rs>의 말을 못 알아들을 듯하여 아무쪼록 알아듣기 쉬운 말을 골라 하였으나, 이제는 거의 평등으로 대접한다. <persName ref="#PYC">영채</persName>는 무론 <persName ref="#KBU">병욱</persName>을 헤아릴 수 없이 이상한 지식과 생각을 많이 가진 사람으로 안다. 그러므로 <persName ref="#KBU">병욱</persName>의 입으로 나오는 말이면 무엇이나 주의하여 듣고 힘써 해석해 본다. 그래서 이삼 일 내에 <persName ref="#KBU">병욱</persName>의 생각을 대강 짐작하게 되었고, 또 <persName ref="#KBU">병욱</persName>의 생각이 <rs type="person" ref="#PYC">자기</rs>가 지금토록 하여 오던 생각과는 거의 정반대됨을 깨달았다. 그러고 그 생각이 도리어 합리하는 것같이 생각하였다. 지금은 차 중에서 <persName ref="#KBU">병욱</persName>이가 하던 말을 잘 깨달아 알게 되었다.</p>
         <p><persName ref="#KBU">병욱</persName>과 <persName ref="#PYC">영채</persName>는 깊이 정이 들었다. 둘이 마주앉으면 시간 가는 줄을 모르고 이야기에 취하게 되었다. <persName ref="#PYC">영채</persName>는 <persName ref="#KBU">병욱</persName>에게 새로운 지식과 서양식 감정을 맛보고, <persName ref="#KBU">병욱</persName>은 <persName ref="#PYC">영채</persName>에게 옛날 지식과 동양식 감정을 맛보았다. <persName ref="#KBU">병욱</persName>은 낡은 것을 모두 싫어하였었다. 그러나 <persName ref="#PYC">영채</persName>의 잘 이해한 사상을 접하매 옛날 사상에는(사상에도) 여러 가지 맛있는 점이 있음을 깨달았다. 그래서 새삼스럽게 <title>소학</title>이며 <title>열녀전</title>이며, 한시 한문을 배우고 싶은 생각까지도 나게 되었다. 집에서 먼지 오르던 {<title>고문진보</title>} 같은 것을 내어서 이것저것 <persName ref="#PYC">영채</persName>에게 배우기도 하고, 배운 것을 외우기도 하였다. ‘<said aloud="true" direct="true" who="#KBU">참 재미있다</said>’ 하고 어린애같이 기뻐하면서 소리를 내어 읊기도 하였다. <rs type="person" ref="#BUF">부친</rs>은 <persName ref="#KBU">병욱</persName>이가 시 읊는 소리를 듣고 칭찬을 하는지 조롱을 하는지 모르게 ‘<said aloud="true" direct="true" who="#BUF">흥, 흥</said>’ 하였다.</p>
       </div>
-      <div n="92" type="chapter" xml:id="ch92">
+      <div type="chapter" n="92">
         <p><persName ref="#KBU">병욱</persName>은 음악을 배운다. 한번은 사현금을 타다가 <persName ref="#PYC">영채</persName>더러,</p>
         <p>“<said aloud="true" direct="true" who="#KBU">집에서는 음악 배운다고 야단이야요. 그것은 배워서 광대 노릇을 하겠니? 하시고 학비도 아니 준다고 하지요. <rs type="person" ref="#KBU">내</rs>가 울고불고 떼를 쓰며 이것을 배우게 했어요. 집에서는 난봉났다 그러시지요. <rs type="person" ref="#KBG">오빠</rs>께서는 좀 나시지마는</said>” 하고 웃었다. 한참 재미롭게 사현금을 타다가도 밖에서 <rs type="person" ref="#BUF">부친</rs>의 기침 소리가 나면 얼른 그치고 어리광하는 듯이 진저리를 치며 웃는다. <persName ref="#PYC">영채</persName>도 사현금 소리가 좋다 하였다. 서양 악곡(<foreign xml:lang="zh">樂曲</foreign>)을 많이 들어 보지 못하였으므로 <placeName ref="#L23">탑골공원</placeName>의 음악도 별로 재미있게 아니 여겼더니, 이제는 서양 악곡의 묘미도 차차 알아 오는 듯하다.</p>
         <p><persName ref="#KBU">병욱</persName>은 사현금과 한시와, <persName ref="#PYC">영채</persName>와 이야기하는 것으로 재미를 삼게 되었다. 더구나 새로 맛보는 한시 맛에 사현금을 잊어버리는 일까지 있다. 그러면서도 <persName ref="#KBU">병욱</persName>은 분주히 돌아가며 <rs type="person" ref="#BUHN">형수</rs>를 도와 집일을 보살핀다. 하루는 크게 주름잡은 <rs type="person" ref="#BUGM">조모</rs>의 낡은 치마를 입고, 팔을 부르걷고, 호미를 들고 땀을 죽죽 흘리며 마당 구석과 담 밑과 울안에 잡초를 다 매고 이웃에 가서 화초를 얻어다가 옮겼다. 흙 묻은 손으로 땀을 씻어서 얼굴에는 누런 흙물이 여기저기 묻었다. 한(한참) 호미로 굳은 땅을 팔 적에 <rs type="person" ref="#BUF">부친</rs>이 들어오다가 물끄러미 보고 섰더니 빙그레 웃으면서,</p>
@@ -201,7 +201,7 @@
         <p>“<said aloud="true" direct="true" who="#KBU">녜, 그런데 집에서는 큰 반대지요. 서자(<foreign xml:lang="zh">庶子</foreign>)예요. 또 가난하고…… 호…… 그러나 사람은 참 좋아요. 얼굴도 좋고, 풍채도 좋고, 재주도 있고, 마음도 크고 곱고…… 아아, 너무 자랑을 했다. 그러나 자랑이 아니야요. 아마 <persName ref="#PYC">영채</persName> 씨가 보셔도 사랑하리다. 언제 한번 보여 드리지요. 그러나 빼앗아서는 안 되어요</said>” 하고 <persName ref="#PYC">영채</persName>를 보고 웃는다. <persName ref="#PYC">영채</persName>는 고개를 숙인 대로 웃는다.</p>
         <p>이 모양으로 사오 일이 지났다. <persName ref="#PYC">영채</persName>는 <placeName ref="#L26">서울</placeName> <rs type="person" ref="#NP">노파</rs>와 <persName ref="#LHS">형식</persName>에게 <rs type="person" ref="#PYC">자기</rs>가 살아 있단 말을 알려 주지 아니하였다. 후일에 서로 알 날이 있기를 바랐다. <persName ref="#PYC">영채</persName>는 이제부터 어떻게 살아갈는지.</p>
       </div>
-      <div n="93" type="chapter" xml:id="ch93">
+      <div type="chapter" n="93">
         <p><persName ref="#PYC">영채</persName>는 차차 이 집 내용을 알게 되었다. 오랫동안 가정이란 맛을 보지 못한 <persName ref="#PYC">영채</persName>에게는 부모 있고, 형제 있고, 자매 있는 이 가정은 마치 선경같이 즐겁고 행복되어 보이더니 점점 알아본즉 그 속에도 슬픔이 있고 괴로움이 있다. 첫째는 부자간에 뜻이 맞지 아니함이니, <rs type="person" ref="#KBG">아들</rs>은 <placeName ref="#L19">동경</placeName>에 가서 경제학을 배워 왔으므로 <rs type="person" ref="#KBG">자기</rs>가 중심이 되어 자본을 내어 무슨 회사 같은 것을 조직하려 하나, <rs type="person" ref="#BUF">부친</rs>은 위태한 일이라 하여 극력 반대한다. 또 <rs type="person" ref="#KBU">딸</rs>을 <placeName ref="#L19">동경</placeName>에 유학시키는 데 대하여서도 <rs type="person" ref="#KBG">아들</rs>은 찬성하되 <rs type="person" ref="#BUF">부친</rs>은 ‘<said aloud="true" direct="true" who="#BUF">계집애가 그렇게 공부는 해서 무엇 하느냐, 어서 시집이나 가는 것이 좋다</said>’ 하여 반대한다. 방학에 집에 올 때마다 <rs type="person" ref="#BUF">부친</rs>은 반드시 한두 번 반대하지마는 마침내 <rs type="person" ref="#KBG">아들</rs>에게 진다. 작년 여름에는 반대가 우심하여 <placeName ref="#L19">동경</placeName> 갈 노비를 아니 준다 하므로 <rs type="person" ref="#KBU">딸</rs>은 이틀이나 울고, <rs type="person" ref="#KBG">아들</rs>과 <rs type="person" ref="#BUM">어머니</rs>는 <rs type="person" ref="#BUF">부친</rs> 모르게 돈을 변통하여 노비를 당하였다. 그래서 <rs type="person" ref="#KBU">딸</rs>은 <rs type="person" ref="#BUF">부친</rs>께는 간다는 하직도 못 하고 <placeName ref="#L19">동경</placeName>으로 떠났다. 그 후에 며칠 동안 <rs type="person" ref="#BUF">부친</rs>은 성을 내어 식구들과 말도 잘 하지 아니하였으나 얼마 아니 하여, “<said aloud="true" direct="true" who="#BUF">얘, 이달 학비는 보냈니? 옷값이나 주어라</said>” 하게 되었다.</p>
         <p>이번에도 <rs type="person" ref="#BUF">부친</rs>은 기어이 <rs type="person" ref="#KBU">딸</rs>을 시집보내려 한다 하고, <rs type="person" ref="#KBG">아들</rs>은 졸업하기를 기다려야 한다 하여 두어 번이나 부자끼리 다투었다. <rs type="person" ref="#BUF">부친</rs>은 <rs type="person" ref="#BUF">자기</rs>의 친구의 아들에 <orgName ref="#O28">경성전수학교</orgName>를 졸업하고 지금 어느 재판소 서기로 있는 사람이 마음에 들어, 그가 작년에 상처한 것을 좋은 기회로 삼아 기어이 <rs type="person" ref="#JPS">사위</rs>를 삼으려 하나 <rs type="person" ref="#KBG">아들</rs>은 반대한다. <rs type="person" ref="#JPS">그 사람</rs>은 원래 부유한 집 자제로 십육칠 세부터 좀 방탕하게 놀다가 벼슬이 하고 싶다는 동기로 <orgName ref="#O28">전수학교</orgName>에 입학하였다. 근래에 흔히 있는 청년과 같이 별로 높은 이상이라든지 큰 목적이 있는 것이 아니라, 다만 금줄을 두르고 칼 차는 것을 유익한(유일한) 자랑으로 알며, 한 달에 몇 번씩 기생을 희롱하여 월급 외에도 매삭 몇십 원씩 집에서 돈을 가져간다. 좀 교만하고 경박하고 허영심 있는 청년이라. 그러나 <rs type="person" ref="#BUF">부친</rs>은 무엇에 혹하였는지 모르되, <rs type="person" ref="#JPS">이 사람</rs>밖에는 좋은 사람이 없는 듯이 생각한다. 그러나 <rs type="person" ref="#KBG">아들</rs>은 <rs type="person" ref="#JPS">이 사람</rs>을 싫어할 뿐더러 도리어 천하게 여긴다. 이리하여 부자간에는 만사에 별로 의견이 일치하는 일이 없다. <rs type="person" ref="#BUF">부친</rs>은 <rs type="person" ref="#KBG">아들</rs>을 고집쟁이요 철이 없고 <rs type="person" ref="#BUF #BUM">부모</rs>의 말을 아니 듣는다 하고, <rs type="person" ref="#KBG">아들</rs>은 <rs type="person" ref="#BUF">부친</rs>을 완고하고 무식하고 세상이 어떻게 변천하는지를 모른다 한다. 그러면서도 <rs type="person" ref="#BUF">부친</rs>은 <rs type="person" ref="#KBG">아들</rs>의 진실함과 친구간에 존경받는 줄을 알고, <rs type="person" ref="#KBG">아들</rs>은 그 <rs type="person" ref="#BUF">부친</rs>의 진실함과 부드러운 애정이 있는 줄을 안다. 이러므로 부자간에는 무엇이나 반대하면서도 어딘지 모르게 서로 일치하는 점이 있어 <rs type="person" ref="#BUM">모친</rs>은 특별한 의견은 없으되 흔히 <rs type="person" ref="#KBG">아들</rs>에게 찬성한다. 그러할 때마다 <rs type="person" ref="#BUF">부친</rs>은 <rs type="person" ref="#BUM">모친</rs>을 한번 흘겨보고, <rs type="person" ref="#BUM">모친</rs>도 <rs type="person" ref="#BUF">부친</rs>을 한번 흘겨본다. 그러나 이것은 어린애들이 서로 흘겨보는 것과 같아서 얼른 풀어지고 만다.</p>
         <p>그 다음에 걱정은 <rs type="person" ref="#KBG #BUHN">아들 내외</rs>의 사이에 정이 없음이다. <persName ref="#PYC">영채</persName>가 이 집에 온 지가 십여 일이 되도록 그 내외간에 서로 이야기하는 것을 보지 못하였다. 지나가는 사람 모양으로 서로 슬쩍 보고는 고개를 돌리든지 나가든지 한다. 그래도 <rs type="person" ref="#BUHN">아내</rs>는 밤낮 <rs type="person" ref="#KBG">남편</rs>의 옷을 빨고 다리고 한다. <persName ref="#PYC">영채</persName>가 여기 온 후로는 밤마다 <rs type="person" ref="#BUHN">며느리</rs>와 <rs type="person" ref="#KBU">딸</rs>과 <rs type="person" ref="#PYC">자기</rs>와 한방에서 잤다. 그러고 <rs type="person" ref="#KBG">아들</rs>은 사랑에서 혼자 자는 모양이었다. <persName ref="#PYC">영채</persName>는 얼마큼 미안한 생각이 있어서 <persName ref="#KBU">병욱</persName>더러 다른 방에 가기를 청하였더니 <persName ref="#KBU">병욱</persName>은 웃으며,</p>
@@ -215,14 +215,14 @@
         <p>“<said aloud="true" direct="true" who="#PYC">그러면 어쩌면 좋아요. 늘 그래서야 어떻게 사나요.</said>”</p>
         <p>“<said aloud="true" direct="true" who="#KBU">요새 젊은 부부는 대개 다 그렇대요. 큰 문제지요. 어서 그 문제를 해결해야 할 터인데……</said>” 하고 <rs type="person" ref="#KBU #PYC">두 처녀</rs>가 마주본다.</p>
       </div>
-      <div n="94" type="chapter" xml:id="ch94">
+      <div type="chapter" n="94">
         <p>부자간에 의견이 합하지 않는 것은 견디기도 하려니와, 내외간에 애정이 합하지 않는 것은 참 견디기 어려울 것이라. 상관없는 남의 일이언마는 다만 십여 일이라도 같이 있는 정리라, <persName ref="#PYC">영채</persName>에게는 이것도 걱정이 된다. <persName ref="#PYC">영채</persName>의 생각에는 될 수만 있으면 이 <rs type="person" ref="#KBG #BUHN">내외</rs>를 정답게 하여 주고 싶다. <persName ref="#PYC">영채</persName>에게는 그 <rs type="person" ref="#BUHN">부인</rs>이나 <rs type="person" ref="#KBG">남편</rs>이 다 같이 정답게 보인다. 오래 교제를 하여 볼수록 그 <rs type="person" ref="#BUHN">부인</rs>이 마음에 들어 이제는 진정으로 (형님이라 부르고 싶다. 이전 <persName ref="#GWH">월화</persName>에게) 대한 정과 비슷한 애정이 솟아오른다. 무론 <persName ref="#GWH">월화</persName>에 대한 것과 같이 존경하고 의탁하는 생각은 없으나 한껏 사랑스럽고 한껏 불쌍한 생각이 난다. 그래서 될 수 있는 대로 <rs type="person" ref="#BUHN">부인</rs>의 곁에 있어서 이야기 동무도 하여 주고, 기회만 있으면 위로도 하여 준다. <rs type="person" ref="#BUHN">부인</rs>도 이제는 <persName ref="#PYC">영채</persName>와 친하여서 여러 가지로 속에 있는 생각을 말한다. <persName ref="#KBU">병욱</persName>은 다정하면서도 얼마큼 뻑뻑한 맛이 있거니와 <persName ref="#PYC">영채</persName>는 다정하고도 부드러운 맛이 있었다. 그래서 <rs type="person" ref="#BUHN">부인</rs>은 <persName ref="#PYC">영채</persName>와 말하기를 유일의 낙으로 알았다. 차라리 어떤 점으로는 <rs type="person" ref="#KBU">시누이</rs>보다도 <persName ref="#PYC">영채</persName>가 더 정답고 사랑스럽다. 그래서 <persName ref="#PYC">영채</persName>의 손을 꼭 쥐며, “<said aloud="true" direct="true" who="#BUHN">아이구, 어쩌면 좋소</said>” 하기까지 한다.</p>
         <p>그보다 더 괴로운 것은 <persName ref="#PYC">영채</persName>의 생각이라. <persName ref="#PYC">영채</persName>는 웬일인지 모르게 그 <rs type="person" ref="#BUHN">부인</rs>의 <rs type="person" ref="#KBG">남편</rs> 되는 이에게 대하여 일종 정다운 생각이 난다. 처음에는 친구의 <rs type="person" ref="#KBG">오빠</rs>인 까닭이라 하였으나 차차 더 격렬하게 <rs type="person" ref="#KBG">그</rs>의 모양이 생각이 나고, <rs type="person" ref="#KBG">그</rs>의 모양이 번뜻 보일 때마다 문득 가슴이 울렁울렁하고 얼굴이 뻘개진다. <persName ref="#PYC">영채</persName>가 보기에 <rs type="person" ref="#KBG">그</rs>도 <rs type="person" ref="#PYC">자기</rs>를 다정한 눈으로 보는 듯하다. <persName ref="#PYC">영채</persName>는 암만 그것을 억제하려 하건마는 <rs type="person" ref="#PYC">제</rs> 마음을 <rs type="person" ref="#PYC">제</rs> 마음대로 할 수가 없다. 그래서 자리에 누워도 <rs type="person" ref="#KBG">그</rs>의 좀 넓적한 얼굴이 눈에 보여서 도무지 잘 수가 없다. 그러할 때마다 곁에 누운 <rs type="person" ref="#BUHN">부인</rs>을 안으면 <rs type="person" ref="#BUHN">부인</rs>도 <persName ref="#PYC">영채</persName>를 안아 준다. <persName ref="#PYC">영채</persName>는 <rs type="person" ref="#BUHN">부인</rs>에게 대하여 미안하기도 하고, 죄송하기도 하다. 어서 이 집을 떠나야 하겠다 하면서, 또한 차마 떠나기가 싫기도 하다. 그래서 <persName ref="#PYC">영채</persName>에게는 또 한 가지 새 괴로움이 생겼다. 요사이 <persName ref="#PYC">영채</persName>는 흔히 멀거니 무슨 생각을 하다가, “<said aloud="true" direct="true" who="#KBU #BUHN">왜 그렇게 멀거니 앉았어요?</said>” 하는 말을 듣고는 깜짝 놀라게 된다.</p>
         <p>이로부터 <persName ref="#PYC">영채</persName>는 차차 남자가 그리워진다. 전부터 외롭게 적막하게 지내 왔거니와, 지금은 그 외로움과 그 적막과는 유다른 적막이 더 굳세게 <persName ref="#PYC">영채</persName>의 가슴을 누른다. 이전에는 넓은 천지에 저 혼자만 있는 듯한 적막이더니 지금은 <rs type="person" ref="#PYC">제</rs> 몸이 반편인 듯한 적막이로다. 다른 반편이 있어야 <rs type="person" ref="#PYC">제</rs> 몸은 온전하여질 것 같다. 공연히 가슴이 울렁울렁하고 얼굴이 훗훗하여진다. 피곤한 듯도 하고, 술취한 듯도 하다. 무엇에 기대고 싶고 누구에게 안기고 싶다.</p>
         <p><persName ref="#PYC">영채</persName>는 가만히 앉아서 이때껏 접하여 오던 여러 남자를 생각하여 본다. <rs type="person" ref="#PYC">자기</rs>의 손목을 잡아 끌던 사람, 겨드랑으로 손을 넣어 끌어안던 사람, 억지로 뺨을 대던 사람, 음란한 눈으로 <rs type="person" ref="#PYC">자기</rs>를 유혹하며 교만한 말로 <rs type="person" ref="#PYC">자기</rs>를 위협도 하던 사람. 그때에는 그렇게 원수스럽고 미워 보이던 남자들조차 무어라고 말할 수 없는 따뜻한 감각을 준다. 남자의 살이 <rs type="person" ref="#PYC">자기</rs>의 살에 와 닿던 감각이 자릿자릿하게 새로워진다. <said aloud="false" direct="true" who="#PYC">지금 <rs type="person" ref="#PYC">내</rs> 곁에 남자가 하나 있었으면 작히 좋으랴.</said> 누구든지 손을 달라면 손을 주고 안아 준다면 안기고 싶다.</p>
         <p><persName ref="#PYC">영채</persName>는 <persName ref="#SWS">신우선</persName>을 생각하고 <persName ref="#LHS">이형식</persName>을 생각한다. 여러 해 동안 접하여 오던 남자 중에 <persName ref="#SWS">신우선</persName>은 가장 <persName ref="#PYC">영채</persName>의 마음을 끌던 사람이다. <rs type="person" ref="#SWS">그</rs>는 풍채가 좋고, 쾌활한 기상이 좋고, 어디까지 모르게 사람을 끄는 힘이 있었다. 어떤 날 저녁에 둘이 마주앉아서 <persName ref="#SWS">우선</persName>이가 <persName ref="#PYC">영채</persName>를 달랠 때에 <persName ref="#PYC">영채</persName>의 마음도 아니 움직임도 아니었다. 당장 <rs type="person" ref="#SWS">그</rs>의 가슴에 이마를 대고 ‘<said aloud="false" direct="true" who="#PYC"><rs type="person" ref="#PYC">저</rs>를 거두어 주십시오</said>’ 하고도 싶었다. 그러나 그때에 <persName ref="#PYC">영채</persName>는 온전히 몸과 마음을 <persName ref="#LHS">형식</persName>에게 바친 줄로 자신하였으므로 이를 갈고 억제하였다. 실로 그 동안 <persName ref="#PYC">영채</persName>는 다른 남자의 모양이 생각에만 떠나와도 큰 죄로 여겨서 <rs type="person" ref="#PYC">제</rs> 살을 꼬집어 억제하였다. 이러므로 지금껏 <persName ref="#PYC">영채</persName>는 독립한 사람이 아니요, 어떤 도덕률(<foreign xml:lang="zh">道德律</foreign>)의 한 모형(<foreign xml:lang="zh">模型</foreign>)에 지나지 못하였다. 마치 누에가 고치를 짓고 그 속에 들어 엎디인 모양으로, <persName ref="#PYC">영채</persName>도 알 수 없는 정절이라는 집을 짓고 그 속을 자기 세상으로 알고 있었다. 그러다가 이번 사건에 그 집이 다 깨어지고 <persName ref="#PYC">영채</persName>는 비로소 넓은 세상에 뛰어나왔다. 더구나 기차 속에서 <persName ref="#KBU">병욱</persName>을 만나며 <rs type="person" ref="#PYC">자기</rs>가 지금껏 유일한 세상으로 알아 오던 세상이 기실 보잘것없는 허깨비에 지나지 못하는 것과, 인생에는 자유롭고 즐거운 넓은 세상이 있는 것을 깨닫고, 이에 비로소 <persName ref="#PYC">영채</persName>는 자유로운 사람이 되고, 젊은 사람이 되고, 젊고 어여쁜 여자가 된 것이라. <persName ref="#PYC">영채</persName>의 가슴에는 이제야 비로소 사람의 피가 끓기 시작하고 사람의 정이 타기를 시작한다. <persName ref="#PYC">영채</persName>는 <rs type="person" ref="#PYC">자기</rs>의 마음이 전혀 변하여진 것을 생각한다. 마치 나서부터 어둡고 좁은 옥 속에서 지내다가 처음 햇빛 있고, 바람 불고, 꽃 피고, 새 우는 세상에 나온 것 같다. <persName ref="#PYC">영채</persName>는 거문고를 타고 바이올린을 울린다. 그러나 그 소리가 모두 다 새로운 빛을 띤다. 그러고 <persName ref="#PYC">영채</persName>의 눈에는 기쁨과 슬픔이 섞인 듯한 눈물이 핑 돈다.</p>
       </div>
-      <div n="95" type="chapter" xml:id="ch95">
+      <div type="chapter" n="95">
         <p><persName ref="#LHS">형식</persName>은 꿈같이 기쁘게 지낸다. 날마다 <persName ref="#KSH">선형</persName>에게 영어를 가르치고 다 가르치고 나서는 여러 가지 이야기를 한다. <persName ref="#KSH">선형</persName>은 이제는 낯이 익어서 부끄러워하면서도 조곰씩 농담도 한다. 그러나 <persName ref="#YSA">순애</persName>는 여전히 웃지도 아니하고 말도 많이 하지 아니한다. <persName ref="#LHS">형식</persName>은 <persName ref="#KSH">선형</persName>으로 더불어 재미있게 이야기하다가는 우두커니 앉았는 <persName ref="#YSA">순애</persName>를 보고는 문득 말을 그치고 미안한 듯이 슬쩍 <persName ref="#YSA">순애</persName>를 본다. <persName ref="#YSA">순애</persName>는 <persName ref="#LHS">형식</persName>의 눈을 피하려고도 아니하고 <persName ref="#LHS">형식</persName>이야 <rs type="person" ref="#YSA">자기</rs>를 보거나 말거나 전에 보던 데를 보고 앉았다. 이렇게 되면 <persName ref="#LHS">형식</persName>도 말하던 흥이 깨어져서 잠자코 앉았고, <persName ref="#KSH">선형</persName>도 책장만 벌깍벌깍 뒤진다. 어떤 때에는 <persName ref="#YSA">순애</persName>가 먼저 일어나서 밖으로 나가고 <persName ref="#LHS">형식</persName>과 <persName ref="#KSH">선형</persName>은 가만히 <persName ref="#YSA">순애</persName>의 뒷모양을 본다. <persName ref="#YSA">순애</persName>는 등이 좀 굽은 듯하고 어딘지 모르나 슬픈 빛이 보인다. 그러고 <rs type="person" ref="#LHS #KSH">두 사람</rs>은 마주보고 웃는다. 웃으면서도 서로 무슨 뜻인지는 모른다.</p>
         <p><persName ref="#LHS">형식</persName>은 아주 세상과 인연을 끊은 모양이 되었다. 학교는 사직하고, 학생들도 이제는 놀러 오지 아니하고, 원래 많지 않던 친구들도 근래에는 오지 아니한다. <persName ref="#SWS">우선</persName>도 무슨 분주한 일이 있는지 보이지 아니한다. <persName ref="#LHS">형식</persName>은 깨어서부터 잘 때까지 <persName ref="#KSH">선형</persName>과 <placeName ref="#L24">미국</placeName>만 생각한다. 그래도 조곰도 적막하지도 아니하고 도리어 더할 수 없이 기뻤다. <persName ref="#LHS">형식</persName>의 모든 희망은 <persName ref="#KSH">선형</persName>과 <placeName ref="#L24">미국</placeName>에 있다. 기생집에 갔다고 남들이 시비를 하고, 돈에 팔려서 장가를 든다고 남들이 비방을 하더라도 <persName ref="#LHS">형식</persName>이에게는 모두 우스웠다. 천하 사람이 다 <rs type="person" ref="#LHS">자기</rs>를 미워하고 조롱하더라도 <persName ref="#KSH">선형</persName> 한 사람이 <rs type="person" ref="#LHS">자기</rs>를 사랑하고 칭찬하면 그만이다. 또 <rs type="person" ref="#LHS">자기</rs>가 <placeName ref="#L24">미국</placeName>에 갔다가 돌아오는 날이면 만인이 다 <rs type="person" ref="#LHS">자기</rs>를 우러러보고 공경할 것이다. 장래의 희망이 없는 사람은 <rs type="person" ref="#LHS">자기</rs>의 현재를 가장 가치 있는 듯이 보려 하되, 장래에 큰 희망을 가진 <persName ref="#LHS">형식</persName>에게는 현재는 아주 가치 없는 것이라. <rs type="person" ref="#LHS">자기</rs>가 <orgName ref="#O27">경성학교</orgName>에서 교사 노릇 하던 것과, 그 학생들을 사랑하던 것과, <rs type="person" ref="#LHS">자기</rs>의 생활과 사업에 의미가 있는 듯이 생각하던 것이 우스워 보이고 지나간 <rs type="person" ref="#LHS">자기</rs>는 아주 가치 없는 못생긴 사람같이 보인다. 지나간 생활은 임시의 생활이요, 이제부터가 참말 <rs type="person" ref="#LHS">자기</rs>의 생활인 것 같다. 그래서 <persName ref="#LHS">형식</persName>의 생각에, <rs type="person" ref="#LHS">자기</rs>의 전도에는 오직 행복뿐이요, 아무 불행도 있을 것 같지 아니하다. <rs type="person" ref="#LHS">자기</rs>의 몸은 괴롭고 혼란한 티끌 세상을 떠나서 수천 길 높은 곳에 올라선 것 같다. 길에서 만나는 여러 사람들도 이제는 <rs type="person" ref="#LHS">자기</rs>와는 종류가 다른 불쌍한 사람같이 보인다. 더구나 이전에는 <rs type="person" ref="#LHS">자기</rs>의 동무로 알아 오던 <rs type="person" ref="#HNP">주인 노파</rs>가 지극히 불쌍하게 보이고, 갑자기 더 늙고 쪼그라진 것같이 보인다. 그러나 박복한 <persName ref="#LHS">형식</persName>에게는 또 한 가지 걱정이 생겼다.</p>
         <p>어떤 사람이 <rs type="person" ref="#KJL">김 장로</rs>에게 <persName ref="#LHS">형식</persName>의 품행이 방정치 못하다는 말을 하였다. 하루는 <rs type="person" ref="#KJL">장로</rs>가 불쾌한 낯빛으로 <rs type="person" ref="#KJW">부인</rs>께,</p>
@@ -239,7 +239,7 @@
         <p>“<said aloud="true" direct="true" who="#KJW">에그, 저런!</said>”</p>
         <p>이러한 말을 하다가 마침 <persName ref="#KSH">선형</persName>이가 들어오므로 말을 끊었다. 그러나 <persName ref="#KSH">선형</persName>은 대강 그 말을 들었다. 그 후에 <rs type="person" ref="#KJL #KJW">장로 부부</rs>는 다시 그런 말을 하지는 아니하였으나 마음속에는 말할 수 없는 근심이 있었다. <persName ref="#KSH">선형</persName>도 왜 그런지 모르게 그 말을 듣고는 좀 불쾌하였다. <persName ref="#LHS">형식</persName>을 보아도 웃고 싶지를 아니하고 도리어 미운 듯한 생각이 난다. 여전히 정다운 생각이 있으면서도 동시에 미운 생각과 의심이 난다. <persName ref="#KSH">선형</persName>의 가슴에는 괴로움이 생겼다. <persName ref="#LHS">형식</persName>은 이런 줄을 모르고 여전히 쾌활하게 지나건마는, <rs type="person" ref="#KJL">장로</rs> 집 식구들은 자연히 말이 적어지고 웃음이 적어지고 <persName ref="#LHS">형식</persName>을 대할 때에 일종 불쾌하고 경멸하고 괘씸하여 하는 생각으로써 한다. <persName ref="#LHS">형식</persName>도 차차 이 변천을 깨닫게 되었다. <persName ref="#YSA">순애</persName>의 슬픈 듯한 눈은 가만히 여러 사람의 눈치만 본다.</p>
       </div>
-      <div n="96" type="chapter" xml:id="ch96">
+      <div type="chapter" n="96">
         <p><persName ref="#KSH">선형</persName>이 보기에 <persName ref="#LHS">형식</persName>은 처음부터 <rs type="person" ref="#KSH">자기</rs>의 짝이 되기에는 너무 자격이 부족하였다. <rs type="person" ref="#KSH">자기</rs>의 이상의 지아비는 이러하였다. 첫째, 얼굴 모양이 둥그레하고 살빛이 희되 불그레한 빛이 돌고, 그러하고 말긋말긋하고 말소리가 유창하고 또 쾌활하고, 뒤로 보나 앞으로 보나 미끈하고 날씬하고, 손이 희고 부드럽고 재주가 있고 대학교를 졸업하고…… 이러한 사람이었다. 이러한 사람은 원칙상 부귀한 집이 아니면 구하기 어렵다. 처음에는 어떤 목사나 장로의 아들이기를 바랐으나, 점점 목사나 장로는 그다지 귀한 벼슬이 아닌 줄을 알게 되었다. 그러므로 <rs type="person" ref="#KSH">자기</rs>의 이상의 지아비는 <placeName ref="#L24">미국</placeName>에 유학하는 중이어니 하였었다.</p>
         <p>그러다가 처음 <persName ref="#LHS">형식</persName>을 보매 미상불 처녀가 처음 남자를 접하는 기쁨이 없음은 아니었으나 결코 <rs type="person" ref="#KSH">자기</rs>의 짝이라고는 생각지 아니하였다. <persName ref="#LHS">형식</persName>은 <rs type="person" ref="#KSH">자기</rs>보다 여러 층 떨어지는 딴 계급에 속한 사람이어니 하였다. 첫째, <persName ref="#LHS">형식</persName>의 얼굴은 <rs type="person" ref="#KSH">자기</rs>의 이상에 맞지 아니하였다. 얼굴이 길쭉하고 광대뼈가 나오고 볼이 좀 들어가고 눈꼬리가 처지고, 게다가 이마에는 오랫동안 빈궁하게 지낸 자취로 서너 줄 주름이 깔렸다. 그러고 손이 너무 크고 손가락이 모양이 없고…… 아주 못생긴 사람은 아니나 <rs type="person" ref="#KSH">자기</rs>의 이상에 그리던 남자와는 어림없이 틀린다. <persName ref="#LHS">형식</persName>의 태도에는 숨길 수 없이 빈궁한 빛이 보이고 마음을 쭉 펴지 못하는 듯한 침울한 기상이 드러난다. 게다가 <rs type="person" ref="#LHS">그</rs>의 이력과 <orgName ref="#O27">경성학교</orgName> 교사라는 <rs type="person" ref="#LHS">그</rs>의 지위는 <persName ref="#KSH">선형</persName>의 마음에는 너무 초라하게 생각되었다. 그러므로 일찍 <rs type="person" ref="#LHS">그</rs>를 정답다고 생각한 일도 없고 하물며 사랑스럽다고 생각한 일도 없었다. 만일 <persName ref="#KSH">선형</persName>이가 <persName ref="#LHS">형식</persName>에게 조곰이라도 호의를 가진 일이 있다 하면 그것은 불쌍하게 생각하였음이리라. <persName ref="#KSH">선형</persName>의 눈에 <persName ref="#LHS">형식</persName>은 과연 불쌍하게 보였다. 몇 시간 영어를 배우고 이야기를 들으매 얼마큼 <persName ref="#LHS">형식</persName>에게 숨은 위엄과 힘이 있는 줄도 깨달았으나 십칠팔 세 되는 처녀에게는 그것은 그리 중요한 것이 아니었다. 그래서 <persName ref="#KSH">선형</persName>은 ‘<said aloud="false" direct="true" who="#KSH"><persName ref="#LHS">형식</persName>과 <persName ref="#YSA">순애</persName>가 배필이 되었으면</said>’ 한 일이 있었다.</p>
         <p>그러다가 <rs type="person" ref="#KSH">자기</rs>가 <persName ref="#LHS">형식</persName>과 약혼을 하게 된다는 말을 듣고 일변 놀라며 일변 실망하였다. <persName ref="#LHS">형식</persName> 같은 사람으로 <rs type="person" ref="#KSH">자기</rs>의 배필을 삼으려 하는 <rs type="person" ref="#KJL">부친</rs>이 원망스럽기도 하고 불쾌하게도 생각이 되었다. <rs type="person" ref="#KSH">자기</rs>의 이상이 온통 깨어지고 <rs type="person" ref="#KSH">자기</rs>의 지위가 갑자기 떨어지는 듯하였다. 그러나 <persName ref="#KSH">선형</persName>은 <rs type="person" ref="#KJL #KJW">부모</rs>의 말을 거역하지 못할 줄을 안다. <said aloud="false" direct="false" who="#KSH"><rs type="person" ref="#KJL">부친</rs>의 말 한마디에 <rs type="person" ref="#KSH">자기</rs>의 일생은 결정되거니</said> 한다.</p>
@@ -247,7 +247,7 @@
         <p><persName ref="#KSH">선형</persName>은 <persName ref="#LHS">형식</persName>의 얼굴 교정하기를 그쳤다. 그 사업이 도저히 성공하지 못할 줄을 깨달았다. 그러고는 <persName ref="#LHS">형식</persName>의 얼굴에 아무쪼록 정이 들기를 힘쓴다. 지금까지는 <persName ref="#LHS">형식</persName>의 얼굴로 하여금 <rs type="person" ref="#KSH">자기</rs>의 마음에 맞도록 변화하게 하려 하였으나 지금은 <rs type="person" ref="#KSH">자기</rs>의 마음으로 하여금 <persName ref="#LHS">형식</persName>의 얼굴에 맞도록 변화하게 하려 한다. 억지로 ‘<said aloud="false" direct="true" who="#KSH"><persName ref="#LHS">형식</persName>의 얼굴 곱다</said>’ 하여 본다. ‘<said aloud="false" direct="true" who="#KSH">광대뼈 내민 것과 눈꼬리 처진 것이 도리어 정답다</said>’ 하여도 본다. ‘<said aloud="false" direct="true" who="#KSH"><rs type="person" ref="#LHS">그</rs>의 손이 크고 손가락이 긴 것이 도리어 남자답다</said>’ 하여도 본다. 그러면 과연 그렇다 하여지기도 하고 더 보기 흉하다 하여지기도 한다.</p>
         <p>그러나 점점 (더) 오래 상종을 하고, 말도 많이 듣고, 서로 생각도 통하여짐을 따라 <persName ref="#KSH">선형</persName>은 차차 <persName ref="#LHS">형식</persName>에게 정이 들어 온다. <said aloud="false" direct="true" who="#KSH"><persName ref="#LHS">형식</persName>의 입술이 곱다</said> 하게도 되고 <said aloud="false" direct="true" who="#KSH"><persName ref="#LHS">형식</persName>은 썩 다정하고 마음씨가 고운 사람이다</said> 하게도 된다. 자리에 들어가서는 으레 <persName ref="#LHS">형식</persName>의 모양을 한번씩 그려 보고 (얼굴을) 교정도 하여 본다. 그 중에 제일 마음에 드는 <persName ref="#LHS">형식</persName>의 입술을 그려 놓고는 가만히 쳐다보다가 혼자 웃으며 ‘<said aloud="false" direct="true" who="#KSH">이것만 해도 좋지</said>’ 한다. <persName ref="#KSH">선형</persName>은 <persName ref="#LHS">형식</persName>의 입술을 사랑한다. 그래서 <persName ref="#LHS">형식</persName>의 얼굴이 온통 입술이 되고 말기도 한다.</p>
       </div>
-      <div n="97" type="chapter" xml:id="ch97">
+      <div type="chapter" n="97">
         <p><persName ref="#LHS">형식</persName>도 <rs type="person" ref="#LHS">자기</rs>의 외모가 <persName ref="#KSH">선형</persName>의 마음을 끌리라고는 생각지 아니한다. 약혼한 뒤로부터 <persName ref="#LHS">형식</persName>은 혼자 거울을 대하여 <rs type="person" ref="#LHS">제</rs> 얼굴을 검사하여 보고, <said aloud="false" direct="true" who="#LHS">여기는 <persName ref="#KSH">선형</persName>이가 좋아하려니, 여기는 싫어하렷다</said> 하여 보며, <persName ref="#KSH">선형</persName>이가 하던 모양으로 <rs type="person" ref="#LHS">자기</rs>의 얼굴을 교정하여 본다. 그러나 그 얼굴이 <persName ref="#KSH">선형</persName>이가 발로 비비던 얼굴인 줄은 모른다. 그러나 <persName ref="#LHS">형식</persName>은 <rs type="person" ref="#LHS">자기</rs>의 인격을 믿고 지식을 믿는다. <said aloud="false" direct="false" who="#LHS"><rs type="person" ref="#LHS">자기</rs>의 인격의 힘이 족히 <persName ref="#KSH">선형</persName>의 마음을 후리리라</said> 한다. <persName ref="#KSH">선형</persName>은 아직 어린애다. <rs type="person" ref="#LHS">자기</rs>의 말동무가 되지 못한다. <persName ref="#KSH">선형</persName>은 아직 <rs type="person" ref="#LHS">자기</rs>의 인격을 알아줄 만한 정도가 되지 못한다. 이것이 고통이다. <said aloud="false" direct="true" who="#LHS">왜 <rs type="person" ref="#LHS">내</rs>게는 여자가 취할 만한 용모와 풍채가 없으며, 세상이 부러워하는 재산과 지위와 명예가 없는고</said> 하여 본다. 평생에는 우습게 말도 하고 조롱도 하던 용모, 재산, 지위도 이러한 때를 당하여서는 몹시 부러워진다. 그래서 <rs type="person" ref="#LHS">자기</rs>를 부귀한 집 도련님을 만들어 보고 호화로운 미소년을 만들어 보고 그러한 뒤에 <persName ref="#KSH">선형</persName>을 <rs type="person" ref="#LHS">자기</rs>의 앞에 놓아 본다. 그렇게 하여 보고 나면 현재의 <rs type="person" ref="#LHS">자기</rs>의 처지가 퍽 보잘것없게 초라해 보여서 혼자 등골에서 땀이 흐른다. <said aloud="false" direct="false" who="#LHS"><persName ref="#KSH">선형</persName>이가 <rs type="person" ref="#LHS">자기</rs>를 사랑할까, 도리어 밉게 여기든가 불쌍하게 여기지 아니할까</said>. 이렇게 생각하면 다시 <persName ref="#KSH">선형</persName>을 대하기가 싫다. <said aloud="false" direct="true" who="#LHS"><rs type="person" ref="#LHS">내</rs>가 <persName ref="#KSH">선형</persName>과 혼인한 것이 앙혼(<foreign xml:lang="zh">仰婚</foreign>)이 아닐까. <rs type="person" ref="#KSH">그</rs>는 돈이 있고 지위가 있고 용모가 있는데 <rs type="person" ref="#LHS">나</rs>는 무엇이 있나.</said> 이렇게 생각하면 부끄러워진다. 게다가 ‘<said aloud="false" direct="true" who="#LHS">처갓집 돈으로 <placeName ref="#L24">미국</placeName> 유학을 하여</said>’ 하면 더 부끄러운 생각이 나고 세상이 다 <rs type="person" ref="#LHS">자기</rs>의 못생긴 것을 비웃는 것 같다.</p>
         <p><said aloud="false" direct="true" who="#LHS"><placeName ref="#L25">조선</placeName>에 <rs type="person" ref="#LHS">나</rs>만큼 열성 있는 사람이 없고 인격과 학식과 재주도 <rs type="person" ref="#LHS">나</rs>만한 사람이 없다. <placeName ref="#L25">조선</placeName> 문명의 주춧돌은 <rs type="person" ref="#LHS">내</rs> 손으로 놓는다</said> 하던 <persName ref="#LHS">형식</persName>의 자부심은 다 없어지고 말았다. 없어진 것은 아니지마는 그것이 <persName ref="#LHS">형식</persName>에게는 그렇게 중요한 것은 아니었다. <persName ref="#KSH">선형</persName>의 사랑을 얻어야 한다. 이것이 <persName ref="#LHS">형식</persName>의 유익한(유일한) 목적이라. <persName ref="#KSH">선형</persName>의 사랑을 못 얻을는지 모르겠다. 이것이 <persName ref="#LHS">형식</persName>의 유일한 슬픔이라. <placeName ref="#L24">미국</placeName> 유학을 하는 것도 <placeName ref="#L25">조선</placeName>의 문명을 위한다는 것보다 <persName ref="#KSH">선형</persName> 한 사람의 사랑을 위한다는 것이 마땅하게 되었다. 사랑의 앞에서는 모든 교만과 자부심이 다 없어지고 만다.</p>
         <p>그러나 <persName ref="#LHS">형식</persName>은 <persName ref="#KSH">선형</persName>이 없이는 못 산다. 만일 <persName ref="#KSH">선형</persName>이가 <rs type="person" ref="#LHS">자기</rs>를 떼어 버린다 하면 <rs type="person" ref="#LHS">자기</rs>는 세상에서 아무것도 바랄 것이 없다. <said aloud="false" direct="false" who="#LHS">만일 <persName ref="#KSH">선형</persName>이가 <rs type="person" ref="#LHS">자기</rs>를 버린다 하면 <rs type="person" ref="#LHS">자기</rs>는 칼로 <persName ref="#KSH">선형</persName>과 <rs type="person" ref="#LHS">자기</rs>를 죽일 것이라</said> 한다. 다행히 <persName ref="#KSH">선형</persName>은 <rs type="person" ref="#KJL">부친</rs>의 명령을 거역할 자가 아니요, 또 사랑이 없다고 <rs type="person" ref="#LHS">자기</rs>를 버릴 자가 아니다. 그러나 도덕의 힘을 빌려 법률의 힘을 빌려서야 겨우 <persName ref="#KSH">선형</persName>을 <rs type="person" ref="#LHS">자기</rs>의 사랑에 복종케 한다 하면 부끄러운 일이다. 그래서 ‘<said aloud="false" direct="true" who="#LHS">아니, <persName ref="#KSH">선형</persName>은 <rs type="person" ref="#LHS">나</rs>를 사랑한다</said>’ 하고 억지로 확신하여 본다.</p>
@@ -259,7 +259,7 @@
         <p><said aloud="false" direct="true" who="#KBG">그런데 한 <rs type="person" ref="#PYC">이성(<foreign xml:lang="zh">異性</foreign>)</rs>이 <rs type="person" ref="#KBG">내</rs> 앞에 나섰다. <rs type="person" ref="#KBG">나</rs>는 견딜 수 없이 <rs type="person" ref="#PYC">그</rs>에게 끌려진다. <rs type="person" ref="#KBG">나</rs>는 지금 의리와 사랑의 두 사이에 끼어서 더할 수 없는 고통을 받는다.</said>”</p>
         <p>이러한 긴 편지였다.</p>
       </div>
-      <div n="98" type="chapter" xml:id="ch98">
+      <div type="chapter" n="98">
         <p><persName ref="#LHS">형식</persName>은 <persName ref="#KBG">병국</persName>의 편지를 보고 놀랐다. <persName ref="#KBG">병국</persName>은 유학생 중에도 극히 도덕적 인물이었다. 술도 아니 먹고 계집은 무론 곁에도 가지 아니하였다. 그 중에도 부부의 관계에 대하여는 극히 굳건한 사상을 가졌었다. 누가 아내에게 애정이 없다든지 이혼 문제를 말하면 <persName ref="#KBG">병국</persName>은 극력하여 반대하였다. 한번 부부가 된 이상에는 죽을 때까지 서로 사랑할 의무가 있다 하여 예수교적 혼인관을 가졌었다. 당시 유학생에게 연애론과 이혼론이 성하였을 때에 <persName ref="#KBG">병국</persName>은 유력한 부부 신성론자였다. 그러하던 <persName ref="#KBG">병국</persName>이가 이제는 이러한 말을 하게 되었다. ‘<said aloud="false" direct="true" who="#KBG">아내를 사랑하려고 있는 힘을 다하건마는 힘을 쓰면 쓸수록 더욱 멀어 가오</said>’ 하는 <persName ref="#KBG">병국</persName>의 편지 구절을 <persName ref="#LHS">형식</persName>은 한번 더 읽어 보았다. 그러고 ‘<said aloud="false" direct="true" who="#KBG"><rs type="person" ref="#KBG">나</rs>는 무엇을 구하오. 그것은 이성인가 보오. 이것을 못 얻으면 죽을 것 같소</said>’ 하는 구절과, ‘<said aloud="false" direct="true" who="#KBG"><rs type="person" ref="#KBG">내</rs>가 구하는 것은 정신적이라든지 육적이라든지 하는 부분적 사랑이 아니요, 영육(<foreign xml:lang="zh">靈肉</foreign>)을 합한 전인격적 사랑이외다</said>’ 한 구절을 생각하매, <persName ref="#KBG">병국</persName>의 괴로워하는 모양이 역력히 눈에 보이는 듯하여 무한히 동정이 갔다. 그러나 <persName ref="#LHS">형식</persName>은 또 <rs type="person" ref="#LHS">자기</rs>의 처지를 생각한다. <said aloud="false" direct="false" who="#LHS"><persName ref="#KSH">선형</persName>은 과연 <rs type="person" ref="#LHS">자기</rs>를 사랑하여 주는가. <rs type="person" ref="#LHS">자기</rs>는 <persName ref="#KSH">선형</persName>에게 ‘<mentioned>부분적이 아니요 전인격적인 사랑</mentioned>’을 받는가.</said> 아무리 좋게 생각하려 하여도 <persName ref="#KSH">선형</persName>의 <rs type="person" ref="#LHS">자기</rs>에게 대한 태도는 냉담한 것 같다. <said aloud="false" direct="true" who="#LHS">이 약혼은 과연 사랑을 기초로 한 것일까.</said></p>
         <p>그날 저녁에 <persName ref="#KSH">선형</persName>은 ‘<said aloud="true" direct="true" who="#KSH">녜</said>’ 하고 대답은 하였다. <said aloud="false" direct="false" who="#LHS">그러나 그 ‘<mentioned>녜</mentioned>’가 무슨 뜻일까. ‘<said aloud="false" direct="true" who="#KSH"><persName ref="#LHS">형식</persName>을 사랑합니다</said>’ 하는 뜻일까. 또는 ‘<said aloud="false" direct="true" who="#KSH"><rs type="person" ref="#KJL #KJW">부모</rs>께서 그렇게 하라 하시니 명령대로 합니다</said>’ 하는 뜻일까. <persName ref="#KSH">선형</persName>의 <rs type="person" ref="#LHS">자기</rs>에게 대한 처지가, <persName ref="#KBG">병국</persName>의 그 <rs type="person" ref="#BUHN">아내</rs>에게 대한 처지와 같음이 아닐까.</said> 이렇게 생각하며(생각하매) <persName ref="#LHS">형식</persName>은 문득 불쾌한 생각이 난다. <said aloud="false" direct="false" who="#LHS">만일 <persName ref="#KSH">선형</persName>이가 진실로 <rs type="person" ref="#LHS">자기</rs>를 사랑하는 마음이 없이 <rs type="person" ref="#KJL #KJW">부모</rs>의 말을 거역할 수가 없어서 그렇게 대답한 것이라 하면, 이는 불쌍한 <persName ref="#KSH">선형</persName>을 희생함이라. <persName ref="#KSH">선형</persName>은 속절없이 사랑 없는 지아비 밑에서 괴로운 일생을 보낼 것이요, 또 <persName ref="#LHS">형식</persName> <rs type="person" ref="#LHS">자기</rs>로 말해도 결코 행복되지 아니할 것이라. 남의 일생을 희생하여서까지 <rs type="person" ref="#LHS">자기</rs>의 욕심을 채움이 인도에 어그러짐이 아닐까.</said> 이에 <persName ref="#LHS">형식</persName>은 <persName ref="#KSH">선형</persName>의 뜻을 물어 보기로 결심하였다.</p>
         <p>그 이튿날은 마침 <persName ref="#YSA">순애</persName>가 두통이 나서 눕고 <persName ref="#KSH">선형</persName>과 단둘이 마주앉을 기회를 얻었다. 영어를 다 가르치고 난 뒤에 <persName ref="#LHS">형식</persName>은 있는 힘을 다하여,</p>
@@ -287,7 +287,7 @@
         <p>“<said aloud="true" direct="true" who="#KSH">만일 사랑이 없다 하면?</said>”</p>
         <p>“<said aloud="true" direct="true" who="#LHS">약혼은 무효지요.</said>”</p>
       </div>
-      <div n="99" type="chapter" xml:id="ch99">
+      <div type="chapter" n="99">
         <p><persName ref="#KSH">선형</persName>은 한참 생각하더니,</p>
         <p>“<said aloud="true" direct="true" who="#KSH">그러면 선생께서는?</said>”</p>
         <p>“<said aloud="true" direct="true" who="#LHS"><rs type="person" ref="#LHS">제</rs>야 <persName ref="#KSH">선형</persName> 씨를 사랑하지요. 생명보다 더 사랑하지요.</said>”</p>
@@ -310,7 +310,7 @@
         <p><persName ref="#KSH">선형</persName>은 일어나서 방으로 왔다갔다하다가 암만해도 마음이 정치 못하여 다시 책상에 기대어 기도를 올렸다.</p>
         <p>“<said aloud="true" direct="true" who="#KSH">하느님이시여, 죄 많은 <rs type="person" ref="#KSH">딸</rs>의 죄를 용서하시고 갈 길을 밝히 가르쳐 주시옵소서. 시험에 들지 말게 하옵시고</said>” 하고 잠깐 주저하다가, “<said aloud="true" direct="true" who="#KSH"><rs type="person" ref="#KSH">제</rs> 지아비를 정성으로 사랑하게 하여 주시옵소서.</said>”</p>
       </div>
-      <div n="100" type="chapter" xml:id="ch100">
+      <div type="chapter" n="100">
         <p>하루는 <persName ref="#KBU">병욱</persName>이가 혼자 앉아서 한 손으로 곁에 뉘어 놓은 바이올린을 되는 대로 울리며 <persName ref="#PYC">영채</persName>에게 배운 {<title>고문진보</title>}를 읽을 적에 어디 갔다 오는 <persName ref="#KBG">병국</persName>은 한 손에 파나마를 들고 부채를 부치며 들어와서 <persName ref="#KBU">병욱</persName>의 방 문지방에 걸어앉으며,</p>
         <p>“<said aloud="true" direct="true" who="#KBG">요새에는 또 한시(<foreign xml:lang="zh">漢詩</foreign>)에 미쳤구나. 이제는 음악은 내버리고 한시 공부나 하지</said>” 하며 웃는다.</p>
         <p>“<said aloud="true" direct="true" who="#KBU">왜요? 이렇게 손으로는 음악하고 눈으로는 시를 읽지요</said>” 하고 자주 바이올린 줄을 울리며 아이들 모양으로 몸을 흔들고 소리를 내어서 시를 읽는다.</p>
