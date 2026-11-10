@@ -30,7 +30,9 @@
         </respStmt>
         <respStmt xml:id="enc41-50">
           <resp>TEI 태깅·검수 (41–50장)</resp>
-          <name>고원</name>
+          <name>고원
+            <idno type="ISNI">0000 0000 0000 0000</idno>
+          </name>
         </respStmt>
         <respStmt xml:id="enc51-60">
           <resp>TEI 태깅·검수 (51–60장)</resp>
