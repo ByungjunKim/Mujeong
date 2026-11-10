@@ -241,7 +241,9 @@ fd = etree.SubElement(hdr, T + "fileDesc")
 ts = etree.SubElement(fd, T + "titleStmt")
 ts.append(E("title", "무정", type="main", xml_lang="ko"))
 ts.append(E("title", "1–126장 통합본 (v0, 공통 ID 초안 적용 · 등록부 통합 회의 전 검토용)", type="sub"))
-ts.append(E("author", "이광수"))
+au = E("author", "이광수")
+au.append(E("idno", "0000 0001 1059 4496", type="ISNI")); au.append(E("idno", "Q495454", type="Wikidata"))
+ts.append(au)
 SECS = [s["구간"] for s in J["sections"]]
 for sec in SECS:
     rs = etree.SubElement(ts, T + "respStmt", attrib={XID: "enc" + sec})
@@ -257,10 +259,30 @@ av = etree.SubElement(ps_, T + "availability"); lic = etree.SubElement(av, T + "
 ps_.append(E("ptr", target="https://github.com/ByungjunKim/Mujeong"))
 ps_.append(E("date", TODAY, when=TODAY))
 sd = etree.SubElement(fd, T + "sourceDesc")
-bibl = etree.SubElement(sd, T + "bibl")
-bibl.append(E("author", "이광수")); bibl.append(E("title", "무정")); bibl.append(E("publisher", "위키문헌"))
-bibl.append(E("ptr", target="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95"))
-bibl.append(E("note", "1917년 1월 1일–6월 14일 『매일신보』 연재(126회). 문단 대조 기준: KNoTE rawdata 무정 7개 파일(1,977문단)."))
+# 저본: 위키문헌(한국어) 『무정』. KNoTE 헤더의 bibl[@type='digitalSource'] · bibl[@type='reference'] 구성을 따른다.
+from urllib.parse import quote
+WS = "https://ko.wikisource.org/wiki/"
+WS_MAIN = WS + quote("무정")
+SUBPAGES = [(1, 20), (21, 40), (41, 60), (61, 80), (81, 100), (101, 120), (121, 126)]
+def subpage_of(n):
+    n = int(str(n).split("-")[0])
+    for a, b in SUBPAGES:
+        if a <= n <= b:
+            return f"{a}장~{b}장", WS + quote(f"무정/{a}장~{b}장", safe="/~")
+bibl = etree.SubElement(sd, T + "bibl", type="digitalSource"); bibl.set(XLANG, "ko")
+bibl.append(E("title", "무정", level="m")); bibl.append(E("author", "이광수")); bibl.append(E("publisher", "Wikisource(한국어)"))
+bibl.append(E("idno", WS_MAIN, type="wikisource"))
+for a, b in SUBPAGES:
+    name, url = subpage_of(a)
+    bibl.append(E("ref", f"무정/{name}", type="wikisource-subpage", n=f"{a}-{b}", target=url))
+bibl.append(E("note", "수강생이 위키문헌 하위 문서에서 담당 장을 복사해 원문 txt를 취득함(이 저장소 TEI/ 아래 각 구간 폴더). 위키문헌은 장마다 따로 주소가 없고 20장 단위 하위 문서로 나뉘어 있어, 본문의 각 장 div에는 그 장이 실린 하위 문서 주소를 @source로 적음.", type="acquisition"))
+bibl.append(E("note", "문단 대조에는 KNoTE 저장소(https://github.com/AKS-DHLAB/KNoTE)의 rawdata에 수집된 위키문헌 『무정』 7개 파일(1,977문단)을 씀. 수집 시점의 위키문헌 판 번호는 그 파일에 기록되어 있지 않음.", type="collation"))
+ref_ = etree.SubElement(sd, T + "bibl", type="reference"); ref_.set(XLANG, "ko")
+ref_.append(E("title", "무정", level="m")); ref_.append(E("author", "이광수"))
+ref_.append(E("title", "매일신보", level="j")); ref_.append(E("date", "1917", when="1917"))
+ref_.append(E("idno", "Q12595612", type="Wikidata")); ref_.append(E("idno", "E0019237", type="encykorea"))
+ref_.append(E("ref", "한국민족문화대백과사전 「무정」", target="https://encykorea.aks.ac.kr/Article/E0019237"))
+ref_.append(E("note", "1917년 『매일신보』에 126회 연재(한국민족문화대백과사전). 연재 기간은 1917년 1월 1일–6월 14일로 알려져 있음. 작가·작품 식별자(ISNI, Wikidata, 민백 ID)는 KNoTE 저장소 code/작품목록.csv에서 가져옴."))
 ed = etree.SubElement(hdr, T + "encodingDesc")
 pd = etree.SubElement(ed, T + "projectDesc"); pd.append(E("p", "수강생 13개 구간 TEI(GitHub ByungjunKim/Mujeong, 2026-11-08 기준)를 하나로 합친 검토용 통합본. ID는 '공통 ID(제안)'를 따르고, 정해지지 않은 것은 'S구간시작_원래ID'로 임시 표기."))
 edl = etree.SubElement(ed, T + "editorialDecl")
@@ -275,6 +297,8 @@ if extra_defs["category"]:
 pf = etree.SubElement(hdr, T + "profileDesc")
 cr = etree.SubElement(pf, T + "creation"); cr.append(E("date", "1917", when="1917"))
 lu = etree.SubElement(pf, T + "langUsage"); lu.append(E("language", "한국어", ident="ko"))
+tc = etree.SubElement(pf, T + "textClass"); kw_ = etree.SubElement(tc, T + "keywords", scheme="local")
+kw_.append(E("term", "근현대 한국문학")); kw_.append(E("term", "장편소설"))
 pt = etree.SubElement(pf, T + "particDesc")
 lp = etree.SubElement(pt, T + "listPerson")
 so = etree.Element(T + "standOff")
@@ -327,6 +351,7 @@ if extra_defs["item"]:
         li.append(c)
 rv = etree.SubElement(hdr, T + "revisionDesc")
 ch = etree.SubElement(rv, T + "change", when=TODAY, who="#merge"); ch.text = "13개 구간 병합(v0). 공통 ID는 11주차(11/10) 인물 등록부 통합 회의 전 초안."
+ch = etree.SubElement(rv, T + "change", when="2026-11-10", who="#merge"); ch.text = "최종 점검: tei_all(TEI P5 4.12.0) 검증 통과(61–70 object 구조 수정). 헤더에 작가·작품 식별자(ISNI · Wikidata · 민백), 위키문헌 하위 문서 주소, 장르 분류를 넣고, 각 장 div에 저본 주소(@source)를 적음."
 tei.append(so)
 text = etree.SubElement(tei, T + "text"); bd = etree.SubElement(text, T + "body")
 
@@ -336,6 +361,7 @@ def sort_key(c):
 for n, typ, kids, sec in sorted(chapters, key=sort_key):
     dv = etree.SubElement(bd, T + "div", type=typ, n=str(n))
     dv.set("resp", "#enc" + sec)
+    dv.set("source", subpage_of(n)[1])
     if typ == "part":
         nt = etree.SubElement(dv, T + "note", type="todo"); nt.text = f"{sec.replace('-', '–')}장: 장(div) 구분 복원 필요"
     else:
