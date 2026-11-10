@@ -11,7 +11,9 @@
         </author>
         <respStmt xml:id="enc1-10">
           <resp>TEI 태깅·검수 (1–10장)</resp>
-          <name>김경민</name>
+          <name>김경민
+          <idno type="ORCID">0009-0005-3723-418X</idno>
+          </name>
         </respStmt>
         <respStmt xml:id="enc11-20">
           <resp>TEI 태깅·검수 (11–20장)</resp>
@@ -24,23 +26,32 @@
         <respStmt xml:id="enc31-40">
           <resp>TEI 태깅·검수 (31–40장)</resp>
           <name>우인진<idno type="ORCID">0009-0009-2118-0016</idno></name>
-          <email>jaegoi53 [at] gmail.com</email>
+          <note><email>jaegoi53 [at] gmail.com</email></note>
         </respStmt>
         <respStmt xml:id="enc41-50">
           <resp>TEI 태깅·검수 (41–50장)</resp>
-          <name>고원</name>
+          <name>고원
+            <idno type="ISNI">0000 0000 0000 0000</idno>
+            <email>dabohwa33 [at] naver.com</email>
+          </name>
         </respStmt>
         <respStmt xml:id="enc51-60">
           <resp>TEI 태깅·검수 (51–60장)</resp>
-          <name>서재현</name>
+          <name>서재현
+          <idno type="ISNI">0000000502339494</idno>
+          <idno type="ORCID">0000-0002-3648-0320</idno></name>
+          <note><email>jayseo94 [at] g.skku.edu</email></note>
         </respStmt>
         <respStmt xml:id="enc61-70">
           <resp>TEI 태깅·검수 (61–70장)</resp>
           <name>원선미</name>
+          <idno type="ORCID">0009-0005-4283-8260</idno>
+          <email>summer9 [at] skku.edu</email>
         </respStmt>
         <respStmt xml:id="enc71-80">
           <resp>TEI 태깅·검수 (71–80장)</resp>
-          <name>목소연</name>
+          <name>목소연<idno type="ORCID">0009-0003-9753-100X</idno></name>
+          <email> ahrthdus6487 [at] naver.com</email>
         </respStmt>
         <respStmt xml:id="enc81-90">
           <resp>TEI 태깅·검수 (81–90장)</resp>
@@ -54,6 +65,7 @@
           <name>김강은
             <idno type="ISNI">000000049330453</idno>
           </name>
+          <email>kangeunkim9 [at] gmail.com</email>
         </respStmt>
         <respStmt xml:id="enc101-110">
           <resp>TEI 태깅·검수 (101–110장)</resp>
@@ -62,10 +74,15 @@
         <respStmt xml:id="enc111-120">
           <resp>TEI 태깅·검수 (111–120장)</resp>
           <name>왕성운</name>
+          <idno type="ISNI">1111-1112-1113-1114</idno>
+          <email>cheng9643@gmail.com</email>
         </respStmt>
         <respStmt xml:id="enc121-126">
           <resp>TEI 태깅·검수 (121–126장)</resp>
-          <name>고원</name>
+          <name>고원
+          <idno type="ISNI">0000 0000 0000 0000</idno>
+          <email>dabohwa33 [at] naver.com</email>  
+          </name>
         </respStmt>
         <respStmt xml:id="teiagent">
           <resp>1차 자동 태깅(LLM 보조)</resp>
@@ -76,6 +93,7 @@
           <name>김병준
             <idno type="ORCID">0000-0001-9925-9343</idno>
           </name>
+         <note><email>bjkim [at] byungjunkim.com</email></note> 
         </respStmt>
       </titleStmt>
       <publicationStmt>
