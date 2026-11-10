@@ -163,9 +163,13 @@
         <language ident="ko">한국어</language>
       </langUsage>
       <textClass>
-        <keywords scheme="local">
+        <keywords scheme="local" xml:lang="ko">
           <term>근현대 한국문학</term>
           <term>장편소설</term>
+        </keywords>
+        <keywords scheme="local" xml:lang="en">
+          <term>Modern Korean Literature</term>
+          <term>Novel</term>
         </keywords>
       </textClass>
       <particDesc>
