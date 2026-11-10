@@ -1,0 +1,179 @@
+﻿공통 ID,공통 이름,종류,사용 횟수,등장 구간,구간 ID들,별칭,메모,출처
+PL_PY,평양,place,143,"1-10, 11-20, 21-30, 31-40, 41-50, 51-60, 61-70, 71-80, 81-90, 91-100, 101-110, 111-120, 121-126","L21, PL-PY, PY, PYEONGYANG, PYONGYANG",평양,,이름 자동 일치
+PL_AMERICA,미국,place,63,"1-10, 21-30, 71-80, 81-90, 91-100, 101-110, 121-126","AMERICA, L24, MI",미국,,이름 자동 일치
+PL_JS,조선,place,57,"11-20, 21-30, 31-40, 71-80, 81-90, 91-100, 111-120, 121-126","CHOSON, JOS, JOSEON, JS, L25, PL-JS",조선,,이름 자동 일치
+PL_SEL,서울,place,54,"11-20, 31-40, 51-60, 61-70, 71-80, 81-90, 91-100, 101-110, 111-120, 121-126","L26, PL-SL, SEL, SEOUL, SG, SL",서울,,이름 자동 일치
+PL_DAEDONG_RIVER,대동강,place,44,"31-40, 41-50, 51-60, 61-70, 81-90, 101-110","DAEDONG, DAEDONG_RIVER, DDG, PL-DDG",대동강,,이름 자동 일치
+PL_L19,동경,place,39,"21-30, 31-40, 41-50, 51-60, 61-70, 81-90, 91-100, 101-110, 111-120, 121-126","DG, DG2, DONGKYO, DONGKYUNG, L19, PL-TK, TK, TOKYO, TOKYO_CITY",동경,,이름 자동 일치
+PL_WEST,서양,place,31,71-80,WEST,서양,,이름 자동 일치
+PL_CL,청량리,place,22,"31-40, 41-50, 71-80, 101-110, 111-120","CL, PL-CNR",청량리,,이름 자동 일치
+PL_PYEONGYANG_POLICE,평양경찰서,place,20,51-60,PYEONGYANG_POLICE,평양경찰서,,이름 자동 일치
+ORG_GYEONGSUNG,경성학교,org,19,"11-20, 31-40, 61-70, 91-100, 111-120","GYEONGSUNG, KS, KSS, O27, ORG-GSH",경성학교,,이름 자동 일치
+ORG_STUDENT_ALLIANCE,동맹,org,15,"11-20, 21-30","DONGMYUNG, STUDENT_ALLIANCE",동맹,,이름 자동 일치
+PL_GYEONGSEONG_SCH,경성학교,place,13,"1-10, 21-30","GYEONGSEONGSCHOOL, GYEONGSEONG_SCH",경성학교,,이름 자동 일치
+PL_CRB,청류벽,place,13,"31-40, 51-60, 61-70, 71-80","CHEONGRYU, CHEONGRYU_WALL, CLB, PL-CRB",청류벽,,이름 자동 일치
+ORG_KSSORG,학교,org,13,71-80,KSSORG,학교,,이름 자동 일치
+PL_GYEONGSEONG,경성,place,12,"1-10, 21-30",GYEONGSEONG,경성,,이름 자동 일치
+PL_ANJU,안주,place,12,"1-10, 11-20, 31-40, 41-50","AN, ANJU, PL-AJ",안주,,이름 자동 일치
+PL_JAPAN,일본,place,12,"1-10, 11-20, 41-50, 81-90, 91-100","JAPAN, JP, L27",일본,,이름 자동 일치
+PL_PYONGYANG_PRISON,평양 감옥,place,11,"11-20, 21-30","PYEONGYANG_PRISON, PYONGYANG_PRISON",평양 감옥 | 평양감옥,,이름 자동 일치
+PL_CSM,칠성문,place,11,"51-60, 61-70, 71-80, 121-126","CHILSEONGMUN, CHILSEONG_GATE, CSM",칠성문,,이름 자동 일치
+PL_GYODONG,교동,place,10,"1-10, 11-20, 21-30",GYODONG,교동,,이름 자동 일치
+PL_DB,다방골,place,10,"21-30, 31-40, 41-50, 71-80, 91-100, 111-120","DABANGGOL, DB, DBG, L22, PL-DBG",다방골,,이름 자동 일치
+PL_KUR_HOUSE,김운룡의 집,place,9,11-20,KUR_HOUSE,김운룡의 집,,이름 자동 일치
+PL_NMD,남대문,place,9,"21-30, 101-110, 111-120","NAMDAEMUN, NM, NMD",남대문,,이름 자동 일치
+PL_MRB,모란봉,place,9,"31-40, 51-60, 61-70","MORAN, MORAN_HILL, PL-MRB",모란봉,,이름 자동 일치
+PL_BBR,부벽루,place,9,31-40,PL-BBR,부벽루,,이름 자동 일치
+PL_JONG,종로,place,8,"21-30, 31-40, 61-70, 71-80, 101-110","JONG, JONGNO, JONGRO, PL-JR",종로,,이름 자동 일치
+ORG_PSH,패성학교,org,8,31-40,ORG-PSH,패성학교 | 패성중학,,이름 자동 일치
+PL_AM,아메리카,place,8,111-120,AM,아메리카,,이름 자동 일치
+PL_ANDONG,안동,place,7,"1-10, 21-30, 71-80","AND, ANDONG",안동,,이름 자동 일치
+PL_SUKCHON,숙천,place,7,"1-10, 11-20, 61-70",SUKCHON,숙천,,이름 자동 일치
+PL_PAD,평안도,place,7,31-40,PL-PAD,평안도,,이름 자동 일치
+PL_CLS,청량사,place,7,"31-40, 41-50, 51-60","CHEONGRYANGSA, CLS, PL-CNS",청량사,,이름 자동 일치
+PL_HWANGJU,황주,place,7,"81-90, 91-100, 111-120, 121-126","HJ, HWANGJU, L18",황주,,이름 자동 일치
+PL_DDM,동대문,place,6,"21-30, 31-40, 41-50","DDM, DONGDAEMUN, PL-DDM",동대문,,이름 자동 일치
+PL_OK,옥,place,6,41-50,OK,옥,,이름 자동 일치
+PL_YHOME,영채의 집,place,6,41-50,YHOME,영채의 집,,이름 자동 일치
+PL_DAEDONG_GATE,대동문,place,6,"51-60, 61-70","DAEDONG_GATE, DDM",대동문,,이름 자동 일치
+ORG_CHURCH,예수교회,org,5,1-10,CHURCH,예수교회,,이름 자동 일치
+PL_DAEHAP,대합실,place,5,11-20,DAEHAP,대합실,,이름 자동 일치
+PL_JG,종각,place,5,"21-30, 31-40, 41-50","JG2, JONGGAK, PL-JG",종각,,이름 자동 일치
+PL_EMD,을밀대,place,5,"31-40, 61-70","PL-EMD, UMD",을밀대,,이름 자동 일치
+PL_OR_H_2,집(형식의 하숙집),place,5,41-50,OR_H,집(형식의 하숙집),,이름 자동 일치
+ORG_CHURCH_2,교회,org,5,"71-80, 91-100, 101-110","CHURCH, O30",교회,,이름 자동 일치
+PL_JG_3,정거장,place,5,101-110,JG,정거장,,이름 자동 일치
+PL_CHINA,청국,place,4,1-10,CHINA,청국,,이름 자동 일치
+PL_PARKHOUSE,박진사의 집,place,4,1-10,PARKHOUSE,박진사의 집,,이름 자동 일치
+ORG_DONGHAK,동학,org,4,11-20,DONGHAK,동학,,이름 자동 일치
+PL_NEUNGRA_ISLAND,능라도,place,4,"31-40, 51-60","NEUNGRA_ISLAND, PL-NRD",능라도,,이름 자동 일치
+PL_PYS,평양성,place,4,31-40,PL-PYS,평양성,,이름 자동 일치
+PL_MJ,무명밭,place,4,101-110,MJ,무명밭,,이름 자동 일치
+PL_JUMAK,주막,place,3,11-20,JUMAK,주막,,이름 자동 일치
+PL_ENGLAND,영국,place,3,"11-20, 21-30",ENGLAND,영국,,이름 자동 일치
+PL_OR_H,집,place,3,11-20,OR_H,집,,이름 자동 일치
+ORG_DONGSABUM,동경고등사범,org,3,11-20,DONGSABUM,동경고등사범,,이름 자동 일치
+PL_CMG,철물교,place,3,"21-30, 31-40","CHEOLMULGYO, PL-CMG",철물교,,이름 자동 일치
+PL_NAMSAN,남산,place,3,"21-30, 71-80, 81-90","NAM, NAMSAN",남산,,이름 자동 일치
+PL_HWAJANG,화류촌,place,3,21-30,HWAJANG,화류촌,,이름 자동 일치
+PL_AMJA39,39 구간 우물 북쪽 암자,place,3,31-40,PL-AMJA39,39 구간 우물 북쪽 암자,,이름 자동 일치
+PL_BMS,북망산,place,3,"31-40, 61-70","BUKMANG, PL-BMS",북망산,,이름 자동 일치
+ORG_JRPS,종로경찰서,org,3,31-40,ORG-JRPS,종로경찰서,,이름 자동 일치
+PL_SHD,선화당,place,3,61-70,SHD,선화당,,이름 자동 일치
+PL_GHY,고향,place,3,61-70,GHY,고향,,이름 자동 일치
+PL_HHB,황해바다,place,3,71-80,HHB,황해바다,,이름 자동 일치
+PL_BUK,북악,place,3,71-80,BUK,북악,,이름 자동 일치
+ORG_COLLEGE,칼리지대학,org,3,81-90,COLLEGE,칼리지대학,,이름 자동 일치
+PL_BUSAN,부산,place,3,"111-120, 121-126","BS, BUSAN",부산,,이름 자동 일치
+PL_BERLIN,백림,place,3,121-126,BERLIN,백림,,이름 자동 일치
+ORG_JEONGSINSCHOOLORG,정신여학교,org,2,1-10,JEONGSINSCHOOLORG,정신여학교,,이름 자동 일치
+PL_DONGNE,이 동네,place,2,11-20,DONGNE,이 동네,,이름 자동 일치
+PL_HOEDANG,회당,place,2,11-20,HOEDANG,회당,,이름 자동 일치
+PL_CORSICA,코르시카 섬,place,2,11-20,CORSICA,코르시카 섬,,이름 자동 일치
+PL_WATERLOO,워털루,place,2,11-20,WATERLOO,워털루,,이름 자동 일치
+PL_STHELENA,세인트헬레나,place,2,11-20,STHELENA,세인트헬레나,,이름 자동 일치
+PL_DAESEOYANG,대서양,place,2,11-20,DAESEOYANG,대서양,,이름 자동 일치
+PL_FRANCE,법국,place,2,11-20,FRANCE,법국,,이름 자동 일치
+PL_GURIGAE,구리개,place,2,"21-30, 31-40","GURIGAE, PL-GRG",구리개,,이름 자동 일치
+PL_CHEONBYEON,천변,place,2,21-30,CHEONBYEON,천변,,이름 자동 일치
+PL_GWANGCHUNGYO,광충교,place,2,"21-30, 31-40","GWANGCHUNGYO, PL-GCG",광충교,,이름 자동 일치
+PL_TAEPYEYANG,태평양,place,2,21-30,TAEPYEYANG,태평양,,이름 자동 일치
+ORG_CHUNGYEONHOE,청년회관,org,2,"21-30, 31-40","CHUNGYEONHOE, ORG-CNHG",청년회관,,이름 자동 일치
+ORG_DSH,대성학교,org,2,31-40,ORG-DSH,대성학교,,이름 자동 일치
+PL_HAN,한강,place,2,"41-50, 71-80","HAN, HG",한강,,이름 자동 일치
+PL_HNP_ROOM,하숙집 노파의 방,place,2,41-50,HNP_ROOM,하숙집 노파의 방,,이름 자동 일치
+PL_YC_ROOM,영채의 방,place,2,41-50,YC_ROOM,영채의 방,,이름 자동 일치
+PL_YNP_ROOM,영채 집 노파의 방,place,2,41-50,YNP_ROOM,영채 집 노파의 방,,이름 자동 일치
+PL_PYEONGYANG_STATION,평양역,place,2,51-60,PYEONGYANG_STATION,평양역,,이름 자동 일치
+PL_DC,도청,place,2,61-70,DC,도청,,이름 자동 일치
+ORG_PJH,박진사의 학교,org,2,61-70,PJH,박진사의 학교,,이름 자동 일치
+PL_INW,인왕산,place,2,71-80,INW,인왕산,,이름 자동 일치
+PL_WAS,워싱턴,place,2,71-80,WAS,워싱턴,,이름 자동 일치
+PL_HWANGHAE,황해도,place,2,"81-90, 121-126",HWANGHAE,황해도,,이름 자동 일치
+PL_L23,탑골,place,2,91-100,L23,탑골,,이름 자동 일치
+ORG_O28,경성전수학교,org,2,91-100,O28,경성전수학교,,이름 자동 일치
+PL_EUROPE,구라파,place,2,"111-120, 121-126","EU, EUROPE",구라파,,이름 자동 일치
+ORG_PYPS,평양경찰서,org,2,111-120,PYPS,평양경찰서,,이름 자동 일치
+PL_SAMNANGJIN,삼랑진,place,2,121-126,SAMNANGJIN,삼랑진,,이름 자동 일치
+PL_SAMNANGJIN_STATION,삼랑진 정거장,place,2,121-126,SAMNANGJIN_STATION,삼랑진 정거장,,이름 자동 일치
+ORG_POLICE_2,경찰서,org,2,121-126,POLICE,경찰서,,이름 자동 일치
+ORG_MUSIC_SCHOOL,음악학교,org,2,121-126,MUSIC_SCHOOL,음악학교,,이름 자동 일치
+PL_YEONGBYEON,영변,place,1,1-10,YEONGBYEON,영변,,이름 자동 일치
+PL_UIJU,의주,place,1,1-10,UIJU,의주,,이름 자동 일치
+PL_DAEGUK,대국,place,1,1-10,DAEGUK,대국,,이름 자동 일치
+PL_GYEJU,객주,place,1,1-10,GYEJU,객주,,이름 자동 일치
+PL_CHUNHYANG,평양 춘향,place,1,1-10,CHUNHYANG,평양 춘향,,이름 자동 일치
+ORG_POLICE,안동파출소,org,1,1-10,POLICE,안동파출소,,이름 자동 일치
+ORG_HUNBYEONGDAE,헌병대,org,1,1-10,HUNBYEONGDAE,헌병대,,이름 자동 일치
+PL_SANMIT,산밑,place,1,11-20,SANMIT,산밑,,이름 자동 일치
+PL_SUKAM,순안 석암리,place,1,11-20,SUKAM,순안 석암리,,이름 자동 일치
+PL_CHILSUNG,칠성문 밖,place,1,11-20,CHILSUNG,칠성문 밖,,이름 자동 일치
+PL_NAMDEMUN,남대문 안,place,1,11-20,NAMDEMUN,남대문 안,,이름 자동 일치
+PL_JIJUNGHAE,지중해,place,1,11-20,JIJUNGHAE,지중해,,이름 자동 일치
+ORG_CHONGDOKBU,총독부,org,1,11-20,CHONGDOKBU,총독부,,이름 자동 일치
+ORG_HAKMUGUK,학무국,org,1,11-20,HAKMUGUK,학무국,,이름 자동 일치
+ORG_GYODONG_POLICE,교동파출소,org,1,11-20,GYODONG_POLICE,교동파출소,,이름 자동 일치
+ORG_HWARYU,화류계,org,1,11-20,HWARYU,화류계,,이름 자동 일치
+ORG_ACTIVITY,활동사진 음악대,org,1,11-20,ACTIVITY,활동사진 음악대,,이름 자동 일치
+PL_ANJUKGOL,안주골,place,1,21-30,ANJUKGOL,안주골,,이름 자동 일치
+PL_DADONG,다동,place,1,21-30,DADONG,다동,,이름 자동 일치
+PL_BAEGUNDAE,백운대,place,1,21-30,BAEGUNDAE,백운대,,이름 자동 일치
+PL_JAPAN_2,내지,place,1,21-30,JAPAN,내지,,이름 자동 일치
+PL_JUKCHEON,죽천,place,1,21-30,JUKCHEON,죽천,,이름 자동 일치
+PL_NAMONE,남원,place,1,21-30,NAMONE,남원,,이름 자동 일치
+ORG_UMIGWAN,우미관,org,1,21-30,UMIGWAN,우미관,,이름 자동 일치
+ORG_ILHANSEOBANG,일한서방,org,1,21-30,ILHANSEOBANG,일한서방,,이름 자동 일치
+ORG_MARUZEN,마루젠,org,1,21-30,MARUZEN,마루젠,,이름 자동 일치
+ORG_STUDENT_DORM,학생 기숙관,org,1,21-30,STUDENT_DORM,학생 기숙관,,이름 자동 일치
+PL_GN,강남,place,1,31-40,PL-GN,강남,,이름 자동 일치
+PL_BM,북문,place,1,31-40,PL-BM,북문,,이름 자동 일치
+PL_SDM,서대문,place,1,31-40,PL-SDM,서대문,,이름 자동 일치
+PL_BOG,배오개,place,1,31-40,PL-BOG,배오개,,이름 자동 일치
+PL_SW,상원,place,1,31-40,PL-SW,상원,,이름 자동 일치
+PL_HR,홍릉,place,1,31-40,PL-HR,홍릉,,이름 자동 일치
+PL_SZ,소주,place,1,31-40,PL-SZ,소주,,이름 자동 일치
+PL_HZ,항주,place,1,31-40,PL-HZ,항주,,이름 자동 일치
+PL_TANG,당나라,place,1,31-40,PL-TANG,당나라,,이름 자동 일치
+ORG_SMG,신문관,org,1,31-40,ORG-SMG,신문관,,이름 자동 일치
+ORG_SJD,삼중당,org,1,31-40,ORG-SJD,삼중당,,이름 자동 일치
+ORG_DSM,대신문,org,1,31-40,ORG-DSM,대신문,,이름 자동 일치
+PL_JG_2,진고개,place,1,41-50,JG,진고개,,이름 자동 일치
+PL_ND,노들,place,1,41-50,ND,노들,,이름 자동 일치
+PL_JN,지나,place,1,41-50,JN,지나,,이름 자동 일치
+PL_UR,우리나라,place,1,41-50,UR,우리나라,,이름 자동 일치
+PL_NAMDAMUN_STATION,남대문역,place,1,51-60,NAMDAMUN_STATION,남대문역,,이름 자동 일치
+PL_CHEONGCHEON_RIVER,청천강,place,1,51-60,CHEONGCHEON_RIVER,청천강,,이름 자동 일치
+PL_RUSSIA,아라사,place,1,51-60,RUSSIA,아라사,,이름 자동 일치
+PL_KJM,기자묘,place,1,61-70,KJM,기자묘,,이름 자동 일치
+PL_HD,함경도,place,1,61-70,HD,함경도,,이름 자동 일치
+PL_YS,연산,place,1,61-70,YS,연산,,이름 자동 일치
+PL_GC,금천 큰고개,place,1,61-70,GC,금천 큰고개,,이름 자동 일치
+PL_NM,신막 남천역,place,1,61-70,NM,신막 남천역,,이름 자동 일치
+PL_PALGAK,팔각 국숫집,place,1,61-70,PALGAK,팔각 국숫집,,이름 자동 일치
+ORG_KSE,경성교육회,org,1,61-70,KSE,경성교육회,,이름 자동 일치
+ORG_PJM,박씨 문중,org,1,61-70,PJM,박씨 문중,,이름 자동 일치
+PL_GBG,경복궁,place,1,71-80,GBG,경복궁,,이름 자동 일치
+PL_JHJ,종현 천주당,place,1,71-80,JHJ,종현 천주당,,이름 자동 일치
+PL_GW,강원도,place,1,71-80,GW,강원도,,이름 자동 일치
+PL_GSN,겟세마네,place,1,71-80,GSN,겟세마네,,이름 자동 일치
+PL_GAESEONG,개성,place,1,81-90,GAESEONG,개성,,이름 자동 일치
+PL_SEOHUENG,서흥,place,1,81-90,SEOHUENG,서흥,,이름 자동 일치
+ORG_SUKMUNG,숙명,org,1,81-90,SUKMUNG,숙명,,이름 자동 일치
+ORG_JINMUNG,진명,org,1,81-90,JINMUNG,진명,,이름 자동 일치
+ORG_O29,양잠회사,org,1,91-100,O29,양잠회사,,이름 자동 일치
+PL_SR,사리원,place,1,101-110,SR,사리원,,이름 자동 일치
+PL_SW_2,수원역,place,1,101-110,SW,수원역,,이름 자동 일치
+PL_YONG,용산,place,1,101-110,YONG,용산,,이름 자동 일치
+ORG_SAH,사범학교,org,1,101-110,SAH,사범학교,,이름 자동 일치
+PL_SD,삼량진,place,1,111-120,SD,삼량진,,이름 자동 일치
+PL_ND_2,낙동강,place,1,111-120,ND,낙동강,,이름 자동 일치
+PL_MG,마관,place,1,111-120,MG,마관,,이름 자동 일치
+PL_HB,횡빈,place,1,111-120,HB,횡빈,,이름 자동 일치
+PL_SG,상항,place,1,111-120,SG,상항,,이름 자동 일치
+PL_SIBERIA,시베리아,place,1,121-126,SIBERIA,시베리아,,이름 자동 일치
+PL_BUKGANDO,북간도,place,1,121-126,BUKGANDO,북간도,,이름 자동 일치
+PL_HOKKAIDO,북해도,place,1,121-126,HOKKAIDO,북해도,,이름 자동 일치
+PL_GERMANY,독일,place,1,121-126,GERMANY,독일,,이름 자동 일치
+ORG_CHICAGO_UNIV,시카고대학,org,1,121-126,CHICAGO_UNIV,시카고대학,,이름 자동 일치
+ORG_NEWSPAPER,신문사,org,1,121-126,NEWSPAPER,신문사,,이름 자동 일치
+ORG_UENO_MUSIC_SCHOOL,상야 음악학교,org,1,121-126,UENO_MUSIC_SCHOOL,상야 음악학교,,이름 자동 일치
