@@ -32,6 +32,7 @@
           <resp>TEI 태깅·검수 (41–50장)</resp>
           <name>고원
             <idno type="ISNI">0000 0000 0000 0000</idno>
+            <email>dabohwa33 [at] naver.com</email>
           </name>
         </respStmt>
         <respStmt xml:id="enc51-60">
@@ -77,7 +78,10 @@
         </respStmt>
         <respStmt xml:id="enc121-126">
           <resp>TEI 태깅·검수 (121–126장)</resp>
-          <name>고원</name>
+          <name>고원
+          <idno type="ISNI">0000 0000 0000 0000</idno>
+          <email>dabohwa33 [at] naver.com</email>  
+          </name>
         </respStmt>
         <respStmt xml:id="teiagent">
           <resp>1차 자동 태깅(LLM 보조)</resp>
