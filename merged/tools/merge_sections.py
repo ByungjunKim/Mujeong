@@ -145,6 +145,9 @@ extra_defs = {"category": [], "object": [], "item": []}
 
 def final_id(sec, old):
     r = idmap[sec].get(old)
+    # 회의 결정 칸이 채워져 있으면 그것을, 없으면 공통 ID(제안)을 쓴다.
+    if r and (r.get("회의 결정") or "").strip():
+        return r["회의 결정"].strip()
     if r and r["공통 ID(제안)"]:
         return r["공통 ID(제안)"]
     return f"S{section_start(sec)}_{re.sub(r'[^\w.-]', '_', old)}"
