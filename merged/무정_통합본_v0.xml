@@ -44,7 +44,9 @@
         </respStmt>
         <respStmt xml:id="enc81-90">
           <resp>TEI 태깅·검수 (81–90장)</resp>
-          <name>홍현영</name>
+          <name>홍현영
+           <idno type="ISNI">0000 0000 0000 0000</idno>
+          </name>
         </respStmt>
         <respStmt xml:id="enc91-100">
           <resp>TEI 태깅·검수 (91–100장)</resp>
