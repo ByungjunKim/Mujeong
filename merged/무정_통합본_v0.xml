@@ -11,7 +11,9 @@
         </author>
         <respStmt xml:id="enc1-10">
           <resp>TEI 태깅·검수 (1–10장)</resp>
-          <name>김경민</name>
+          <name>김경민
+          <idno type="ORCID">0009-0005-3723-418X</idno>
+          </name>
         </respStmt>
         <respStmt xml:id="enc11-20">
           <resp>TEI 태깅·검수 (11–20장)</resp>
