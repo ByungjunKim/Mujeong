@@ -26,7 +26,7 @@
         <respStmt xml:id="enc31-40">
           <resp>TEI 태깅·검수 (31–40장)</resp>
           <name>우인진<idno type="ORCID">0009-0009-2118-0016</idno></name>
-          <email>jaegoi53 [at] gmail.com</email>
+          <note><email>jaegoi53 [at] gmail.com</email></note>
         </respStmt>
         <respStmt xml:id="enc41-50">
           <resp>TEI 태깅·검수 (41–50장)</resp>
@@ -37,7 +37,9 @@
         </respStmt>
         <respStmt xml:id="enc51-60">
           <resp>TEI 태깅·검수 (51–60장)</resp>
-          <name>서재현<idno type="ISNI">0000000502339494</idno><idno type="ORCID">0000-0002-3648-0320</idno></name>
+          <name>서재현
+          <idno type="ISNI">0000000502339494</idno>
+          <idno type="ORCID">0000-0002-3648-0320</idno></name>
         </respStmt>
         <respStmt xml:id="enc61-70">
           <resp>TEI 태깅·검수 (61–70장)</resp>
