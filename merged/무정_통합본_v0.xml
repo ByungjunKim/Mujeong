@@ -64,6 +64,8 @@
         <respStmt xml:id="enc111-120">
           <resp>TEI 태깅·검수 (111–120장)</resp>
           <name>왕성운</name>
+          <idno type="ISNI">1111-1112-1113-1114</idno>
+          <email>cheng9643@gmail.com</email>
         </respStmt>
         <respStmt xml:id="enc121-126">
           <resp>TEI 태깅·검수 (121–126장)</resp>
