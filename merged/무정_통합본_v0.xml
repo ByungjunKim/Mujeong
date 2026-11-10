@@ -67,7 +67,9 @@
         </respStmt>
         <respStmt xml:id="merge">
           <resp>구간 병합 · 공통 ID 초안</resp>
-          <name>김병준 (교강사)</name>
+          <name>김병준
+            <idno type="ORCID">0000-0001-9925-9343</idno>
+          </name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
