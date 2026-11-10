@@ -25,7 +25,9 @@
         </respStmt>
         <respStmt xml:id="enc31-40">
           <resp>TEI 태깅·검수 (31–40장)</resp>
-          <name>우인진<idno type="ORCID">0009-0009-2118-0016</idno></name>
+          <name>우인진
+            <idno type="ORCID">0009-0009-2118-0016</idno>
+          </name>
           <note><email>jaegoi53 [at] gmail.com</email></note>
         </respStmt>
         <respStmt xml:id="enc41-50">
@@ -58,6 +60,7 @@
           <name>홍현영
            <idno type="ISNI">0000 0000 0000 0000</idno>
           </name>
+          <note><email>redpenpen745 [at] gmail.com</email>
         </respStmt>
         <respStmt xml:id="enc91-100">
           <resp>TEI 태깅·검수 (91–100장)</resp>
@@ -74,7 +77,7 @@
           <resp>TEI 태깅·검수 (111–120장)</resp>
           <name>왕성운</name>
           <idno type="ISNI">1111-1112-1113-1114</idno>
-          <email>cheng9643@gmail.com</email>
+          <note><email>cheng9643[at]gmail.com</email></note>
         </respStmt>
         <respStmt xml:id="enc121-126">
           <resp>TEI 태깅·검수 (121–126장)</resp>
@@ -92,6 +95,7 @@
           <name>김병준
             <idno type="ORCID">0000-0001-9925-9343</idno>
           </name>
+         <note><email>bjkim [at] byungjunkim.com</email></note> 
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -162,9 +166,13 @@
         <language ident="ko">한국어</language>
       </langUsage>
       <textClass>
-        <keywords scheme="local">
+        <keywords scheme="local" xml:lang="ko">
           <term>근현대 한국문학</term>
           <term>장편소설</term>
+        </keywords>
+        <keywords scheme="local" xml:lang="en">
+          <term>Modern Korean Literature</term>
+          <term>Novel</term>
         </keywords>
       </textClass>
       <particDesc>
@@ -2254,7 +2262,6 @@
           <persName ref="#PYC">영채</persName>는 다시 말을 이어, <rs type="person" ref="#S1_AKHAN">그 악한</rs>에게 잡혀가는 일에서부터 지금까지 지내 오던 바를 말한다.</p>
       </div>
       <div type="part" n="11-20" resp="#enc11-20" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/1%EC%9E%A5~20%EC%9E%A5">
-        <note type="todo">11–20장: 장(div) 구분 복원 필요</note>
         <p>
           <persName ref="#PYC">영채</persName>는 마침내 <rs type="person" ref="#S11_AKHAN">그 악한</rs>에게 붙들려 갔다. <rs type="person" ref="#S11_AKHAN">그 악한</rs>의 집은 <placeName ref="#PL_SANMIT">산밑</placeName>에 있는 조고마한 집안이었다. 얼른 보아도 게으른 사람의 집인 줄을 알겠더라. <rs type="person" ref="#S11_AKHAN">그 악한</rs>은, 지금은 비록 이러한 못된 짓을 하거니와, 일찍은 <placeName ref="#PL_DONGNE">이 동네</placeName>에서 부자라는 이름을 듣고 살았었다. 그러나 원래 문벌이 낮아 남의 천대를 받더니, <date when="1904">갑진년</date>에 <orgName ref="#ORG_DONGHAK">동학</orgName>의 세력이 창궐하여 무식한 농사꾼들도 머리를 깎고 탕건을 쓰면 호랑같이 무섭던 원님도 감히 건드리지를 못하였다. <rs type="person" ref="#S11_AKHAN">이 악한</rs>도 그 세력이 부러워 곧 <orgName ref="#ORG_DONGHAK">동학</orgName>에 입도하고, 여간 전래의 논밭을 다 팔아 <orgName ref="#ORG_DONGHAK">동학</orgName>에 바치고 그만 의식이 말유한 가난한 사람이 되고 말았다. 그러나 감사도 되고 군수 목사도 되리라는 희망은 물거품으로 돌아가고 이제는 논밭 한 이랑도 없는 거지가 되고 말았다. 마음이 착하고 수양이 많은 사람이면 아무리 가난하여도 절행을 고칠 리가 없건마는, 원래 갑작 양반이나 되기를 바라고 <orgName ref="#ORG_DONGHAK">동학</orgName>에 들었던 인물이라, 처음에는 양반의 체면과 신사의 체면도 보았건마는 점점 체면을 차리는 데 필요한 두루마기와 탕건과 가죽신이 없어지매 양반의 체면과 신사의 체면도 그와 함께 없어지고 말았다. <rs type="person" ref="#S11_AKHAN">그 악한</rs>은 아무러한 짓을 하여서라도 돈만 얻으면 그만이요, 술만 먹으면 그만이라 하게 되었다. 그래서 <rs type="person" ref="#S11_AKHAN">그</rs>는 <placeName ref="#PL_DONGNE">그 동네</placeName>에 유명한 협잡꾼이 되고 몹쓸놈이 된 것이라. 객주에 앉아서 <persName ref="#PYC">영채</persName>의 밥값을 담당함은 잠시 이전 신사의 체면을 보던 마음이 일어남이요, <persName ref="#PYC">영채</persName>가 계집아이인 줄을 알며 <rs type="person" ref="#PYC">그</rs>를 업어 감은 시방 <rs type="person" ref="#S11_AKHAN">그</rs>의 썩어진 마음을 표함이라.</p>
         <p>
