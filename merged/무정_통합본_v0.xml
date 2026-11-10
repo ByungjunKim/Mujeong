@@ -47,7 +47,9 @@
         </respStmt>
         <respStmt xml:id="enc91-100">
           <resp>TEI 태깅·검수 (91–100장)</resp>
-          <name>김강은</name>
+          <name>김강은
+            <idno type="ISNI">000000049330453</idno>
+          </name>
         </respStmt>
         <respStmt xml:id="enc101-110">
           <resp>TEI 태깅·검수 (101–110장)</resp>
