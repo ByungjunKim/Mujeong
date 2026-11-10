@@ -25,7 +25,8 @@
         </respStmt>
         <respStmt xml:id="enc31-40">
           <resp>TEI 태깅·검수 (31–40장)</resp>
-          <name>우인진</name>
+          <name>우인진<idno type="ORCID">0009-0009-2118-0016</idno></name>
+          <email>jaegoi53 [at] gmail.com</email>
         </respStmt>
         <respStmt xml:id="enc41-50">
           <resp>TEI 태깅·검수 (41–50장)</resp>
@@ -45,11 +46,16 @@
         </respStmt>
         <respStmt xml:id="enc81-90">
           <resp>TEI 태깅·검수 (81–90장)</resp>
-          <name>홍현영</name>
+          <name>홍현영
+           <idno type="ISNI">0000 0000 0000 0000</idno>
+          </name>
         </respStmt>
         <respStmt xml:id="enc91-100">
           <resp>TEI 태깅·검수 (91–100장)</resp>
-          <name>김강은</name>
+          <name>김강은
+            <idno type="ISNI">000000049330453</idno>
+          </name>
+          <email>kangeunkim9 [at] gmail.com</email>
         </respStmt>
         <respStmt xml:id="enc101-110">
           <resp>TEI 태깅·검수 (101–110장)</resp>
@@ -69,7 +75,9 @@
         </respStmt>
         <respStmt xml:id="merge">
           <resp>구간 병합 · 공통 ID 초안</resp>
-          <name>김병준 (교강사)</name>
+          <name>김병준
+            <idno type="ORCID">0000-0001-9925-9343</idno>
+          </name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
