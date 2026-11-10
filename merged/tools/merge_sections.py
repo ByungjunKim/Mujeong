@@ -244,11 +244,15 @@ ts.append(E("title", "1–126장 통합본 (v0, 공통 ID 초안 적용 · 등�
 au = E("author", "이광수")
 au.append(E("idno", "0000 0001 1059 4496", type="ISNI")); au.append(E("idno", "Q495454", type="Wikidata"))
 ts.append(au)
+# 구간별 태깅·검수 담당(2026-11-04 과제 배정 메일 기준)
+ENCODERS = {"1-10": "김경민", "11-20": "왕성운", "21-30": "김경민", "31-40": "우인진", "41-50": "고원", "51-60": "서재현",
+            "61-70": "원선미", "71-80": "목소연", "81-90": "홍현영", "91-100": "김강은", "101-110": "목소연",
+            "111-120": "왕성운", "121-126": "고원"}
 SECS = [s["구간"] for s in J["sections"]]
 for sec in SECS:
     rs = etree.SubElement(ts, T + "respStmt", attrib={XID: "enc" + sec})
     rs.append(E("resp", f"TEI 태깅·검수 ({sec.replace('-', '–')}장)"))
-    rs.append(E("name", f"{sec.replace('-', '–')}장 담당 수강생"))
+    rs.append(E("name", ENCODERS.get(sec, f"{sec.replace('-', '–')}장 담당 수강생")))
 rs = etree.SubElement(ts, T + "respStmt", attrib={XID: "teiagent"})
 rs.append(E("resp", "1차 자동 태깅(LLM 보조)")); rs.append(E("name", "TEI Agent (DeepSeek API)"))
 rs = etree.SubElement(ts, T + "respStmt", attrib={XID: "merge"})
@@ -351,7 +355,7 @@ if extra_defs["item"]:
         li.append(c)
 rv = etree.SubElement(hdr, T + "revisionDesc")
 ch = etree.SubElement(rv, T + "change", when=TODAY, who="#merge"); ch.text = "13개 구간 병합(v0). 공통 ID는 11주차(11/10) 인물 등록부 통합 회의 전 초안."
-ch = etree.SubElement(rv, T + "change", when="2026-11-10", who="#merge"); ch.text = "최종 점검: tei_all(TEI P5 4.12.0) 검증 통과(61–70 object 구조 수정). 헤더에 작가·작품 식별자(ISNI · Wikidata · 민백), 위키문헌 하위 문서 주소, 장르 분류를 넣고, 각 장 div에 저본 주소(@source)를 적음."
+ch = etree.SubElement(rv, T + "change", when="2026-11-10", who="#merge"); ch.text = "최종 점검: tei_all(TEI P5 4.12.0) 검증 통과(61–70 object 구조 수정). 헤더에 작가·작품 식별자(ISNI · Wikidata · 민백), 위키문헌 하위 문서 주소, 장르 분류를 넣고, 각 장 div에 저본 주소(@source)를 적음. 구간별 태깅·검수 담당자 이름을 respStmt에 적음."
 tei.append(so)
 text = etree.SubElement(tei, T + "text"); bd = etree.SubElement(text, T + "body")
 

@@ -11,55 +11,55 @@
         </author>
         <respStmt xml:id="enc1-10">
           <resp>TEI 태깅·검수 (1–10장)</resp>
-          <name>1–10장 담당 수강생</name>
+          <name>김경민</name>
         </respStmt>
         <respStmt xml:id="enc11-20">
           <resp>TEI 태깅·검수 (11–20장)</resp>
-          <name>11–20장 담당 수강생</name>
+          <name>왕성운</name>
         </respStmt>
         <respStmt xml:id="enc21-30">
           <resp>TEI 태깅·검수 (21–30장)</resp>
-          <name>21–30장 담당 수강생</name>
+          <name>김경민</name>
         </respStmt>
         <respStmt xml:id="enc31-40">
           <resp>TEI 태깅·검수 (31–40장)</resp>
-          <name>31–40장 담당 수강생</name>
+          <name>우인진</name>
         </respStmt>
         <respStmt xml:id="enc41-50">
           <resp>TEI 태깅·검수 (41–50장)</resp>
-          <name>41–50장 담당 수강생</name>
+          <name>고원</name>
         </respStmt>
         <respStmt xml:id="enc51-60">
           <resp>TEI 태깅·검수 (51–60장)</resp>
-          <name>51–60장 담당 수강생</name>
+          <name>서재현</name>
         </respStmt>
         <respStmt xml:id="enc61-70">
           <resp>TEI 태깅·검수 (61–70장)</resp>
-          <name>61–70장 담당 수강생</name>
+          <name>원선미</name>
         </respStmt>
         <respStmt xml:id="enc71-80">
           <resp>TEI 태깅·검수 (71–80장)</resp>
-          <name>71–80장 담당 수강생</name>
+          <name>목소연</name>
         </respStmt>
         <respStmt xml:id="enc81-90">
           <resp>TEI 태깅·검수 (81–90장)</resp>
-          <name>81–90장 담당 수강생</name>
+          <name>홍현영</name>
         </respStmt>
         <respStmt xml:id="enc91-100">
           <resp>TEI 태깅·검수 (91–100장)</resp>
-          <name>91–100장 담당 수강생</name>
+          <name>김강은</name>
         </respStmt>
         <respStmt xml:id="enc101-110">
           <resp>TEI 태깅·검수 (101–110장)</resp>
-          <name>101–110장 담당 수강생</name>
+          <name>목소연</name>
         </respStmt>
         <respStmt xml:id="enc111-120">
           <resp>TEI 태깅·검수 (111–120장)</resp>
-          <name>111–120장 담당 수강생</name>
+          <name>왕성운</name>
         </respStmt>
         <respStmt xml:id="enc121-126">
           <resp>TEI 태깅·검수 (121–126장)</resp>
-          <name>121–126장 담당 수강생</name>
+          <name>고원</name>
         </respStmt>
         <respStmt xml:id="teiagent">
           <resp>1차 자동 태깅(LLM 보조)</resp>
@@ -1227,7 +1227,7 @@
     </profileDesc>
     <revisionDesc>
       <change when="2026-11-09" who="#merge">13개 구간 병합(v0). 공통 ID는 11주차(11/10) 인물 등록부 통합 회의 전 초안.</change>
-      <change when="2026-11-10" who="#merge">최종 점검: tei_all(TEI P5 4.12.0) 검증 통과(61–70 object 구조 수정). 헤더에 작가·작품 식별자(ISNI · Wikidata · 민백), 위키문헌 하위 문서 주소, 장르 분류를 넣고, 각 장 div에 저본 주소(@source)를 적음.</change>
+      <change when="2026-11-10" who="#merge">최종 점검: tei_all(TEI P5 4.12.0) 검증 통과(61–70 object 구조 수정). 헤더에 작가·작품 식별자(ISNI · Wikidata · 민백), 위키문헌 하위 문서 주소, 장르 분류를 넣고, 각 장 div에 저본 주소(@source)를 적음. 구간별 태깅·검수 담당자 이름을 respStmt에 적음.</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
