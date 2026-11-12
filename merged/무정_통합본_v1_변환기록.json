@@ -1,0 +1,72 @@
+{
+ "헤더: respStmt 안 idno · email 자리 옮김": 4,
+ "ID 바꿈(참조 수)": {
+  "KJH→KGH": 118,
+  "PES→PJS": 3,
+  "S1_AKHAN→AKHAN": 9,
+  "S11_AKHAN→AKHAN": 32,
+  "KJH_W→KGH_W": 69,
+  "YC_FATHER→PJS": 15,
+  "S81_YC_FATHER→PJS": 1
+ },
+ "태그 벗김(대상 ID별 횟수)": {
+  "IDORYEONG": 6,
+  "S11_GAE": 15,
+  "NAP": 17,
+  "WELL": 1,
+  "PEST": 2,
+  "ELLEN": 3,
+  "JESUS": 18,
+  "CHUNHYANG": 3,
+  "ADAM": 1,
+  "EWA": 2,
+  "LTB": 1,
+  "GJ": 1,
+  "WCR": 1,
+  "YCG": 1,
+  "TMG": 1,
+  "SMSY": 1,
+  "CHUNHYANG_MOTHER": 1,
+  "NAM_WON_BUSA": 1,
+  "TOLSTOY": 1,
+  "S61_NA": 42,
+  "ROUSSEAU": 1,
+  "SHAKESPEARE": 1,
+  "GOETHE": 1,
+  "KROPOTKIN": 1,
+  "TAGORE": 1,
+  "S81_NARR": 3,
+  "S121_NAR": 1,
+  "BAIJUYI": 1,
+  "DUFU": 1,
+  "SODONGPA": 1
+ },
+ "속성만 지움": {},
+ "속성 지움": {
+  "ana": 86,
+  "toWhom": 40
+ },
+ "빈 seg 벗김": 6,
+ "본문 글자 동일": true,
+ "중복 xml:id": [],
+ "정의 없는 참조": {
+  "ref:S111_차장": 1
+ },
+ "인물 등록(person + personGrp)": 169,
+ "본문에서 안 쓰이는 인물 ID": [
+  "BY_BR",
+  "BY_BW",
+  "FA",
+  "MO",
+  "S71_NP",
+  "ST"
+ ],
+ "div": {
+  "chapter": 106,
+  "part": 2
+ },
+ "p": 1958,
+ "l": 16,
+ "said": 1921,
+ "said who 없음": 18
+}
