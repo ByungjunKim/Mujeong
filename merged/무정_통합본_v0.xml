@@ -1263,6 +1263,54 @@
             <persName type="main">어떤 노동자 같은 소년</persName>
             <note type="source-ids">구간 원 ID: 61-70:ST</note>
           </person>
+          <person xml:id="S71_STUDENT_A">
+            <persName type="main">「무엇 하러?」라고 묻는 학생</persName>
+            <note type="editorial">71장. 이름은 제시되지 않음.</note>
+          </person>
+          <person xml:id="S71_STUDENT_B">
+            <persName type="main">「누구하고?」라고 묻는 다른 학생</persName>
+            <note type="editorial">71장. 이름은 제시되지 않음.</note>
+          </person>
+          <person xml:id="S71_STUDENT_C">
+            <persName type="main">「누구를 따라서?」라고 묻는 학생</persName>
+            <note type="editorial">71장. 이름은 제시되지 않음.</note>
+          </person>
+          <person xml:id="S71_STUDENT_D">
+            <persName type="main">「계월향이 따라서 후후」라고 말하는 학생</persName>
+            <note type="editorial">71장. 다른 익명 학생 발화자와 동일 인물인지는 알 수 없음.</note>
+          </person>
+          <person xml:id="S71_STUDENT_E">
+            <persName type="main">「계월향!」이라고 외치는 학생</persName>
+            <note type="editorial">71장. 다른 익명 학생 발화자와 동일 인물인지는 알 수 없음.</note>
+          </person>
+          <person xml:id="S78_TOFU_VENDOR">
+            <persName type="main">두부 장수</persName>
+            <note type="editorial">78장 「두부나 비지드렁」의 발화자. 다른 장의 두부 장수와 동일 인물인지는 알 수 없음.</note>
+          </person>
+          <personGrp xml:id="S78_SHOP_PEOPLE">
+            <persName type="main">가게에 앉았던 사람들</persName>
+            <note type="editorial">78장 「이제는 서늘한 밤이 온다」의 생각 주체.</note>
+          </personGrp>
+          <personGrp xml:id="S79_WESTERN_PEOPLE">
+            <persName type="main">가정된 비평 주체인 서양 사람</persName>
+            <note type="editorial">79장에서 서술자가 가정한 생각의 주체. 실제 발화나 특정 등장인물을 뜻하지 않음.</note>
+          </personGrp>
+          <personGrp xml:id="S102_VILLAGERS">
+            <persName type="main">동네 사람들</persName>
+            <note type="editorial">102장 「잘 가거라」의 발화 집단.</note>
+          </personGrp>
+          <personGrp xml:id="S102_DEPARTING_PARTY">
+            <persName type="main">동구를 떠나는 일행</persName>
+            <note type="editorial">102장 「잘 있으오」의 발화 집단. 개별 발화자는 특정되지 않음.</note>
+          </personGrp>
+          <personGrp xml:id="S104_SENDOFF_PEOPLE">
+            <persName type="main">역의 배웅객들</persName>
+            <note type="editorial">104장 「사요나라, 고키겐요우」의 발화 집단. 개별 인물은 특정되지 않음.</note>
+          </personGrp>
+          <personGrp xml:id="S104_CHEERING_PARTY">
+            <persName type="main">형식의 만세를 부르는 모시 두루마기에 파나마 쓴 패</persName>
+            <note type="editorial">104장 두 차례 만세를 부르는 집단.</note>
+          </personGrp>
         </listPerson>
       </particDesc>
     </profileDesc>
@@ -3479,7 +3527,7 @@
           <persName ref="#LHS">형식</persName>은 책을 펴서 책상 위에 놓고 교의에 걸어앉아서 수상한 듯이 <rs type="group" ref="#STU">일동</rs>을 본다. <persName ref="#LHS">형식</persName>의 가슴에는 말할 수 없이 불쾌한 생각이 난다. <rs type="group" ref="#STU">학생들</rs>의 태도가 암만해도 수상하다 하였다. 전에는 이러한 일이 없었다. 오늘은 <rs type="group" ref="#STU">학생들</rs>의 태도에 <rs type="pronoun" ref="#LHS">자기</rs>를 비웃는 빛이 보인다. 그러나 <persName ref="#LHS">형식</persName>은 웃으며,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">왜들 <rs type="pronoun" ref="#LHS">나</rs>를 보고 웃으시오…… 자 시작합시다. 제 십팔과…… <persName ref="#KJY">김군</persName> 읽어 보시오.</said>”</p>
         <p>
-          <rs type="group" ref="#STU">학생들</rs>은 참다못한 듯이 한꺼번에, “<said direct="true" aloud="true">와!</said>” 하고 웃는다. 책상 위에 이마를 대고 끽끽 하며 웃는다. <rs type="group" ref="#STU">학생들</rs>의 등이 들먹들먹한다. <persName ref="#LHS">형식</persName>은 얼굴이 빨갛게 되었다. 부끄럽기도 하고 분하기도 하고 슬프기도 하였다. 그래서 발을 구르며 책망도 하고 싶고 소리를 내어서 울고도 싶었다. <persName ref="#LHS">형식</persName>은 벌떡 일어나서 엄한 목소리로,</p>
+          <rs type="group" ref="#STU">학생들</rs>은 참다못한 듯이 한꺼번에, “<said who="#STU" direct="true" aloud="true">와!</said>” 하고 웃는다. 책상 위에 이마를 대고 끽끽 하며 웃는다. <rs type="group" ref="#STU">학생들</rs>의 등이 들먹들먹한다. <persName ref="#LHS">형식</persName>은 얼굴이 빨갛게 되었다. 부끄럽기도 하고 분하기도 하고 슬프기도 하였다. 그래서 발을 구르며 책망도 하고 싶고 소리를 내어서 울고도 싶었다. <persName ref="#LHS">형식</persName>은 벌떡 일어나서 엄한 목소리로,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">이게 무슨 일들이오? 무슨 버르장머리들이란 말이오?</said>” 하고 눈을 부릅떴다. 그러나 그 말소리는 떨렸다. <rs type="group" ref="#STU">일동</rs>은 웃음을 그치고 모두 바로앉았다. <persName ref="#LHK">희경</persName>은 고개를 푹 수그리고 연필로 책상에 무엇을 그적그적한다. <persName ref="#KJY">김종렬</persName>은 여전히 시치미떼고 앉았다. <persName ref="#LHS">형식</persName>은 차마 가르칠 생각이 없다. 가슴이 활랑활랑하고 숨이 차다. <rs type="pronoun" ref="#LHS">자기</rs>가 사오 년간 전심력을 다 바쳐서 가르치던 자들에게 모욕을 받은 것 같아서 참 분하였다. 저편 교실에서는 수학을 강의하는 모양이더니 <rs type="group" ref="#STU">학생</rs>의 웃음 소리와 <persName ref="#LHS">형식</persName>의 큰소리가 나자 갑자기 말이 끊어진다. 아마 이편 교실 모양을 엿듣는 듯하다. <persName ref="#LHS">형식</persName>은,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">무슨 일이오, 누구든지 말을 하시오. <rs type="group" ref="#STU">학생들</rs>이 그게 무슨 행위란 말이오? 말을 하시오!</said>” <rs type="group" ref="#STU">일동</rs>의 시선은 <persName ref="#KJY">김종렬</persName>에게로 몰린다. <persName ref="#LHK">희경</persName>은 더욱 고개를 숙이고 다리를 흔들흔들하면서 연필로 무슨 글자를 쓴다. <persName ref="#KJY">김종렬</persName>은 우뚝 일어선다. <rs type="group" ref="#STU">학생들</rs>은 <persName ref="#LHS">형식</persName>과 <persName ref="#KJY">종렬</persName>의 얼굴을 번갈아 보며 빙끗빙끗 웃기도 하고 서로 쿡쿡 찌르기도 한다. 어떤 자는 소곤소곤 이야기까지 한다. <persName ref="#LHS">형식</persName>의 머리터럭은 온통 하늘로 올라가는 듯하였다. <persName ref="#KJY">종렬</persName>은 연설하는 사람 모양으로 한번 기침을 하더니,</p>
         <p>“<said who="#KJY" direct="true" aloud="true">
@@ -3488,15 +3536,15 @@
         <p>“<said who="#KJY" direct="true" aloud="true">
             <rs type="person" ref="#LHS">선생님</rs> 그 동안 어디 갔다 오셨습니까…… <rs type="pronoun" ref="#KJY">제</rs>가 질문이라 함은 그것을 가리킴이외다</said>” 하고 자리에 앉는다. <rs type="group" ref="#STU">일동</rs>의 시선은 <persName ref="#LHS">형식</persName>의 입으로 모인다. <persName ref="#LHS">형식</persName>은,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">그래, <placeName ref="#PL_PY">평양</placeName> 갔다 왔소. 그래서? 그러니 어떻단 말이오?</said>”</p>
-        <p>“<said direct="true" aloud="true">무엇 하러?</said>” 하고 어떤 <rs type="person">학생</rs>이 혼자말 모양으로 묻자 다른 어떤 <rs type="person">학생</rs>이, “<said direct="true" aloud="true">누구하고?</said>” 한다. <rs type="group" ref="#STU">학생들</rs>은 또 한번 끽끽 웃는다. 또 어떤 <rs type="person">학생</rs>이, “<said direct="true" aloud="true">누구를 따라서?</said>” 한다. <persName ref="#LHS">형식</persName>은 다 알았다. <persName ref="#KJY">종렬</persName>이가 다시 일어나며,</p>
+        <p>“<said who="#S71_STUDENT_A" direct="true" aloud="true">무엇 하러?</said>” 하고 어떤 <rs type="person">학생</rs>이 혼자말 모양으로 묻자 다른 어떤 <rs type="person">학생</rs>이, “<said who="#S71_STUDENT_B" direct="true" aloud="true">누구하고?</said>” 한다. <rs type="group" ref="#STU">학생들</rs>은 또 한번 끽끽 웃는다. 또 어떤 <rs type="person">학생</rs>이, “<said who="#S71_STUDENT_C" direct="true" aloud="true">누구를 따라서?</said>” 한다. <persName ref="#LHS">형식</persName>은 다 알았다. <persName ref="#KJY">종렬</persName>이가 다시 일어나며,</p>
         <p>“<said who="#KJY" direct="true" aloud="true">
             <placeName ref="#PL_PY">평양</placeName>은 무슨 일로 가셨습니까? <rs type="org" ref="#ORG_KSSORG">학교</rs>를 쉬고 가시는 것을 보매 무슨 중대한 사건이 발생한 줄을 추측하기 비난합니다마는…….</said>”</p>
         <p>
-          <persName ref="#LHS">형식</persName>은 말이 막혔다. 고개를 숙이고 눈을 감았다. <rs type="pronoun" ref="#LHS">자기</rs>도 무엇을 생각하는지 모르게 한참이나 가만히 섰다. <rs type="group" ref="#STU">학생들</rs>은 또 웃는다. 누가, “<said direct="true" aloud="true">
+          <persName ref="#LHS">형식</persName>은 말이 막혔다. 고개를 숙이고 눈을 감았다. <rs type="pronoun" ref="#LHS">자기</rs>도 무엇을 생각하는지 모르게 한참이나 가만히 섰다. <rs type="group" ref="#STU">학생들</rs>은 또 웃는다. 누가, “<said who="#S71_STUDENT_D" direct="true" aloud="true">
             <persName ref="#PYC">계월향</persName>이 따라서 후후</said>” 한다.</p>
         <p>이때에 <persName ref="#BMS">배학감</persName>이 쑥 들어오며,</p>
         <p>“<said who="#BMS" direct="true" aloud="true">
-            <persName ref="#LHS">이선생</persName>, 왜 이렇게 교실이 소요하오? 다른 교실에서 상학할 수가 없구려</said>” 하고 <rs type="group" ref="#STU">학생들</rs>을 돌아보며, “<said who="#BMS" direct="true" aloud="true">왜들 이렇게 떠드오?</said>” 하고 돌아서서 나가려 할 적에 <rs type="group" ref="#STU">학생</rs> 중에서, “<said direct="true" aloud="true">
+            <persName ref="#LHS">이선생</persName>, 왜 이렇게 교실이 소요하오? 다른 교실에서 상학할 수가 없구려</said>” 하고 <rs type="group" ref="#STU">학생들</rs>을 돌아보며, “<said who="#BMS" direct="true" aloud="true">왜들 이렇게 떠드오?</said>” 하고 돌아서서 나가려 할 적에 <rs type="group" ref="#STU">학생</rs> 중에서, “<said who="#S71_STUDENT_E" direct="true" aloud="true">
             <persName ref="#PYC">계월향</persName>!</said>” 하고 소리를 지른다. <persName ref="#BMS">배학감</persName>은 <persName ref="#LHS">형식</persName>을 한번 흘겨보고 문을 닫고 나간다. <persName ref="#LHS">형식</persName>은 고개를 들어 <rs type="group" ref="#STU">학생들</rs>을 둘러보더니 떨리는 목소리로,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">사 년간 교정이 이에 다 끊어졌소. <rs type="pronoun" ref="#LHS">나</rs>는 가오</said>” 하고 교실에 나왔다. 교실에서는 웃는 소리, 지껄이는 소리가 들린다. <persName ref="#LHS">형식</persName>의 눈에는 눈물이 고였다.</p>
         <p>사무실로 들어가 모자를 집어 들고 어디로 달아나리라 하였다. 그러나 <persName ref="#BMS">배학감</persName>이,</p>
@@ -3783,9 +3831,9 @@
       </div>
       <div type="chapter" n="78" resp="#enc71-80" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/61%EC%9E%A5~80%EC%9E%A5">
         <head>78장</head>
-        <p>해가 <placeName ref="#PL_INW">인왕산</placeName> 마루턱에 걸렸다. <placeName ref="#PL_JONG">종로</placeName> 전선대 그림자가 길게 가로누웠다. <placeName ref="#PL_JHJ">종현 천주당</placeName> 뾰족탑의 유리창이 석양을 반사하여 불길같이 번적거린다. <rs type="occupation">두부 장수</rs>의 “<said direct="true" aloud="true">두부나 비지드렁</said>” 하는 소리도 이제는 아니 들리게 되고 집집에는 앞뒷문을 활짝 열어 놓고 한 손으로 땀을 씻어 가며 저녁밥을 먹는다. <placeName ref="#PL_BUK">북악</placeName>의 황토가 가로쏘는 햇볕을 받아 빨간빛을 발하고 <placeName ref="#PL_GBG">경복궁</placeName> 어원 늙은 나무 수풀에서는 저녁 까치 소리가 시끄럽게 들린다.</p>
+        <p>해가 <placeName ref="#PL_INW">인왕산</placeName> 마루턱에 걸렸다. <placeName ref="#PL_JONG">종로</placeName> 전선대 그림자가 길게 가로누웠다. <placeName ref="#PL_JHJ">종현 천주당</placeName> 뾰족탑의 유리창이 석양을 반사하여 불길같이 번적거린다. <rs type="occupation">두부 장수</rs>의 “<said who="#S78_TOFU_VENDOR" direct="true" aloud="true">두부나 비지드렁</said>” 하는 소리도 이제는 아니 들리게 되고 집집에는 앞뒷문을 활짝 열어 놓고 한 손으로 땀을 씻어 가며 저녁밥을 먹는다. <placeName ref="#PL_BUK">북악</placeName>의 황토가 가로쏘는 햇볕을 받아 빨간빛을 발하고 <placeName ref="#PL_GBG">경복궁</placeName> 어원 늙은 나무 수풀에서는 저녁 까치 소리가 시끄럽게 들린다.</p>
         <p>종일 빨갛게 달았던 기왓장이 <placeName ref="#PL_HAN">한강</placeName>으로 불어 들어오는 부드러운 바람을 받아 뜨거운 입김을 후끈후끈하게 토한다. 길 가는 사람들의 얼굴은 모두 벌겋게 되었다.</p>
-        <p>가게에 앉았던 사람들은 ‘<said direct="true" aloud="false">이제는 서늘한 밤이 온다</said>’ 하는 듯이 피곤한 얼굴에 땀을 씻으면서 행길에 나서 거닌다.</p>
+        <p>가게에 앉았던 사람들은 ‘<said who="#S78_SHOP_PEOPLE" direct="true" aloud="false">이제는 서늘한 밤이 온다</said>’ 하는 듯이 피곤한 얼굴에 땀을 씻으면서 행길에 나서 거닌다.</p>
         <p>
           <placeName ref="#PL_NAMSAN">남산</placeName> 솔수풀 위에 살짝 덮였던 석양도 무엇으로 지우는 듯이 점점 스러지고, 그 무성한 가지와 잎사귀 속으로 자줏빛 띤 황혼이 거미줄 모양으로 아슬랑아슬랑 기어나온다.</p>
         <p>해 바퀴는 <placeName ref="#PL_INW">인왕산</placeName> 머리에서 뚝 떨어졌다. <placeName ref="#PL_BUK">북악산</placeName>에 아직도 고깔 모양으로 석양이 남았다. <placeName ref="#PL_SEL">장안</placeName> 만호에는 파르족족한 장막이 덮인다. 그 한끝이 늘어나서 <placeName ref="#PL_BUK">북악산</placeName>으로 덮여 올라간다. 마침내 그 고깔까지도 파랗게 물을 들이고 말았다.</p>
@@ -3816,7 +3864,7 @@
         <head>79장</head>
         <p>
           <persName ref="#KGH">김장로</persName>의 서재는 양식으로 되었다. <rs type="person" ref="#KGH">그</rs>가 일찍 <placeName ref="#PL_AMERICA">미국</placeName> 공사로 갔다 와서부터는 될 수 있는 대로 <placeName ref="#PL_WEST">서양</placeName>식 생활을 하려 한다.</p>
-        <p>방바닥에는 붉은 모란 무늬 있는 모전을 깔고 사벽에는 화액(<foreign xml:lang="ko-Hani">畵額</foreign>)에 넣은 그림을 걸었다. 그림은 대개 종교화다. 북편 벽으로 제일 큰 화액에는 <placeName ref="#PL_GSN">겟세마네</placeName>에는 기도하는 예수의 화상이 있고 두어 자 동쪽에는 그보다 조곰 작은 화액에 구유에 누인 예수를 그린 것이요, 서편 벽에는 <rs type="person" ref="#KGH">자기</rs>의 반신상이 걸렸다. 다른 나라 신사 같으면, 종교화 밖에도 한두 장 세계 명화를 걸었으련마는, <persName ref="#KGH">김장로</persName>는 아직 미술의 취미가 없고 또 가치도 모른다. <rs type="person" ref="#KGH">그</rs>는 그림이라 하면 종교에 관한 것이라야 가치가 있는 것으로 알고, 기타에는 옛날 산수 풍경이며 지란매죽 같은 그림은 얼마큼 귀하에 여기되, 이러한 그림은 <placeName ref="#PL_WEST">서양</placeName>식으로 차려 놓은 방에는 부적당한 줄로 안다. 그러고 <placeName ref="#PL_WEST">서양</placeName>식 인물화라든지 그중에도 미인화, 나체화(<foreign xml:lang="ko-Hani">裸體畵</foreign>) 같은 것은 별로 보지도 못하였거니와 보려고도 아니하고 본다 하더라도 아무 가치를 인정하지 아니할 것이다. <rs type="person" ref="#KGH">그</rs>는 미술이라는 말도 잘 알지 못하거니와, 대체 그림 같은 것이 무슨 필요가 있는가 한다. 더구나 조각(<foreign xml:lang="ko-Hani">彫刻</foreign>) 같은 것은 아마도 <rs type="person" ref="#KGH">그</rs>의 오십 년 생활에 생각해 본 적도 없을 것이다. 그러므로 <placeName ref="#PL_WEST">서양</placeName> 사람들이 종교와 같이 귀중히 여기는 예술(<foreign xml:lang="ko-Hani">藝術</foreign>)도 <rs type="person" ref="#KGH">그</rs>의 눈에는 거의 한푼 어치 가치도 아니 보일 것이다. <placeName ref="#PL_WEST">서양</placeName> 사람의 생각으로 <rs type="person" ref="#KGH">그</rs>를 비평할진대 ‘<said direct="true" aloud="false">예술을 모르고 어떻게 문명 인사(<foreign xml:lang="ko-Hani">文明人士</foreign>)가 되나</said>’ 하고 의심할 것이다. 실로 문명 인사치고 예술을 모르는 사람은 없다.</p>
+        <p>방바닥에는 붉은 모란 무늬 있는 모전을 깔고 사벽에는 화액(<foreign xml:lang="ko-Hani">畵額</foreign>)에 넣은 그림을 걸었다. 그림은 대개 종교화다. 북편 벽으로 제일 큰 화액에는 <placeName ref="#PL_GSN">겟세마네</placeName>에는 기도하는 예수의 화상이 있고 두어 자 동쪽에는 그보다 조곰 작은 화액에 구유에 누인 예수를 그린 것이요, 서편 벽에는 <rs type="person" ref="#KGH">자기</rs>의 반신상이 걸렸다. 다른 나라 신사 같으면, 종교화 밖에도 한두 장 세계 명화를 걸었으련마는, <persName ref="#KGH">김장로</persName>는 아직 미술의 취미가 없고 또 가치도 모른다. <rs type="person" ref="#KGH">그</rs>는 그림이라 하면 종교에 관한 것이라야 가치가 있는 것으로 알고, 기타에는 옛날 산수 풍경이며 지란매죽 같은 그림은 얼마큼 귀하에 여기되, 이러한 그림은 <placeName ref="#PL_WEST">서양</placeName>식으로 차려 놓은 방에는 부적당한 줄로 안다. 그러고 <placeName ref="#PL_WEST">서양</placeName>식 인물화라든지 그중에도 미인화, 나체화(<foreign xml:lang="ko-Hani">裸體畵</foreign>) 같은 것은 별로 보지도 못하였거니와 보려고도 아니하고 본다 하더라도 아무 가치를 인정하지 아니할 것이다. <rs type="person" ref="#KGH">그</rs>는 미술이라는 말도 잘 알지 못하거니와, 대체 그림 같은 것이 무슨 필요가 있는가 한다. 더구나 조각(<foreign xml:lang="ko-Hani">彫刻</foreign>) 같은 것은 아마도 <rs type="person" ref="#KGH">그</rs>의 오십 년 생활에 생각해 본 적도 없을 것이다. 그러므로 <placeName ref="#PL_WEST">서양</placeName> 사람들이 종교와 같이 귀중히 여기는 예술(<foreign xml:lang="ko-Hani">藝術</foreign>)도 <rs type="person" ref="#KGH">그</rs>의 눈에는 거의 한푼 어치 가치도 아니 보일 것이다. <placeName ref="#PL_WEST">서양</placeName> 사람의 생각으로 <rs type="person" ref="#KGH">그</rs>를 비평할진대 ‘<said who="#S79_WESTERN_PEOPLE" direct="true" aloud="false">예술을 모르고 어떻게 문명 인사(<foreign xml:lang="ko-Hani">文明人士</foreign>)가 되나</said>’ 하고 의심할 것이다. 실로 문명 인사치고 예술을 모르는 사람은 없다.</p>
         <p>
           <persName ref="#KGH">김장로</persName>는 방을 <placeName ref="#PL_WEST">서양</placeName>식으로 꾸밀 뿐더러 옷도 양복을 많이 입고, 잘 때에도 <placeName ref="#PL_WEST">서양</placeName>식 침상에서 잔다. <rs type="person" ref="#KGH">그</rs>는 <placeName ref="#PL_WEST">서양</placeName>, 그 중에도 <placeName ref="#PL_AMERICA">미국</placeName>을 존경한다. 그래서 모든 것에 <placeName ref="#PL_WEST">서양</placeName>을 본받으려 한다. <rs type="person" ref="#KGH">그</rs>는 과연 이십여 년 <placeName ref="#PL_WEST">서양</placeName>을 본받았다. <rs type="person" ref="#KGH">그</rs>가 예수를 믿는 것도 처음에는 아마 <placeName ref="#PL_WEST">서양</placeName>을 본받기 위함인지 모른다. 그리하고 <rs type="person" ref="#KGH">그</rs>는 <rs type="person" ref="#KGH">자기</rs>는 <placeName ref="#PL_WEST">서양</placeName>을 잘 알고 잘 본받은 줄로 생각한다. 더구나 <rs type="person" ref="#KGH">자기</rs>가 외교관이 되어 (<placeName ref="#PL_WAS">미국 서울</placeName>) <placeName ref="#PL_WAS">워싱턴</placeName>에 주재하였으므로 <placeName ref="#PL_WEST">서양</placeName> 사정은 <rs type="person" ref="#KGH">자기</rs>보다 더 자세히 아는 이가 없거니 한다. 그러므로 <placeName ref="#PL_WEST">서양</placeName>에 관하여서는 더 들을 필요도 없고 더 배울 필요는 무론 없는 줄로 생각한다. <rs type="person" ref="#KGH">그</rs>는 <placeName ref="#PL_JS">조선</placeName>에 있어서는 가장 진보한 문명 인사로 자임한다. <orgName ref="#ORG_CHURCH_2">교회</orgName> 안에서와 세상에서도 그렇게 인정한다. 그러나 다만 그렇게 인정하지 아니하는 한 방면이 있다. 그것은 <placeName ref="#PL_WEST">서양</placeName>
           <rs type="group">선교사들</rs>이라.</p>
@@ -4551,7 +4599,7 @@
         <p>
           <persName ref="#KBU">병욱</persName>과 <persName ref="#PYC">영채</persName>는 <rs type="person" ref="#S101_GM">조모</rs>, <rs type="person" ref="#S101_FTH">부친</rs>, <rs type="person" ref="#S101_MTH">모친</rs>의 순서로 하직하는 절을 하였다. <rs type="person" ref="#S101_GM">조모</rs>는 또 한번, “<said who="#S101_GM" direct="true" aloud="true">이제는 다시 못 볼 것 같다</said>” 하고 희미한 눈에 눈물이 고이며 <persName ref="#KBG">병국</persName>에게 붙들려 대문까지 나왔다. <rs type="person" ref="#S101_FTH">부친</rs>은 절을 받고 “<said who="#S101_FTH" direct="true" aloud="true">응</said>” 할 뿐이요 다른 말이 없고, <rs type="person" ref="#S101_MTH">모친</rs>은,</p>
         <p>“<said who="#S101_MTH" direct="true" aloud="true">가서 공부들 잘해 가지고 오너라. 겨울방학에도 오려무나. <persName ref="#PYC">영채</persName>도 내년에 오너라</said>” 하고 <persName ref="#PYC">영채</persName>의 적삼 등을 펴주었다.</p>
-        <p>동네 사람들에게 ‘<said direct="true" aloud="true">잘 가거라</said>’ ‘<said direct="true" aloud="true">잘 있으오</said>’ 하는 인사를 필하고 일행이 동구를 나설 때는 정히 오후 일시경, 내리쬐는 팔월 볕이 모닥불을 퍼붓는 듯하다.</p>
+        <p>동네 사람들에게 ‘<said who="#S102_VILLAGERS" direct="true" aloud="true">잘 가거라</said>’ ‘<said who="#S102_DEPARTING_PARTY" direct="true" aloud="true">잘 있으오</said>’ 하는 인사를 필하고 일행이 동구를 나설 때는 정히 오후 일시경, 내리쬐는 팔월 볕이 모닥불을 퍼붓는 듯하다.</p>
         <p>일행은 앞서거니 뒤서거니 미진한 정담을 말하면서 간다. 혹 한데 모여서기도 하고, 혹 두 사람씩 한떼가 되어 십여 보를 떨어지기도 하고, 혹 한 사람이 앞서 가다가 길가에 풀잎을 뜯으면서 뒤를 돌아보기도 한다. 흔히 <rs type="person" ref="#S101_MTH">모친</rs>과 <persName ref="#KBU">병욱</persName>이가 한떼가 되고, <rs type="person" ref="#KBG_W">병국의 부인</rs>과 <persName ref="#PYC">영채</persName>가 한떼가 되고, <rs type="person" ref="#S101_FTH">부친</rs>과 <persName ref="#KBG">병국</persName>은 대개 말없이 따로 떨어져서 간다. 짐 진 총각은 이따금 작심대로 지게를 버티고 서서 뒤에 오는 일행을 기다리더니 얼른 <rs type="place" ref="#PL_JG_3">정거장</rs>에 가서 지게를 벗어 놓고 쉬고 싶은 생각이 나서 먼저 달아난다. 사람 아니 탄 마차와 인력거가 떨거덕떨거덕 소리를 내며 마주 오기도 하고 앞서 지나가기도 한다. 일행의 얼굴을 더위로 뻘겋게 데이고 이마에서는 구슬땀이 떨어진다. 남자들은 부채를 부치고 여자들은 수건으로 땀을 씻는다.</p>
         <p>언제까지 가도 끝이 없을 듯하던 이야기도 거의 다 없어지고 이제는 말없이 탄탄한 신작로로 태양을 마주보며 걸어나간다. 길가 원두막에서 수심가, 난봉가가 졸린 듯이 울려 나오더니, 일행이 지나가는 것을 보고 고요하게 되며, 원두막 문으로 중대가리며, 감투 쓴 대가리, 수건 쓴 대가리, 크다란 총각의 대가리가 쑥쑥 나오며 무어라고 쑤군쑤군하다가 일행이 수십 보를 지나가자, 하하 하고 웃는 소리가 들린다. 일행은 그저 말없이 <rs type="place" ref="#PL_JG_3">정거장</rs>을 향하고 간다.</p>
         <p>
@@ -4635,9 +4683,9 @@
         <p>
           <persName ref="#KBU">병욱</persName>은 여학생을 따라 <persName ref="#KSH">선형</persName>이가 탔다는 차 앞에까지 갔으나 너무 사람이 많아서 곁에 갈 수가 없다. <persName ref="#KSH">선형</persName>은 하얀 양복에 맨머리로 창 밑에 서서 전송 나온 사람들의 인사를 대답하고, 그 곁 창에는 어떤 양복 입은 젊은 신사가 그 역시 연해 고개를 숙여 가며 무슨 인사를 한다. 전송인은 대개 두 패로 갈려서 한편에는 여자만 모이고, 한편에는 남자만 모여섰다. 그 남자들은 모두 다 <placeName ref="#PL_SEL">서울</placeName> 장안의 문명하였다는 계급이다. <persName ref="#KBU">병욱</persName>은 한참이나 그것을 보고 섰다가 중로에서 <persName ref="#KSH">선형</persName>을 찾아볼 양으로 그 차실 바로 뒤에 달린 자기의 차실에 올라왔다. <persName ref="#PYC">영채</persName>는 여전히 고개를 숙이고 앉았다. 아까 탔던 사람은 거의 다 내리고 새로운 승객이 거의 만원이라 하리만큼 많이 올랐다. 어떤 사람은 웃옷을 벗어 걸고, 어떤 사람은 창에 붙어서 작별을 하며, 또 어떤 사람은 벌써 신문을 들고 앉았다. 그러나 흰옷 입은 사람은 <persName ref="#KBU">병욱</persName>과 <persName ref="#PYC">영채</persName> 둘뿐이다. <persName ref="#KBU">병욱</persName>은 자리에 앉아서 방 안을 한번 둘러보고 <persName ref="#PYC">영채</persName>더러,</p>
         <p>“<said who="#KBU" direct="true" aloud="true">왜 그렇게 고개를 숙이고 앉었니?</said>”</p>
-        <p>“<said who="#PYC" direct="true" aloud="true">어째 <placeName ref="#PL_NMD">남대문</placeName>이라는 소리에 마음이 이상하게 혼란하여집니다그려. 어서 차가 떠났으면 좋겠다</said>” 할 때에 벌써 종 흔드는 소리가 나고, “<said direct="true" aloud="true">
+        <p>“<said who="#PYC" direct="true" aloud="true">어째 <placeName ref="#PL_NMD">남대문</placeName>이라는 소리에 마음이 이상하게 혼란하여집니다그려. 어서 차가 떠났으면 좋겠다</said>” 할 때에 벌써 종 흔드는 소리가 나고, “<said who="#S104_SENDOFF_PEOPLE" direct="true" aloud="true">
             <foreign xml:lang="ja">사요나라, 고키겐요우</foreign>
-          </said>” 하는 소리가 소낙비같이 들리더니 차가 움직이기를 시작한다. 어디서, “<said direct="true" aloud="true">만세, <persName ref="#LHS">이형식</persName> 군 만세!</said>” 하는 소리가 들린다. 두 사람은 깜짝 놀라 귀를 기울인다. 또 한번, “<said direct="true" aloud="true">
+          </said>” 하는 소리가 소낙비같이 들리더니 차가 움직이기를 시작한다. 어디서, “<said who="#S104_CHEERING_PARTY" direct="true" aloud="true">만세, <persName ref="#LHS">이형식</persName> 군 만세!</said>” 하는 소리가 들린다. 두 사람은 깜짝 놀라 귀를 기울인다. 또 한번, “<said who="#S104_CHEERING_PARTY" direct="true" aloud="true">
             <persName ref="#LHS">이형식</persName> 군 만세!</said>” 하는 소리가 들린다. 지금 만세를 부르던 사람들의(사람들이) 두 사람의 창 밖으로 얼른한다. 그것은 모시 두루마기에 파나마 쓴 패였다. <persName ref="#KBU">병욱</persName>은 아까 <persName ref="#KSH">선형</persName>의 곁에 있던 사람이 <persName ref="#LHS">형식</persName>인 것과, <persName ref="#LHS">형식</persName>이가 <persName ref="#KSH">선형</persName>의 지아빈 줄도 짐작하였다. 그러나 아무 말도 아니하였다.</p>
         <p>
           <persName ref="#PYC">영채</persName>는 <persName ref="#LHS">형식</persName>이란 소리를 듣고 문득 가슴이 덜렁 함을 깨달았다. 지금까지 아무쪼록 <persName ref="#LHS">형식</persName>을 잊어버리려 하였으나 방금 같은 기차에 <persName ref="#LHS">형식</persName>이가 탄 것을 생각하매 알 수 없는 눈물이 자연히 떨어진다. <persName ref="#KBU">병욱</persName>은 <persName ref="#PYC">영채</persName>의 손을 쥐며,</p>
