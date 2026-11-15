@@ -2997,8 +2997,7 @@
         <p>“<said who="#AM" aloud="true" direct="true">
             <rs type="person" ref="#PYC">아씨</rs>께서<date> 오늘 아침</date> 차로<placeName ref="#PL_PY"> 평양</placeName>을 내려가셨어요!</said>”</p>
         <p>
-          <persName ref="#SWS">우선</persName>은 놀랐다.<persName ref="#LHS"> 형식</persName>도 놀랐다. 더구나<persName ref="#SWS"> 우선</persName>은 아주 낙담한 듯이 고개를 흔들며,
-        “<said who="#SWS" aloud="true" direct="true">왜? 무슨 일로?</said>”</p>
+          <persName ref="#SWS">우선</persName>은 놀랐다.<persName ref="#LHS"> 형식</persName>도 놀랐다. 더구나<persName ref="#SWS"> 우선</persName>은 아주 낙담한 듯이 고개를 흔들며, “<said who="#SWS" aloud="true" direct="true">왜? 무슨 일로?</said>”</p>
         <p>“<said who="#AM" aloud="true" direct="true">모르겠어요,<rs type="person" ref="#AM"> 제</rs>가 압니까?<date> 어젯저녁</date>
             <time> 열한점</time>이 친 다음에야 들어오시더니만…… 한참이나 울음 소리가 나더니…… 그 담에는 잠이 들어서 어찌 되었는지 모르겠는데요……<date> 오늘</date> 식전에<rs type="person" ref="#YNP"> 마님</rs>께서 구루마를 불러오라 하세요. 그래<rs type="person" ref="#PYC"> 아씨</rs>께서 어느 연회에를 가시는가…… 연회라면 퍽도 이르다…… 아마<placeName ref="#PL_ND"> 노들</placeName> 뱃놀이가 있는 게다 했지요. 했더니<time> 아홉점 반</time> 차로<rs type="person" ref="#PYC"> 아씨</rs>께서<placeName ref="#PL_PY"> 평양</placeName>엘 가신다구요</said>” 하고<rs type="person" ref="#AM"> 어멈</rs>은 아주 유창하게 말한다.<persName ref="#LHS"> 형식</persName>은 ‘<said who="#LHS" aloud="false" direct="false">숫보기는 아니로다</said>’ 하고 놀라면서도<rs type="person" ref="#AM"> 그 어멈</rs>의 얼굴을 자세히 보았다.<rs type="person" ref="#AM"> 어멈</rs>의 얼굴에는 의심하는 빛이 있다.<persName ref="#LHS"> 형식</persName>은 ‘<said who="#LHS" aloud="false" direct="false">
             <placeName ref="#PL_PY">평양</placeName>!<placeName ref="#PL_PY"> 평양</placeName>은 무엇 하러 갔는가</said>’ 하였다. 방에서 어린애가 울어 방으로 들어가려는<rs type="person" ref="#AM"> 어멈</rs>에게<persName ref="#SWS"> 우선</persName>이가 말소리를 낮추어,</p>
