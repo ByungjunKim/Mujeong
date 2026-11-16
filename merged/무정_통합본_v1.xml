@@ -306,8 +306,8 @@
             <persName>영채의 집 노파</persName>
             <persName>어머니</persName>
             <persName>영채의 ‘어머니’</persName>
-            <note type="source-ids">구간 원 ID: 41-50:YNP, 91-100:NP, 121-126:YNP, 81-90:NOPA(문맥별 분리)</note>
-            <note type="editorial">영채를 기른 기생 어미. 명시적인 것만 자동으로 묶음</note>
+            <note type="source-ids">구간 원 ID: 31-40:NP, 41-50:YNP, 91-100:NP, 121-126:YNP, 81-90:NOPA(문맥별 분리)</note>
+            <note type="editorial">영채를 기른 기생 어미. 48장에서 전날 형식의 방문을 회상하고 직접 언급하므로 36장의 노파(구간 원 ID: 31-40:NP)와 동일 인물로 통합함.</note>
           </person>
           <person xml:id="KBG" sex="M" cert="medium">
             <persName type="main">김병국</persName>
@@ -678,7 +678,7 @@
             <note type="source-ids">구간 원 ID: 1-10:OESUKMO</note>
           </person>
           <person xml:id="S31_MOTHER" cert="low">
-            <persName type="main">어미</persName>
+            <persName type="main">계월화의 기생 어미</persName>
             <note type="source-ids">구간 원 ID: 31-40:MOTHER</note>
           </person>
           <person xml:id="S41_DG" sex="M" cert="low">
@@ -786,11 +786,11 @@
             <note type="source-ids">구간 원 ID: 11-20:TEA1</note>
           </person>
           <person xml:id="S31_CJ" cert="low">
-            <persName type="main">차장</persName>
+            <persName type="main">37장 동대문행 전차 차장</persName>
             <note type="source-ids">구간 원 ID: 31-40:CJ</note>
           </person>
           <person xml:id="S31_STUDENT" cert="low">
-            <persName type="main">학생</persName>
+            <persName type="main">월화와 영채를 안내한 패성학교 학생</persName>
             <note type="source-ids">구간 원 ID: 31-40:STUDENT</note>
           </person>
           <person xml:id="S41_GF" sex="M" cert="low">
@@ -971,7 +971,7 @@
             <note type="source-ids">구간 원 ID: 1-10:JEONCHEO</note>
           </person>
           <person xml:id="S31_MAN" cert="low">
-            <persName type="main">어떤 남자</persName>
+            <persName type="main">월향의 집에서 질문한 남자</persName>
             <note type="source-ids">구간 원 ID: 31-40:MAN</note>
           </person>
           <person xml:id="S41_DW1" cert="low">
@@ -1066,10 +1066,6 @@
             <persName>주인 노파</persName>
             <persName>나</persName>
             <note type="source-ids">구간 원 ID: 21-30:NOPA</note>
-          </person>
-          <person xml:id="S31_NP" cert="low">
-            <persName type="main">노파</persName>
-            <note type="source-ids">구간 원 ID: 31-40:NP</note>
           </person>
           <person xml:id="S51_NP" sex="F" cert="low">
             <persName type="main">노파</persName>
@@ -3244,22 +3240,22 @@
       <div type="chapter" n="36" resp="#enc31-40" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/21%EC%9E%A5~40%EC%9E%A5">
         <head>36장</head>
         <p>
-          <persName ref="#LHS">형식</persName>은 한참이나 ‘<persName ref="#PYC">계월향</persName>’이라고 쓴 광명등을 보고 섰다가 <persName ref="#LHK">희경</persName>을 돌려보내고 결심한 모양으로 문 안에 들어섰다. 객이 없는지 적적히 아무 소리도 아니 들린다. 서슴지 아니하고 마당에 들어서니 여러 방에 불을 켰으되 사람 그림자가 없다. <persName ref="#LHS">형식</persName>은 가슴을 두근거리면서 어떻게 찾을 줄을 몰라 다만 발소리를 내며 ‘<said who="#LHS" aloud="true" direct="true">에헴</said>’ 하고 크게 기침을 하였다. 저편 방으로서 뚱뚱한 <rs type="person" ref="#S31_NP">노파</rs>가 나오는 것을 <persName ref="#LHS">형식</persName>은 한 걸음 방 앞으로 (가까이) 갔다. 번적하는 화류자개 함롱이 보이고, 아랫목에는 분홍빛 그물 모기장이 걸리고, 오른편 구석에는 아롱아롱한 자루에 넣은 가얏고가 비스듬히 벽에 기대어 섰다. <persName ref="#LHS">형식</persName>은 <said who="#LHS" aloud="false" direct="true">이것이 ‘<persName ref="#PYC">영채</persName>의 방’인가</said> 하였다. 그러고는 알 수 없는 슬픈 생각과 불쾌한 생각이 난다. <said who="#LHS" aloud="false" direct="true">이 방에서 여러 남자로 더불어 저 가얏고를 타고 소리를 하고 춤을 추었는가. 그러다가 저 모기장 속에서 날마다 다른 남자와……</said>
-          <persName ref="#LHS">형식</persName>은 차마 더 생각하기가 싫었다. <said who="#LHS" aloud="false" direct="true">그러나 <persName ref="#PYC">영채</persName>는 어디 갔는가. 벌써 누구에게 ‘천 원’에 팔려 갔는가. 어젯저녁에 <rs type="person" ref="#LHS">내</rs> 집에서 돌아오는 길로 팔려 가지나 아니하였는가. 또는 만일 <persName ref="#PYC">영채</persName>가 절개가 굳다 하면 벌써 어디 가서 자살이나 아니하였는가.</said> 이때에 <persName ref="#LHS">형식</persName>의 머릿속에는 수천 가지 생각이 뒤를 대어 나온다. <persName ref="#LHS">형식</persName>은 저편 방으로서 나오는 뚱뚱한 <rs type="person" ref="#S31_NP">노파</rs>―<rs type="person" ref="#S31_NP">노파</rs>라 하여도 사오십이나 되었을까―를 보고, ‘<said aloud="false" who="#LHS" direct="true">
-            <rs type="person" ref="#S31_NP">저것</rs>이 소위 <rs type="person" ref="#S31_NP">어미</rs>로구나</said>’ 하였다. <rs type="person" ref="#S31_NP">노파</rs>는 손에 태극선을 들고 담뱃대를 물었다. 지금까지 웃통을 벗고 앉았었는지 명주항라 적삼 고름을 매면서 나온다. ‘<said aloud="false" who="#LHS" direct="true">더러운 <rs type="person" ref="#S31_NP">노파</rs>
-          </said>’라는 생각이 <persName ref="#LHS">형식</persName>의 가슴을 불쾌하게 한다. <rs type="person" ref="#S31_NP">노파</rs>는 <persName ref="#LHS">형식</persName>의 모양이 극히 초라함을 보고 경멸하는 모양으로, “<said who="#S31_NP" aloud="true" direct="true">누구를 찾아요?</said>” 한다. 일찍 <persName ref="#LHS">형식</persName>이와 같이 초라하게 차린 자가 <persName ref="#PYC">월향</persName>을 찾아온 적이 없었음이라. <rs type="person" ref="#S31_NP">노파</rs>의 생각에 <said who="#S31_NP" aloud="false" direct="true">아마 <persName ref="#LHS">형식</persName>은 어떤 부자의 아들의 심부름꾼인가</said> 하였다. 그러므로 기생의 집에 온 사람더러 “<said who="#S31_NP" aloud="true" direct="true">누구를 찾아요?</said>” 하고 냉대함이라. <persName ref="#LHS">형식</persName>은 <rs type="person" ref="#S31_NP">노파</rs>가 <rs type="person" ref="#LHS">자기</rs>를 멸시하는 줄을 알았다. 그러고 더욱 불쾌한 마음이 생겼다. ‘<said aloud="false" who="#LHS" direct="true">
-            <rs type="person" ref="#LHS">나</rs>도 교육계에는 상당히 이름있는 사람인데</said>’ 하였다. 그러나 <rs type="person" ref="#S31_NP">노파</rs>의 눈에는 부자가 있고 오입쟁이가 있을 따름이요, ‘교육계에 상당한 이름있는 사람’은 없었다. <persName ref="#LHS">형식</persName>이가 만일 좋은 세비로 양복에 분홍 넥타이를 매고 술이 취하여 단장을 두르며 ‘<said who="#LHS" aloud="true" direct="true">여보게</said>’ 하고 들어왔던들 <rs type="person" ref="#S31_NP">노파</rs>는 분주히 담뱃대를 놓고 마당에 뛰어내리며 ‘<said who="#S31_NP" aloud="true" direct="true">에그, 영감께서 오시는구랴</said>’ 하고 선웃음을 쳤으련마는, 굵은 모시 두루마기에 파리똥 묻은 맥고자를 쓰고, 술도 취하지 아니하고, 단장도 두르지 아니하고, ‘<said who="#LHS" aloud="true" direct="true">여보게</said>’도 부르지 아니하는 <persName ref="#LHS">형식</persName>과 같은 사람은 <rs type="person" ref="#S31_NP">노파</rs>의 보기에 극히 하등 사람이었다. <persName ref="#LHS">형식</persName>은 겨우 입을 열어,</p>
+          <persName ref="#LHS">형식</persName>은 한참이나 ‘<persName ref="#PYC">계월향</persName>’이라고 쓴 광명등을 보고 섰다가 <persName ref="#LHK">희경</persName>을 돌려보내고 결심한 모양으로 문 안에 들어섰다. 객이 없는지 적적히 아무 소리도 아니 들린다. 서슴지 아니하고 마당에 들어서니 여러 방에 불을 켰으되 사람 그림자가 없다. <persName ref="#LHS">형식</persName>은 가슴을 두근거리면서 어떻게 찾을 줄을 몰라 다만 발소리를 내며 ‘<said who="#LHS" aloud="true" direct="true">에헴</said>’ 하고 크게 기침을 하였다. 저편 방으로서 뚱뚱한 <rs type="person" ref="#YNP">노파</rs>가 나오는 것을 <persName ref="#LHS">형식</persName>은 한 걸음 방 앞으로 (가까이) 갔다. 번적하는 화류자개 함롱이 보이고, 아랫목에는 분홍빛 그물 모기장이 걸리고, 오른편 구석에는 아롱아롱한 자루에 넣은 가얏고가 비스듬히 벽에 기대어 섰다. <persName ref="#LHS">형식</persName>은 <said who="#LHS" aloud="false" direct="true">이것이 ‘<persName ref="#PYC">영채</persName>의 방’인가</said> 하였다. 그러고는 알 수 없는 슬픈 생각과 불쾌한 생각이 난다. <said who="#LHS" aloud="false" direct="true">이 방에서 여러 남자로 더불어 저 가얏고를 타고 소리를 하고 춤을 추었는가. 그러다가 저 모기장 속에서 날마다 다른 남자와……</said>
+          <persName ref="#LHS">형식</persName>은 차마 더 생각하기가 싫었다. <said who="#LHS" aloud="false" direct="true">그러나 <persName ref="#PYC">영채</persName>는 어디 갔는가. 벌써 누구에게 ‘천 원’에 팔려 갔는가. 어젯저녁에 <rs type="person" ref="#LHS">내</rs> 집에서 돌아오는 길로 팔려 가지나 아니하였는가. 또는 만일 <persName ref="#PYC">영채</persName>가 절개가 굳다 하면 벌써 어디 가서 자살이나 아니하였는가.</said> 이때에 <persName ref="#LHS">형식</persName>의 머릿속에는 수천 가지 생각이 뒤를 대어 나온다. <persName ref="#LHS">형식</persName>은 저편 방으로서 나오는 뚱뚱한 <rs type="person" ref="#YNP">노파</rs>―<rs type="person" ref="#YNP">노파</rs>라 하여도 사오십이나 되었을까―를 보고, ‘<said aloud="false" who="#LHS" direct="true">
+            <rs type="person" ref="#YNP">저것</rs>이 소위 <rs type="person" ref="#YNP">어미</rs>로구나</said>’ 하였다. <rs type="person" ref="#YNP">노파</rs>는 손에 태극선을 들고 담뱃대를 물었다. 지금까지 웃통을 벗고 앉았었는지 명주항라 적삼 고름을 매면서 나온다. ‘<said aloud="false" who="#LHS" direct="true">더러운 <rs type="person" ref="#YNP">노파</rs>
+          </said>’라는 생각이 <persName ref="#LHS">형식</persName>의 가슴을 불쾌하게 한다. <rs type="person" ref="#YNP">노파</rs>는 <persName ref="#LHS">형식</persName>의 모양이 극히 초라함을 보고 경멸하는 모양으로, “<said who="#YNP" aloud="true" direct="true">누구를 찾아요?</said>” 한다. 일찍 <persName ref="#LHS">형식</persName>이와 같이 초라하게 차린 자가 <persName ref="#PYC">월향</persName>을 찾아온 적이 없었음이라. <rs type="person" ref="#YNP">노파</rs>의 생각에 <said who="#YNP" aloud="false" direct="true">아마 <persName ref="#LHS">형식</persName>은 어떤 부자의 아들의 심부름꾼인가</said> 하였다. 그러므로 기생의 집에 온 사람더러 “<said who="#YNP" aloud="true" direct="true">누구를 찾아요?</said>” 하고 냉대함이라. <persName ref="#LHS">형식</persName>은 <rs type="person" ref="#YNP">노파</rs>가 <rs type="person" ref="#LHS">자기</rs>를 멸시하는 줄을 알았다. 그러고 더욱 불쾌한 마음이 생겼다. ‘<said aloud="false" who="#LHS" direct="true">
+            <rs type="person" ref="#LHS">나</rs>도 교육계에는 상당히 이름있는 사람인데</said>’ 하였다. 그러나 <rs type="person" ref="#YNP">노파</rs>의 눈에는 부자가 있고 오입쟁이가 있을 따름이요, ‘교육계에 상당한 이름있는 사람’은 없었다. <persName ref="#LHS">형식</persName>이가 만일 좋은 세비로 양복에 분홍 넥타이를 매고 술이 취하여 단장을 두르며 ‘<said who="#LHS" aloud="true" direct="true">여보게</said>’ 하고 들어왔던들 <rs type="person" ref="#YNP">노파</rs>는 분주히 담뱃대를 놓고 마당에 뛰어내리며 ‘<said who="#YNP" aloud="true" direct="true">에그, 영감께서 오시는구랴</said>’ 하고 선웃음을 쳤으련마는, 굵은 모시 두루마기에 파리똥 묻은 맥고자를 쓰고, 술도 취하지 아니하고, 단장도 두르지 아니하고, ‘<said who="#LHS" aloud="true" direct="true">여보게</said>’도 부르지 아니하는 <persName ref="#LHS">형식</persName>과 같은 사람은 <rs type="person" ref="#YNP">노파</rs>의 보기에 극히 하등 사람이었다. <persName ref="#LHS">형식</persName>은 겨우 입을 열어,</p>
         <p>“<said who="#LHS" aloud="true" direct="true">
             <persName ref="#PYC">월향</persName> 씨 어디 갔소?</said>” 하였다. 그러고는 곧 ‘<persName ref="#PYC">월향</persName>’에게 ‘<mentioned>씨</mentioned>’자를 달아 부른 것을 한하였다. 그러나 <persName ref="#LHS">형식</persName>은 아직 남의 이름에 ‘<mentioned>씨</mentioned>’자를 아니 달고 불러 본 적이 없다. 더구나 남의 여자의 이름을 부를 때에는 반드시 ‘<mentioned>씨</mentioned>’라는 존칭을 붙이는 것이 마땅하다 하였다. 소위 ‘<mentioned>째운 사람</mentioned>’들은 여학생을 (보고는 ‘<mentioned>씨</mentioned>’를 달고 기생을 보고는 ‘<mentioned>씨</mentioned>’를) 달지 아니할 줄을 알되, <persName ref="#LHS">형식</persName>은 여학생과 기생을 구별할 줄을 모른다. <persName ref="#LHS">형식</persName>의 생각에는 여학생이나 기생이나 사람은 마찬가지 사람이라 한다. 그러므로 <persName ref="#LHS">형식</persName>은 ‘<persName ref="#PYC">월향</persName>’에 ‘<mentioned>씨</mentioned>’를 붙이는 것이 옳으리라 하여 한참 생각한 뒤에 있는 용기를 다하여 ‘<said who="#LHS" aloud="true" direct="true">
-            <persName ref="#PYC">월향</persName> 씨 어디 갔소</said>’ 한 것이언마는 말을 하고 생각한즉 미상불 부끄럽기도 하다. 그러고 <rs type="person" ref="#S31_NP">노파</rs>의 얼굴을 보았다. <rs type="person" ref="#S31_NP">노파</rs>는 웃음을 참는 듯이 입을 우물우물하더니,</p>
-        <p>“<said who="#S31_NP" aloud="true" direct="true">
+            <persName ref="#PYC">월향</persName> 씨 어디 갔소</said>’ 한 것이언마는 말을 하고 생각한즉 미상불 부끄럽기도 하다. 그러고 <rs type="person" ref="#YNP">노파</rs>의 얼굴을 보았다. <rs type="person" ref="#YNP">노파</rs>는 웃음을 참는 듯이 입을 우물우물하더니,</p>
+        <p>“<said who="#YNP" aloud="true" direct="true">
             <persName ref="#PYC">월향</persName> 씨가 손님 모시고 어디 갔소. 왜 그러시오?</said>”</p>
         <p>“<said who="#LHS" aloud="true" direct="true">어디 갔습니까?</said>”</p>
         <p>
-          <rs type="person" ref="#S31_NP">노파</rs>는 ‘<said aloud="false" who="#S31_NP" direct="true">
+          <rs type="person" ref="#YNP">노파</rs>는 ‘<said aloud="false" who="#YNP" direct="true">
             <rs type="person" ref="#LHS">이것</rs>이 과연 시골뜨기로구나</said>’ 하면서,</p>
-        <p>“<said who="#S31_NP" aloud="true" direct="true">아까 오후에 <placeName ref="#PL_CL">청량리</placeName> 나갔소. 여섯점에 들어온다더니 아직 아니 오구려</said>” 하고 성가신 듯이 ‘<said who="#S31_NP" aloud="true" direct="true">잘 가오</said>’ 하는 말도 없이 안으로 들어가고 만다. “<said who="#S31_MAN" aloud="true" direct="true">누구요?</said>” 하는 어떤 남자의 목소리에 “<said who="#S31_NP" aloud="true" direct="true">모르겠소. 웬 거랑방인데 왔구면</said>” 하는 <rs type="person" ref="#S31_NP">그 노파</rs>의 평양 사투리가 들린다. <persName ref="#LHS">형식</persName>은 일변 실망도 하고, 일변 <rs type="person" ref="#S31_NP">그 노파</rs>에게 멸시받은 것이 부끄럽기도 분하기도 하면서 발을 돌렸다. ‘<said aloud="false" who="#LHS" direct="true">
-            <persName ref="#PYC">계월향</persName>! <persName ref="#PYC">계월향</persName>이가 과연 <persName ref="#PYC">박영채</persName>의 변명인가</said>’ 하고 <persName ref="#PYC">계월향</persName>의 내력을 물어 보고도 싶었으나 <rs type="person" ref="#S31_NP">노파</rs>에게 그러한 멸시를 받고는 다시 물어 볼 용기도 아니 나서 그만 대문 밖에 나섰다.</p>
+        <p>“<said who="#YNP" aloud="true" direct="true">아까 오후에 <placeName ref="#PL_CL">청량리</placeName> 나갔소. 여섯점에 들어온다더니 아직 아니 오구려</said>” 하고 성가신 듯이 ‘잘 가오’ 하는 말도 없이 안으로 들어가고 만다. “<said who="#S31_MAN" aloud="true" direct="true">누구요?</said>” 하는 <rs type="person" ref="#S31_MAN">어떤 남자</rs>의 목소리에 “<said who="#YNP" aloud="true" direct="true">모르겠소. 웬 거랑방인데 왔구면</said>” 하는 <rs type="person" ref="#YNP">그 노파</rs>의 평양 사투리가 들린다. <persName ref="#LHS">형식</persName>은 일변 실망도 하고, 일변 <rs type="person" ref="#YNP">그 노파</rs>에게 멸시받은 것이 부끄럽기도 분하기도 하면서 발을 돌렸다. ‘<said aloud="false" who="#LHS" direct="true">
+            <persName ref="#PYC">계월향</persName>! <persName ref="#PYC">계월향</persName>이가 과연 <persName ref="#PYC">박영채</persName>의 변명인가</said>’ 하고 <persName ref="#PYC">계월향</persName>의 내력을 물어 보고도 싶었으나 <rs type="person" ref="#YNP">노파</rs>에게 그러한 멸시를 받고는 다시 물어 볼 용기도 아니 나서 그만 대문 밖에 나섰다.</p>
         <p>
           <persName ref="#LHS">형식</persName>은 고개를 숙이고 아까 오던 길로 나온다. 아까 올 때에 ‘<said who="#VOICE36" aloud="true" direct="true">반나마 늙었으니……</said>’ 하던 목소리로 ‘<said who="#VOICE36" aloud="true" direct="true">간다 간다네 <rs type="person" ref="#LYRIC_STREET">나</rs>는 간다네</said>’ 하는 소리가 들리고, 아까 모양으로 여럿이 함께 웃는 웃음 소리가 들린다. 어찌할까 하고 <persName ref="#LHS">형식</persName>은 생각하였다. ‘<said aloud="false" who="#LHS" direct="true">
             <placeName ref="#PL_CL">청량리</placeName>! 오후에 나가서 여섯점엔 온다던 것이 아직 아니 들어와!</said>’ <persName ref="#LHS">형식</persName>은 이 말에 무슨 깊은 뜻이 있는 듯이 생각하고 몸이 오싹하였다. ‘<said aloud="false" who="#LHS" direct="true">
