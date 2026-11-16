@@ -2778,11 +2778,11 @@
         </p>
         <p>“녜, 나도 푸스털과 얼른커의 학설은 보았지요.
           그러나 그것은 다 지다이 오쿠레(時代運)왼다” 한다.
-          페스탈로치와 엘렌 케이라는 말을 잊어버려 푸스털, 얼른커라 하리만큼 무식하면서도 그네의 학설을 다 보았다 하는 배학감의 심정을 도리어 불쌍히 여겼다.
-          그러고 서슴지 않고, ‘그러나 그것은 다 지다이 오쿠레(時代運)왼다’ 하는 용기는 과연 칭찬할 만하다 하고, 형식은 혼자 웃은 일이 있었다.
-          기실 배학감은 자칭 신학설 신학설 하면서도 대체 학설이란 무엇인지도 잘 알지 못하는 모양이다.
+          페스탈로치와 엘렌 케이라는 말을 잊어버려 푸스털, 얼른커라 하리만큼 무식하면서도 그네의 학설을 다 보았다 하는 <rs type="person" ref="#BMS">배학감</rs>의 심정을 도리어 불쌍히 여겼다.
+          그러고 서슴지 않고, ‘그러나 그것은 다 지다이 오쿠레(時代運)왼다’ 하는 용기는 과연 칭찬할 만하다 하고, <persName ref="#LHS">형식</persName>은 혼자 웃은 일이 있었다.
+          기실 <rs type="person" ref="#BMS">배학감</rs>은 자칭 신학설 신학설 하면서도 대체 학설이란 무엇인지도 잘 알지 못하는 모양이다.
           그가 고등사범에 다닐 때에 얼마나 도저하게 공부를 하였는지는 알 수 없거니와, 남이 사 년에 졸업하는 것을 오 년에 졸업하였다 하니, 그 동안에 굉장히 공부를 하여 교육에 관한 제자백가서를 다 통독하였는지 알 수 없거니와, 조선에 돌아온 뒤에는 그날그날 신문의 삼면기사나 읽는지 마는지, 독서하는 양을 보지 못하고 독서한다는 소문을 듣지 못하였다.
-          일찍 같이 경성학교의 교사로 있는 어떤 사람이 형식을 보고,
+          일찍 같이 경성학교의 교사로 있는 어떤 사람이 <persName ref="#LHS">형식</persName>을 보고,
         </p>
         <p>“<said who="#S11_TEA1" direct="true" aloud="true">
             <rs type="person" ref="#BMS">배학감</rs>은 백지(<foreign xml:lang="zh">白紙</foreign>)입데다그려.</said>”</p>
@@ -5253,7 +5253,7 @@
         <p><rs type="person" ref="#PYC #KBU">두 사람</rs>은 한참 잠자코 마주보더니,</p>
         <p>“<said who="#PYC" aloud="true" direct="true"><rs type="person" ref="#KBU">언니</rs>, <rs type="person" ref="#KBU">언니</rs>가 <rs type="person" ref="#PYC">나</rs>를 살려 준 것이 잘못이야요. <rs type="person" ref="#PYC">나</rs>는 (그때에 꼭 죽었어야 할 터인데.) 그때에 죽었으면 벌써 다 썩어졌겠지…… 뼈만 하나씩 하나씩 여기저기 흩어졌겠지…… 그때에 죽었어야 해</said>” 하고 후회하는 듯이 고개를 조악한다. <persName ref="#KBU">병욱</persName>은 <persName ref="#PYC">영채</persName>의 낯빛이 갑자기 변하는 것을 보고 놀라서 <persName ref="#PYC">영채</persName>의 두 팔을 잡으며,</p>
         <p>“<said who="#KBU" aloud="true" direct="true"><rs type="person" ref="#PYC">얘 영채</rs>야, 왜 그런 소리를 하느냐…… 이제 <rs type="person" ref="#KBU">나</rs>하고 둘이 가서 음악 잘 배워 가지구…… 둘이서 <placeName ref="#PL_AM">아메리카</placeName>로 <placeName ref="#PL_EUROPE">구라파</placeName>로 돌아다니면서 실컷 구경하고…… 그러고 <placeName ref="#PL_JS">우리나라</placeName>에 돌아와서 새로 음악을 세우고 재미있게 살 터인데 왜 그런 소리를 하니?</said>” 하고 <persName ref="#PYC">영채</persName>를 잡아 흔든다. <persName ref="#PYC">영채</persName>는 멀거니 <persName ref="#KBU">병욱</persName>의 눈을 보고 앉았더니 눈에서 눈물이 쑥 나오며,</p>
-        <p>“<said who="#PYC" aloud="true" direct="true">아니야요. <rs type="person" ref="#PYC">나</rs>는 살 사람이 아니야요. 죽어야 할 사람이야요. 가만히 지나간 일생을 생각해 보니까 암만해도 <rs type="person" ref="#PYC">나</rs>는 살려고 난 것 같지를 아니해요. 아버지와 두 오라버니는 옥중에서 죽고, 그러고 <measure type="duration" unit="year" atLeast="7" atMost="8">칠팔 년</measure> 고생이 모두 속절없이……</said>” 하고 흑흑 느낀다.</p>
+        <p>“<said who="#PYC" aloud="true" direct="true">아니야요. <rs type="person" ref="#PYC">나</rs>는 살 사람이 아니야요. 죽어야 할 사람이야요. 가만히 지나간 일생을 생각해 보니까 암만해도 <rs type="person" ref="#PYC">나</rs>는 살려고 난 것 같지를 아니해요. <rs type="person" ref="#PJS">아버지</rs>와 <rs type="person" ref="#YC_BROTHERS">두 오라버니</rs>는 옥중에서 죽고, 그러고 <measure type="duration" unit="year" atLeast="7" atMost="8">칠팔 년</measure> 고생이 모두 속절없이……</said>” 하고 흑흑 느낀다.</p>
         <p>“<said who="#KBU" aloud="true" direct="true">얘, 글쎄 웬일이냐. 곧잘 모든 것을 다 잊어버리고 기뻐하다가 왜 갑자기 야단이냐…… <rs type="person" ref="#PYC">네</rs>가 그렇게 그러면 이 <rs type="person" ref="#KBU">언니</rs>는 어쩌게…… 자 울지 마라!</said>”</p>
         <p>“<said who="#PYC" aloud="true" direct="true">암만 생각하여 보아도 이 세상에 살아 있을 생각이 없어요.</said>”</p>
         <p>“<said who="#KBU" aloud="true" direct="true">왜? 그러면 <rs type="person" ref="#PYC">너</rs>는 아직도 <persName ref="#LHS">이형식</persName> 씨를 못 잊는 게로구나. <rs type="person" ref="#PYC">네</rs>가 그때에 <rs type="person" ref="#KBU">날</rs>더러 실상은 <persName ref="#LHS">이형식</persName> 씨를 사랑한 것이 아니라고 말하지 않았니?</said>”</p>
@@ -5288,7 +5288,7 @@
           자, 옜다 먹자</said>”
           하고 빨갛게 익은 딸기를 내어놓고 먼저 <rs type="person" ref="#KBU">자기</rs>가 하나를 먹는다.
           입에 넣고 씹으니 하얀 이빨에 핏빛 같은 물이 든다.
-          이것은 어저께 아침 곁에 병국의 부인과 셋이 그 목화밭에 가서 송별연삼아 수박을 따먹으면서 따모은 것이라.
+          이것은 어저께 아침 곁에 <rs type="person" ref="#KBG_W">병국의 부인</rs>과 셋이 그 목화밭에 가서 송별연삼아 수박을 따먹으면서 따모은 것이라.
           두 사람의 눈앞에는 <placeName ref="#PL_HWANGJU">황주</placeName> <persName ref="#KBU">병욱</persName>의 집 광경이 얼른 지나간다.
         </p>
         <p><persName ref="#PYC">영채</persName>도 울어야 쓸데없음을 알고 눈물을 거둔다.
@@ -5391,7 +5391,7 @@
           여기 와서 <persName ref="#LHS">형식</persName>은 <rs type="person" ref="#LHS">자기</rs>의 변명을 할 기회가 생긴 것이 기쁘다 하는 생각이 난다――
           <said who="#LHS" aloud="true" direct="true">했더니, <orgName ref="#ORG_PYPS">경찰서</orgName>에서 하는 말이 정거장에 나가서 수탐을 하여 보았지마는 알 수 없다고 하지요.
           그래서 알 만한 집에도 가 물어 보고,
-          또 박선생 묘소에도……</said>”
+          또 <rs type="person" ref="#PJS">박선생</rs> 묘소에도……</said>”
           하다가, 중간에 돌아온 생각을 하매 문득 말을 그치고 고개를 숙인다.
           그때에 <placeName ref="#PL_BMS">북망산</placeName>까지 가보고 <placeName ref="#PL_DAEDONG_RIVER">대동강</placeName>가로 다만 <measure type="duration" unit="hour" quantity="2">한두 시간</measure>이라도 시체를 찾아보았더면 좋을 뻔하였다 하는 생각이 난다.
           <persName ref="#KBU">병욱</persName>은 한참 듣더니,
@@ -5683,7 +5683,7 @@
         </p>
         <p>‘<said who="#KSH" aloud="false" direct="true">아이 어찌해!</said>’
           하고 화가 나는 듯이 <persName ref="#KSH">선형</persName>은 고개를 짤레짤레 흔든다.
-          <rs type="person" ref="#KSH">자기</rs>의 앞에, 형식의 빈자리에 허깨비 형식을 그려 놓고, ‘<said who="#KSH" aloud="false" direct="true">엑, 나를 속였구나</said>’
+          <rs type="person" ref="#KSH">자기</rs>의 앞에, <persName ref="#LHS">형식</persName>의 빈자리에 허깨비 <persName ref="#LHS">형식</persName>을 그려 놓고, ‘<said who="#KSH" aloud="false" direct="true">엑, 나를 속였구나</said>’
           하고 두어 번 눈을 흘겨 본다.
           그러고는 또 한번 속에 불이 일어서 몸을 흔든다.
         </p>
@@ -5704,7 +5704,7 @@
           ‘<said who="#KSH" aloud="false" direct="true">무엇이 고와, 그 얼굴이 고와!</said>’
           하고 발을 한번 들었다 놓는다.
           그러고 그 요물스러운 <persName ref="#PYC">영채</persName>가 고개를 갸웃갸웃하여 가며 (<persName ref="#LHS">형식</persName>을 호리는 것이 보인다.
-          그러면) 형식은 그 넓짓한 입을 헤벌리고 흥흥 하면서 징글징글한 웃음을 웃는다.
+          그러면) <persName ref="#LHS">형식</persName>은 그 넓짓한 입을 헤벌리고 흥흥 하면서 징글징글한 웃음을 웃는다.
         </p>
         <p>‘<said who="#KSH" aloud="false" direct="true">아이그, 꼴보기 싫어!</said>’
           하며 <persName ref="#KSH">선형</persName>은 두 손길을 펴서 이마에 댄다.
@@ -5725,7 +5725,7 @@
       </div>
       <div type="chapter" n="117" resp="#enc111-120" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/101%EC%9E%A5~120%EC%9E%A5">
         <head>117장</head>
-        <p>형식이가 <persName ref="#PYC">영채</persName>한테 간 지가 <measure type="duration" unit="hour" atLeast="2" atMost="3">두 시간이나 세 시간이나</measure> 된 것 같다.
+        <p><persName ref="#LHS">형식</persName>이가 <persName ref="#PYC">영채</persName>한테 간 지가 <measure type="duration" unit="hour" atLeast="2" atMost="3">두 시간이나 세 시간이나</measure> 된 것 같다.
           퍽도 오래 있는 것 같다.
           오래 있는 것 같을수록 <persName ref="#KSH">선형</persName>의 마음이 더욱 산란하였다.
         </p>
