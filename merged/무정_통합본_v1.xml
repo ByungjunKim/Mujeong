@@ -5326,55 +5326,55 @@
         <p>“<said who="#LHS" direct="true" aloud="true">어떻게 지금 오나?</said>”</p>
         <p>
           <persName ref="#SWS">우선</persName>은 <rs type="person" ref="#PYC #KBU #KSH">세 사람</rs>을 향하여 고개를 숙이고 인사한 뒤에 <persName ref="#LHS">형식</persName>의 곁에 앉으며,</p>
-        <p>“<said who="#SWS">
+        <p>“<said who="#SWS" direct="true" aloud="true">
             <rs type="org" ref="#ORG_NEWSPAPER">사(社)</rs>에서 <placeName ref="#PL_SAMNANGJIN">삼랑진</placeName> 근방에 물구경을 하고 오라고 전보를 했데그려</said>” 하고 손으로 턱을 한번 쓴다. <persName ref="#PYC">영채</persName>는 고개를 숙였다.</p>
-        <p>“<said who="#LHS">그런데 우리가 여기 있는 줄은 어떻게 알았나?</said>”</p>
-        <p>“<said who="#SWS">정거장에 와서 다 들었네</said>” 하고 여자들에게 절을 하며, “<said who="#SWS">참 감사합니다. 지금 정거장에서는 칭찬이 비 오듯 합니다. 어 과연 상쾌하외다</said>” 하고 정거장에서 들은 말을 대개 한 뒤에 <persName ref="#LHS">형식</persName>더러,</p>
-        <p>“<said who="#SWS">오늘 일을 신문에 내도 좋겠지?</said>”</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">그런데 우리가 여기 있는 줄은 어떻게 알았나?</said>”</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">정거장에 와서 다 들었네</said>” 하고 여자들에게 절을 하며, “<said who="#SWS" direct="true" aloud="true">참 감사합니다. 지금 정거장에서는 칭찬이 비 오듯 합니다. 어 과연 상쾌하외다</said>” 하고 정거장에서 들은 말을 대개 한 뒤에 <persName ref="#LHS">형식</persName>더러,</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">오늘 일을 신문에 내도 좋겠지?</said>”</p>
         <p>
           <persName ref="#LHS">형식</persName>은 대답 없이 <persName ref="#KBU">병욱</persName>을 보다가,</p>
-        <p>“<said who="#LHS">무론 관계치 않겠지요!</said>” 한다.</p>
-        <p>“<said who="#KBU">아이구, 그것은 내서 무엇 합니까.</said>”</p>
-        <p>“<said who="#SWS">그럴 수가 있습니까. 저 같은 놈도 큰 감동을 받았는데…… 참 말만 듣고도 눈물이 흐를 뻔하였습니다</said>” 한다. 과연 정거장에서 어떤 승객에게 그 말을 들을 때에 <persName ref="#SWS">우선</persName>은 지극히 감동한 바 되었다. 원래 호활한 <persName ref="#SWS">우선</persName>이가 그처럼 눈물이 흐르도록 감동되기는 <persName ref="#PYC">영채</persName>가 죽으러 간 때와 이번뿐이었었다. <persName ref="#SWS">우선</persName>은 정거장에서부터 <persName ref="#KBU">병욱</persName> 일파를 만나면 기어이 하려던 말이 있었다. 그래서 하인이 가져온 차를 마시며,</p>
-        <p>“<said who="#SWS">지금 무슨 하시던 말씀이 있어요?</said>” 하고 <rs type="person" ref="#SWS">자기</rs>의 말할 기회를 얻으려 한다.</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">무론 관계치 않겠지요!</said>” 한다.</p>
+        <p>“<said who="#KBU" direct="true" aloud="true">아이구, 그것은 내서 무엇 합니까.</said>”</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">그럴 수가 있습니까. 저 같은 놈도 큰 감동을 받았는데…… 참 말만 듣고도 눈물이 흐를 뻔하였습니다</said>” 한다. 과연 정거장에서 어떤 승객에게 그 말을 들을 때에 <persName ref="#SWS">우선</persName>은 지극히 감동한 바 되었다. 원래 호활한 <persName ref="#SWS">우선</persName>이가 그처럼 눈물이 흐르도록 감동되기는 <persName ref="#PYC">영채</persName>가 죽으러 간 때와 이번뿐이었었다. <persName ref="#SWS">우선</persName>은 정거장에서부터 <persName ref="#KBU">병욱</persName> 일파를 만나면 기어이 하려던 말이 있었다. 그래서 하인이 가져온 차를 마시며,</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">지금 무슨 하시던 말씀이 있어요?</said>” 하고 <rs type="person" ref="#SWS">자기</rs>의 말할 기회를 얻으려 한다.</p>
       </div>
       <div type="chapter" n="125" resp="#enc121-126" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/121%EC%9E%A5~126%EC%9E%A5">
         <head>125장</head>
-        <p>“<said who="#LHS">응, 지금 우리는 장차 무엇으로 <placeName ref="#PL_JS">조선</placeName> 사람을 구제할까 하고 각각 제 목적을 말하려던 중일세.</said>”</p>
-        <p>“<said who="#SWS">녜, 그러면 저도 좀 듣지요!</said>”</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">응, 지금 우리는 장차 무엇으로 <placeName ref="#PL_JS">조선</placeName> 사람을 구제할까 하고 각각 제 목적을 말하려던 중일세.</said>”</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">녜, 그러면 저도 좀 듣지요!</said>”</p>
         <p>처녀들은 그의 대팻밥 모자와 말하는 모양이 우스워서 터져 나오려는 웃음을 꿀덕 참는다. <persName ref="#PYC">영채</persName> 하나만 어찌할 줄을 몰라서 얼굴을 잠깐 붉히나 <persName ref="#SWS">우선</persName>은 <persName ref="#PYC">영채</persName>를 보면서도 모르는 체한다.</p>
-        <p>“<said who="#SWS">어느 분 차례입니까</said>”</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">어느 분 차례입니까</said>”</p>
         <p>하는 <persName ref="#SWS">우선</persName>의 말에,</p>
-        <p>“<said who="#LHS" aloud="true" direct="true">내 차례인가 보에.</said>”</p>
-        <p>“<said who="#SWS">응, 그러면 말하게</said>”</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">내 차례인가 보에.</said>”</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">응, 그러면 말하게</said>”</p>
         <p>하고 눈을 감고 고개를 숙이며 들을 준비를 한다. <persName ref="#KBU">병욱</persName>은 <persName ref="#PYC">영채</persName>의 옆구리를 꾹 찔렀다. <persName ref="#KSH">선형</persName>은 웃음을 참느라고 살짝 고개를 돌린다.</p>
-        <p>“<said who="#LHS">나는 교육가가 될랍니다. 그러고 전문으로는 생물학(<foreign xml:lang="zh">生物學</foreign>)을 연구할랍니다.</said>”</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">나는 교육가가 될랍니다. 그러고 전문으로는 생물학(<foreign xml:lang="zh">生物學</foreign>)을 연구할랍니다.</said>”</p>
         <p>그러나 듣는 사람 중에는 생물학의 뜻을 아는 자가 없었다. 이렇게 말하는 <persName ref="#LHS">형식</persName>도 무론 생물학이란 참뜻을 알지 못하였다. 다만 자연과학(<foreign xml:lang="zh">自然科學</foreign>)을 중히 여기는 사상과 생물학이 가장 <rs type="person" ref="#LHS">자기</rs>의 성미에 맞을 듯하여 그렇게 작정한 것이다. 생물학이 무엇인지도 모르면서 새 문명을 건설하겠다고 자담하는 그네의 신세도 불쌍하고 그네를 믿는 시대도 불쌍하다.</p>
         <p>
           <persName ref="#LHS">형식</persName>은 <persName ref="#KBU">병욱</persName>을 향하여,</p>
-        <p>“<said who="#LHS">무론 음악이시겠지요?</said>”</p>
-        <p>“<said who="#KBU">녜― 저는 음악입니다.</said>”</p>
-        <p>“<said who="#LHS">또 <persName ref="#PYC">영채</persName> 씨는?</said>”</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">무론 음악이시겠지요?</said>”</p>
+        <p>“<said who="#KBU" direct="true" aloud="true">녜― 저는 음악입니다.</said>”</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">또 <persName ref="#PYC">영채</persName> 씨는?</said>”</p>
         <p>
           <persName ref="#PYC">영채</persName>는 말없이 <persName ref="#KBU">병욱</persName>을 본다. <persName ref="#KBU">병욱</persName>은 어서 말해라 하고 눈짓을 한다.</p>
-        <p>“<said who="#PYC">저도 음악입니다.</said>”</p>
-        <p>“<said who="#LHS">
+        <p>“<said who="#PYC" direct="true" aloud="true">저도 음악입니다.</said>”</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">
             <persName ref="#KSH">선형</persName> 씨는?</said>”</p>
         <p>하는 말이 나오지 아니하여서 <persName ref="#LHS">형식</persName>은 가만히 앉았다. 여러 사람은 웃었다. <persName ref="#KSH">선형</persName>은 얼굴을 붉혔다.</p>
-        <p>“<said who="#KBU">
+        <p>“<said who="#KBU" direct="true" aloud="true">
             <persName ref="#KSH">선형</persName> 씨는 무엇이오…… 무론 교육이겠지.</said>”</p>
         <p>하고 <persName ref="#KBU">병욱</persName>이가 웃는다. 모두 웃는다. <persName ref="#LHS">형식</persName>도 고개를 수그렸다. <persName ref="#KSH">선형</persName>도 <persName ref="#KBU">병욱</persName>이가 첫마디에 “<q who="#KBU">녜, 저는 음악이외다</q>” 하고 활발히 대답하는 것이 부러웠다. 그래서,</p>
-        <p>“<said who="#KSH">저는 수학을 배울랍니다.</said>”</p>
+        <p>“<said who="#KSH" direct="true" aloud="true">저는 수학을 배울랍니다.</said>”</p>
         <p>하고 있는 힘을 다하여서 말하였다. 학교에서 수학을 잘한다고 선생에게 칭찬받던 생각이 난 것이다. 다른 사람들도 수학이 좋은 것인 줄은 알았으나 수학과 인생에 어떠한 관계가 있는지를 모른다.</p>
-        <p>“<said who="#LHS">그 담에는 자네 차례일세.</said>”</p>
-        <p>“<said who="#SWS">나는 붓이나 들지!</said>”</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">그 담에는 자네 차례일세.</said>”</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">나는 붓이나 들지!</said>”</p>
         <p>한참 말이 없었다. 제가끔 제 장래를 그려 본다. 그러고 그 장래의 귀착점은 다 같았다.</p>
         <p>
           <persName ref="#SWS">우선</persName>이가 고개를 숙이고 우두커니 무슨 생각을 하는 것을 보고 <persName ref="#LHS">형식</persName>이가,</p>
-        <p>“<said who="#LHS">왜, 오늘은 그렇게 점잖아졌나?</said>”</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">왜, 오늘은 그렇게 점잖아졌나?</said>”</p>
         <p>하고 웃는다. <persName ref="#SWS">우선</persName>이가 고개를 들더니,</p>
-        <p>“<said who="#SWS">언제인가 <rs type="person" ref="#LHS">자네</rs>가 <rs type="person" ref="#SWS">날</rs>더러 인생은 장난이 아니라고, 나는 인생을 희롱으로 본다고 그랬지? 마지메(진지)하게 생각지를 않는다고?</said>”</p>
-        <p>“<said who="#LHS">글쎄, 그런 일이 있던가.</said>”</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">언제인가 <rs type="person" ref="#LHS">자네</rs>가 <rs type="person" ref="#SWS">날</rs>더러 인생은 장난이 아니라고, 나는 인생을 희롱으로 본다고 그랬지? 마지메(진지)하게 생각지를 않는다고?</said>”</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">글쎄, 그런 일이 있던가.</said>”</p>
         <p>“<said who="#SWS" direct="true" aloud="true">과연 그게 옳은 말일세. 나는 지금까지 인생을 장난으로 보아 왔네. 내가 술을 많이 먹는 것이라든지…… 또 되는 대로 노는 것이 확실히 인생을 장난으로 여기던 증거지. 나는 도리어 자네가 너무 마지메한 것을 속이 좁다고 비웃어 왔지마는 요컨대, 내가 잘못 생각했던 것이어!</said>”</p>
         <p>여기까지 와서는 <persName ref="#LHS">형식</persName>도 <persName ref="#SWS">우선</persName>의 말이 오늘은 농담이 아닌 것을 깨닫고 정색하고 <persName ref="#SWS">우선</persName>의 얼굴을 본다. <rs type="person" ref="#PYC #KBU #KSH">세 처녀</rs>도 정색하고 듣는다. 과연 <persName ref="#SWS">우선</persName>의 얼굴에는 무슨 결심의 빛이 보인다. <persName ref="#SWS">우선</persName>은 말을 이어,</p>
         <p>“<said who="#SWS" direct="true" aloud="true">오늘 와서 깨달았네. 오늘 <rs type="place" ref="#PL_SAMNANGJIN_STATION">정거장</rs>에서 음악회 했다는 말을 듣고 비로소 깨달았네. 나는 차 타고 지나오면서 메기슭에 사람들을 보고 불쌍하다는 생각도 나기는 났지마는 그 꾀죄하고 섰는 양이 우스워서 웃기부터 하였네. 나는 어떻게 하면 저들을 건지나 하는 생각도 아니하고, 그들을 위해서 눈물도 아니 흘렸네. 그러고 차를 내리면 얼른 구경을 가리라, 가서 시나 한 수 지으리라, 하고 울기는커녕 웃으면서 내려 가지고, 그 말을 들을 때에 나는 가슴이 뜨끔하였네…… 더구나 젊은 여자가…….</said>”</p>
