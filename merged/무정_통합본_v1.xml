@@ -306,7 +306,7 @@
             <persName>영채의 집 노파</persName>
             <persName>어머니</persName>
             <persName>영채의 ‘어머니’</persName>
-            <note type="source-ids">구간 원 ID: 41-50:YNP, 91-100:NP, 121-126:YNP</note>
+            <note type="source-ids">구간 원 ID: 41-50:YNP, 91-100:NP, 121-126:YNP, 81-90:NOPA(문맥별 분리)</note>
             <note type="editorial">영채를 기른 기생 어미. 명시적인 것만 자동으로 묶음</note>
           </person>
           <person xml:id="KBG" sex="M" cert="medium">
@@ -391,7 +391,7 @@
             <persName>형식의 주인 노파</persName>
             <persName>형식의 주인 하고 있던 노파</persName>
             <persName>노파</persName>
-            <note type="source-ids">구간 원 ID: 41-50:HNP, 91-100:HNP, 121-126:HNP</note>
+            <note type="source-ids">구간 원 ID: 41-50:HNP, 91-100:HNP, 121-126:HNP, 81-90:NOPA(문맥별 분리)</note>
             <note type="editorial">명시적으로 '형식의 하숙집'이라 적힌 것만 자동으로 묶음</note>
           </person>
           <person xml:id="KHS" sex="M" cert="medium">
@@ -1087,10 +1087,6 @@
             <persName>노파는</persName>
             <persName>노파가</persName>
             <note type="source-ids">구간 원 ID: 71-80:NP</note>
-          </person>
-          <person xml:id="S81_NOPA" sex="F" cert="low">
-            <persName type="main">노파</persName>
-            <note type="source-ids">구간 원 ID: 81-90:NOPA</note>
           </person>
           <person xml:id="ST" cert="low">
             <persName type="main">어떤 노동자 같은 소년</persName>
@@ -2545,7 +2541,7 @@
         <p>이렇게 생각하고 <persName ref="#PYC">영채</persName>는 후 하고 한숨을 쉬며 눈물을 씻고 <persName ref="#LHS">형식</persName>과 <rs type="person" ref="#HNP">노파</rs>를 보았다.
           <persName ref="#LHS">형식</persName>은 다정한 눈으로 <persName ref="#PYC">영채</persName>의 얼굴을 보며 그 후에 지내 온 이야기를 기다리고, <rs type="person" ref="#HNP">노파</rs>는 <persName ref="#PYC">영채</persName>의 등을 어루만지며 코를 푼다.
         </p>
-        <p>“<said who="#LHS" direct="true" aloud="true">그래, <와 type="person" ref="#AKHAN">그 악한</rs>의 손에서 벗어난 뒤에는 어찌 되었습니까</said>”
+        <p>“<said who="#LHS" direct="true" aloud="true">그래, <rs type="person" ref="#AKHAN">그 악한</rs>의 손에서 벗어난 뒤에는 어찌 되었습니까</said>”
           하고 <persName ref="#LHS">형식</persName>은 <persName ref="#PYC">영채</persName>의 이야기를 재촉한다.
           <persName ref="#PYC">영채</persName>는 이윽고 (<persName ref="#LHS">형식</persName>을 보더니) 눈물을 씻고 일어나면서,
         </p>
@@ -4523,13 +4519,13 @@
         <p>
           <persName ref="#LHS">형식</persName>은 <persName ref="#KGH">김장로</persName> 집 대문을 나섰다. 수증기 많은 여름밤 공기가 땀난 <persName ref="#LHS">형식</persName>의 몸에 불같이 지나간다. 그것이 <persName ref="#LHS">형식</persName>에게 지극히 시원하고 유쾌하였다. <persName ref="#LHS">형식</persName>은 반작반작하는 하늘의 별과 집집의 전등과 지나가는 사람의 얼굴을 슬적슬적 보면서 더할 수 없이 즐거운 마음으로 집으로 돌아온다. 자기의 운수에 봄이 돌아온 것 같다. <persName ref="#KSH">선형</persName>은 아내가 되었다. 마음껏 사랑할 수 있는 내 것이 되었다. 그러고 <placeName ref="#PL_AMERICA">미국</placeName>에 가서 대학교에 들어가서 학사가 되고 박사가 될 수 있다. 사랑스러운 <persName ref="#KSH">선형</persName>과 한차를 타고 한배를 타고 같이 <placeName ref="#PL_AMERICA">미국</placeName>에 가서 한집에 있어서 한학교에서 공부할 수가 있다. 아아, 얼마나 즐거울는지. 그러고 공부를 마치고 나서는 <persName ref="#KSH">선형</persName>과 팔을 겯고 한배로 한차로 본국에 돌아와서 만인의 부러워함과 치하함을 받을 수가 있다. 아아, 얼마나 즐거울는지. 그러고 경치도 좋고 깨끗한 집에 피아노 놓고 바이올린 걸고 <persName ref="#KSH">선형</persName>과 같이 살 것이다. 늘 사랑하면서 늘 즐겁게…… 아아, 얼마나 기쁠는지. <persName ref="#LHS">형식</persName>은 마치 어린아이 모양으로 기뻐하였다. 장래도 장래려니와 지금 이러한 생각을 하는 것이 더할 수 없이 기쁘다. 그래서 이 생각하는 동안을 더 늘일 양으로 일부러 <placeName ref="#PL_SEL">광화문</placeName> 앞으로 돌아서 <placeName ref="#PL_SEL">종로</placeName>를 지나서 <placeName ref="#PL_SEL">탑골공원</placeName>을 거쳐서…… 그래도 집에 돌아오는 것이 아까운 듯이 집에 돌아왔다. 마음속에는 눈앞에는 고개를 수그리고 앉았는 <persName ref="#KSH">선형</persName>의 모양이 새겨져 있다. 그러고 그 모양으로 보면 볼수록 더욱 사랑스러워지고 더욱 어여뻐진다. <persName ref="#LHS">형식</persName>은 대문 밖에서 한참 주저하였다. 이제는 내가 이러한 대문으로 출입할 사람이 아니로구나 하였다. 자기는 갑자기 귀해지고 높아진 듯하였다. 그래서 주먹으로 대문을 한번 치고 혼자 웃으며 마당에 들어섰다.</p>
         <p>
-          <persName ref="#S81_NOPA">노파</persName>와 <persName ref="#SWS">우선</persName>이가 툇마루에 앉아서 이야기를 하다가 <persName ref="#LHS">형식</persName>을 보고 벌덕 일어난다. <persName ref="#SWS">우선</persName>이가 <persName ref="#LHS">형식</persName>의 어깨를 힘껏 치고 웃으며,</p>
+          <persName ref="#HNP">노파</persName>와 <persName ref="#SWS">우선</persName>이가 툇마루에 앉아서 이야기를 하다가 <persName ref="#LHS">형식</persName>을 보고 벌덕 일어난다. <persName ref="#SWS">우선</persName>이가 <persName ref="#LHS">형식</persName>의 어깨를 힘껏 치고 웃으며,</p>
         <p>“<said who="#SWS" direct="true" aloud="true">요, 어찌 되었나.</said>”</p>
         <p>
           <persName ref="#LHS">형식</persName>은 시치미 뚝 떼고,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">무엇 말이야?</said>”</p>
         <p>“<said who="#SWS" direct="true" aloud="true">아따, 왜 이렇게…….</said>”</p>
-        <p>“<said who="#S81_NOPA" direct="true" aloud="true">아, 어떻게 하셨어요</said>” 하고 <persName ref="#S81_NOPA">노파</persName>가, “<said who="#S81_NOPA" direct="true" aloud="true">일이 되었어요?</said>” 하고 웃는다.</p>
+        <p>“<said who="#HNP" direct="true" aloud="true">아, 어떻게 하셨어요</said>” 하고 <persName ref="#HNP">노파</persName>가, “<said who="#HNP" direct="true" aloud="true">일이 되었어요?</said>” 하고 웃는다.</p>
         <p>“<said who="#LHS" direct="true" aloud="true">무슨 일 말이야요?</said>” 하고 <persName ref="#LHS">형식</persName>도 웃는다.</p>
         <p>“<said who="#SWS" direct="true" aloud="true">어디 자초지종을 내게 아뢰게. 가서 저녁 먹고…… 그 담에는?</said>”</p>
         <p>“<said who="#LHS" direct="true" aloud="true">물 마시고…….</said>”</p>
@@ -4543,15 +4539,15 @@
         <p>“<said who="#SWS" direct="true" aloud="true">주릿대를 안고야 말을 하겠니</said>” 하고 또 한번 힘껏 비튼다.</p>
         <p>“<said who="#LHS" direct="true" aloud="true">오냐, 오냐, 인제는, 인제는 말한다.</said>”</p>
         <p>“<said who="#SWS" direct="true" aloud="true">그래 말을 해!</said>” 하고 팔은 놓지 아니하고 다짐을 받는다.</p>
-        <p>“<said who="#LHS" direct="true" aloud="true">가만 있게. 불이나 켜놓고 앉아서 이야기를 하지</said>” 하고 자기의 방 램프에 불을 켜고 모자와 두루마기를 벗어 방 안에 집어던진다. 그러나 오늘 아침에 던지던 것과는 뜻이 다르다. <persName ref="#S81_NOPA">노파</persName>는 쌈지와 담뱃대를 들고 <persName ref="#LHS">형식</persName>의 방으로 건너온다. <persName ref="#SWS">우선</persName>도 담배를 피워 물고 벙거지로 가슴과 다리와 등을 부치며 <persName ref="#LHS">형식</persName>의 말 나오기를 기다린다. <persName ref="#LHS">형식</persName>은 웃으며,</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">가만 있게. 불이나 켜놓고 앉아서 이야기를 하지</said>” 하고 자기의 방 램프에 불을 켜고 모자와 두루마기를 벗어 방 안에 집어던진다. 그러나 오늘 아침에 던지던 것과는 뜻이 다르다. <persName ref="#HNP">노파</persName>는 쌈지와 담뱃대를 들고 <persName ref="#LHS">형식</persName>의 방으로 건너온다. <persName ref="#SWS">우선</persName>도 담배를 피워 물고 벙거지로 가슴과 다리와 등을 부치며 <persName ref="#LHS">형식</persName>의 말 나오기를 기다린다. <persName ref="#LHS">형식</persName>은 웃으며,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">약혼했네</said>” 하였다.</p>
         <p>“<said who="#SWS" direct="true" aloud="true">그러면 성례는 언제 하고?</said>”</p>
         <p>“<said who="#LHS" direct="true" aloud="true">졸업 후에 한다대.</said>”</p>
         <p>“<said who="#SWS" direct="true" aloud="true">졸업 후에? <placeName ref="#PL_AMERICA">미국</placeName> 가서 말인가.</said>”</p>
         <p>“<said who="#LHS" direct="true" aloud="true">응, 오 년 후에.</said>”</p>
-        <p>“<said who="#S81_NOPA" direct="true" aloud="true">오 년 후에?</said>” 하고 <persName ref="#S81_NOPA">노파</persName>가 놀라서 담뱃대를 입에서 떼며, “<said who="#S81_NOPA" direct="true" aloud="true">오 년 후에, 다 늙은 담에요? 그게 무슨 일이람!</said>”</p>
-        <p>“<said who="#LHS" direct="true" aloud="true">오 년 후에 누가 늙어요?</said>” 하고 <persName ref="#LHS">형식</persName>이가 <persName ref="#S81_NOPA">노파</persName>를 보며 웃는다.</p>
-        <p>“<said who="#S81_NOPA" direct="true" aloud="true">한창 재미있을 시절은 서로 물끄러미 마주보기만 하고 있어요? 에그 참, 어서 성례하시오. 오 년 후라니</said>” 하고 <persName ref="#S81_NOPA">노파</persName>는 자기에게 큰 상관이나 있는 듯이 크게 반대한다. <persName ref="#LHS">형식</persName>은 <persName ref="#S81_NOPA">노파</persName>의 말이 옳다 하였다. 그러나,</p>
+        <p>“<said who="#HNP" direct="true" aloud="true">오 년 후에?</said>” 하고 <persName ref="#HNP">노파</persName>가 놀라서 담뱃대를 입에서 떼며, “<said who="#HNP" direct="true" aloud="true">오 년 후에, 다 늙은 담에요? 그게 무슨 일이람!</said>”</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">오 년 후에 누가 늙어요?</said>” 하고 <persName ref="#LHS">형식</persName>이가 <persName ref="#HNP">노파</persName>를 보며 웃는다.</p>
+        <p>“<said who="#HNP" direct="true" aloud="true">한창 재미있을 시절은 서로 물끄러미 마주보기만 하고 있어요? 에그 참, 어서 성례하시오. 오 년 후라니</said>” 하고 <persName ref="#HNP">노파</persName>는 자기에게 큰 상관이나 있는 듯이 크게 반대한다. <persName ref="#LHS">형식</persName>은 <persName ref="#HNP">노파</persName>의 말이 옳다 하였다. 그러나,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">서로 마주보는 동안이 좋지요</said>” 하고 <persName ref="#SWS">우선</persName>더러,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">그런데 <date cert="low">칠월 그믐</date> 안으로 떠나게 되었네. 오는 <date when="--09">구월</date> 학기에 입학을 할 양으로.</said>”</p>
       </div>
@@ -4579,30 +4575,30 @@
         <p>“<said who="#SWS" direct="true" aloud="true">그러면 아무것을 배우든지 <rs type="person" ref="#SWS">자네</rs>는 상관하지 않는단 말일세그려?</said>”</p>
         <p>“<said who="#LHS" direct="true" aloud="true">물론이지. ‘저’라는 것이 있으니까…… 누구나 제가 하고 싶은 것을 할 권리가 있으니까. 남의 힘으로 어떻게 다른 사람의 ‘저’를 좌우하겠나. 남더러 ‘이렇게 하는 것이 좋을 듯하오’ 하고 충고하거나 알려 주는 것은 좋지마는, <rs type="person" ref="#LHS">내</rs>가 이렇게 생각하니 <rs type="person" ref="#SWS">너</rs>는 이렇게 해라 하는 것은 참람한 일이지.</said>”</p>
         <p>
-          <persName ref="#SWS">우선</persName>은 미상불 놀랐다. 그러나 그럴듯하다 하였다. 그러면서도 설마 그러하랴 하였다. 그러나 더 토론할 생각도 없었다. 다만 <persName ref="#LHS">형식</persName>의 사상은 <rs type="person" ref="#SWS">자기</rs>와는 다름을 깨닫고 혼자 고개를 끄덕끄덕하였을 뿐이다. <persName ref="#LHS">형식</persName>은 <persName ref="#SWS">우선</persName>의 이마와 입을 보고 빙그레 웃는다. 이기었다 하는 기쁜 빛이 보인다. <persName ref="#S81_NOPA">노파</persName>는 두 사람의 하는 말이 무슨 뜻인지를 몰랐다. 다만 <persName ref="#LHS">형식</persName>이가 어디로 간다는 줄만 알았을 뿐이다. 세 사람은 각각 딴세상 사람이다. <persName ref="#SWS">우선</persName>과 <persName ref="#LHS">형식</persName>은, 혹 같은 세상 사람이 될는지도 모르되 <persName ref="#S81_NOPA">노파</persName>는 결코 <persName ref="#LHS">형식</persName>과 한세상 사람이 될 수가 없다. 한방 안에, 같은 시간에 각각 딴세상에 속한 세 사람이 모여앉았다. 그러고 서로 알아들을 만한 이야기만 한다. 그러므로 그네는 같은 세상에 속하였거니 한다. 그러다가 우연히 딴세상 이야기가 나오면 문득 눈이 둥글어진다. <persName ref="#S81_NOPA">노파</persName>는,</p>
-        <p>“<said who="#S81_NOPA" direct="true" aloud="true">
+          <persName ref="#SWS">우선</persName>은 미상불 놀랐다. 그러나 그럴듯하다 하였다. 그러면서도 설마 그러하랴 하였다. 그러나 더 토론할 생각도 없었다. 다만 <persName ref="#LHS">형식</persName>의 사상은 <rs type="person" ref="#SWS">자기</rs>와는 다름을 깨닫고 혼자 고개를 끄덕끄덕하였을 뿐이다. <persName ref="#LHS">형식</persName>은 <persName ref="#SWS">우선</persName>의 이마와 입을 보고 빙그레 웃는다. 이기었다 하는 기쁜 빛이 보인다. <persName ref="#HNP">노파</persName>는 두 사람의 하는 말이 무슨 뜻인지를 몰랐다. 다만 <persName ref="#LHS">형식</persName>이가 어디로 간다는 줄만 알았을 뿐이다. 세 사람은 각각 딴세상 사람이다. <persName ref="#SWS">우선</persName>과 <persName ref="#LHS">형식</persName>은, 혹 같은 세상 사람이 될는지도 모르되 <persName ref="#HNP">노파</persName>는 결코 <persName ref="#LHS">형식</persName>과 한세상 사람이 될 수가 없다. 한방 안에, 같은 시간에 각각 딴세상에 속한 세 사람이 모여앉았다. 그러고 서로 알아들을 만한 이야기만 한다. 그러므로 그네는 같은 세상에 속하였거니 한다. 그러다가 우연히 딴세상 이야기가 나오면 문득 눈이 둥글어진다. <persName ref="#HNP">노파</persName>는,</p>
+        <p>“<said who="#HNP" direct="true" aloud="true">
             <persName ref="#LHS">이선생</persName>께서 어디를 가셔요?</said>” 하고 가장 놀란 듯하다. 두 사람은 웃었다.</p>
-        <p>“<said who="#LHS" direct="true" aloud="true">녜, 어찌 되면 <date when="--08" cert="low">내월 그믐</date>께</said>” 하고 <persName ref="#S81_NOPA">노파</persName>는 음력밖에 모르는 것을 생각하고 <persName ref="#LHS">형식</persName>은, “<said who="#LHS" direct="true" aloud="true">
+        <p>“<said who="#LHS" direct="true" aloud="true">녜, 어찌 되면 <date when="--08" cert="low">내월 그믐</date>께</said>” 하고 <persName ref="#HNP">노파</persName>는 음력밖에 모르는 것을 생각하고 <persName ref="#LHS">형식</persName>은, “<said who="#LHS" direct="true" aloud="true">
             <date when="--08" cert="low">내달 보름</date>께 <placeName ref="#PL_AMERICA">미국</placeName>으로 갈랍니다.</said>”</p>
-        <p>“<said who="#S81_NOPA" direct="true" aloud="true">
+        <p>“<said who="#HNP" direct="true" aloud="true">
             <placeName ref="#PL_AMERICA">미국</placeName>? 저 <placeName ref="#PL_AMERICA">양국</placeName> 말씀이야요!</said>”</p>
-        <p>“<said who="#S81_NOPA" direct="true" aloud="true">녜, <placeName ref="#PL_AMERICA">양국</placeName>이오</said>” 하는 <persName ref="#LHS">형식</persName>의 대답을 이어 <persName ref="#SWS">우선</persName>이가 껄껄 웃으며,</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">녜, <placeName ref="#PL_AMERICA">양국</placeName>이오</said>” 하는 <persName ref="#LHS">형식</persName>의 대답을 이어 <persName ref="#SWS">우선</persName>이가 껄껄 웃으며,</p>
         <p>“<said who="#SWS" direct="true" aloud="true">저 코가 이렇게 크고 눈이 움쑥 들어간 사람들 사는 나라예요</said>” 한다. 두 사람은 웃고 한 사람은 놀란다.</p>
-        <p>“<said who="#S81_NOPA" direct="true" aloud="true">아, <placeName ref="#PL_AMERICA">양국</placeName>이 얼마나 멀게요?</said>”</p>
+        <p>“<said who="#HNP" direct="true" aloud="true">아, <placeName ref="#PL_AMERICA">양국</placeName>이 얼마나 멀게요?</said>”</p>
         <p>“<said who="#LHS" direct="true" aloud="true">한 삼만 리 되지요</said>”는 <persName ref="#LHS">형식</persName>의 말.</p>
-        <p>“<said who="#SWS" direct="true" aloud="true">바다로 한 십만 리 가요</said>” 하고 <persName ref="#SWS">우선</persName>이가 웃는다. 그러나 <persName ref="#S81_NOPA">노파</persName>는 삼만 리와 십만 리가 얼마나 틀리는지 알지 못한다. 그것은커녕 삼만 리가 얼마나 먼지도 모른다. 그래서 다만 입을 헤 벌릴 뿐이다.</p>
-        <p>“<said who="#SWS" direct="true" aloud="true">여기서 동네를 열댓 번 왔다갔다하기만큼 멀어요. 그런데 크다란 쇠로 만든 배를 타고 쿵쿵쿵쿵 하면서 가요</said>” 하는 <persName ref="#SWS">우선</persName>의 말에 <persName ref="#S81_NOPA">노파</persName>는,</p>
-        <p>“<said who="#S81_NOPA" direct="true" aloud="true">화륜선 타고 갑니다그려. 몇 달이나 가나요?</said>” 하고 담배를 빨기도 잊었다.</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">바다로 한 십만 리 가요</said>” 하고 <persName ref="#SWS">우선</persName>이가 웃는다. 그러나 <persName ref="#HNP">노파</persName>는 삼만 리와 십만 리가 얼마나 틀리는지 알지 못한다. 그것은커녕 삼만 리가 얼마나 먼지도 모른다. 그래서 다만 입을 헤 벌릴 뿐이다.</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">여기서 동네를 열댓 번 왔다갔다하기만큼 멀어요. 그런데 크다란 쇠로 만든 배를 타고 쿵쿵쿵쿵 하면서 가요</said>” 하는 <persName ref="#SWS">우선</persName>의 말에 <persName ref="#HNP">노파</persName>는,</p>
+        <p>“<said who="#HNP" direct="true" aloud="true">화륜선 타고 갑니다그려. 몇 달이나 가나요?</said>” 하고 담배를 빨기도 잊었다.</p>
         <p>“<said who="#SWS" direct="true" aloud="true">한 서른아믄 달 가지요</said>” 하고 <persName ref="#SWS">우선</persName>이가 고개를 돌리고 입을 쭈물거리고 웃는다.</p>
-        <p>“<said who="#S81_NOPA" direct="true" aloud="true">에그머니!</said>” 하는 것을, <persName ref="#LHS">형식</persName>이가,</p>
-        <p>“<said who="#LHS" direct="true" aloud="true">그것은 거짓말이야요. 한 보름이면 가요</said>” 한다. <persName ref="#S81_NOPA">노파</persName>는 원망하는 듯이 슬쩍 <persName ref="#SWS">우선</persName>을 쳐다보더니,</p>
-        <p>“<said who="#S81_NOPA" direct="true" aloud="true">무엇 하러 그렇게 먼 데를 가요. 또 부인은 어떻게 하시고…… 에그머니!</said>” 하고 <persName ref="#S81_NOPA">노파</persName>는 몸을 떤다. <persName ref="#SWS">우선</persName>이가,</p>
-        <p>“<said who="#SWS" direct="true" aloud="true">부인도 같이 가지요. 이제 <persName ref="#LHS">이선생</persName>이 부인과 함께 <placeName ref="#PL_AMERICA">양국</placeName>으로 가는데, <persName ref="#S81_NOPA">노파</persName>는 안 가보시려요? 쿵쿵쿵쿵 하는 쇠배를 타고 저 하늘 붙은 <placeName ref="#PL_AMERICA">양국</placeName>으로 가보지요.</said>”</p>
+        <p>“<said who="#HNP" direct="true" aloud="true">에그머니!</said>” 하는 것을, <persName ref="#LHS">형식</persName>이가,</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">그것은 거짓말이야요. 한 보름이면 가요</said>” 한다. <persName ref="#HNP">노파</persName>는 원망하는 듯이 슬쩍 <persName ref="#SWS">우선</persName>을 쳐다보더니,</p>
+        <p>“<said who="#HNP" direct="true" aloud="true">무엇 하러 그렇게 먼 데를 가요. 또 부인은 어떻게 하시고…… 에그머니!</said>” 하고 <persName ref="#HNP">노파</persName>는 몸을 떤다. <persName ref="#SWS">우선</persName>이가,</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">부인도 같이 가지요. 이제 <persName ref="#LHS">이선생</persName>이 부인과 함께 <placeName ref="#PL_AMERICA">양국</placeName>으로 가는데, <persName ref="#HNP">노파</persName>는 안 가보시려요? 쿵쿵쿵쿵 하는 쇠배를 타고 저 하늘 붙은 <placeName ref="#PL_AMERICA">양국</placeName>으로 가보지요.</said>”</p>
         <p>
-          <persName ref="#S81_NOPA">노파</persName>는 그런 소리는 들은 체도 아니 하고,</p>
-        <p>“<said who="#S81_NOPA" direct="true" aloud="true">그러면 언제나 돌아오시나요?</said>”</p>
-        <p>“<said who="#LHS" direct="true" aloud="true">모르겠습니다. 한 사오 년 있다가 오지요. 오면 곧 찾아오지요</said>” 하고 <persName ref="#LHS">형식</persName>도 웃는다. <persName ref="#S81_NOPA">노파</persName>는 한숨을 쉬며,</p>
-        <p>“<said who="#S81_NOPA" direct="true" aloud="true">내가 사오 년을 사나요</said>” 하고 눈에 눈물이 고인다. 두 사람은 웃음을 그치고 <persName ref="#S81_NOPA">노파</persName>를 물끄러미 보았다.</p>
+          <persName ref="#HNP">노파</persName>는 그런 소리는 들은 체도 아니 하고,</p>
+        <p>“<said who="#HNP" direct="true" aloud="true">그러면 언제나 돌아오시나요?</said>”</p>
+        <p>“<said who="#LHS" direct="true" aloud="true">모르겠습니다. 한 사오 년 있다가 오지요. 오면 곧 찾아오지요</said>” 하고 <persName ref="#LHS">형식</persName>도 웃는다. <persName ref="#HNP">노파</persName>는 한숨을 쉬며,</p>
+        <p>“<said who="#HNP" direct="true" aloud="true">내가 사오 년을 사나요</said>” 하고 눈에 눈물이 고인다. 두 사람은 웃음을 그치고 <persName ref="#HNP">노파</persName>를 물끄러미 보았다.</p>
       </div>
       <div type="chapter" n="86" resp="#enc81-90" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/81%EC%9E%A5~100%EC%9E%A5">
         <head>86장</head>
@@ -4610,7 +4606,7 @@
         <p>혹 <persName ref="#PYC">영채</persName>가 빠져 죽는 것이 마땅하다 하여 <persName ref="#PYC">영채</persName>가 <placeName ref="#PL_PY">평양</placeName>으로 간 것을 칭찬하신 이도 있을지요, 빠져 죽을 까닭이 없다 하여 <persName ref="#PYC">영채</persName>의 행동을 아깝게 여기실 이도 있으리라. 이렇게 여러 가지로 독자 여러분의 생각하시는 바와 내가 장차 쓰려 하는 <persName ref="#PYC">영채</persName>의 소식이 어떻게 합하며 어떻게 틀릴지는 모르지마는, 여러분의 하신 생각과 내가 한 생각이 다른 것을 비교해 보는 것도 매우 흥미있는 일일 듯하다.</p>
         <p>부산서부터 오는 이등 차실은 손님의 대부분을 <placeName ref="#PL_SEL">남대문</placeName>에 내리우고 <persName ref="#PYC">영채</persName>의 탄 방에는 남녀 합하여 오륙 인밖에 없었다. <persName ref="#PYC">영채</persName>는 한편 구석에 자리를 잡고 차가 떠나자 얼굴을 남에게 아니 보이려는 듯이 차창으로 머리를 내밀어 시원한 바람을 쏘이며 <placeName ref="#PL_NAMSAN">남산</placeName> 바깥을 바라보았다. 그러나 별로 <rs type="person" ref="#PYC">그</rs>의 주의를 끄는 것도 없었다. <rs type="person" ref="#PYC">그</rs>는 다만 같이 탄 사람에게 얼굴을 보이기가 싫어서 멀거니 휙휙 지나가는 메와 들을 보고 있었을 뿐이다. 별로 슬프지도 아니하고 괴롭지도 아니하였다. 곤한 잠을 반쯤 깬 모양으로 정신이 희미하였다. 꿈속 같기도 하였다.</p>
         <p>
-          <persName ref="#S81_NOPA">노파</persName>와 두어 동무의 작별을 받을 때에는 슬프기도 하였다. <rs type="person" ref="#PYC">자기</rs>의 신세가 애달프기도 하였다. <rs type="person" ref="#PYC">자기</rs>는 이십여 년 살아오던 세상을 버리고 죽으러 간다는 생각이 푹푹 가슴을 우귀어 내는 듯도 하였다. 그러다가 마음에 맞지 아니하는 괴로운 세상을 버리고 마는 것이 시원한 듯도 하였다. 그래서 <persName ref="#PYC">영채</persName>의 머릿속은 마치 물끓는 듯하였다. 그러나 한두 시간을 지나매 <persName ref="#PYC">영채</persName>의 정신은 아주 침착하게 되었다. <placeName ref="#PL_SEL">남대문 정거장</placeName>에를 어떻게 나왔는지, 어떻게 차를 탔는지 잊어버린 듯도 하였다. <placeName ref="#PL_SEL">남대문</placeName>을 떠난 지가 여러 십 년 된 것 같기도 하고 <persName ref="#S81_NOPA">노파</persName>와 동무의 얼굴이 마치 여러 십 년 전에 보던 얼굴같이 희미하여진다.</p>
+          <persName ref="#YNP">노파</persName>와 두어 동무의 작별을 받을 때에는 슬프기도 하였다. <rs type="person" ref="#PYC">자기</rs>의 신세가 애달프기도 하였다. <rs type="person" ref="#PYC">자기</rs>는 이십여 년 살아오던 세상을 버리고 죽으러 간다는 생각이 푹푹 가슴을 우귀어 내는 듯도 하였다. 그러다가 마음에 맞지 아니하는 괴로운 세상을 버리고 마는 것이 시원한 듯도 하였다. 그래서 <persName ref="#PYC">영채</persName>의 머릿속은 마치 물끓는 듯하였다. 그러나 한두 시간을 지나매 <persName ref="#PYC">영채</persName>의 정신은 아주 침착하게 되었다. <placeName ref="#PL_SEL">남대문 정거장</placeName>에를 어떻게 나왔는지, 어떻게 차를 탔는지 잊어버린 듯도 하였다. <placeName ref="#PL_SEL">남대문</placeName>을 떠난 지가 여러 십 년 된 것 같기도 하고 <persName ref="#YNP">노파</persName>와 동무의 얼굴이 마치 여러 십 년 전에 보던 얼굴같이 희미하여진다.</p>
         <p>
           <persName ref="#PYC">영채</persName>의 눈에는 여름낮 볕을 받은 푸른 산이 보이고 밀과 보리의 누른 물결과, 조와 피의 푸른 물결도 보인다. 풀의 향기를 품긴 바람이 얼굴을 스쳐 지나가고 모시 적삼의 틈으로 불어 들어와 땀 나는 살을 서늘하게도 한다. 이 모든 것이 도리어 <persName ref="#PYC">영채</persName>에게 일종의 쾌감을 주었다. 그래서 <persName ref="#PYC">영채</persName>는 꿈꾸는 사람 모양으로 안 보이는 것을 보려고도, 보이는 것을 안 보려고도 아니 하고 눈에 들어오는 대로 보고, 귀에 들어오는 대로 들었다. 그러고 자기가 어디로 가는 것이며, 무엇 하러 가는 것도 몰랐다.</p>
         <p>그러나 이따금 나는 죽으러 간다는 생각이 난다. 그러면 <persName ref="#PYC">영채</persName>는 죽었다 살아나는 듯이 한번 눈을 깜박 하고 진저리를 친다. 그러고는 집 생각과 <placeName ref="#PL_PY">평양</placeName> 생각, <persName ref="#LHS">형식</persName>의 생각이 쑥 나온다. 그러나 조곰씩조곰씩 나오다가는 얼른 스러지고 또 여전히 꿈꾸는 사람같이 된다.</p>
@@ -4632,30 +4628,30 @@
         <p>“<said who="#KBU" direct="true" aloud="true">자, 세면소에 가서 세수를 하셔요</said>” 하고 앞서 간다. 차가 흔들리건마는 그 부인은 까딱없이 평지로 가는 모양으로 <persName ref="#PYC">영채</persName>를 끌고 차실 저편 끝 세면소로 간다. 가다가 차실 중간쯤 해서 자기와 같이 앉았던 양복 입은 소년에게서 비누와 수건을 받아 들고 간다. 그 맞은편에서 책을 보고 앉았던 어떤 양복 입은 사람이 두 사람의 모양을 우두커니 보고 앉았더니 다시 책을 본다. <persName ref="#PYC">영채</persName>는 비틀비틀하면서 그 부인의 뒤를 따라 세면소에 갔다. 부인은 대리석판에 백설 같은 자기로 만든 세면기에 물을 따라 손으로 휘휘 저어 한번 부셔 내고 맑은 물을 가뜩이 부어 놓은 후에 비눗갑을 열어 놓고 붉은 줄 있는 큰 타월로 <persName ref="#PYC">영채</persName>의 어깨와 옷깃을 가리어 주고 한 손으로 <persName ref="#PYC">영채</persName>의 허리를 안는 듯이 <persName ref="#PYC">영채</persName>의 몸을 자기의 몸에 기대게 하고,</p>
         <p>“<said who="#KBU" direct="true" aloud="true">자, 비누로 왁왁 씻읍시오</said>” 하고 물끄러미 <persName ref="#PYC">영채</persName>의 반질반질한 머리와 꽃비녀와 하얀 목과 등을 보며, ‘어떤 사람인가’ 하여 보다가 이따금 <persName ref="#PYC">영채</persName>의 어깨를 가리운 수건도 바로잡아 주고 귀밑으로 흘러내린 머리카락도 걷어올려 준다. 남이 보면 마치 형이 동생을 도와 주는 것같이 생각하겠다. 사실상 그 부인은 <persName ref="#PYC">영채</persName>를 동생같이 생각하였다. ‘얌전한 처녀다. 재주가 있겠다. 교육이 있는 듯하다’ 하였다. 그러고 석탄 가루가 눈에 들어가서 울던 것을 생각하고 ‘어리다, 사랑스럽다’ 하였다.</p>
         <p>
-          <persName ref="#PYC">영채</persName>는 슬프던 중에도 그 부인의 다정한 것을 감사하게, 기쁘게 여기면서 잘 세수를 하였다. 자기의 등에 그 부인의 손이 얹힌 것을 감각할 때에 <persName ref="#GWH">월화</persName>에게 안기던 것을 생각하였다. 그러고 그 부인의 얼굴이 어딘지 모르나 <persName ref="#GWH">월화</persName>와 비슷하다 하였다. 그러고 그러나 나는 죽는다 하였다. <persName ref="#PYC">영채</persName>는 세수를 다 하고 일어섰다. 부인은 수건을 준다. <persName ref="#PYC">영채</persName>는 얼굴과 손을 씻었다. 부인은 수건을 달래서 <persName ref="#PYC">영채</persName>의 목과 귀 뒤를 가만가만히 씻어 주었다. <persName ref="#PYC">영채</persName>는 눈을 떠서 정면으로 부인을 보았다. <persName ref="#PYC">영채</persName>의 눈은 벌겋다. 그러고 눈썹에는 아직 물이 묻어서 마치 눈물이 묻은 것 같다. 부인은 어머니가 딸을 보는 듯한 눈으로 빙그레 웃으면서 <persName ref="#PYC">영채</persName>를 보더니 팔로 <persName ref="#PYC">영채</persName>의 허리를 안으며,</p>
+          <persName ref="#PYC">영채</persName>는 슬프던 중에도 그 부인의 다정한 것을 감사하게, 기쁘게 여기면(서) 잘 세수를 하였다. 자기의 등에 그 부인의 손이 얹힌 것을 감각할 때에 <persName ref="#GWH">월화</persName>에게 안기던 것을 생각하였다. 그러고 그 부인의 얼굴이 어딘지 모르나 <persName ref="#GWH">월화</persName>와 비슷하다 하였다. 그러고 그러나 나는 죽는다 하였다. <persName ref="#PYC">영채</persName>는 세수를 다 하고 일어섰다. 부인은 수건을 준다. <persName ref="#PYC">영채</persName>는 얼굴과 손을 씻었다. 부인은 수건을 달래서 <persName ref="#PYC">영채</persName>의 목과 귀 뒤를 가만가만히 씻어 주었다. <persName ref="#PYC">영채</persName>는 눈을 떠서 정면으로 부인을 보았다. <persName ref="#PYC">영채</persName>의 눈은 벌겋다. 그러고 눈썹에는 아직 물이 묻어서 마치 눈물이 묻은 것 같다. 부인은 어머니가 딸을 보는 듯한 눈으로 빙그레 웃으면서 <persName ref="#PYC">영채</persName>를 보더니 팔로 <persName ref="#PYC">영채</persName>의 허리를 안으며,</p>
         <p>“<said who="#KBU" direct="true" aloud="true">자 갑시다. 가서 점심이나 먹읍시다.</said>”</p>
       </div>
       <div type="chapter" n="88" resp="#enc81-90" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/81%EC%9E%A5~100%EC%9E%A5">
         <head>88장</head>
         <p>아까 오던 모양으로 <persName ref="#PYC">영채</persName>의 자리에 돌아왔다. <persName ref="#PYC">영채</persName>는 그제야 겨우,</p>
-        <p>“<said who="#PYC" direct="true" aloud="true">감사합니다</said>” 하였다. <rs type="person" ref="#KBU_M">부인</rs>은 앉으려 하다가 다시 자기의 자리로 가서 그 소년과 무슨 말을 하더니 가방 속에서 네모난 종잇갑을 내어들고 와서 <persName ref="#PYC">영채</persName>의 맞은편 걸상에 앉으며,</p>
-        <p>“<said who="#KBU_M" direct="true" aloud="true">이것 좀 잡수셔요</said>” 하고 그 종잇갑의 뚜께를 연다. <persName ref="#PYC">영채</persName>는 그것이 무엇인지를 몰랐다. 구멍이 숭숭한 떡 두 조각 사이에 엷은 날고기를 끼인 것이다. <persName ref="#PYC">영채</persName>는 무엇이냐고 묻기도 어려워서 가만히 앉았다. <rs type="person" ref="#KBU_M">부인</rs>은 슬쩍 <persName ref="#PYC">영채</persName>의 눈을 보더니, 속으로 ‘<said who="#KBU_M" direct="false" aloud="false">네가 이것을 모르는구나</said>’ 하면서 <persName ref="#PYC">영채</persName>에게 먹기를 권하며,</p>
-        <p>“<said who="#KBU_M" direct="true" aloud="true">어디로 가십니까?</said>” 하고 자기 먼저 하나를 집어먹으며, “<said who="#KBU_M" direct="true" aloud="true">자 잡수셔요</said>” 한다.</p>
+        <p>“<said who="#PYC" direct="true" aloud="true">감사합니다</said>” 하였다. <rs type="person" ref="#KBU">부인</rs>은 앉으려 하다가 다시 자기의 자리로 가서 그 소년과 무슨 말을 하더니 가방 속에서 네모난 종잇갑을 내어들고 와서 <persName ref="#PYC">영채</persName>의 맞은편 걸상에 앉으며,</p>
+        <p>“<said who="#KBU" direct="true" aloud="true">이것 좀 잡수셔요</said>” 하고 그 종잇갑의 뚜께를 연다. <persName ref="#PYC">영채</persName>는 그것이 무엇인지를 몰랐다. 구멍이 숭숭한 떡 두 조각 사이에 엷은 날고기를 끼인 것이다. <persName ref="#PYC">영채</persName>는 무엇이냐고 묻기도 어려워서 가만히 앉았다. <rs type="person" ref="#KBU">부인</rs>은 슬쩍 <persName ref="#PYC">영채</persName>의 눈을 보더니, 속으로 ‘<said who="#KBU" direct="false" aloud="false">네가 이것을 모르는구나</said>’ 하면서 <persName ref="#PYC">영채</persName>에게 먹기를 권하며,</p>
+        <p>“<said who="#KBU" direct="true" aloud="true">어디로 가십니까?</said>” 하고 자기 먼저 하나를 집어먹으며, “<said who="#KBU" direct="true" aloud="true">자 잡수셔요</said>” 한다.</p>
         <p>“<said who="#PYC" direct="true" aloud="true">
-            <placeName ref="#PL_PY">평양</placeName> 갑시다(갑니다)</said>” 하고 <persName ref="#PYC">영채</persName>도 한쪽을 집어서 그 <rs type="person" ref="#KBU_M">부인</rs>이 먹는 모양으로 먹었다. 처음에는 어떻게 먹는 것인지 몰랐었다.</p>
-        <p>“<said who="#KBU_M" direct="true" aloud="true">댁이 <placeName ref="#PL_PY">평양</placeName>이시야요?</said>” 하고 <rs type="person" ref="#KBU_M">부인</rs>은 또 하나를 집는다. <persName ref="#PYC">영채</persName>는 어떻게 대답할지를 몰랐다. <rs type="person" ref="#PYC">나</rs>도 집이 있나 하였다. 그러나 집이 있다 하면 <rs type="person" ref="#S81_NOPA">노파</rs>의 집이다 하여 고개를 돌리며,</p>
-        <p>“<said who="#PYC" direct="true" aloud="true">녜, <placeName ref="#PL_PY">평양</placeName> 있다가 지금 <placeName ref="#PL_SEL">서울</placeName> 와 있어요</said>” 하고 <persName ref="#PYC">영채</persName>는 집었던 것을 다 먹고 가만히 앉았다. “<said who="#KBU_M" direct="true" aloud="true">자, 어서 잡수셔요</said>” 하고 <rs type="person" ref="#KBU_M">부인</rs>이 집어 줄 때에야 또 하나를 받아 먹었다. 별로 맛은 없으나 그 새에 낀 짭짤한 고기 맛이 관계치 않고 전체가 특별한 맛은 없으면서 무엇인지 알 수 없는 운치 있는 맛이 있다 하였다. <rs type="person" ref="#KBU_M">부인</rs>은 또 한쪽을 집어 안팎 옆을 한번 뒤쳐 보며,</p>
+            <placeName ref="#PL_PY">평양</placeName> 갑시다(갑니다)</said>” 하고 <persName ref="#PYC">영채</persName>도 한쪽을 집어서 그 <rs type="person" ref="#KBU">부인</rs>이 먹는 모양으로 먹었다. 처음에는 어떻게 먹는 것인지 몰랐었다.</p>
+        <p>“<said who="#KBU" direct="true" aloud="true">댁이 <placeName ref="#PL_PY">평양</placeName>이시야요?</said>” 하고 <rs type="person" ref="#KBU">부인</rs>은 또 하나를 집는다. <persName ref="#PYC">영채</persName>는 어떻게 대답할지를 몰랐다. <rs type="person" ref="#PYC">나</rs>도 집이 있나 하였다. 그러나 집이 있다 하면 <rs type="person" ref="#YNP">노파</rs>의 집이다 하여 고개를 돌리며,</p>
+        <p>“<said who="#PYC" direct="true" aloud="true">녜, <placeName ref="#PL_PY">평양</placeName> 있다가 지금 <placeName ref="#PL_SEL">서울</placeName> 와 있어요</said>” 하고 <persName ref="#PYC">영채</persName>는 집었던 것을 다 먹고 가만히 앉았다. “<said who="#KBU" direct="true" aloud="true">자, 어서 잡수셔요</said>” 하고 <rs type="person" ref="#KBU">부인</rs>이 집어 줄 때에야 또 하나를 받아 먹었다. 별로 맛은 없으나 그 새에 낀 짭짤한 고기 맛이 관계치 않고 전체가 특별한 맛은 없으면서 무엇인지 알 수 없는 운치 있는 맛이 있다 하였다. <rs type="person" ref="#KBU">부인</rs>은 또 한쪽을 집어 안팎 옆을 한번 뒤쳐 보며,</p>
         <p>“<said who="#KBU" direct="true" aloud="true">그런데 방학이 되었어요?</said>”</p>
         <p>
           <rs type="person" ref="#PYC">나</rs>를 여학생으로 아는구나 하고 한껏 부끄러웠다. 그러고 이 <rs type="person" ref="#KBU">일본 부인</rs>이 어떻게 이렇게 <placeName ref="#PL_JS">조선</placeName>말을 잘하나 하다가 너무도 <placeName ref="#PL_JS">조선</placeName>말을 잘함을 보고 옳지 <placeName ref="#PL_JAPAN">일본</placeName> 가 있는 <placeName ref="#PL_JS">조선</placeName> 여학생이로구나 하면서,</p>
         <p>“<said who="#PYC" direct="true" aloud="true">아니야요. 잠깐 다니러 갑니다. 저는 학교에 아니 다녀요.</said>”</p>
-        <p>“<said who="#KBU_M" direct="true" aloud="true">그러면 벌써 졸업하셨어요. 어느 학교에 다니셨어요. <orgName ref="#ORG_SUKMUNG">숙명</orgName>이요, <orgName ref="#ORG_JINMUNG">진명</orgName>이요?</said>”</p>
+        <p>“<said who="#KBU" direct="true" aloud="true">그러면 벌써 졸업하셨어요. 어느 학교에 다니셨어요. <orgName ref="#ORG_SUKMUNG">숙명</orgName>이요, <orgName ref="#ORG_JINMUNG">진명</orgName>이요?</said>”</p>
         <p>“<said who="#PYC" direct="true" aloud="true">아무 학교에도 아니 다녔어요.</said>”</p>
-        <p>이 말에 그 <rs type="person" ref="#KBU_M">부인</rs>은 입에 떡을 문 채로 씹으려고도 아니 하고 우두커니 앉아서 <persName ref="#PYC">영채</persName>를 본다. 그러면 이 여자는 무엇일까 하였다. ‘<said who="#KBU_M" direct="false" aloud="false">남의 첩</said>’이라는 생각도 난다. 학교에 아니 다녔단 말에 다소 경멸하는 생각도 나나 또 그것이 어떤 계집인지 알아보고 싶은 호기심(<foreign xml:lang="ko-Hani">好奇心</foreign>)도 난다. 그러나 어떻게 물어 보아야 할지를 한참 생각하다가,</p>
-        <p>“<said who="#KBU_M" direct="true" aloud="true">그러면 <placeName ref="#PL_PY">평양</placeName>에는 친척이 계셔요?</said>”</p>
+        <p>이 말에 그 <rs type="person" ref="#KBU">부인</rs>은 입에 떡을 문 채로 씹으려고도 아니 하고 우두커니 앉아서 <persName ref="#PYC">영채</persName>를 본다. 그러면 이 여자는 무엇일까 하였다. ‘<said who="#KBU" direct="false" aloud="false">남의 첩</said>’이라는 생각도 난다. 학교에 아니 다녔단 말에 다소 경멸하는 생각도 나나 또 그것이 어떤 계집인지 알아보고 싶은 호기심(<foreign xml:lang="ko-Hani">好奇心</foreign>)도 난다. 그러나 어떻게 물어 보아야 할지를 한참 생각하다가,</p>
+        <p>“<said who="#KBU" direct="true" aloud="true">그러면 <placeName ref="#PL_PY">평양</placeName>에는 친척이 계셔요?</said>”</p>
         <p>
-          <persName ref="#PYC">영채</persName>도 어떻게 대답을 할 것인지 모른다. <date cert="low">오늘 저녁</date>이면 죽어 버리는 몸이요, 또 이 <rs type="person" ref="#KBU_M">부인</rs>이 이처럼 친절하게 하여 주니 자초지종을 있는 대로 이야기하고 싶기도 하나 그래도 말을 내기가 부끄럽기도 하고 또 어디서부터 어떻게 시작할 것인지를 몰라 떡을 든 채로 고개를 숙이고 잠자코 앉았다. <rs type="person" ref="#KBU_M">부인</rs>도 가만히 앉았다. ‘<said who="#KBU_M" direct="false" aloud="false">이 여자에게 무슨 비밀이 있구나</said>’ 하매 더욱 호기심이 일어난다. 그러나 <persName ref="#PYC">영채</persName>의 불편하여 하는 것을 보고 말끝을 돌려,</p>
-        <p>“<said who="#KBU_M" direct="true" aloud="true">제 집은 <placeName ref="#PL_HWANGJU">황주</placeName>야요. <placeName ref="#PL_L19">동경</placeName> 가서 공부하다가 방학이 되어서 돌아옵니다. 쟤는 <rs type="person" ref="#BY_YOUNGER">제동생</rs>이구요.</said>”</p>
+          <persName ref="#PYC">영채</persName>도 어떻게 대답을 할 것인지 모른다. <date cert="low">오늘 저녁</date>이면 죽어 버리는 몸이요, 또 이 <rs type="person" ref="#KBU">부인</rs>이 이처럼 친절하게 하여 주니 자초지종을 있는 대로 이야기하고 싶기도 하나 그래도 말을 내기가 부끄럽기도 하고 또 어디서부터 어떻게 시작할 것인지를 몰라 떡을 든 채로 고개를 숙이고 잠자코 앉았다. <rs type="person" ref="#KBU">부인</rs>도 가만히 앉았다. ‘<said who="#KBU" direct="false" aloud="false">이 여자에게 무슨 비밀이 있구나</said>’ 하매 더욱 호기심이 일어난다. 그러나 <persName ref="#PYC">영채</persName>의 불편하여 하는 것을 보고 말끝을 돌려,</p>
+        <p>“<said who="#KBU" direct="true" aloud="true">제 집은 <placeName ref="#PL_HWANGJU">황주</placeName>야요. <placeName ref="#PL_L19">동경</placeName> 가서 공부하다가 방학이 되어서 돌아옵니다. 쟤는 <rs type="person" ref="#BY_YOUNGER">제동생</rs>이구요.</said>”</p>
         <p>
           <persName ref="#PYC">영채</persName>는 다만, “녜―” 하고 그 <rs type="person" ref="#BY_YOUNGER">소년</rs>을 보았다. <rs type="person" ref="#BY_YOUNGER">소년</rs>도 기대어 앉아서 눈을 꿈벅거리며 여기를 쳐다보다가 <persName ref="#PYC">영채</persName>의 눈과 마주치매 눈을 돌려 방(창) 밖을 내다본다. 둥그스름하고 살이 풍후한 얼굴에 눈이 큰 것과 눈썹이 긴 것이 얼른 눈에 뜨인다. <persName ref="#PYC">영채</persName>는, 사랑스러운 얼굴이다, 남매가 잘 닮았다 하였다. 그러나 두 사람 사이에는 다시 말이 없고 서로 이따금 마주보기만 한다. <persName ref="#PYC">영채</persName>는 ‘내게도 저런 동생이 있었으면’ 하였다. 그러고 <placeName ref="#PL_L19">동경</placeName> 유학하는 <rs type="person" ref="#BY_YOUNGER">그</rs>의 신세를 부럽게도 여겼다. 또 <rs type="person" ref="#PYC">나는</rs> 죽는다 하였다. <rs type="person" ref="#PYC">나는</rs> 왜 이렇게 박명한고, <rs type="person" ref="#PYC">나는</rs> 어찌하여 일생을 눈물로 보내다가 죽게 태어났는고 하였다. 차는 간다. 해도 간다. <rs type="person" ref="#PYC">내</rs>가 죽을 시간은 가까워 온다 하고 자기의 손과 몸을 보았다. 그러고 나오는 줄 모르게 눈물을 흘렸다. <persName ref="#PYC">영채</persName>는 눈물을 감추려 하였으나 참으려면 참을수록 흐득흐득 느껴 가며 눈물이 나온다. <persName ref="#PYC">영채</persName>는 마침내 자기의 걸어앉은 무릎 위에 이마를 대고 울었다. 그 <rs type="person" ref="#KBU">여학생</rs>은 <persName ref="#PYC">영채</persName>의 곁으로 옮아앉아 <persName ref="#PYC">영채</persName>를 안아 일으키면서,</p>
         <p>“<said who="#KBU" direct="true" aloud="true">여봅시오, 왜 그러셔요?</said>”</p>
@@ -4719,7 +4715,7 @@
         <p>“<said who="#KBU" direct="true" aloud="true">부모의 말에 순종하는 것이 자식의 도리겠지요. 지아비의 말에 순종하는 것이 아내의 도리겠지요. 그러나 부모의 말보다도 자식의 일생이, 지아비의 말보다도 아내의 일생이 더 중하지 아니할까요? 다른 사람의 뜻을 위하여 제 일생을 결정하는 것은 저를 죽임이외다. 그야말로 인도(<foreign xml:lang="ko-Hani">人道</foreign>)의 죄라 합니다. 더구나 부사종자(<foreign xml:lang="ko-Hani">夫死從子</foreign>)라는 말은 참남자의 포학(<foreign xml:lang="ko-Hani">暴虐</foreign>)을 표함이외다. 여자의 인격을 무시하는 말이외다. 어머니는 아들을 가르치고 지배함이 마땅하외다. 어머니가 자식에게 복종하는 그런 비리(<foreign xml:lang="ko-Hani">非理</foreign>)가 어디 있어요</said>” 하고 <persName ref="#KBU">여학생</persName>은 얼굴이 붉게 되며 기운을 내어 구도덕(<foreign xml:lang="ko-Hani">舊道德</foreign>)을 공격하더니, “<said who="#KBU" direct="true" aloud="true">
             <persName ref="#PYC">영채</persName> 씨도 이러한 낡은 사상에 종이 되어서 지금껏 속절없는 괴로움을 맛보셨습니다. 그 속박을 끊읍시오. 그 꿈을 깨시오. 저를 위하여 사는 사람이 되시오. 자유를 얻읍시오!</said>” 하는 <persName ref="#KBU">여학생</persName>의 얼굴에는 아주 엄숙한 빛이 보인다.</p>
         <p>“<said who="#PYC" direct="true" aloud="true">그러면 저는 어떻게 해요?</said>” 하는 <persName ref="#PYC">영채</persName>의 사상은 자못 혼란하게 되었다. <persName ref="#PYC">영채</persName>는 자연히 그 <persName ref="#KBU">여학생</persName>의 손에 자기의 운명을 맡기게 된 것 같다. <persName ref="#KBU">여학생</persName>의 입으로서 나오는 말대로 자기의 일생이 결정될 것 같다. 그래서 <persName ref="#PYC">영채</persName>는 <persName ref="#KBU">여학생</persName>의 눈과 입을 바라본다. <persName ref="#KBU">여학생</persName>은,</p>
-        <p>“<said who="#KBU" direct="true" aloud="true">여자도 사람이지요. 사람일진대 사람의 직분이 많겠지요. 딸이 되고, 아내가 되고, 어머니가 되는 것도 여자의 직분이지요. 또 혹은 종교로, 혹은 과학으로, 혹은 예술로, 혹은 사회나 국가에 대한 일로 인생의 직분을 다할 길이 많겠지요. 그런데 고래로 우리나라에서는 남의 아내 되는 것만으로 여자의 직분을 삼았고 남의 아내가 되는 것도 남의 뜻대로, 남의 말대로 되어 왔어요. 지금까지 여자는 남자의 한 부속품, 한 소유물에 지나지 못하였어요. <persName ref="#PYC">영채</persName> 씨는 부친의 소유물이다가 <persName ref="#LHS">이씨</persName>의 소유물이 되려 하였어요. 마치 어떤 물품이 이 사람의 손에서 저 사람의 손으로 옮겨 가는 모양으로…… 우리도 사람이 되어야 합니다. 여자도 되려니와 우선 사람이 되어야 합니다. <persName ref="#PYC">영채</persName> 씨께서 할 일이 많지요. <persName ref="#PYC">영채</persName> 씨는 결코 부친과 <persName ref="#LHS">이씨</persName>만을 위하여 난 사람이 아니외다. 과거 천만대 <placeName ref="#PL_JS">조선</placeName>과, 현재 십육억 동포와, 미래 천만대 자손을 위하여 나신 것이야요. 그러니깐 부친께 대한 의무 외에, <persName ref="#LHS">이씨</persName>께 대한 의무 외에도 조상께, 동포에게, 자손에게 대한 의무가 있어요. 그런데 <persName ref="#PYC">영채</persName> 씨가 그 의무를 다하지 아니하고 죽으려 하는 것은 죄외다.</said>”</p>
+        <p>“<said who="#KBU" direct="true" aloud="true">여자도 사람이지요. 사람일진대 사람의 직분이 많겠지요. 딸이 되고, 아내가 되고, 어머니가 되는 것도 여자의 직분이지요. 또 혹은 종교로, 혹은 과학으로, 혹은 예술로, 혹은 사회나 국가에 대한 일로 인생의 직분을 다할 길이 많겠지요. 그런데 고래로 우리나라에서는 남의 아내 되는 것만으로 여자의 직분을 삼았고 남의 아내가 되는 것도 남의 뜻대로, 남의 말대로 되어 왔어요. 지금까지 여자는 남자의 한 부속품, 한 소유물에 지나지 못하였어요. <persName ref="#PYC">영채</persName> 씨는 부친의 소유물이다가 <persName ref="#LHS">이씨</persName>의 소유물이 되려 하였어요. 마치 어떤 물품이 이 사람의 손에서 저 사람의 손으로 옮겨 가는 모양으로…… 우리도 사람이 되어야 합니다. 여자도 되려니와 우선 사람이 되어야 합니다. <persName ref="#PYC">영채</persName> 씨께서 할 일이 많지요. <persName ref="#PYC">영채</persName> 씨는 결코 부친과 <persName ref="#LHS">이씨</persName>만을 위하여 난 사람이 아니외다. 과거 천만대 <placeName ref="#PL_JS">조선</placeName>과, 현재 십육억 동포와, 미래 천만대 자손을 위하여 나신 것이야요. 그러니깐 부친께 대한 의무 외에, <persName ref="#LHS">이씨</persName>께 대한 의무 외에도 조상께, 동포에게, 자손에게 대한 의무가 <sic>있어]요</sic>. 그런데 <persName ref="#PYC">영채</persName> 씨가 그 의무를 다하지 아니하고 죽으려 하는 것은 죄외다.</said>”</p>
         <p>“<said who="#PYC" direct="true" aloud="true">그러면 어떻게 해요?</said>”</p>
         <p>
           <persName ref="#KBU">여학생</persName>은 웃고,</p>
