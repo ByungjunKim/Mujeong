@@ -985,6 +985,7 @@
           <person xml:id="TOUBU" cert="medium">
             <persName type="main">두부 장수</persName>
             <note type="source-ids">구간 원 ID: 21-30:TOUBU</note>
+            <note type="editorial">사용자 지정에 따라 28장과 78장의 두부 장수를 동일 인물로 처리함. 78장 기존 ID: S78_TOFU_VENDOR.</note>
           </person>
           <personGrp xml:id="YC_BROTHERS_2" cert="medium">
             <persName type="main">YC-BROTHERS</persName>
@@ -1108,10 +1109,6 @@
             <persName type="main">「계월향!」이라고 외치는 학생</persName>
             <note type="editorial">71장. 다른 익명 학생 발화자와 동일 인물인지는 알 수 없음.</note>
           </person>
-          <person xml:id="S78_TOFU_VENDOR">
-            <persName type="main">두부 장수</persName>
-            <note type="editorial">78장 「두부나 비지드렁」의 발화자. 다른 장의 두부 장수와 동일 인물인지는 알 수 없음.</note>
-          </person>
           <personGrp xml:id="S78_SHOP_PEOPLE">
             <persName type="main">가게에 앉았던 사람들</persName>
             <note type="editorial">78장 「이제는 서늘한 밤이 온다」의 생각 주체.</note>
@@ -1156,6 +1153,7 @@
       <change when="2026-11-10" who="#merge">최종 점검: tei_all(TEI P5 4.12.0) 검증 통과(61–70 object 구조 수정). 헤더에 작가·작품 식별자(ISNI · Wikidata · 민백), 위키문헌 하위 문서 주소, 장르 분류를 넣고, 각 장 div에 저본 주소(@source)를 적음. 구간별 태깅·검수 담당자 이름을 respStmt에 적음.</change>
       <change when="2026-11-12" who="#merge">v1: 수강생이 v0에 직접 고친 내용(헤더 식별자, 51–60 장 구분, 71–80 · 101–110 수정 등)을 이어받고, 11주차 회의 결정을 반영함. 김장로 ID KJH → KGH, 박진사 · 박응진 · 영채의 아버지를 PJS로, 1–10 · 11–20의 악한을 AKHAN으로 합침. 서술자 '나', 개, 작품 밖 인물은 등록하지 않고 본문 태그를 벗김. @toWhom · @ana를 지움. 본문 글자는 바꾸지 않음.</change>
       <change when="2026-11-13">위키문헌 저본의 장 구분과 각 장 첫 문단을 대조하여 11–20·111–120장의 part 2개를 chapter 20개로 나누고 각 장 번호(n)와 제목(head)을 추가함. 본문 문단과 기존 태그·속성은 유지하고, 111–120장의 장 구분 복원 필요 메모를 삭제함.</change>
+      <change when="2026-11-19">사용자 지정에 따라 78장의 두부 장수를 28장의 TOUBU로 통합함. 인물 지칭과 발화자의 참조를 #TOUBU로 통일하고 별도 인물 항목 S78_TOFU_VENDOR를 삭제함.</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
@@ -4193,7 +4191,7 @@
       </div>
       <div type="chapter" n="78" resp="#enc71-80" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/61%EC%9E%A5~80%EC%9E%A5">
         <head>78장</head>
-        <p>해가 <placeName ref="#PL_INW">인왕산</placeName> 마루턱에 걸렸다. <placeName ref="#PL_JONG">종로</placeName> 전선대 그림자가 길게 가로누웠다. <placeName ref="#PL_JHJ">종현 천주당</placeName> 뾰족탑의 유리창이 석양을 반사하여 불길같이 번적거린다. <rs type="occupation">두부 장수</rs>의 “<said who="#S78_TOFU_VENDOR" direct="true" aloud="true">두부나 비지드렁</said>” 하는 소리도 이제는 아니 들리게 되고 집집에는 앞뒷문을 활짝 열어 놓고 한 손으로 땀을 씻어 가며 저녁밥을 먹는다. <placeName ref="#PL_BUK">북악</placeName>의 황토가 가로쏘는 햇볕을 받아 빨간빛을 발하고 <placeName ref="#PL_GBG">경복궁</placeName> 어원 늙은 나무 수풀에서는 저녁 까치 소리가 시끄럽게 들린다.</p>
+        <p>해가 <placeName ref="#PL_INW">인왕산</placeName> 마루턱에 걸렸다. <placeName ref="#PL_JONG">종로</placeName> 전선대 그림자가 길게 가로누웠다. <placeName ref="#PL_JHJ">종현 천주당</placeName> 뾰족탑의 유리창이 석양을 반사하여 불길같이 번적거린다. <rs type="person" ref="#TOUBU">두부 장수</rs>의 “<said who="#TOUBU" direct="true" aloud="true">두부나 비지드렁</said>” 하는 소리도 이제는 아니 들리게 되고 집집에는 앞뒷문을 활짝 열어 놓고 한 손으로 땀을 씻어 가며 저녁밥을 먹는다. <placeName ref="#PL_BUK">북악</placeName>의 황토가 가로쏘는 햇볕을 받아 빨간빛을 발하고 <placeName ref="#PL_GBG">경복궁</placeName> 어원 늙은 나무 수풀에서는 저녁 까치 소리가 시끄럽게 들린다.</p>
         <p>종일 빨갛게 달았던 기왓장이 <placeName ref="#PL_HAN">한강</placeName>으로 불어 들어오는 부드러운 바람을 받아 뜨거운 입김을 후끈후끈하게 토한다. 길 가는 사람들의 얼굴은 모두 벌겋게 되었다.</p>
         <p>가게에 앉았던 사람들은 ‘<said who="#S78_SHOP_PEOPLE" direct="true" aloud="false">이제는 서늘한 밤이 온다</said>’ 하는 듯이 피곤한 얼굴에 땀을 씻으면서 행길에 나서 거닌다.</p>
         <p>
