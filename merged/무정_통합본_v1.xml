@@ -2448,9 +2448,7 @@
           <rs type="person" ref="#PYC">저</rs>도 글을 좀 배웠습니다.
           그래서 그 돈으로 <rs type="person" ref="#PJS">아버지</rs>를 구원하려 합니다</said>”
           하고 <persName ref="#PYC">영채</persName>는 알 수 없는 기쁨과 일종의 자랑을 감각하였다.
-          <rs type="person" ref="#KUR">그 사람</rs>은 <persName ref="#PYC">영채</persName>의 등을 만지며, “<said who="#KUR" direct="true" aloud="true">참 기특하다.
-          효녀로다.
-          그러면 <rs type="person" ref="#PYC">네</rs> 뜻대로 주선하여 주마</said>” 하였다.
+          <rs type="person" ref="#KUR">그 사람</rs>은 <persName ref="#PYC">영채</persName>의 등을 만지며, “<said who="#KUR" direct="true" aloud="true">참 기특하다. 효녀로다. 그러면 <rs type="person" ref="#PYC">네</rs> 뜻대로 주선하여 주마</said>” 하였다.
         </p>
         <p>이리하여 <persName ref="#PYC">영채</persName>는 기생이 된 것이라.
           <persName ref="#PYC">영채</persName>는 결코 기생이 되고 싶어서 된 것이 아니요, 행여나 늙으신 <rs type="person" ref="#PJS">부친</rs>을 구원할까 하고 기생이 된 것이라.
@@ -2461,12 +2459,10 @@
         <p>그렇건마는 이 줄을 누가 알아주랴.
           하늘과 신명은 알건마는 화식 먹는 사람이야 이 줄을 누가 알아주랴.
           <rs type="person" ref="#PYC">내</rs>가 이제 이런 말을 한들 <persName ref="#LHS">형식</persName>이가 이 말을 믿어 주랴.
-          아마도 네가 행실이 부정하여 창기의 몸이 되었거늘, 이제 와서 점점 낫살이 많아 가고 창기생활에 염증이 나므로 네가 나를 속임이로다, 하고 도리어 <rs type="person" ref="#PYC">나</rs>를 비웃지 아니할까.
+          <said who="#LHS" aloud="false" direct="true">아마도 네가 행실이 부정하여 창기의 몸이 되었거늘, 이제 와서 점점 낫살이 많아 가고 창기생활에 염증이 나므로 네가 나를 속임이로다</said>, 하고 도리어 <rs type="person" ref="#PYC">나</rs>를 비웃지 아니할까.
           <rs type="person" ref="#PYC">내</rs>가 기생이 된 지 <measure type="count" quantity="3" unit="달">이삼 삭</measure> 후에 <placeName ref="#PL_PYONGYANG_PRISON">감옥</placeName>에 <rs type="person" ref="#PJS">아버지</rs>를 찾았더니,
           <rs type="person" ref="#PJS">아버지</rs>께서 <rs type="person" ref="#PYC">내</rs>가 기생이 되었다는 말을 듣고 와락 성을 내어,
-          “<said who="#PJS" direct="true" aloud="true">이년아!
-          이 우리 빛난 가문을 더럽히는 년아!
-          어린 계집이 뉘 꼬임에 들어 벌써 몸을 더럽혔느냐!</said>”
+          “<said who="#PJS" direct="true" aloud="true">이년아! 이 우리 빛난 가문을 더럽히는 년아! 어린 계집이 뉘 꼬임에 들어 벌써 몸을 더럽혔느냐!</said>”
           하고 <rs type="person" ref="#PYC">내</rs>가 행실이 부정하여 기생이 된 줄로 알으시고 마침내 자살까지 하셨거든, <rs type="person" ref="#PJS">부모</rs>조차 이러하거든 하물며 <persName ref="#LHS">형식</persName>이야 어찌 <rs type="person" ref="#PYC">내</rs> 말을 신용을 하랴.
           <date>오늘 아침</date> <persName ref="#LHS">형식</persName>을 찾으려고 결심할 때에는 <persName ref="#LHS">형식</persName>에게 그 동안 지내 온 말을 다 하려 하였더니, 이러한 생각이 나매 그만 그러한 결심도 다 풀어지고, 슬픈 생각과 원망스러운 생각만 가슴에 북받쳐 오를 뿐이다.
           아아, 세상에는 다시 <rs type="person" ref="#PYC">내</rs> 진정을 들어 줄 곳이 없는가.
