@@ -2384,9 +2384,9 @@
           문에는 <persName ref="#KUR">김운룡</persName>(<foreign xml:lang="zh">金雲龍</foreign>)이라는 문패가 붙었다.
           <persName ref="#PYC">영채</persName>는 글씨를 잘 썼다 하고 생각하였다.
           안에 들어가니 마당과 방 안이 극히 정결하고, 어떤 어여쁜 젊은 <rs type="person" ref="#KUR_W">부인</rs>과 <rs type="person" ref="#KUR_SIS">처녀</rs> 하나가 있었다.
-          <persName ref="#PYC">영채</persName>는 혼자 생각에, <rs type="person" ref="#KUR_W">저 부인</rs>은 그 사람의 <rs type="person" ref="#KUR_W">부인</rs>, <rs type="person" ref="#KUR_SIS">저 처녀</rs>는 그 사람의 <rs type="person" ref="#KUR_SIS">누이</rs>라 하였다.
+          <persName ref="#PYC">영채</persName>는 혼자 생각에, <said who="#PYC" aloud="true" direct="false"><rs type="person" ref="#KUR_W">저 부인</rs>은 그 사람의 <rs type="person" ref="#KUR_W">부인</rs>, <rs type="person" ref="#KUR_SIS">저 처녀</rs>는 그 사람의 <rs type="person" ref="#KUR_SIS">누이</rs>라 하였다. 
           왜 어머니가 없는가.
-          그 사람의 어머니가 계실 듯한데, 아마 <rs type="person" ref="#YC_GM">우리 조모님</rs> 모양으로 늙어서 죽었나 보다 하였다.
+          그 사람의 어머니가 계실 듯한데, 아마 <rs type="person" ref="#YC_GM">우리 조모님</rs> 모양으로 늙어서 죽었나 보다</said> 하였다.
           모든 것이 <persName ref="#PYC">영채</persName>의 상상하던 바와 같으므로 <persName ref="#PYC">영채</persName>는 아주 마음을 놓았다.
           더구나 그 사람의 <rs type="person" ref="#KUR_SIS">누이</rs>인 듯한 <rs type="person" ref="#KUR_SIS">처녀</rs>가 있고 또 다른 남자가 없으니 더욱 좋다 하였다.
           그 <rs type="place" ref="#PL_KUR_HOUSE">집</rs> 식구들은 다 <persName ref="#PYC">영채</persName>를 사랑하였다.
