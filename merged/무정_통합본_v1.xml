@@ -2454,7 +2454,7 @@
           하늘과 신명은 알건마는 화식 먹는 사람이야 이 줄을 누가 알아주랴.
           <rs type="person" ref="#PYC">내</rs>가 이제 이런 말을 한들 <persName ref="#LHS">형식</persName>이가 이 말을 믿어 주랴.
           <said who="#LHS" aloud="false" direct="true">아마도 네가 행실이 부정하여 창기의 몸이 되었거늘, 이제 와서 점점 낫살이 많아 가고 창기생활에 염증이 나므로 네가 나를 속임이로다</said>, 하고 도리어 <rs type="person" ref="#PYC">나</rs>를 비웃지 아니할까.
-          <rs type="person" ref="#PYC">내</rs>가 기생이 된 지 <measure type="count" quantity="3" unit="달">이삼 삭</measure> 후에 <placeName ref="#PL_PYONGYANG_PRISON">감옥</placeName>에 <rs type="person" ref="#PJS">아버지</rs>를 찾았더니,
+          <rs type="person" ref="#PYC">내</rs>가 기생이 된 지 이삼 삭 후에 <placeName ref="#PL_PYONGYANG_PRISON">감옥</placeName>에 <rs type="person" ref="#PJS">아버지</rs>를 찾았더니,
           <rs type="person" ref="#PJS">아버지</rs>께서 <rs type="person" ref="#PYC">내</rs>가 기생이 되었다는 말을 듣고 와락 성을 내어,
           “<said who="#PJS" direct="true" aloud="true">이년아! 이 우리 빛난 가문을 더럽히는 년아! 어린 계집이 뉘 꼬임에 들어 벌써 몸을 더럽혔느냐!</said>”
           하고 <rs type="person" ref="#PYC">내</rs>가 행실이 부정하여 기생이 된 줄로 알으시고 마침내 자살까지 하셨거든, <rs type="person" ref="#PJS">부모</rs>조차 이러하거든 하물며 <persName ref="#LHS">형식</persName>이야 어찌 <rs type="person" ref="#PYC">내</rs> 말을 신용을 하랴.
@@ -5295,7 +5295,7 @@
           <persName ref="#PYC">영채</persName>에게 정성껏 사죄를 하리라 하였다.
         </p>
         <p><persName ref="#PYC">영채</persName>와 선형은(병욱은) 놀라서 일어선다.
-          <rs type="person" ref="#PYC #KBU">두 사람</rs>을(<rs type="person" ref="#PYC #KBU">사람</rs>은) 일시에 고개를 숙였다.
+          <rs type="person" ref="#PYC #KBU">두 사람</rs>을(사람은) 일시에 고개를 숙였다.
           그러나 <persName ref="#PYC">영채</persName>는 얼른 고개를 돌렸다.
           <persName ref="#LHS">형식</persName>은 고개를 숙였다.
           <persName ref="#KBU">병욱</persName>이가 오직 고개를 들고 <persName ref="#LHS">형식</persName>에게,
@@ -5311,7 +5311,7 @@
           입에 가득한 뜨거운 피를 <rs type="person" ref="#LHS">자기</rs>에게다가 확 뿌리며 “<said who="#PYC" aloud="false" direct="true">이 무정한 놈아, 영원히 저주를 받아라</said>”
           하고 달겨들 것 같다.
           왜 그때에 <placeName ref="#PL_PY">평양</placeName> 갔던 길에 더 수탐을 하여 보지 아니하였던가.
-          왜 그때 <persName ref="#SWS">우선</persName>에게서 돈 <measure type="currency" unit="원" quantity="5">오 원</measure>을 꾸어 가지고 즉시 <placeName ref="#PL_PY">평양</placeName>으로 내려가지를 아니하였던가 하여도 본다.
+          왜 그때 <persName ref="#SWS">우선</persName>에게서 돈 오 원을 꾸어 가지고 즉시 <placeName ref="#PL_PY">평양</placeName>으로 내려가지를 아니하였던가 하여도 본다.
           이제 <persName ref="#PYC">영채</persName>가 고개를 돌리면 어찌하나.
           아니 왔더면 좋겠다 하여도 본다.
           이때에,
@@ -5322,11 +5322,9 @@
           <persName ref="#PYC">영채</persName>는 가만히 고개를 돌린다.
           그러나 <persName ref="#LHS">형식</persName>은 보지 아니한다.
         </p>
-        <p>“<said who="#LHS" aloud="true" direct="true"> <persName ref="#PYC">영채</persName> 씨, 용서해 줍시오.
-          무에라고 할 말씀이 없습니다……
-          <rs type="person" ref="#LHS">저</rs>는 <rs type="person" ref="#PJS">선생님</rs>께 대하여서나 <persName ref="#PYC">영채</persName> 씨께 대하여서나 큰 죄인이외다.
-          무슨 책망을 하시든지…….</said>”
-        </p>
+        <p>“<said who="#LHS" aloud="true" direct="true"> <persName ref="#PYC">영채</persName> 씨, 용서해 줍시오. 무에라고 할 말씀이 없습니다…… 
+          <rs type="person" ref="#LHS">저</rs>는 <rs type="person" ref="#PJS">선생님</rs>께 대하여서나 <persName ref="#PYC">영채</persName> 씨께 대하여서나 큰 죄인이외다. 무슨 책망을 하시든지…….</said>”
+        </p> 
         <p>“<said who="#PYC" aloud="true" direct="true">천만의 말씀이올시다. <rs type="person" ref="#PYC">제</rs>가 철없이 찾아가서 공연한 걱정을 끼쳤습니다. 또 죽지도 못하는 것을 죽는다고 해서 얼마나 노심을 하셨습니까</said>” 하고 고개를 숙인다.</p>
         <p>
           <persName ref="#KBU">병욱</persName>은 ‘<said who="#KBU" aloud="false" direct="true">이래서는 안 되겠다</said>’ 하고 속으로 생각한다.</p>
@@ -5346,8 +5344,7 @@
         <p>“<said who="#LHS" aloud="true" direct="true">그러면 <persName ref="#PYC">영채</persName> 씨가 <placeName ref="#PL_PY">평양</placeName> 가시는 길에?</said>”</p>
         <p>“<said who="#KBU" aloud="true" direct="true">녜</said>” 하고 만다.
           <persName ref="#LHS">형식</persName>은 더 알고 싶었다.
-          <persName ref="#PYC">영채</persName>가 어찌하여 죽을 결심을 풀었으며,
-          어찌하여 <placeName ref="#PL_L19">동경</placeName>으로 가게 된 것을 자세히 알고 싶었다.
+          <persName ref="#PYC">영채</persName>가 어찌하여 죽을 결심을 풀었으며, 어찌하여 <placeName ref="#PL_L19">동경</placeName>으로 가게 된 것을 자세히 알고 싶었다.
           그래서,
         </p>
         <p>“<said who="#LHS" aloud="true" direct="true">그래 어떻게 되었어요?</said>”</p>
@@ -5357,7 +5354,8 @@
           즐거운 인생을 하루라도 오래 살지 못하여 걱정인데 왜 구태 지레 죽으려느냐고 그랬지요.
           그러고 지금까지는 네가 천하 사람의 조롱을 받고, 학대를 받고……</said>”
           하고는 주저하는 듯이 <persName ref="#LHS">형식</persName>을 바라보다가
-          또 웃으면서, “<said who="#KBU" aloud="true" direct="true">또 일생에 생각하고 사모하던 사람에도 버림을 받았지마는……</said>”
+          또 웃으면서, 
+          “<said who="#KBU" aloud="true" direct="true">또 일생에 생각하고 사모하던 사람에도 버림을 받았지마는……</said>”
           이 말이 끝나기 전에 <persName ref="#LHS">형식</persName>의 가슴은 마치 바늘로 찌르는 것 같았다.
           <persName ref="#KBU">병욱</persName>은 <persName ref="#LHS">형식</persName>의 낯빛이 변하여짐을 보고 말을 끊었다가,
         </p>
@@ -5372,7 +5370,7 @@
           그래서 알 만한 집에도 가 물어 보고,
           또 <rs type="person" ref="#PJS">박선생</rs> 묘소에도……</said>”
           하다가, 중간에 돌아온 생각을 하매 문득 말을 그치고 고개를 숙인다.
-          그때에 <placeName ref="#PL_BMS">북망산</placeName>까지 가보고 <placeName ref="#PL_DAEDONG_RIVER">대동강</placeName>가로 다만 <measure type="duration" unit="hour" quantity="2">한두 시간</measure>이라도 시체를 찾아보았더면 좋을 뻔하였다 하는 생각이 난다.
+          그때에 <placeName ref="#PL_BMS">북망산</placeName>까지 가보고 <placeName ref="#PL_DAEDONG_RIVER">대동강</placeName>가로 다만 한두 시간이라도 시체를 찾아보았더면 좋을 뻔하였다 하는 생각이 난다.
           <persName ref="#KBU">병욱</persName>은 한참 듣더니,
         </p>
         <p>“<said who="#KBU" aloud="true" direct="true">녜, 아마 그리하셨겠지요. 그러면 시체를 찾으시느라고 꽤 애를 쓰셨겠네.</said>”</p>
@@ -5383,7 +5381,7 @@
           그러고 <persName ref="#LHS">형식</persName>에게 대하여 원통한 듯하던 마음이 얼마큼 풀린다.
           그러나 <persName ref="#LHS">형식</persName>이가 즉시 <rs type="person" ref="#LHS">자기</rs>의 뒤를 따라 <placeName ref="#PL_PY">평양</placeName>으로 내려온 것과,
           열심으로 <rs type="person" ref="#PYC">자기</rs>의 시체를 찾아 준 고마움도
-          <rs type="person" ref="#PYC">자기</rs>가 죽은 지 <measure type="duration" unit="month" quantity="1">한 달</measure>이 못 하여 <persName ref="#KSH">선형</persName>과 혼인을 하여 가지고 <placeName ref="#PL_AM">미국</placeName>으로 간다는 생각에 눌려 버리고 만다.
+          <rs type="person" ref="#PYC">자기</rs>가 죽은 지 한 달이 못 하여 <persName ref="#KSH">선형</persName>과 혼인을 하여 가지고 <placeName ref="#PL_AM">미국</placeName>으로 간다는 생각에 눌려 버리고 만다.
           <persName ref="#PYC">영채</persName>의 생각에는 <persName ref="#LHS">형식</persName> 한 사람이 정다운 애인도 되고 박정한 낭군도 되어 보인다.
           그러나 만사가 이미 다 지나갔으니 이제 와서 한탄하면 무엇 하고 분풀이를 하면 무엇 하랴.
           차라리 웃는 낯으로 <persName ref="#LHS">형식</persName>을 대하여 저편의 마음이나 기쁘게 하여 줌이 좋으리라 하는 생각도 난다.
@@ -5467,7 +5465,7 @@
         <p>“<said who="#LHS" aloud="true" direct="true">그러면 일생 혼인 말고 지내지…… 절에 가서 중이 되든지.</said>”</p>
         <p>
           <persName ref="#SWS">우선</persName>은 마침내 껄껄 웃으며,</p>
-        <p>“<said who="#SWS" aloud="true" direct="true">지금 <rs type="person" ref="#LHS">자네</rs>가 좀 노보세(<foreign xml:lang="ja">のぼせる</foreign>)했네.
+        <p>“<said who="#SWS" aloud="true" direct="true">지금 <rs type="person" ref="#LHS">자네</rs>가 좀 노보세(<foreign xml:lang="zh">上氣</foreign>)했네.
           참 <rs type="person" ref="#LHS">자네</rs>는 어린내일세.
           세상이 무엇인지를 모르네그려.
           행여 꿈에라도 그런 생각 내지 말고 어서 <placeName ref="#PL_AMERICA">미국</placeName>이나 가게.</said>”
@@ -5507,7 +5505,7 @@
           학교에서 우등한 것과 부자요 양반집 딸인 것밖에 아무것도 <persName ref="#KSH">선형</persName>에게 관하여 아는 것이 없다.
           <rs type="person" ref="#LHS">나</rs>는 아직도 약혼한 지금까지도 <persName ref="#KSH">선형</persName>의 성격을 알지 못한다.
           무론 <persName ref="#KSH">선형</persName>도 <rs type="person" ref="#LHS">자기</rs>의 성격을 알지 못한다.
-          서로 이해함이 없이 참사랑이 성립될 수 있을까.
+          서로 이해(<foreign xml:lang="zh">理解</foreign>)함이 없이 참사랑이 성립될 수 있을까.
           <rs type="person" ref="#LHS">내</rs> 영혼은 과연 <persName ref="#KSH">선형</persName>을 요구하고, <persName ref="#KSH">선형</persName>의 영혼은 과연 <rs type="person" ref="#LHS">나</rs>를 요구하는가.
           서로 만날 때에 영혼과 영혼이 마주 합하고, 마음과 마음이 마주 합하였는가.
         </p>
@@ -5519,11 +5517,11 @@
           다만 부모의 명령과 세상의 도덕에 눌려 하릴없이 <rs type="person" ref="#LHS">자기</rs>를 따라오는지도 모르겠다.
           무론 일찍 <persName ref="#KSH">선형</persName>이가 <rs type="person" ref="#KSH">자기</rs> 입으로 “<said who="#KSH" aloud="true" direct="true">녜</said>”
           하고 대답은 하였다.
-          그러나 그 대답이 과연 자각있게 나온 대답일까.
+          그러나 그 대답이 과연 자각(<foreign xml:lang="zh">自覺</foreign>)있게 나온 대답일까.
         </p>
         <p>그러면 <rs type="person" ref="#LHS">자기</rs>가 <persName ref="#KSH">선형</persName>에게 대한 사랑은,
           즉 항용 사나이들이 고운 기생 같은 여성의 색에 취하여 하는 사랑과 다름이 있을까.
-          <rs type="person" ref="#LHS">자기</rs>의 사랑은 과연 문명의 세례를 받은 전인격적 사랑이라고 할 수 있을까.
+          <rs type="person" ref="#LHS">자기</rs>의 사랑은 과연 문명의 세례를 받은 전인격적(<foreign xml:lang="zh">全人格的</foreign>) 사랑이라고 할 수 있을까.
         </p>
       </div>
       <div type="chapter" n="115" resp="#enc111-120" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/101%EC%9E%A5~120%EC%9E%A5">
@@ -5578,7 +5576,7 @@
         <p><said who="#LHS" aloud="false" direct="true"> <rs type="person" ref="#LHS">나</rs>는 <persName ref="#KSH">선형</persName>을 어리고 자각 없는 <rs type="person" ref="#KSH">어린애</rs>라 하였다.
           그러나 이제 보니 <persName ref="#KSH">선형</persName>이나 <rs type="person" ref="#LHS">자기</rs>나 다 같은 <rs type="person" ref="#LHS #KSH">어린애</rs>다.
           조상 적부터 전하여 오는 사상(<foreign xml:lang="zh">思想</foreign>)의 전통(<foreign xml:lang="zh">傳統</foreign>)은 다 잃어버리고
-          혼돈한 외국 사상 속에서 아직 <rs type="person" ref="#LHS #KSH">자기네</rs>에게 적당하다고 생각하는 바를 택할 줄 몰라서 어쩔 줄을 모르고 방황하는 <rs type="person" ref="#LHS #KSH">오라비와 누이</rs>,
+          혼돈한 외국 사상 속에서 아직 <rs type="person" ref="#LHS #KSH">자기네</rs>에게 적당하다고 생각하는 바를 택할 줄 몰라서 어쩔 줄을 모르고 방황하는 오라비와 누이,
           생활의 표준도 서지 못하고 민족의 이상도 서지 못한,
           세상에 인도하는 자도 없이 내어던짐이 된 <rs type="person" ref="#LHS #KSH">오라비와 누이</rs>――이것이 <rs type="person" ref="#LHS">자기</rs>와 <persName ref="#KSH">선형</persName>의 모양인 듯하였다.</said>
         </p>
@@ -5586,8 +5584,8 @@
           <persName ref="#LHS">형식</persName>은 참지 못하여 무릎 위에 힘없이 놓인 <persName ref="#KSH">선형</persName>의 손에 입을 대었다.
           <persName ref="#LHS">형식</persName>의 생각에 <persName ref="#KSH">선형</persName>은 <rs type="person" ref="#LHS">자기</rs>의 아내라기보다 같이 손을 끌고 길을 찾아가는 부모 잃은 누이라는 생각이 난다.
         </p>
-        <p>옳다, 그러므로 <rs type="person" ref="#LHS #KSH">우리들</rs>은 배우러 간다.
-          <rs type="person" ref="#KSH">네</rs>나 <rs type="person" ref="#LHS">내</rs>나 다 <rs type="person" ref="#LHS #KSH">어린애</rs>이므로 멀리멀리 문명한 나라로 배우러 간다.
+        <p>옳다, 그러므로 우리들은 배우러 간다.
+          <rs type="person" ref="#KSH">네</rs>나 <rs type="person" ref="#LHS">내</rs>나 다 어린애이므로 멀리멀리 문명한 나라로 배우러 간다.
           <persName ref="#LHS">형식</persName>은 저편 차에 있는 <persName ref="#PYC">영채</persName>와 <persName ref="#KBU">병욱</persName>을 생각한다.
           ‘<said who="#LHS" aloud="false" direct="true">불쌍한 <rs type="person" ref="#PYC #KBU">처녀들</rs>!</said>’ 한다.
         </p>
