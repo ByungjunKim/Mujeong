@@ -2417,11 +2417,12 @@
           <persName ref="#PYC">영채</persName>는 <rs type="person" ref="#PYC">제</rs>가 입은 곱고 따뜻한 의복을 볼 때마다, 아침 저녁 먹는 맛나는 음식을 볼 때마다 <rs type="person" ref="#PJS">아버지</rs>의 가엾은 모양이 눈에 보인다.
           <persName ref="#PYC">영채</persName>는 점점 쾌활한 빛이 없어지고 음식도 잘 먹지 아니하고 가끔 혼자 앉아서 울기도 하였다.
           <rs type="person" ref="#KUR_W">부인</rs>과 <rs type="person" ref="#KUR_SIS">그 처녀</rs>는 여전히 다정하게 위로하여 주건마는 그 위로를 받는 것도 잠시 몇 날이요, <rs type="person" ref="#KUR_W">부인</rs>도 <rs type="person" ref="#KUR_SIS">처녀</rs>도 없는 데 혼자 앉았으면 자연히 눈물이 흐른다.
-          <persName ref="#PYC">영채</persName>는 어찌하여 <rs type="person" ref="#PJS">그 아버지</rs>와 <rs type="person" ref="#YC_BROTHERS">두 오라버니</rs>를 구원하지 못할까.
+          <persName ref="#PYC">영채</persName>는 <said who="#PYC" aloud="false" direct="true">
+          어찌하여 <rs type="person" ref="#PJS">그 아버지</rs>와 <rs type="person" ref="#YC_BROTHERS">두 오라버니</rs>를 구원하지 못할까.
           <rs type="place" ref="#PL_PYONGYANG_PRISON">옥</rs>에서 나오게 할 수가 없을까.
           아주 나오게는 하지 못하더라도 옷이라도 좀 깨끗이 입고 음식이나 맛나는 것을 잡수시도록 할 수가 없을까.
           들으니, <rs type="place" ref="#PL_PYONGYANG_PRISON">감옥</rs>에서는 콩 절반 쌀 절반 두고 지은 밥을 먹는다는데, <rs type="person" ref="#PJS">아버지</rs>께서 저렇게 수척하심도 나 많은 이가 음식이 부족하여 그러함이 아닌가.
-          옛날 책을 보면, 혹 <rs type="person" ref="#GIRL">어떤 처녀</rs>가 <rs type="person" ref="#GIRL">제</rs> 몸을 팔아서 죄에 빠진 부모를 구원하였다는데, <rs type="person" ref="#PYC">나</rs>도 그렇게나 하였으면……
+          옛날 책을 보면, 혹 <rs type="person" ref="#GIRL">어떤 처녀</rs>가 <rs type="person" ref="#GIRL">제</rs> 몸을 팔아서 죄에 빠진 부모를 구원하였다는데, <rs type="person" ref="#PYC">나</rs>도 그렇게나 하였으면……</said>
           이렇게 생각하고 <persName ref="#PYC">영채</persName>가 하루는 <rs type="person" ref="#KUR">그 사람</rs>에게 이 뜻을 고하였다.
           <rs type="person" ref="#KUR">그 사람</rs>은 <persName ref="#PYC">영채</persName>의 뜻을 칭찬하면서, “<said who="#KUR" direct="true" aloud="true">돈만 있으면 음식도 들일 수 있고, 혹 <rs type="place" ref="#PL_PYONGYANG_PRISON">옥</rs>에서 나오시게도 할 수 있건마는……</said>”
           하고 <persName ref="#PYC">영채</persName>의 얼굴을 보았다.
