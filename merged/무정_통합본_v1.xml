@@ -5615,60 +5615,42 @@
           <rs type="person" ref="#KSH">자기</rs>는 <persName ref="#LHS">형식</persName>에게 대하여 임시로 <persName ref="#PYC">영채</persName>의 대신을 하여 준 듯하다.
           이렇게 생각하매 더욱 불쾌하여진다.
         </p>
-        <p>‘<said who="#KSH" aloud="false" direct="true">옳지, <persName ref="#PYC">영채</persName>가 없으니깐 <rs type="person" ref="#KSH">나</rs>를 사랑하였지</said>’
-          하고 <persName ref="#KSH">선형</persName>은 얼굴을 찌푸린다.
-          ‘<said who="#KSH" aloud="false" direct="true">그러면 <rs type="person" ref="#KSH">나</rs>는 <persName ref="#LHS">이형식</persName>의 노리개가 되었던가</said>’
-          하고 한참 몸을 흔든다.
-          ‘<said who="#KSH" aloud="false" direct="true">옳지, 아마 <persName ref="#LHS">형식</persName>이가 <placeName ref="#PL_AM">미국</placeName> 유학에 탐을 내어서 <rs type="person" ref="#KSH">나</rs>와 약혼을 한 게다</said>’
-          하고 벌떡 일어선다.
-          ‘<said who="#KSH" aloud="false" direct="true">아아, <rs type="person" ref="#KSH">나</rs>는 남의 첩이 된 셈이로구나!</said>’
-          하고 주먹을 불끈 쥔다.
-          <persName ref="#LHS">형식</persName>을 정직한 사람으로 믿었던 것이 후회도 난다.
-          “<said who="#KSH" aloud="true" direct="true"> <rs type="person" ref="#LHS">나</rs>를 사랑하시오?</said>”
-          할 때에 “<said who="#LHS" aloud="true" direct="true">아니오, <rs type="person" ref="#KSH">나</rs>는 <rs type="person" ref="#LHS">당신</rs>을 조곰도 사랑하지 아니하오</said>”
-          하고 슬쩍 돌아서지 못한 것도 분하고,
-          <persName ref="#LHS">형식</persName>이가 손을 잡을 때에 순순히 잡힌 것도 분하고
-          모든 것이 다 분하여진다.
-          <persName ref="#KSH">선형</persName>은 다시 펄적 주저앉으며, ‘<said who="#KSH" aloud="false" direct="true">아아, <rs type="person" ref="#KSH">내</rs>가 그러한 사람을 따라 <placeName ref="#PL_AM">미국</placeName>을 가누나</said>’
-          하고, 방금 울음이 터질 듯이 코를 실룩실룩하기도 한다.
-        </p>
-        <p><persName ref="#LHS">형식</persName>이가 속으로 <rs type="person" ref="#LHS">자기</rs>와 <persName ref="#PYC">영채</persName>를 비교할 것을 생각해 본다.
-          <persName ref="#PYC">영채</persName>는 참 곱다.
-          그러고 영리하고 다정하게 생겼다.
-          <persName ref="#KSH">선형</persName>도 <rs type="person" ref="#KSH">자기</rs>가 친히 거울을 대하거나 남의 칭찬하는 말을 들어 <rs type="person" ref="#KSH">자기</rs>의 얼굴이 어여쁘고 태도가 얌전한 줄을 안다.
-          그 중에도 <rs type="person" ref="#KSH">자기</rs>의 맑은 눈이 여러 사람의 칭찬을 받는 줄을 안다.
-          그러므로 <persName ref="#KSH">선형</persName>은 <rs type="person" ref="#KSH">자기</rs>와 연치가 비슷한 여자를 볼 때에는 반드시 그 얼굴을 자세히 보고,
-          또 속으로 <rs type="person" ref="#KSH">자기</rs>의 얼굴과 비교해 보는 버릇이 있다.
-          아까도 <persName ref="#PYC">영채</persName>를 보고 곧 <rs type="person" ref="#KSH">자기</rs>의 얼굴과 비교해 보았다.
-          그때에 <persName ref="#KSH">선형</persName>은 매우 <persName ref="#PYC">영채</persName>를 곱게 보았다.
-          ‘<said who="#KSH" aloud="false" direct="true">친해 두고 싶은 사람이로군</said>’ 하였다.
-          그러나 알고 본즉, <rs type="person" ref="#PYC">그</rs>는 <placeName ref="#PL_DB">다방골</placeName> 기생이다.
+        <p>
+          ‘<said who="#KSH" aloud="false" direct="true">옳지, <persName ref="#PYC">영채</persName>가 없으니깐 <rs type="person" ref="#KSH">나</rs>를 사랑하였지</said>’ 하고 <persName ref="#KSH">선형</persName>은 얼굴을 찌푸린다.
+          ‘<said who="#KSH" aloud="false" direct="true">그러면 <rs type="person" ref="#KSH">나</rs>는 <persName ref="#LHS">이형식</persName>의 노리개가 되었던가</said>’하고 한참 몸을 흔든다.
+          ‘<said who="#KSH" aloud="false" direct="true">옳지, 아마 <persName ref="#LHS">형식</persName>이가 <placeName ref="#PL_AM">미국</placeName> 유학에 탐을 내어서 <rs type="person" ref="#KSH">나</rs>와 약혼을 한 게다</said>’하고 벌떡 일어선다.
+          ‘<said who="#KSH" aloud="false" direct="true">아아, <rs type="person" ref="#KSH">나</rs>는 남의 첩이 된 셈이로구나!</said>’하고 주먹을 불끈 쥔다. <persName ref="#LHS">형식</persName>을 정직한 사람으로 믿었던 것이 후회도 난다.
+          “<said who="#KSH" aloud="true" direct="true"> <rs type="person" ref="#LHS">나</rs>를 사랑하시오?</said>” 할 때에 “<said who="#LHS" aloud="true" direct="true">아니오, <rs type="person" ref="#KSH">나</rs>는 <rs type="person" ref="#LHS">당신</rs>을 조곰도 사랑하지 아니하오</said>”하고 슬쩍 돌아서지 못한 것도 분하고,<persName ref="#LHS">형식</persName>이가 손을 잡을 때에 순순히 잡힌 것도 분하고 모든 것이 다 분하여진다.
+        </p>  
+        <p>
+          <persName ref="#KSH">선형</persName>은 다시 펄적 주저앉으며, 
+          ‘<said who="#KSH" aloud="false" direct="true">아아, <rs type="person" ref="#KSH">내</rs>가 그러한 사람을 따라 <placeName ref="#PL_AM">미국</placeName>을 가누나</said>’하고, 방금 울음이 터질 듯이 코를 실룩실룩하기도 한다.</p> 
+        <p>
+          <persName ref="#LHS">형식</persName>이가 속으로 <rs type="person" ref="#LHS">자기</rs>와 <persName ref="#PYC">영채</persName>를 비교할 것을 생각해 본다.
+          <persName ref="#PYC">영채</persName>는 참 곱다. 그러고 영리하고 다정하게 생겼다.
+          <persName ref="#KSH">선형</persName>도 <rs type="person" ref="#KSH">자기</rs>가 친히 거울을 대하거나 남의 칭찬하는 말을 들어 <rs type="person" ref="#KSH">자기</rs>의 얼굴이 어여쁘고 태도가 얌전한 줄을 안다. 그 중에도 <rs type="person" ref="#KSH">자기</rs>의 맑은 눈이 여러 사람의 칭찬을 받는 줄을 안다. 그러므로 <persName ref="#KSH">선형</persName>은 <rs type="person" ref="#KSH">자기</rs>와 연치가 비슷한 여자를 볼 때에는 반드시 그 얼굴을 자세히 보고, 또 속으로 <rs type="person" ref="#KSH">자기</rs>의 얼굴과 비교해 보는 버릇이 있다.
+          아까도 <persName ref="#PYC">영채</persName>를 보고 곧 <rs type="person" ref="#KSH">자기</rs>의 얼굴과 비교해 보았다. 그때에 <persName ref="#KSH">선형</persName>은 매우 <persName ref="#PYC">영채</persName>를 곱게 보았다.‘<said who="#KSH" aloud="false" direct="true">친해 두고 싶은 사람이로군</said>’ 하였다. 그러나 알고 본즉, <rs type="person" ref="#PYC">그</rs>는 <placeName ref="#PL_DB">다방골</placeName> 기생이다.
           <persName ref="#LHS">형식</persName>이가 <rs type="person" ref="#KSH">자기</rs>의 얼굴과 더러운 기생의 얼굴을 비교할 것을 생각하매 더할 수 없이 괘씸하다.
           <persName ref="#PYC">영채</persName>의 얼굴이 비록 곱다 하더라도 그것은 기생의 얼굴이다.
-          <rs type="person" ref="#KSH">내</rs> 얼굴이 비록 <persName ref="#PYC">영채</persName>의 것만 못하다 하더라도 그것은 양반집 처녀의 얼굴이다.
-          어찌 감히 비기랴 한다.
+          <rs type="person" ref="#KSH">내</rs> 얼굴이 비록 <persName ref="#PYC">영채</persName>의 것만 못하다 하더라도 그것은 양반집 처녀의 얼굴이다. 어찌 감히 비기랴 한다.
         </p>
         <p><persName ref="#LHS">형식</persName>의 끈끈한 것을 보건대 당당한 여학생인 <rs type="person" ref="#KSH">자기</rs>보다도 아양을 떨고 간사를 부리는 <persName ref="#PYC">영채</persName>를 곱게 볼 것 같다.
           <persName ref="#PYC">영채</persName>가 무엇이냐, <placeName ref="#PL_DB">다방골</placeName> 기생이 아니냐, 하여 본다.
         </p>
         <p><persName ref="#LHS">형식</persName>이가 <persName ref="#PYC">계월향</persName>이라는 기생과 좋아하다가 <placeName ref="#PL_PY">평양</placeName>까지 따라갔다는 말을 들을 제 <persName ref="#LHS">형식</persName>을 조곰 의심하게 되고,
-          그 후 <persName ref="#LHS">형식</persName>이가 <rs type="person" ref="#KSH">자기</rs>더러 ‘<said who="#LHS" aloud="true" direct="true">나를 사랑하시오?</said>’
-          하고 염치없는 소리를 물으며,
-          나중에 <rs type="person" ref="#KSH">자기</rs>의 손을 잡을 때에 ‘<said who="#KSH" aloud="false" direct="true">과연 기생집에나 다니던 버릇이로다</said>’ 하였고,
-          지금 와서 <persName ref="#KSH">선형</persName>은 더욱 <persName ref="#LHS">형식</persName>을 더럽게 본다.
+          그 후 <persName ref="#LHS">형식</persName>이가 <rs type="person" ref="#KSH">자기</rs>더러 ‘<said who="#LHS" aloud="true" direct="true">나를 사랑하시오?</said>’하고 염치없는 소리를 물으며,
+          나중에 <rs type="person" ref="#KSH">자기</rs>의 손을 잡을 때에 ‘<said who="#KSH" aloud="false" direct="true">과연 기생집에나 다니던 버릇이로다</said>’ 하였고, 지금 와서 <persName ref="#KSH">선형</persName>은 더욱 <persName ref="#LHS">형식</persName>을 더럽게 본다.
           한참 악감정이 일어난 이 순간에는 <persName ref="#KSH">선형</persName>의 보기에 <persName ref="#LHS">형식</persName>은 모든 더러운 것, 악한 것을 다 갖춘 사람 같다.
         </p>
-        <p>‘<said who="#KSH" aloud="false" direct="true">아이 어찌해!</said>’
-          하고 화가 나는 듯이 <persName ref="#KSH">선형</persName>은 고개를 짤레짤레 흔든다.
-          <rs type="person" ref="#KSH">자기</rs>의 앞에, <persName ref="#LHS">형식</persName>의 빈자리에 허깨비 <persName ref="#LHS">형식</persName>을 그려 놓고, ‘<said who="#KSH" aloud="false" direct="true">엑, 나를 속였구나</said>’
-          하고 두어 번 눈을 흘겨 본다.
-          그러고는 또 한번 속에 불이 일어서 몸을 흔든다.
+        <p>
+          ‘<said who="#KSH" aloud="false" direct="true">아이 어찌해!</said>’하고 화가 나는 듯이 <persName ref="#KSH">선형</persName>은 고개를 짤레짤레 흔든다.
+          <rs type="person" ref="#KSH">자기</rs>의 앞에, <persName ref="#LHS">형식</persName>의 빈자리에 허깨비 <persName ref="#LHS">형식</persName>을 그려 놓고, 
+          ‘<said who="#KSH" aloud="false" direct="true">엑, 나를 속였구나</said>’하고 두어 번 눈을 흘겨 본다. 그러고는 또 한번 속에 불이 일어서 몸을 흔든다.
         </p>
-        <p><persName ref="#KSH">선형</persName>은 아직 사람을 미워하여 본 적이 없었다.
-          팔자 좋은 <persName ref="#KSH">선형</persName>은 미워하려도 미워할 사람이 없었다.
+        <p> 
+          <persName ref="#KSH">선형</persName>은 아직 사람을 미워하여 본 적이 없었다. 팔자 좋은 <persName ref="#KSH">선형</persName>은 미워하려도 미워할 사람이 없었다.
           <rs type="person" ref="#KSH">자기</rs>를 대하는 사람은 다 <rs type="person" ref="#KSH">자기</rs>를 귀여워해 주고 칭찬해 주었다.
-          학교에서 몇 번 선생을 미워하여 본 적은 있었으나 ‘<said who="#KSH" aloud="false" direct="true">아이구 미워……</said>’
-          하고 얼굴을 찡글도록 누구를 미워할 기회는 없었다.
+          학교에서 몇 번 선생을 미워하여 본 적은 있었으나 ‘<said who="#KSH" aloud="false" direct="true">아이구 미워……</said>’하고 얼굴을 찡글도록 누구를 미워할 기회는 없었다.
           <persName ref="#LHS">형식</persName>은 <persName ref="#KSH">선형</persName>에게 첫번 미움을 받는 사람이다.
         </p>
         <p><persName ref="#LHS">형식</persName>의 얼굴이 눈앞에 보인다.
@@ -5678,60 +5660,44 @@
         <p><persName ref="#LHS">형식</persName>은 지금 무엇을 하는가, <persName ref="#PYC">영채</persName>와 무슨 재미있는 이야기를 하는가, 하여 본다.
           쌍긋쌍긋 웃는 <persName ref="#PYC">영채</persName>가 보인다.
           그 하얗고 동그레한 얼굴이 요물스럽게 보인다.
-          ‘<said who="#KSH" aloud="false" direct="true">무엇이 고와, 그 얼굴이 고와!</said>’
-          하고 발을 한번 들었다 놓는다.
-          그러고 그 요물스러운 <persName ref="#PYC">영채</persName>가 고개를 갸웃갸웃하여 가며 (<persName ref="#LHS">형식</persName>을 호리는 것이 보인다.
-          그러면) <persName ref="#LHS">형식</persName>은 그 넓짓한 입을 헤벌리고 흥흥 하면서 징글징글한 웃음을 웃는다.
+          ‘<said who="#KSH" aloud="false" direct="true">무엇이 고와, 그 얼굴이 고와!</said>’하고 발을 한번 들었다 놓는다.
+          그러고 그 요물스러운 <persName ref="#PYC">영채</persName>가 고개를 갸웃갸웃하여 가며 
+          (<persName ref="#LHS">형식</persName>을 호리는 것이 보인다. 그러면) 
+          <persName ref="#LHS">형식</persName>은 그 넓짓한 입을 헤벌리고 흥흥 하면서 징글징글한 웃음을 웃는다.
         </p>
-        <p>‘<said who="#KSH" aloud="false" direct="true">아이그, 꼴보기 싫어!</said>’
-          하며 <persName ref="#KSH">선형</persName>은 두 손길을 펴서 이마에 댄다.
-          ‘<said who="#KSH" aloud="false" direct="true">왜 이 사람이 아직 아니 오누</said>’
-          하며 자리를 한번 옮아 앉는다.
-          ‘<said who="#KSH" aloud="false" direct="true">무슨 이야기가 이렇게 많아!</said>’
-          하매 차마 견딜 수가 없어서 한번 일어났다가 앉는다.
+        <p>‘<said who="#KSH" aloud="false" direct="true">아이그, 꼴보기 싫어!</said>’하며 <persName ref="#KSH">선형</persName>은 두 손길을 펴서 이마에 댄다.</p>
+        <p>‘<said who="#KSH" aloud="false" direct="true">왜 이 사람이 아직 아니 오누</said>’하며 자리를 한번 옮아 앉는다.</p>
+        <p>‘<said who="#KSH" aloud="false" direct="true">무슨 이야기가 이렇게 많아!</said>’하매 차마 견딜 수가 없어서 한번 일어났다가 앉는다.</p>
+        </p>
           <persName ref="#LHS">형식</persName>이가 돌아오거든 실컷 분풀이를 하고 싶다.
-          ‘<said who="#KSH" aloud="false" direct="true">너희들끼리 더럽게 잘 놀아라</said>’
-          하고 침을 탁 뱉고 달아나고도 싶다.
-          ‘<said who="#KSH" aloud="false" direct="true">아이쿠, 내 팔자야!</said>’
-          하고 함부로 몸을 흔든다.
-          한번 더 ‘<said who="#KSH" aloud="false" direct="true">어쩌면 좋아!</said>’
-          하고 푹 쓰러져 운다.
-        </p>
-        <p>
-          <persName ref="#KSH">선형</persName>도 계집애다. 질투와 울기를 이리하여 배웠다.</p>
+        <p>‘<said who="#KSH" aloud="false" direct="true">너희들끼리 더럽게 잘 놀아라</said>’하고 침을 탁 뱉고 달아나고도 싶다.</p>
+        <p>‘<said who="#KSH" aloud="false" direct="true">아이쿠, 내 팔자야!</said>’하고 함부로 몸을 흔든다.</p>
+        <p>한번 더‘<said who="#KSH" aloud="false" direct="true">어쩌면 좋아!</said>’하고 푹 쓰러져 운다.</p>
+        <p><persName ref="#KSH">선형</persName>도 계집애다. 질투와 울기를 이리하여 배웠다.</p>
       </div>
       <div type="chapter" n="117" resp="#enc111-120" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/101%EC%9E%A5~120%EC%9E%A5">
         <head>117장</head>
-        <p><persName ref="#LHS">형식</persName>이가 <persName ref="#PYC">영채</persName>한테 간 지가 <measure type="duration" unit="hour" atLeast="2" atMost="3">두 시간이나 세 시간이나</measure> 된 것 같다.
-          퍽도 오래 있는 것 같다.
-          오래 있는 것 같을수록 <persName ref="#KSH">선형</persName>의 마음이 더욱 산란하였다.
-        </p>
-        <p><persName ref="#KSH">선형</persName>은 지금까지 <persName ref="#LHS">형식</persName>에게 사랑을 받고 싶다 하는 생각은 별로 없었다.
+        <p><persName ref="#LHS">형식</persName>이가 <persName ref="#PYC">영채</persName>한테 간 지가 두 시간이나 세 시간이나 된 것 같다. 퍽도 오래 있는 것 같다. 오래 있는 것 같을수록 <persName ref="#KSH">선형</persName>의 마음이 더욱 산란하였다.</p>
+        <p>
+          <persName ref="#KSH">선형</persName>은 지금까지 <persName ref="#LHS">형식</persName>에게 사랑을 받고 싶다 하는 생각은 별로 없었다.
           <persName ref="#LHS">형식</persName>이가 퍽 <rs type="person" ref="#KSH">자기</rs>를 사랑하여 주니 <rs type="person" ref="#KSH">자기</rs>도 힘껏 <persName ref="#LHS">형식</persName>을 사랑하여 주어야 되겠다 하는 생각은 있었다.
-          아내 되어서는 지아비를 사랑하라 하였고, 부모께서는 <rs type="person" ref="#KSH">자기</rs>더러 <persName ref="#LHS">이형식</persName>의 아내가 되어라 하였으니
-          <rs type="person" ref="#KSH">자기</rs>는 불가불 <persName ref="#LHS">형식</persName>을 사랑하여야 한다는 생각은 있었다.
-          그러나 <persName ref="#LHS">형식</persName>이가 <rs type="person" ref="#KSH">자기</rs>더러 요구하는 그러한 사랑,
-          손을 잡고 허리를 안고 입을 맞추려 하는 사랑은 없었다.
+          아내 되어서는 지아비를 사랑하라 하였고, 부모께서는 <rs type="person" ref="#KSH">자기</rs>더러 <persName ref="#LHS">이형식</persName>의 아내가 되어라 하였으니 <rs type="person" ref="#KSH">자기</rs>는 불가불 <persName ref="#LHS">형식</persName>을 사랑하여야 한다는 생각은 있었다.
+          그러나 <persName ref="#LHS">형식</persName>이가 <rs type="person" ref="#KSH">자기</rs>더러 요구하는 그러한 사랑, 손을 잡고 허리를 안고 입을 맞추려 하는 사랑은 없었다.
           그러므로 만일 어떤 다른 여자가 <persName ref="#LHS">형식</persName>을 안아 준다 하면 <rs type="person" ref="#KSH">자기</rs>의 생각이 어떠할까 하는 것은 생각하여 본 적도 없었다.
         </p>
-        <p>그러므로 <persName ref="#KSH">선형</persName>은 지금 <rs type="person" ref="#KSH">자기</rs>가 가진 생각이 무엇인지를 잘 모른다.
+        <p>
+          그러므로 <persName ref="#KSH">선형</persName>은 지금 <rs type="person" ref="#KSH">자기</rs>가 가진 생각이 무엇인지를 잘 모른다.
           <persName ref="#KSH">선형</persName>도 시기라든지 질투라는 말은 안다.
           그러나 시기나 질투는 큰 죄악이라, <rs type="person" ref="#KSH">자기</rs>와 같은 예수도 잘 믿고 교육도 잘 받은 얌전한 아가씨의 가질 것은 아니라 한다.
         </p>
-        <p>조물은 각 사람에게 사람으로 배워야만 할 모든 것을 다 가르친다.
-          그리하되 사람들이 학교에서 하는 것과 같이 책이나 말로써 하지 아니하고 반드시 실험으로써 한다.
-          조물은 말할 줄을 모르고 오직 실행할 줄만 아니까 그러한가 보다.
-          <persName ref="#KSH">선형</persName>의 인생의 학과는 이제부터 차차 중등과에 들려 한다.
-          사랑을 배우고 질투를 배우고 분노하기와 미워하기와 슬퍼하기를 배우기 시작한다.
-          사람이란 죽는 날까지 이것을 배우는 것이니까 <persName ref="#KSH">선형</persName>이가 졸업하려면 아직 멀었다.
+        <p>조물은 각 사람에게 사람으로 배워야만 할 모든 것을 다 가르친다. 그리하되 사람들이 학교에서 하는 것과 같이 책이나 말로써 하지 아니하고 반드시 실험으로써 한다. 조물은 말할 줄을 모르고 오직 실행할 줄만 아니까 그러한가 보다.
+          <persName ref="#KSH">선형</persName>의 인생의 학과는 이제부터 차차 중등과에 들려 한다. 사랑을 배우고 질투를 배우고 분노하기와 미워하기와 슬퍼하기를 배우기 시작한다. 사람이란 죽는 날까지 이것을 배우는 것이니까 <persName ref="#KSH">선형</persName>이가 졸업하려면 아직 멀었다.
           이 점으로 보면 <persName ref="#PYC">영채</persName>나 <persName ref="#LHS">형식</persName>은 <persName ref="#KSH">선형</persName>보다 훨씬 상급생이다.
           그러고 <persName ref="#KBU">병욱</persName>은 사람들이 조물을 흉내내어, 또는 조물의 생각을 도적질하여 만들어 놓은 문학이라든지 예술이라든지에서 인생이라는 것을 퍽 많이 배웠다.
         </p>
-        <p>사람이란 이러한 과정을 많이 배우면 많이 배울수록 어른이 되어 간다.
-          즉 천진난만한 어린애의 아리따운 태도가 스러지고 꾀도 있고, 힘도 있고, 고집도 있고, 뜻도 있고, 거짓말도 곧잘 하거니와 옳은 말도 힘있게 하는
-          소위 어른이 되어 간다.
-          정신의 내용이 더욱 풍부하여지고 더욱 복잡하여진다.
-          일언이폐지하고 사람이 되는 것이라.
+        <p>사람이란 이러한 과정을 많이 배우면 많이 배울수록 어른이 되어 간다. 
+          즉 천진난만한 어린애의 아리따운 태도가 스러지고 꾀도 있고, 힘도 있고, 고집도 있고, 뜻도 있고, 거짓말도 곧잘 하거니와 옳은 말도 힘있게 하는 소위 어른이 되어 간다. 
+          정신의 내용이 더욱 풍부하여지고 더욱 복잡하여진다. 일언이폐지하고 사람이 되는 것이라.
         </p>
         <p>전에 말한 바와 같이 <persName ref="#KSH">선형</persName>은 아직 천진난만한, 엊그제 하늘에서 뚝 떨어진 어린애다.
           오늘에야 처음 사람의 맛을 보았다.
@@ -5744,14 +5710,10 @@
           아주 벗어나지는 못하더라도, 앓더라도 경하게 앓는다.
           그러므로 근년에 와서는 누구든지 <term type="disease">우두</term>를 놓으며 그래서 별로 곰보를 보지 못하게 되었다.
         </p>
-        <p>정신에도 <term type="disease">마마</term>가 있으니까 정신에도 <term type="disease">천연두</term>가 있을 것이다.
-          사랑이라든지 질투라든지 실망, 낙담, 슬픔, 궤휼, 간사, 흉악, 음란, 행복, 기쁨, 성공 등 인생의 만만 현상은 다 일종 정신적 <term type="disease">마마</term>라.
-          소위 약은 부모들은 사랑하는 자녀의 괴로워하는 양을 차마 보지 못하여 아무쪼록 그네로 하여금 일생에 이 <term type="disease">마마</term>를 겪지 않도록 하려 하나
-          그것은 사람의 힘으로는 막지 못할 것이다.
-          야매한 사람들이 <term type="disease">마마</term>에 귀신이 있는 줄로 믿는 것은 잘못이어니와 이 정신적 <term type="disease">마마</term>야말로 귀신이 있어서,
-          지키는 부모 몰래 그네의 사랑하는 자녀의 정신 속에 숨어 들어가는 것이라.
-          그러므로 자녀에게 인생의 모든 무섭고 더러운 방면을 감추려 함은
-          마치 공기 중에는 여러 가지 <term type="disease">독균</term>이 있다 하여 자녀들을 방 안에 가두어 두는 것과 같다.
+        <p>정신에도 <term type="disease">마마</term>가 있으니까 정신에도 <term type="disease">천연두</term>가 있을 것이다. 사랑이라든지 질투라든지 실망, 낙담, 슬픔, 궤휼, 간사, 흉악, 음란, 행복, 기쁨, 성공 등 인생의 만만 현상은 다 일종 정신적 <term type="disease">마마</term>라.
+          소위 약은 부모들은 사랑하는 자녀의 괴로워하는 양을 차마 보지 못하여 아무쪼록 그네로 하여금 일생에 이 <term type="disease">마마</term>를 겪지 않도록 하려 하나 그것은 사람의 힘으로는 막지 못할 것이다.
+          야매한 사람들이 <term type="disease">마마</term>에 귀신이 있는 줄로 믿는 것은 잘못이어니와 이 정신적 <term type="disease">마마</term>야말로 귀신이 있어서, 지키는 부모 몰래 그네의 사랑하는 자녀의 정신 속에 숨어 들어가는 것이라.
+          그러므로 자녀에게 인생의 모든 무섭고 더러운 방면을 감추려 함은 마치 공기 중에는 여러 가지 <term type="disease">독균</term>이 있다 하여 자녀들을 방 안에 가두어 두는 것과 같다.
           그리하여 바깥 <term type="disease">독균</term> 많은 공기에 익지 못한 자녀의 내장은 <term type="disease">독균</term>이 들어가자마자 곧 열이 나고 설사가 나서 죽어 버린다.
           그러나 평생에 바깥 공기에 익어서, 내장에 <term type="disease">독균</term>을 대항할 만한 힘을 기르면 여간한 <term type="disease">독균</term>이 들어오더라도 무섭지를 아니하다.
           한번 <term type="medical">우두</term>로 앓은 사람은 <term type="disease">천연두균</term>을 저항하는 힘이 있는 것과 같다.
@@ -5762,11 +5724,9 @@
           그런데 지금 <term type="emotion">질투</term>라는 <term type="disease">독균</term>이 들어갔다.
           <term type="emotion">사랑</term>이라는 <term type="disease">독균</term>이 들어갔다.
           <rs type="person" ref="#KSH">그</rs>는 지금 어찌할 줄을 모른다.
-          <rs type="person" ref="#KSH">그</rs>가 만일 종교나 문학에서 인생이라는 것을 대강 배워 <term type="emotion">사랑</term>이 무엇이며 <term type="emotion">질투</term>가 무엇인지를 알았던들 이 경우에 있어서
-          어떻게 하여야 할 것을 분명히 알았을 것이언마는 <persName ref="#KSH">선형</persName>은 처음 이렇게 무서운 변을 당하였다.
+          <rs type="person" ref="#KSH">그</rs>가 만일 종교나 문학에서 인생이라는 것을 대강 배워 <term type="emotion">사랑</term>이 무엇이며 <term type="emotion">질투</term>가 무엇인지를 알았던들 이 경우에 있어서 어떻게 하여야 할 것을 분명히 알았을 것이언마는 <persName ref="#KSH">선형</persName>은 처음 이렇게 무서운 변을 당하였다.
         </p>
-        <p><persName ref="#KSH">선형</persName>은 얼마 울다가 고개를 번쩍 들었다.
-          그러고 지금 지나간 <rs type="person" ref="#KSH">자기</rs>의 <term type="concept">심리</term>(<foreign xml:lang="zh">心理</foreign>)를 돌아보고 깜짝 놀라며 진저리를 쳤다.
+        <p><persName ref="#KSH">선형</persName>은 얼마 울다가 고개를 번쩍 들었다. 그러고 지금 지나간 <rs type="person" ref="#KSH">자기</rs>의 <term type="concept">심리</term>(<foreign xml:lang="zh">心理</foreign>)를 돌아보고 깜짝 놀라며 진저리를 쳤다.
           <persName ref="#KSH">선형</persName>의 눈은 둥글어진다.
         </p>
         <p>‘<said who="#KSH" aloud="false" direct="true">내가 어찌 되었는가</said>’
@@ -5782,10 +5742,10 @@
         <head>118장</head>
         <p><persName ref="#KSH">선형</persName>은 몹시 무서운 생각이 난다.
           <rs type="person" ref="#KSH">자기</rs>의 내장이 온통 빠지직 타는 듯하고 코로는 시커먼 불길이 활활 나오는 듯하다.
-          씨걸씨걸 하는 <rs type="person" ref="#KSH">자기</rs>의 숨소리가 마치 <rs type="person" ref="#KSH">자기</rs>의 곁에 어떤 커다란 <term type="being">마귀</term>가 와 서서 후후 찬 입김을 불어 주는 것 같다.
-          <rs type="person" ref="#KSH">자기</rs>의 몸이 마치 성경을 배울 때에 상상하던 컴컴한 <term type="place">지옥</term> 속으로 둥둥 떠 들어가는 것 같다.
+          씨걸씨걸 하는 <rs type="person" ref="#KSH">자기</rs>의 숨소리가 마치 <rs type="person" ref="#KSH">자기</rs>의 곁에 어떤 커다란 마귀가 와 서서 후후 찬 입김을 불어 주는 것 같다.
+          <rs type="person" ref="#KSH">자기</rs>의 몸이 마치 성경을 배울 때에 상상하던 컴컴한 지옥 속으로 둥둥 떠 들어가는 것 같다.
           <persName ref="#KSH">선형</persName>은 흑 하고 진저리를 치며 차실 내에 여기저기 앉아 조는 사람들을 돌아본다.
-          그 사람들도 모두 다 무서운 <term type="being">마귀</term>가 된 것 같다.
+          그 사람들도 모두 다 무서운 마귀가 된 것 같다.
           그 사람의 얼굴들이 금시에 눈을 뚝 부릅뜨고 <rs type="person" ref="#KSH">자기</rs>를 향하고 달려들 것 같다.
         </p>
         <p>‘<said who="#KSH" aloud="false" direct="true">아이구 무서워!</said>’
@@ -5793,33 +5753,25 @@
           얼굴을 가리면 <persName ref="#PYC">영채</persName>와 <persName ref="#LHS">형식</persName>의 모양이 또 보인다.
           <rs type="person" ref="#PYC #LHS">둘</rs>이 꼭 쓸어안고 뺨을 마주대고서 비웃는 얼굴로 <rs type="person" ref="#KSH">자기</rs>를 보는 것 같기도 하고
           <rs type="person" ref="#KSH">자기</rs>가 그 곁에 섰다가 퇴 하고 침을 뱉으면
-          <persName ref="#PYC">영채</persName>와 <persName ref="#LHS">형식</persName>이가 갑자기 무서운 <term type="being">마귀</term>가 되어서 ‘<said who="#PYC #LHS" aloud="false" direct="true">응</said>’
-          하고 <rs type="person" ref="#KSH">자기</rs>를 물어뜯는 것 같기도 하다.
-          <persName ref="#KSH">선형</persName>은 ‘<said who="#KSH" aloud="false" direct="true">아이그 어머니!</said>’
-          하고 푹 쓰러졌다.
+          <persName ref="#PYC">영채</persName>와 <persName ref="#LHS">형식</persName>이가 갑자기 무서운 마귀가 되어서 ‘<said who="#PYC #LHS" aloud="false" direct="true">응</said>’하고 <rs type="person" ref="#KSH">자기</rs>를 물어뜯는 것 같기도 하다.
+          <persName ref="#KSH">선형</persName>은 ‘<said who="#KSH" aloud="false" direct="true">아이그 어머니!</said>’하고 푹 쓰러졌다.
           <persName ref="#KSH">선형</persName>의 몸은 알 수 없는 무서움으로 들들 떨린다.
           <persName ref="#KSH">선형</persName>은 얼른 하느님 생각을 하고 기도를 하려 하였다.
           그러나 ‘<said who="#KSH" aloud="false" direct="true">하느님, 하느님</said>’ 할 따름이요, 다른 말이 나오지 아니하였다.
-          그래서 몇 번 하느님을 찾다가 무슨 뜻인지도 모르고 ‘<said who="#KSH" aloud="false" direct="true">이 죄인의 죄를 용서하여 주시옵소서</said>’
-          하고 말았다.
+          그래서 몇 번 하느님을 찾다가 무슨 뜻인지도 모르고 ‘<said who="#KSH" aloud="false" direct="true">이 죄인의 죄를 용서하여 주시옵소서</said>’하고 말았다.
           그만해도 얼마큼 무서운 생각이 없어지고 숨소리가 순하게 되었다.
           그래서 <persName ref="#KSH">선형</persName>은 곁에 <term type="being">그리스도</term>가 와서 선 것을 상상하고 가만히 눈을 감고 있었다.
         </p>
         <p>이때 <persName ref="#LHS">형식</persName>이가 <persName ref="#SWS">우선</persName>으로 더불어 돌아왔고, 또 <persName ref="#KSH">선형</persName>의 손등에 입을 댄 것이라.
           <persName ref="#KSH">선형</persName>은 그때에 결코 잠이 든 것은 아니었다.
           <persName ref="#LHS">형식</persName>이가 돌아오는 줄을 알면서도 일부러 눈을 뜨지 아니하였다.
-          그러다가 <persName ref="#LHS">형식</persName>의 입술이 <rs type="person" ref="#KSH">자기</rs>의 손등에 댈 때에는 손등으로 <persName ref="#LHS">형식</persName>의 면상을 딱 붙이고 싶도록 미웠다.
-          이것이 다 기생과 하던 버릇이로구나 하였다.
+          그러다가 <persName ref="#LHS">형식</persName>의 입술이 <rs type="person" ref="#KSH">자기</rs>의 손등에 댈 때에는 손등으로 <persName ref="#LHS">형식</persName>의 면상을 딱 붙이고 싶도록 미웠다. 이것이 다 기생과 하던 버릇이로구나 하였다.
         </p>
-        <p>그러고는 <persName ref="#KSH">선형</persName>도 잠이 들었다.
-          휘황하던 전등은 밤새도록 이 두 괴로워하는 사람의 얼굴을 비추었고
-          커다란 눈을 부릅뜬 시커먼 기관차는 캄캄한 밤과 내려쏟는 비를 뚫고 별로 태우고 내리우는 사람도 없이 산굽이를 돌고 굴을 통하여
-          여러 가지 꿈을 꾸는 여러 가지 사람을 싣고 남으로 남으로 향하였다.
-        </p>
+        <p>그러고는 <persName ref="#KSH">선형</persName>도 잠이 들었다. 휘황하던 전등은 밤새도록 이 두 괴로워하는 사람의 얼굴을 비추었고 커다란 눈을 부릅뜬 시커먼 기관차는 캄캄한 밤과 내려쏟는 비를 뚫고 별로 태우고 내리우는 사람도 없이 산굽이를 돌고 굴을 통하여 여러 가지 꿈을 꾸는 여러 가지 사람을 싣고 남으로 남으로 향하였다.</p>
         <p>두 사람이 잠을 깬 것은 차가 <placeName ref="#PL_SD">삼량진역</placeName>에 닿을 적이었다. 시계의 짧은 침은 벌써 <time>다섯시</time>를 가리켰으나 하늘이 흐려 아직도 정거장의 등불이 반작반작한다.</p>
         <p>
           차장이 모자를 옆에 끼고 은근히 고개를 숙이더니,</p>
-        <p>“두 군데 선로가 파손되어 네 시간 후가 아니면 발차할 수가 없습니다” 한다.</p>
+        <p>“<said who="#UNK" aloud="true" direct="true">두 군데 선로가 파손되어 네 시간 후가 아니면 발차할 수가 없습니다</said>” 한다.</p>
         <p>자다가 깬 손님들은 모두 눈을 비비며 “응, 응” 하고 불평한 소리를 하다가 모두 짐을 꾸며 가지고 내린다. 어떤 사람은 차창으로 내다보다가,</p>
         <p>“저 물 보게, 물 보게!” 하며 기쁜지 슬픈지 알 수 없는 감탄을 발한다.
           비 외투를 입은 역부들은 나는 상관없다, 하는 듯이 시치미떼고 슬근슬근 열차 곁으로 왔다갔다한다.
@@ -5839,9 +5791,7 @@
         </p>
         <p>“<said who="#KBU" aloud="true" direct="true">내리셔요!</said>” 하고 아침 인사를 잊어버린 것을 생각하고 웃는다.</p>
         <p>“<said who="#LHS" aloud="true" direct="true">녜, 네 시간이나 어떻게 기다리겠습니까. 여관에 들어 좀 쉬지요…… 물구경이나 하고요.</said>”</p>
-        <p>“<said who="#KBU" aloud="true" direct="true">그러면 저희도 내리겠습니다.
-          잠깐 기다려 주셔요!</said>”
-          하더니 저편으로 뛰어간다.
+        <p>“<said who="#KBU" aloud="true" direct="true">그러면 저희도 내리겠습니다. 잠깐 기다려 주셔요!</said>”하더니 저편으로 뛰어간다.
           <persName ref="#LHS">형식</persName>과 <persName ref="#KSH">선형</persName>의 눈도 그리로 향하였다.
           <persName ref="#PYC">영채</persName>가 이편으로 향한 차창에 서서 물끄러미 바깥을 내다보는 것이 보인다.
           그러나 <rs type="person" ref="#LHS #KSH">두 사람</rs>은 보지 못한 것 같다.
@@ -5870,7 +5820,7 @@
         <head>119장</head>
         <p>“<said who="#KBU" aloud="true" direct="true">아니, 저 물 보셔요!</said>”
           하고 <persName ref="#KBU">병욱</persName>이가 가시 돋은 철사에 배를 대고 허리를 굽히며 소리를 친다.
-          다른 <rs type="person" ref="#LHS #KSH #PYC">세 사람</rs>도 속으로는 ‘<said who="#UNK" aloud="false" direct="true">저 물 보게</said>’
+          다른 <rs type="person" ref="#LHS #KSH #PYC">세 사람</rs>도 속으로는 ‘<said who="#LHS #KSH #PYC" aloud="false" direct="true">저 물 보게</said>’
           하면서도 아무도 입 밖에 말을 내지는 아니한다.
         </p>
         <p>“<said who="#KBU" aloud="true" direct="true">저것 보게.
@@ -5932,7 +5882,7 @@
           하고 <persName ref="#KSH">선형</persName>이가 <persName ref="#PYC">영채</persName>를 보며 묻는다.
         </p>
         <p>“<said who="#PYC" aloud="true" direct="true">들어오구말구요.
-          <placeName ref="#PL_PY">성내</placeName>에는 별로 들어오는 일이 없지마는 <placeName ref="#PL_PY">외성</placeName>에는 흔히 들어옵니다.
+          성내</placeName>에는 별로 들어오는 일이 없지마는 <placeName ref="#PL_PY">외성</placeName>에는 흔히 들어옵니다.
           그저께도 <placeName ref="#PL_PY">외성</placeName> 신시가로 배를 탔다구(타구) 다녔는데요</said>”
           하고 <persName ref="#KSH">선형</persName>의 눈을 실적 본다.
           <persName ref="#KSH">선형</persName>이 얼른 눈을 피하였다.
@@ -5975,7 +5925,7 @@
         </p>
         <p>여러 사람의 살은 싸늘하게 식었다.
           입술은 파랗게 되고 몸이 덜덜덜 떨린다.
-          눈앞에 늘어 있는 집들에서는 <time>조반</time> 짓는 연기가 나온다.
+          눈앞에 늘어 있는 집들에서는 조반 짓는 연기가 나온다.
           그 연기도 굴뚝 밖에 나서자마자 짓쳐 들어오는 빗발에 기운을 못 쓰고 도로 쫓겨 들어가고 마는 것 같다.
         </p>
         <p>비는 언제 그칠 것 같지도 아니하다. 하늘이 온통 녹아서 비가 되고 말 듯이 쏟아져 내려온다.</p>
@@ -6025,8 +5975,7 @@
           하며 숨이 막힐 것 같다.
           <persName ref="#KBU">병욱</persName>은 <rs type="person" ref="#YJ">부인</rs>의 손을 만져 보더니 <persName ref="#LHS">형식</persName>을 돌아보며,
         </p>
-        <p>“<said who="#KBU" aloud="true" direct="true">여봅시오, 가서 방을 하나 빌어 가지고 병인을 들여다 누입시다.
-          아마 산기가 있나 봅니다</said>” 한다.
+        <p>“<said who="#KBU" aloud="true" direct="true">여봅시오, 가서 방을 하나 빌어 가지고 병인을 들여다 누입시다. 아마 산기가 있나 봅니다</said>” 한다.
           <persName ref="#PYC">영채</persName>와 <persName ref="#KSH">선형</persName>은 얼굴을 찡그린다.
           그 중에도 <persName ref="#KSH">선형</persName>은 무서운 것이나 본 듯이 진저리를 치며 한 걸음 물러선다.
         </p>
