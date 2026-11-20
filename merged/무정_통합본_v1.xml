@@ -2401,10 +2401,10 @@
           <persName ref="#PYC">영채</persName>의 말을 다 듣고 나서, <rs type="person" ref="#KUR_W">부인</rs>은 치맛고름으로 눈물을 씻으며, ‘<said who="#KUR_W" aloud="true" direct="true">어째 네 얼굴이 여자 같다 하고 이상히 여겼다</said>’
           하면서 장을 열고 새로 지어 둔 옷 한 벌을 내어 주었다.
           <persName ref="#PYC">영채</persName>는 두어 번 사양하다가 마침내 입었다.
-          그러고는 세 사람이 더욱 정이 들어 웃고 이야기하였다.
+          그러고는 <rs type="person" ref="#PYC #KUR_W #KUR_SIS">세 사람</rs>이 더욱 정이 들어 웃고 이야기하였다.
           그 중에도 지금까지 시치미떼고 앉았던 <rs type="person" ref="#KUR_SIS">그 처녀</rs>가 갑자기 웃고 <persName ref="#PYC">영채</persName>의 손을 잡으며 다정히 말하게 되었다.
           <persName ref="#PYC">영채</persName>는 <rs type="person" ref="#PJS">아버지</rs>와 <rs type="person" ref="#YC_BROTHERS">오라버니</rs> 일도 잠시 잊어버리고 없어진 <rs type="place" ref="#PL_OR_H">집</rs>에 새로 돌아온 모양으로 기뻐하였다.
-          <time>밤</time>이 깊은 뒤에 그 사람이 돌아와서 <rs type="person" ref="#KUR_W">부인</rs>께 <persName ref="#PYC">영채</persName>의 말을 듣고 깜짝 놀랐다.
+          <time>밤</time>이 깊은 뒤에 <rs type="person" ref="#KUR">그 사람</rs>이 돌아와서 <rs type="person" ref="#KUR_W">부인</rs>께 <persName ref="#PYC">영채</persName>의 말을 듣고 깜짝 놀랐다.
           그러고는 일동이 웃었다.
           이렇게 며칠을 지내며 어서 한 달이 지나가서 다시 <rs type="person" ref="#PJS">아버지</rs>를 뵈옵고 이러한 큰 <rs type="person" ref="#KUR">은인</rs>의 말을 하려 하였다.
         </p>
