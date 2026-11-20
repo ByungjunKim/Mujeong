@@ -2289,12 +2289,12 @@
         <p><persName ref="#PYC">영채</persName>는 지금 <rs type="person" ref="#PYC">자기</rs>가 일생에 잊히지 아니하고 생각하고 그리던 <persName ref="#LHS">형식</persName>을 만났으니 지금까지 가슴속에 간직하였던 회포를 말하리라 하였다.
           세상에 아직도 제 회포를 들어줄 사람이 있는 것을 생각하고 <persName ref="#PYC">영채</persName>는 더할 수 없이 기뻐하였다.
           그러나 <persName ref="#PYC">영채</persName>는 다시 생각하였다.
-          <persName ref="#LHS">형식</persName>의 얼굴빛을 보매, <rs type="person" ref="#PYC">자기</rs>를 만난 것을 반가워하는 것과 <rs type="person" ref="#PYC">자기</rs>의 신세를 불쌍히 여기는 줄은 알건마는 만일 <rs type="person" ref="#PYC">자기</rs>가 몸을 팔아 기생이 되어 오륙 년간 부랑한 남자의 노리개 된 줄을 알면 <persName ref="#LHS">형식</persName>이가 얼마나 낙심하고 슬퍼하랴.
+          <said who="#PYC" direct="false" aloud="false"><persName ref="#LHS">형식</persName>의 얼굴빛을 보매, <rs type="person" ref="#PYC">자기</rs>를 만난 것을 반가워하는 것과 <rs type="person" ref="#PYC">자기</rs>의 신세를 불쌍히 여기는 줄은 알건마는 만일 <rs type="person" ref="#PYC">자기</rs>가 몸을 팔아 기생이 되어 오륙 년간 부랑한 남자의 노리개 된 줄을 알면 <persName ref="#LHS">형식</persName>이가 얼마나 낙심하고 슬퍼하랴.
           또 <persName ref="#LHS">형식</persName>은 아주 품행이 단정한 사람이라는데 만일 <rs type="person" ref="#PYC">내</rs>가 기생 같은 천한 몸이 되었다 하면 싫은 마음이 아니 생길까.
           지금은 <persName ref="#LHS">형식</persName>이가 저렇게 <rs type="person" ref="#PYC">나</rs>를 위하여 눈물을 흘리고 <rs type="person" ref="#PYC">나</rs>를 대하여 사랑하는 빛을 보이건마는 <rs type="person" ref="#PYC">내</rs>가 만일 기생이 되었다는 말을 하면 곧 미운 생각이 나고 불쾌한 생각이 나지나 아니할까.
           그래서 ‘<said who="#LHS" direct="true" aloud="false" cert="low"> <rs type="person" ref="#PYC">너</rs>는 더러운 사람이로다.
           <rs type="person" ref="#LHS">나</rs>와 가까이할 사람이 아니로다</said>’
-          하고 얼굴을 찡그리지 아니할까.
+          하고 얼굴을 찡그리지 아니할까.</said>
           이러한 생각을 하매, <persName ref="#PYC">영채</persName>는 더 말할 용기가 없어졌다.
           지금까지 죽은 부모와 동생을 만나 보듯 한 반가운 정이 스러지고 새로운 설움과 새로운 부끄러움이 생긴다.
           아아, 역시 남이로구나.
