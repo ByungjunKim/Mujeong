@@ -2690,7 +2690,7 @@
           <persName ref="#LHS">형식</persName>은,
         </p>
         <p>“<said who="#LHS" direct="true" aloud="true">녜, 무슨 중대사건이오?</said>”</p>
-        <p>“<said who="#KJY" direct="true" aloud="true"><rs type="person" ref="#LHK #KJY">저희</rs>는 삼사년급이 합하여 <rs type="org" ref="#ORG_STUDENT_ALLIANCE">동맹 퇴학</rs>을 하려 합니다.
+        <p>“<said who="#KJY #LHK" direct="true" aloud="true"><rs type="person" ref="#LHK #KJY">저희</rs>는 삼사년급이 합하여 <rs type="org" ref="#ORG_STUDENT_ALLIANCE">동맹 퇴학</rs>을 하려 합니다.
           학교의 학생에게 대한 처분 권리를 불만족히 여겨서 이렇게 동맹을 체결한 것이올시다</said>”
           하고 동맹 퇴학 청원서를 낸다.
           <persName ref="#KJY">김종렬</persName>은 그만 말 두 마디를 잘못 적용하였다.
@@ -2707,7 +2707,7 @@
         </p>
         <p>“<said who="#LHS" direct="true" aloud="true">
             <persName ref="#KJY">종렬</persName>군, 그러나 이것은 좋지 못한 일이외다. 무슨 이유를 물론하고 학생의 학교에 대한 스트라이크는 좋지 못한 일이외다</said>” 하였다.</p>
-        <p><persName ref="#KJY">김종렬</persName>은 <term type="foreign">스트라이크</term>라는 말의 뜻은 자세히 모르거니와 베이스볼에 <term type="foreign">스트라이크</term>란 말이 있음을 보건댄, 대체 학교를 공격하는 것이어니 하였다.
+        <p><persName ref="#KJY">김종렬</persName>은 스트라이크라는 말의 뜻은 자세히 모르거니와 베이스볼에 스트라이크란 말이 있음을 보건댄, 대체 학교를 공격하는 것이어니 하였다.
           그러고 청원서를 접으며 장중한 목소리로,
         </p>
         <p>“<said who="#KJY" direct="true" aloud="true">아니올시다.
