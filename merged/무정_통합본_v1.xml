@@ -2625,12 +2625,12 @@
           <persName ref="#LHS">형식</persName>은 어느 학생에게나 친절하고 다정하게 하므로 <persName ref="#LHS">형식</persName>을 따르는 학생이 많았었다.
           그 중에도 <persName ref="#LHS">형식</persName>은 <rs type="person" ref="#LHS">자기</rs>의 과거의 신세를 생각하여 불쌍한 학생에게 특별히 동정을 표하고, 그러할 뿐더러 그 얼마 아니 되는 수입을 가지고 학비 없는 학생을 <num value="2">이삼</num> 인이나 도와 주었다.
           그러나 <persName ref="#LHS">형식</persName>에게는 재주 있는 학생 얌전한 학생을 더욱 사랑하는 버릇이 있었다.
-          무론 아무나 재주 있고 얌전한 사람을 더욱 사랑하건마는, 그네는 용하게 그것을 겉에 드러내지 아니하되, 정이 많은 <persName ref="#LHS">형식</persName>은 이러할 줄을 모르고 <rs type="person" ref="#LHS">자기</rs>의 어떤 사람에게 대한 특별한 사랑을 감추지 못하였다.
-          그래서 <rs type="person" ref="#FRIEND">어떤 친구</rs>가 <persName ref="#LHS">형식</persName>에게, “<said who="#FRIEND" aloud="true" direct="true"> <rs type="person" ref="#LHS">자네</rs>는 편애하는 버릇이 있느니</said>”
-          하는 충고도 받았다.
+          무론 아무나 재주 있고 얌전한 사람을 더욱 사랑하건마는, 그네는 용하게 그것을 겉에 드러내지 아니하되, 정이 많은 <persName ref="#LHS">형식</persName>은 이러할 줄을 모르고 <rs type="person" ref="#LHS">자기</rs>의 어떤 사람에게 대한 특별한 사랑을 감추지 못하였다. 
+          그래서 <rs type="person" ref="#FRIEND">어떤 친구</rs>가 <persName ref="#LHS">형식</persName>에게, 
+          “<said who="#FRIEND" aloud="true" direct="true"> <rs type="person" ref="#LHS">자네</rs>는 편애하는 버릇이 있느니</said>”하는 충고도 받았다. 
           그때에 <persName ref="#LHS">형식</persName>은 웃으며, “<said who="#LHS" aloud="true" direct="true">더 사랑스러운 사람을 더 사랑하는 것이 무엇이 흠이란 말인가</said>” 하였다.
-          그러면 <rs type="person" ref="#FRIEND">그 친구</rs>가, “<said who="#FRIEND" aloud="true" direct="true">그러나 가르치는 자리에 있는 사람은 배우는 자를 하루같이 사랑할 필요가 있느니</said>”
-          하고 이 말에 <persName ref="#LHS">형식</persName>은, “<said who="#LHS" aloud="true" direct="true">그러나 장차 자라서 사회에 크게 이익을 주어(줄) 만한 자를 특별히 더 사랑하고 가르침이 무엇이 잘못이랴</said>” 하였다.
+          그러면 <rs type="person" ref="#FRIEND">그 친구</rs>가, “<said who="#FRIEND" aloud="true" direct="true">그러나 가르치는 자리에 있는 사람은 배우는 자를 하루같이 사랑할 필요가 있느니</said>” 하고 
+          이 말에 <persName ref="#LHS">형식</persName>은, “<said who="#LHS" aloud="true" direct="true">그러나 장차 자라서 사회에 크게 이익을 주어(줄) 만한 자를 특별히 더 사랑하고 가르침이 무엇이 잘못이랴</said>” 하였다.
           이리하여서 <persName ref="#LHS">형식</persName>은 동료간에나 학생간에 편애하는 사람이라는 말을 듣고, 혹 어떤 <persName ref="#LHS">형식</persName>을 미워하는 사람은, <persName ref="#LHS">형식</persName>이가 얼굴 어여쁜 학생만 사랑한다는 말도 한다.
           학생 중에도 <rs type="person" ref="#STU3">삼사년급 심술 사납고 장난 잘하는 학생들</rs>은, <persName ref="#LHS">형식</persName>은 얼굴 어여쁜 학생만 사랑하여 시험 점수도 특별히 많이 주고, 질문하는 것도 특별히 잘 가르쳐 준다 하며, <persName ref="#LHS">형식</persName>이가 특별히 사랑하는 학생을 대하여서는 듣기 싫은 비방도 많이 한다.
           그럴 때면 <persName ref="#LHS">형식</persName>의 특별히 사랑하는 학생들이 <persName ref="#LHS">형식</persName>을 위하여 여러 가지로 변명하건마는, 도리어 <rs type="person" ref="#STU3">심술 사나운 학생들</rs>은 그네를 비웃었다.
@@ -2645,7 +2645,7 @@
           <persName ref="#KJY">그</persName>는 무론 정직은 하다.
           속에 있는 바를 꺼림없이 말하며 아무러한 어른의 앞에 가서라도 서슴지 아니하고 제 의견을 발표하는 용기가 있다.
           아무려나 <persName ref="#KJY">그</persName>는 일종 특수한 능력을 가진 사람이로다.
-          지금은 최상급 학생이므로 다만 사년급에만 세력이 있을 뿐더러, 온 학교 학생간에 위대한 세력을 가져 새로 입학한 <rs type="person" ref="#STU2">일년급 어린 학생들</rs>까지도 <persName ref="#KJY">그</persName>의 이름을 알고 <persName ref="#KJY">그</persName>를 보면 경례를 한다.
+          지금은 최상급 학생이므로 다만 사년급에만 세력이 있을 뿐더러, 온 학교 학생간에 위대한 세력을 가져 새로 입학한 일년급 어린 학생들</rs>까지도 <persName ref="#KJY">그</persName>의 이름을 알고 <persName ref="#KJY">그</persName>를 보면 경례를 한다.
           만일 <rs type="person" ref="#STU2">어린 학생</rs>이 <persName ref="#KJY">자기</persName>를 대하여 경례를 아니하면 당장에 위엄 있는 태도와 목소리로, “<said who="#KJY" aloud="true" direct="true">여보, 왜 상급생에게 경례를 아니하오</said>”
           하고 책망한다.
           그러므로 <rs type="person" ref="#STU2">어린 학생들</rs>은 경례하고 돌아서서는 혀를 내어밀고 웃으면서도 <persName ref="#KJY">그</persName>와 마주 대하여서는 공순히 경례를 한다.
