@@ -2546,31 +2546,35 @@
       </div>
       <div type="chapter" n="17" resp="#enc11-20" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/1%EC%9E%A5~20%EC%9E%A5">
         <head>17장</head>
-        <p><rs type="person" ref="#PYC">영채</rs>의 눈에서는 눈물이 흐른다.
-          그 무릎 위에 힘없이 놓인 어여쁜 손가락이 바르르 떨린다.
-          <persName ref="#LHS">형식</persName>은 이렇게 생각하였다.
-          <said who="#LHS" direct="true" aloud="false"> <rs type="person" ref="#PYC">영채</rs>는 <rs type="person" ref="#LHS">자기</rs>를 믿고 <rs type="person" ref="#LHS">자기</rs>에게 사정을 다 말하고 <rs type="person" ref="#LHS">자기</rs>에게 몸을 의탁하려고 왔던 것이 아닐까.
-          설혹 몸이 기생이 되었다 하더라도 <persName ref="#LHS">형식</persName>이 서울에 있다는 말을 듣고 <rs type="person" ref="#PYC">자기</rs>를 그 괴로운 지경에서 건져 내어 달라기 위하여 찾아왔던 것이 아닐까.
-          온 세상에 <persName ref="#LHS">형식</persName>이밖에 말할 곳이 없고 믿을 곳이 없고 의탁할 곳이 없어 부모를 찾아오는 모양으로, (형제를 찾아오는 모양으로) <persName ref="#LHS">형식</persName>을 찾아왔음이 아닐까.</said> 아까, ‘<said who="#LHS" direct="true" aloud="true"> <rs type="person" ref="#LHS">제</rs>가 <persName ref="#LHS">이형식</persName>이올시다</said>’
-          할 때에 <rs type="person" ref="#PYC">영채</rs>가 깜짝 놀라 한 걸음 뒤로 물러서며 담박 눈물을 흘리던 것과 <rs type="person" ref="#PYC">자기</rs>의 신세를 말하면서도 연해 연방 <persName ref="#LHS">형식</persName>의 얼굴을 쳐다보던 것을 보니,
+        <p><rs type="person" ref="#PYC">영채</rs>의 눈에서는 눈물이 흐른다. 그 무릎 위에 힘없이 놓인 어여쁜 손가락이 바르르 떨린다. <persName ref="#LHS">형식</persName>은 이렇게 생각하였다.</p>
+        <p><said who="#LHS" direct="true" aloud="false"> <rs type="person" ref="#PYC">영채</rs>는 <rs type="person" ref="#LHS">자기</rs>를 믿고 <rs type="person" ref="#LHS">자기</rs>에게 사정을 다 말하고 <rs type="person" ref="#LHS">자기</rs>에게 몸을 의탁하려고 왔던 것이 아닐까.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false">설혹 몸이 기생이 되었다 하더라도 <persName ref="#LHS">형식</persName>이 서울에 있다는 말을 듣고 <rs type="person" ref="#PYC">자기</rs>를 그 괴로운 지경에서 건져 내어 달라기 위하여 찾아왔던 것이 아닐까.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false">온 세상에 <persName ref="#LHS">형식</persName>이밖에 말할 곳이 없고 믿을 곳이 없고 의탁할 곳이 없어 부모를 찾아오는 모양으로, (형제를 찾아오는 모양으로) <persName ref="#LHS">형식</persName>을 찾아왔음이 아닐까.</said></p>
+        <p>
+          아까, ‘<said who="#LHS" direct="true" aloud="true"> <rs type="person" ref="#LHS">제</rs>가 <persName ref="#LHS">이형식</persName>이올시다</said>’
+          할 때에 <rs type="person" ref="#PYC">영채</rs>가 깜짝 놀라 한 걸음 뒤로 물러서며 담박 눈물을 흘리던 것과 
+          <rs type="person" ref="#PYC">자기</rs>의 신세를 말하면서도 연해 연방 <persName ref="#LHS">형식</persName>의 얼굴을 쳐다보던 것을 보니,
           <rs type="person" ref="#PYC">영채</rs>는 정녕 <persName ref="#LHS">형식</persName>을 믿고 <persName ref="#LHS">형식</persName>의 동정을 구하고,
           <persName ref="#LHS">형식</persName>에게 안아 주고 건져 주기를 청한 것이라.
-          <said who="#LHS" direct="true" aloud="false">옳다, <rs type="person" ref="#PYC">영채</rs>는 과연 <rs type="person" ref="#LHS">나</rs>를 믿고 <rs type="person" ref="#LHS">내</rs>게 보호를 청하려고 왔던 것이로다.
-          육칠 년간이나 차디차디 하고, 괴롭디괴롭디 한 세상 풍파에 부대끼고 부대끼다가, <rs type="person" ref="#PYC">저</rs>를 사랑하여 주어야 할 <rs type="person" ref="#LHS">내</rs>가 서울에 있음을 알고 반갑고 기뻐서 <rs type="person" ref="#LHS">나</rs>를 찾아왔던 것이로다.
-          옳다, 그렇다.
-          <rs type="person" ref="#LHS">나</rs>는 <rs type="person" ref="#PYC">영채</rs>를 구원할 의무가 있다.
-          <rs type="person" ref="#PYC">영채</rs>는 <rs type="person" ref="#LHS">나</rs>의 <rs type="person" ref="#PJS">은사</rs>의 따님이요, 또 <rs type="person" ref="#PJS">은사</rs>가 <rs type="person" ref="#LHS">내</rs> 아내로 허락하였던 여자라.
-          설혹 운수가 기박하여 일시 더러운 곳에 몸이 빠졌다 하더라도 <rs type="person" ref="#LHS">나</rs>는 <rs type="person" ref="#PYC">그</rs>를 건져 낼 책임이 있다.
-          <rs type="person" ref="#LHS">내</rs>가 먼저 <rs type="person" ref="#PYC">그</rs>를 찾아다니지 못한 것이 도리어 한이 되고 죄송하거늘, 이제 <rs type="person" ref="#PYC">그</rs>가 <rs type="person" ref="#LHS">나</rs>를 찾아왔으니 어찌 모르는 체하고 있으리요.
-          <rs type="person" ref="#LHS">나</rs>는 <rs type="person" ref="#PYC">그</rs>를 구원하리라.
-          구원하여서 사랑하리라.
-          처음에 생각하던 대로, 만일 될 수만 있으면 <rs type="person" ref="#LHS">나</rs>의 아내를 삼으리라.
-          설혹 <rs type="person" ref="#PYC">그</rs>가 기생이 되었다 하더라도 원래 양반의 집 혈속이요, 또 어려서 가정의 교훈을 많이 받았으니 반드시 여자의 아름다운 점을 구비하였으리라.
-          또 만일 기생이라 하면 인정과 세상도 많이 알았을지요, 시와 노래도 잘할지니, 글로 일생을 보내려는 <rs type="person" ref="#LHS">나</rs>에게는 가장 적합하다</said> 하고 <persName ref="#LHS">형식</persName>은 가만히 눈을 떴다.
+        </p>
+        <p><said who="#LHS" direct="true" aloud="false">옳다, <rs type="person" ref="#PYC">영채</rs>는 과연 <rs type="person" ref="#LHS">나</rs>를 믿고 <rs type="person" ref="#LHS">내</rs>게 보호를 청하려고 왔던 것이로다.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false">육칠 년간이나 차디차디 하고, 괴롭디괴롭디 한 세상 풍파에 부대끼고 부대끼다가, <rs type="person" ref="#PYC">저</rs>를 사랑하여 주어야 할 <rs type="person" ref="#LHS">내</rs>가 서울에 있음을 알고 반갑고 기뻐서 <rs type="person" ref="#LHS">나</rs>를 찾아왔던 것이로다.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false">옳다, 그렇다.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false"><rs type="person" ref="#LHS">나</rs>는 <rs type="person" ref="#PYC">영채</rs>를 구원할 의무가 있다.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false"><rs type="person" ref="#PYC">영채</rs>는 <rs type="person" ref="#LHS">나</rs>의 <rs type="person" ref="#PJS">은사</rs>의 따님이요, 또 <rs type="person" ref="#PJS">은사</rs>가 <rs type="person" ref="#LHS">내</rs> 아내로 허락하였던 여자라.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false">설혹 운수가 기박하여 일시 더러운 곳에 몸이 빠졌다 하더라도 <rs type="person" ref="#LHS">나</rs>는 <rs type="person" ref="#PYC">그</rs>를 건져 낼 책임이 있다.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false"><rs type="person" ref="#LHS">내</rs>가 먼저 <rs type="person" ref="#PYC">그</rs>를 찾아다니지 못한 것이 도리어 한이 되고 죄송하거늘, 이제 <rs type="person" ref="#PYC">그</rs>가 <rs type="person" ref="#LHS">나</rs>를 찾아왔으니 어찌 모르는 체하고 있으리요.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false"><rs type="person" ref="#LHS">나</rs>는 <rs type="person" ref="#PYC">그</rs>를 구원하리라.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false">구원하여서 사랑하리라.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false">처음에 생각하던 대로, 만일 될 수만 있으면 <rs type="person" ref="#LHS">나</rs>의 아내를 삼으리라.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false">설혹 <rs type="person" ref="#PYC">그</rs>가 기생이 되었다 하더라도 원래 양반의 집 혈속이요, 또 어려서 가정의 교훈을 많이 받았으니 반드시 여자의 아름다운 점을 구비하였으리라.</said></p>
+        <p><said who="#LHS" direct="true" aloud="false">또 만일 기생이라 하면 인정과 세상도 많이 알았을지요, 시와 노래도 잘할지니, 글로 일생을 보내려는 <rs type="person" ref="#LHS">나</rs>에게는 가장 적합하다</said>하고 <persName ref="#LHS">형식</persName>은 가만히 눈을 떴다.</p>
+        <p>
           멍하니 모기장을 바라보고 모기장 밖에서 앵앵하는 모기의 소리를 듣다가 다시 눈을 감으며 싱긋 혼자 웃었다.
           아까 <rs type="person" ref="#PYC">영채</rs>의 태도는 과연 아름다웠다.
           눈썹을 짓고, 향수내 나는 것이 좀 불쾌하기는 하였으나 그 살빛과 눈찌와 앉은 태도가 참 아름다웠다.
-          더구나 그 이야기할 때에 하얀 이빨이 반작반작하는 것과 탄식할 때에 잠깐 몸을 틀며 보일 듯 말 듯 양미간을 찌그리는 것이 (못 견디리만큼 어여뻤다.) 아까 <persName ref="#LHS">형식</persName>은 너무 감격하여 미처 <rs type="person" ref="#PYC">영채</rs>의 얼굴과 태도를 자세히 비평할 여유가 없었거니와 지금 가만히 생각하니 <rs type="person" ref="#PYC">영채</rs>의 일언 일동과 옷고름 맨 모양까지도 (못 견디게) 어여뻐 보인다.
+          더구나 그 이야기할 때에 하얀 이빨이 반작반작하는 것과 탄식할 때에 잠깐 몸을 틀며 보일 듯 말 듯 양미간을 찌그리는 것이 (못 견디리만큼 어여뻤다.) 
+          아까 <persName ref="#LHS">형식</persName>은 너무 감격하여 미처 <rs type="person" ref="#PYC">영채</rs>의 얼굴과 태도를 자세히 비평할 여유가 없었거니와 지금 가만히 생각하니 <rs type="person" ref="#PYC">영채</rs>의 일언 일동과 옷고름 맨 모양까지도 (못 견디게) 어여뻐 보인다.
           <persName ref="#LHS">형식</persName>은 눈을 감고 한번 더 <rs type="person" ref="#PYC">영채</rs>의 모양을 그리면서 싱긋 웃었다.
           도리어 저 <rs type="person" ref="#KGH">김장로</rs>의 딸 <persName ref="#KSH">선형</persName>이도 그 얌전한 태도에 이르러서는 <rs type="person" ref="#PYC">영채</rs>에게 및지 못한다 하였다.
           <persName ref="#KSH">선형</persName>의 얼굴과 태도도 얌전치 아니함이 아니지마는 <rs type="person" ref="#PYC">영채</rs>에 비기면 변화가 적고 생기가 적다 하였다.
@@ -2586,23 +2590,24 @@
           (<rs type="person" ref="#PYC">저</rs>는 이 외로운 몸을 <rs type="person" ref="#LHS">당신</rs>의 품속에 던집니다)</said>’
           하고 눈물 고인 눈으로 <persName ref="#LHS">형식</persName>을 쳐다보는 듯하다.
           <persName ref="#LHS">형식</persName>은 마음속으로,
-          ‘<said who="#LHS" direct="true" aloud="false"> <rs type="person" ref="#PYC">영채</rs> 씨,
-          아름다운 <rs type="person" ref="#PYC">영채</rs> 씨,
-          <rs type="person" ref="#PJS">박선생</rs>의 따님인 <rs type="person" ref="#PYC">영채</rs> 씨,
-          <rs type="person" ref="#LHS">나</rs>는 <rs type="person" ref="#PYC">영채</rs> 씨를 사랑합니다.
-          이렇게 사랑합니다</said>’ 만일 이와 같이 사랑하면 지하에 누워 계신 그 <rs type="person" ref="#PJS">부친</rs>이 오죽이 즐거하실까.
-          그리하고 일후(만일～일후 : 하고 두 팔을 벌리고 안는 시늉을 하였다.
+          ‘<said who="#LHS" direct="true" aloud="false"> 
+            <rs type="person" ref="#PYC">영채</rs> 씨, 아름다운 <rs type="person" ref="#PYC">영채</rs> 씨,
+            <rs type="person" ref="#PJS">박선생</rs>의 따님인 <rs type="person" ref="#PYC">영채</rs> 씨,
+            <rs type="person" ref="#LHS">나</rs>는 <rs type="person" ref="#PYC">영채</rs> 씨를 사랑합니다. 이렇게 사랑합니다
+          </said>’ 
+          만일 이와 같이 사랑하면 지하에 누워 계신 그 <rs type="person" ref="#PJS">부친</rs>이 오죽이 즐거하실까.
+          그리하고 일후 (만일～일후 : 하고 두 팔을 벌리고 안는 시늉을 하였다.
           <persName ref="#LHS">형식</persName>의 생각에 <rs type="person" ref="#PYC">영채</rs>의 따뜻한 뺨이 <rs type="person" ref="#LHS">자기</rs>의 뺨에 와 스치고 입김이 <rs type="person" ref="#LHS">자기</rs>의 입에 와 닿는 듯하였다.
           <persName ref="#LHS">형식</persName>의 가슴은 자주 뛰고 숨소리는 높아졌다.
-          옳다, 사랑하는 <rs type="person" ref="#PYC">영채</rs>는 <rs type="person" ref="#LHS">내</rs> 아내로다.) <placeName ref="#PL_HOEDANG">회당</placeName>에서 즐겁게 혼인 예식을 행하고 아들 낳고 딸 낳고 즐거운 가정을 이루리라 하였다.
-        </p>
-        <p>그러나 <persName ref="#PYC">영채</persName>는 어디 있는가.
-          지금 어디 있는가.
+          <said who="#LHS" direct="true" aloud="false">옳다, 사랑하는 <rs type="person" ref="#PYC">영채</rs>는 <rs type="person" ref="#LHS">내</rs> 아내로다.) 
+            <placeName ref="#PL_HOEDANG">회당</placeName>에서 즐겁게 혼인 예식을 행하고 아들 낳고 딸 낳고 즐거운 가정을 이루리라</said>하였다.
+          <said who="#LHS" direct="true" aloud="false">그러나 <persName ref="#PYC">영채</persName>는 어디 있는가. 지금 어디 있는가.</said>
           <persName ref="#LHS">형식</persName>은 또 불쾌한 마음이 생긴다.
           <persName ref="#PYC">영채</persName>가 어떤 남자와 희학하는 모양이 눈에 보인다(남자와～보인다 : 남자에게 안겨 자는 모양이 눈에 보인다.
           <persName ref="#LHS">형식</persName>이 <persName ref="#PYC">영채</persName>의 자는 방에 들어가니 <persName ref="#PYC">영채</persName>는 어떤 사나이를 꼭 껴안고 고개를 번쩍 들고 <persName ref="#LHS">형식</persName>을 보며, 히히히 하고 웃는 모양이 보인다).
         </p>
-        <p><persName ref="#LHS">형식</persName>은 ‘<said who="#LHS" aloud="false" direct="true">여보, <persName ref="#PYC">영채</persName>, 이것이 웬일이오</said>’
+        <p>
+          <persName ref="#LHS">형식</persName>은 ‘<said who="#LHS" aloud="false" direct="true">여보, <persName ref="#PYC">영채</persName>, 이것이 웬일이오</said>’
           하고 발길로 <persName ref="#PYC">영채</persName>의 머리를 차는 양을 생각하면서 정말 다리를 들어 모기장을 탁 찼다.
           모기장을 달았던 끈이 뚝 끊어지며 모기장이 얼굴을 덮는다.
           <persName ref="#LHS">형식</persName>은 벌떡 일어나 모기장을 집어던지고 궐련을 붙였다.
