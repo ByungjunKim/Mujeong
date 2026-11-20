@@ -2297,13 +2297,12 @@
           하고 얼굴을 찡그리지 아니할까.</said>
           이러한 생각을 하매, <persName ref="#PYC">영채</persName>는 더 말할 용기가 없어졌다.
           지금까지 죽은 부모와 동생을 만나 보듯 한 반가운 정이 스러지고 새로운 설움과 새로운 부끄러움이 생긴다.
-          아아, 역시 남이로구나.
-          <persName ref="#LHS">형식</persName>이도 역시 남이로구나.
-          마음놓고 제 속에 있는 비밀을 다 말하지 못하겠구나 하였다.
+          <said who="#PYC" direct="false" aloud="false">아아, 역시 남이로구나. <persName ref="#LHS">형식</persName>이도 역시 남이로구나. 마음놓고 제 속에 있는 비밀을 다 말하지 못하겠구나</said> 하였다.
           <persName ref="#PYC">영채</persName>는 새로이 눈물이 흘러 고개를 숙였다.
           <said who="#PYC" direct="true" aloud="false"> <rs type="person" ref="#PYC">내</rs>가 왜 기생이 되었던고, 왜 남의 종이 되지 아니하고 기생이 되었던고.
           남의 종이 되거나, 아이 보는 계집이 되거나, 바느질품을 팔고 있었더면 <persName ref="#LHS">형식</persName>을 대하여 이렇게 부끄러운 마음이 생기고 이렇게 제 속에 있는 말을 못 하지는 아니하려든.
-          아아, 왜 <rs type="person" ref="#PYC">내</rs>가 기생이 되었던고.</said> 무론 <persName ref="#PYC">영채</persName>는 <rs type="person" ref="#PYC">제</rs>가 기생이 되고 싶어 된 것은 아니었다.
+          아아, 왜 <rs type="person" ref="#PYC">내</rs>가 기생이 되었던고.</said> 
+          무론 <persName ref="#PYC">영채</persName>는 <rs type="person" ref="#PYC">제</rs>가 기생이 되고 싶어 된 것은 아니었다.
           <rs type="person" ref="#PJS">아버지</rs>와 <rs type="person" ref="#YC_BROTHERS">두 오라비</rs>를 건져 내려고 기생이 된 것이라.
           <persName ref="#PYC">영채</persName>가 <placeName ref="#PL_PY">평양</placeName> <placeName ref="#PL_PYONGYANG_PRISON">감옥</placeName>에 다다라 처음 <rs type="person" ref="#PJS">그 아버지</rs>와 면회를 허함이 되었던 날.
           <persName ref="#PYC">영채</persName>는 <rs type="person" ref="#PJS">그 아버지</rs>를 보고 일변 놀라고 일변 슬펐다.
