@@ -195,6 +195,7 @@
             <persName>나</persName>
             <persName>이선생님</persName>
             <persName>내</persName>
+            <persName>이씨</persName>
             <note type="source-ids">구간 원 ID: 1-10:LHS, 11-20:HS, 21-30:HSS, 31-40:HS, 41-50:HS, 51-60:HS, 61-70:HS, 71-80:LHS, 81-90:HS, 91-100:LHS, 101-110:LHS, 111-120:HS, 121-126:HS</note>
             <note type="editorial">주인공, 경성학교 영어 교사. 전문 실행본 ID</note>
           </person>
@@ -306,6 +307,7 @@
             <persName>영채의 집 노파</persName>
             <persName>어머니</persName>
             <persName>영채의 ‘어머니’</persName>
+            <persName>노파</persName>
             <note type="source-ids">구간 원 ID: 31-40:NP, 41-50:YNP, 91-100:NP, 121-126:YNP, 81-90:NOPA(문맥별 분리)</note>
             <note type="editorial">영채를 기른 기생 어미. 48장에서 전날 형식의 방문을 회상하고 직접 언급하므로 36장의 노파(구간 원 ID: 31-40:NP)와 동일 인물로 통합함.</note>
           </person>
