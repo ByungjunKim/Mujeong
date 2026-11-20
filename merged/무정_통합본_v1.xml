@@ -2337,10 +2337,9 @@
           하고 너무 억하여 한참이나 그 얼굴을 바라보았다.
           <persName ref="#PYC">영채</persName>의 몸에는 피가 식고 사지가 굳어지는 듯하였다.
           그러나 <persName ref="#PYC">영채</persName>는 그 나무로 깎은 듯한 얼굴, 움쑥한 눈에 눈물이 스르르 도는 것을 보고 그제야 ‘<said who="#PYC" direct="true" aloud="false">이것이 <rs type="person" ref="#PYC">내</rs> <rs type="person" ref="#PJS">아버지</rs>로구나</said>’
-          하는 듯이, “<said who="#PYC" direct="true" aloud="true"> <rs type="person" ref="#PJS">아버지</rs>?</said>”
-          하고 소리를 내어 울었다.
-          “<said who="#PYC" direct="true" aloud="true">웬일이오</said>”
-          하고 <persName ref="#PYC">영채</persName>는 통곡하였다.
+          하는 듯이, 
+          “<said who="#PYC" direct="true" aloud="true"> <rs type="person" ref="#PJS">아버지</rs>?</said>” 하고 소리를 내어 울었다.
+          “<said who="#PYC" direct="true" aloud="true">웬일이오</said>” 하고 <persName ref="#PYC">영채</persName>는 통곡하였다.
         </p>
       </div>
       <div type="chapter" n="14" resp="#enc11-20" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/1%EC%9E%A5~20%EC%9E%A5">
@@ -2368,7 +2367,7 @@
           모시고 있기는커녕 한 달에 한 번씩밖에 더 뵈올 수가 없고,
           또 손에 돈이 없고 <placeName ref="#PL_PY">평양</placeName>에 아는 사람이 없으니 <date cert="low">오늘 저녁</date>부터라도 먹고 잘 일이 걱정이라.
           또 <date cert="low">팔월도 이십 일</date>이 지났으니, <time>아침 저녁</time>에는 찬바람이 솔솔 불어 무명고의 베적삼이 으스스하게 되었고, 또 <time>밤</time>에 덮을 것도 없이 자려면 사지가 가들어들어(옹송그려져) 잠을 이룰 수가 없었다.
-          <date cert="low">어젯저녁</date>에도 <placeName ref="#PL_CHILSUNG">칠성문 밖</placeName> 어떤 집 윗목에서 <time>밤새도록</time> 추워서 한잠을 이루지 못하고 <time>밤</time>을 새웠더니, <time>아침</time>부터 배가 아프기 시작하여 <rs type="person" ref="#PJS">아버지</rs>를 만나기 전에 <num value="3">세</num> 번이나 설사를 하였다.
+          <date cert="low">어젯저녁</date>에도 <placeName ref="#PL_CHILSUNG">칠성문</placeName> 밖 어떤 집 윗목에서 <time>밤새도록</time> 추워서 한잠을 이루지 못하고 <time>밤</time>을 새웠더니, <time>아침</time>부터 배가 아프기 시작하여 <rs type="person" ref="#PJS">아버지</rs>를 만나기 전에 <num value="3">세</num> 번이나 설사를 하였다.
           여러 날 괴로운 길의 노독과 고생과 또 <date cert="low">오늘</date> <rs type="person" ref="#PJS">아버지</rs>를 만날 때에 슬픔과 낙심으로 전신에 기운이 한땀도 없고 촌보를 옮길 생각이 없다.
           이때에 마침 어떤 사람이 이렇게 친절하게 <rs type="person" ref="#PYC">자기</rs>를 거두어 주니 <persName ref="#PYC">영채</persName>는 슬픈 중에도 얼마큼 안심이 되었다.
           그러나 <placeName ref="#PL_SUKCHON">숙천</placeName> 땅 <placeName ref="#PL_JUMAK">어느 주막</placeName>에서 <rs type="person" ref="#AKHAN">머리 깎은 사람</rs>에게 속은 생각을 하매, 이 사람이 또 그러한 사람이나 아닌가 하고 의심이 나서 자세히 그 사람의 언어와 행동을 보았다.
