@@ -2430,14 +2430,15 @@
           그때 <rs type="person" ref="#PJS">아버지</rs>께서 제 몸을 팔아 그 돈으로 그 아버지의 죄를 속한 <rs type="person" ref="#GIRL">옛날 처녀</rs>의 말을 들을 제, 아직 <measure type="age" unit="year" quantity="10">열 살</measure>이 넘지 못하였던 <persName ref="#PYC">영채</persName>는 눈물을 흘리며 <rs type="person" ref="#PYC">나</rs>도 그리하였으면 한 일이 있음을 생각하였다.
           <persName ref="#PYC">영채</persName>는 <rs type="person" ref="#KUR">그 사람</rs>이, ‘<said who="#KUR" direct="true" aloud="true">돈만 있으면 음식도 들일 수도 있고 혹 <rs type="place" ref="#PL_PYONGYANG_PRISON">옥</rs>에서 나오시게도 할 수 있다</said>’는 말을 듣고, <rs type="person" ref="#PYC">나</rs>도 그렇게 할까 하였다.
           <rs type="person" ref="#KUR">그 사람</rs>이 다시, ‘<said who="#KUR" direct="true" aloud="true">그러나 돈이 있어야 하지</said>’
-          하고 <persName ref="#PYC">영채</persName>의 얼굴을 보며 웃을 때에 <persName ref="#PYC">영채</persName>는 생각하기를, <said who="#PYC" direct="true" aloud="false">옳지, <rs type="person" ref="#KUR">이 어른</rs>도 <rs type="person" ref="#PYC">내</rs>가 <rs type="person" ref="#GIRL">옛날 처녀</rs>의 하던 일을 하라고 권하는 뜻이라</said> 하였다.
-          <said who="#PYC" direct="true" aloud="false"> <rs type="person" ref="#PYC">내</rs>가 이제 <rs type="person" ref="#GIRL">옛날 처녀</rs>의 본을 받아
-          <rs type="person" ref="#PYC">내</rs> 몸을 팔아 돈만 얻으면 <rs type="person" ref="#PJS">아버지</rs>와 <rs type="person" ref="#YC_BROTHERS">오라버니</rs>는 <rs type="place" ref="#PL_PYONGYANG_PRISON">옥</rs>에서 나오시렷다.
-          (<rs type="place" ref="#PL_PYONGYANG_PRISON">옥</rs>에서 나오시면 <rs type="person" ref="#PYC">나</rs>를 칭찬하시렷다.) 세상 사람이 <rs type="person" ref="#PYC">나</rs>를 효녀라고 칭찬하렷다.
+          하고 <persName ref="#PYC">영채</persName>의 얼굴을 보며 웃을 때에 <persName ref="#PYC">영채</persName>는 생각하기를, 
+          <said who="#PYC" direct="true" aloud="false">옳지, <rs type="person" ref="#KUR">이 어른</rs>도 <rs type="person" ref="#PYC">내</rs>가 <rs type="person" ref="#GIRL">옛날 처녀</rs>의 하던 일을 하라고 권하는 뜻이라</said> 하였다.
+          <said who="#PYC" direct="true" aloud="false"> <rs type="person" ref="#PYC">내</rs>가 이제 <rs type="person" ref="#GIRL">옛날 처녀</rs>의 본을 받아 <rs type="person" ref="#PYC">내</rs> 몸을 팔아 돈만 얻으면 <rs type="person" ref="#PJS">아버지</rs>와 <rs type="person" ref="#YC_BROTHERS">오라버니</rs>는 <rs type="place" ref="#PL_PYONGYANG_PRISON">옥</rs>에서 나오시렷다.
+          (<rs type="place" ref="#PL_PYONGYANG_PRISON">옥</rs>에서 나오시면 <rs type="person" ref="#PYC">나</rs>를 칭찬하시렷다.) 
+          세상 사람이 <rs type="person" ref="#PYC">나</rs>를 효녀라고 칭찬하렷다.
           <rs type="person" ref="#GIRL">옛날 처녀</rs> 모양으로 책에 기록하여 여러 처녀들이 읽고 <rs type="person" ref="#PYC">나</rs>와 같이 울며 칭찬하렷다.
           그러나 <rs type="person" ref="#PYC">내</rs>가 <rs type="person" ref="#PYC">내</rs> 몸을 팔아 부모와 형제를 구원하지 아니하면 <rs type="person" ref="#KUR">이 어른</rs>과 세상 사람이 다 <rs type="person" ref="#PYC">나</rs>를 불효한 계집이라고 비웃으렷다.</said>
-          또 그 동안 <rs type="place" ref="#PL_KUR_HOUSE">이 집</rs>에 있어 보니 <rs type="person" ref="#KUR_W">그 부인</rs>도 본래 <rs type="person" ref="#KUR_W">기생</rs>이요,
-          <rs type="person" ref="#KUR_SIS">그 처녀</rs>도 지금 <rs type="person" ref="#KUR_SIS">기생</rs> 공부를 한다 하매 매일 놀러 오는 <rs type="person" ref="#S11_GISAENG">기생들</rs>도 다 얼굴도 좋고 옷도 잘 입고 마음들도 다 착한데……
+          또 그 동안 <rs type="place" ref="#PL_KUR_HOUSE">이 집</rs>에 있어 보니 <rs type="person" ref="#KUR_W">그 부인</rs>도 본래 기생이요,
+          <rs type="person" ref="#KUR_SIS">그 처녀</rs>도 지금 기생 공부를 한다 하매 매일 놀러 오는 <rs type="person" ref="#S11_GISAENG">기생들</rs>도 다 얼굴도 좋고 옷도 잘 입고 마음들도 다 착한데……
           하였다.
           <rs type="person" ref="#S11_GISAENG">기생</rs>이란 다 좋은 처녀들이어니 하였다.
           더구나 <rs type="person" ref="#S11_GISAENG">그 기생들</rs>이 다 글씨를 잘 쓰고 글을 잘 아는 것을 보고, <rs type="person" ref="#S11_GISAENG">기생들</rs>은 다 공부도 잘한 처녀들이라 하였다.
