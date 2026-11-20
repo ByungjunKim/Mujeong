@@ -2361,7 +2361,7 @@
           모시고 있기는커녕 한 달에 한 번씩밖에 더 뵈올 수가 없고,
           또 손에 돈이 없고 <placeName ref="#PL_PY">평양</placeName>에 아는 사람이 없으니 <date cert="low">오늘 저녁</date>부터라도 먹고 잘 일이 걱정이라.
           또 <date cert="low">팔월도 이십 일</date>이 지났으니, <time>아침 저녁</time>에는 찬바람이 솔솔 불어 무명고의 베적삼이 으스스하게 되었고, 또 <time>밤</time>에 덮을 것도 없이 자려면 사지가 가들어들어(옹송그려져) 잠을 이룰 수가 없었다.
-          <date cert="low">어젯저녁</date>에도 <placeName ref="#PL_CHILSUNG">칠성문</placeName> 밖 어떤 집 윗목에서 <time>밤새도록</time> 추워서 한잠을 이루지 못하고 <time>밤</time>을 새웠더니, <time>아침</time>부터 배가 아프기 시작하여 <rs type="person" ref="#PJS">아버지</rs>를 만나기 전에 <num value="3">세</num> 번이나 설사를 하였다.
+          <date cert="low">어젯저녁</date>에도 <placeName ref="#PL_CHILSUNG">칠성문</placeName> 밖 어떤 집 윗목에서 <time>밤새도록</time> 추워서 한잠을 이루지 못하고 <time>밤</time>을 새웠더니, <time>아침</time>부터 배가 아프기 시작하여 <rs type="person" ref="#PJS">아버지</rs>를 만나기 전에 세 번이나 설사를 하였다.
           여러 날 괴로운 길의 노독과 고생과 또 <date cert="low">오늘</date> <rs type="person" ref="#PJS">아버지</rs>를 만날 때에 슬픔과 낙심으로 전신에 기운이 한땀도 없고 촌보를 옮길 생각이 없다.
           이때에 마침 어떤 사람이 이렇게 친절하게 <rs type="person" ref="#PYC">자기</rs>를 거두어 주니 <persName ref="#PYC">영채</persName>는 슬픈 중에도 얼마큼 안심이 되었다.
           그러나 <placeName ref="#PL_SUKCHON">숙천</placeName> 땅 <placeName ref="#PL_JUMAK">어느 주막</placeName>에서 <rs type="person" ref="#AKHAN">머리 깎은 사람</rs>에게 속은 생각을 하매, 이 사람이 또 그러한 사람이나 아닌가 하고 의심이 나서 자세히 그 사람의 언어와 행동을 보았다.
@@ -2615,7 +2615,7 @@
       <div type="chapter" n="18" resp="#enc11-20" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/1%EC%9E%A5~20%EC%9E%A5">
         <head>18장</head>
         <p>이튿날 <persName ref="#LHS">형식</persName>은 어젯밤 늦게야 잠이 들었던 탓으로 <time>여덟시</time>가 지나서야 일어났다.
-          세수를 하고 <persName ref="#PYC">영채</persName>의 일을 생각하며 조반을 먹을 제, <persName ref="#LHS">형식</persName>이가 가르치는 <orgName ref="#ORG_GYEONGSUNG">경성학교</orgName> 학생 <num value="2">두</num> 사람이 왔다.
+          세수를 하고 <persName ref="#PYC">영채</persName>의 일을 생각하며 조반을 먹을 제, <persName ref="#LHS">형식</persName>이가 가르치는 <orgName ref="#ORG_GYEONGSUNG">경성학교</orgName> 학생 두 사람이 왔다.
           <persName ref="#LHS">형식</persName>은 어느 학생에게나 친절하고 다정하게 하므로 <persName ref="#LHS">형식</persName>을 따르는 학생이 많았었다.
           그 중에도 <persName ref="#LHS">형식</persName>은 <rs type="person" ref="#LHS">자기</rs>의 과거의 신세를 생각하여 불쌍한 학생에게 특별히 동정을 표하고, 그러할 뿐더러 그 얼마 아니 되는 수입을 가지고 학비 없는 학생을 이삼 인이나 도와 주었다.
           그러나 <persName ref="#LHS">형식</persName>에게는 재주 있는 학생 얌전한 학생을 더욱 사랑하는 버릇이 있었다.
@@ -2642,9 +2642,9 @@
           그러므로 <rs type="person" ref="#STU2">어린 학생들</rs>은 경례하고 돌아서서는 혀를 내어밀고 웃으면서도 <rs type="person" ref="#KJY">그</rs>와 마주 대하여서는 공순히 경례를 한다.
           동급생 중에 <persName ref="#GYE">김계도</persName>라 하는, <persName ref="#KJY">김종렬</persName>과 비슷한 학생이 있다.
           <persName ref="#GYE">김계도</persName>는 <persName ref="#KJY">김종렬</persName>보다 좀 온화하고 공손하여 사귈 맛은 있으나 그 일하기를 좋아하고 어른스럽게 행동하는 점에는 서로 일치한다.
-          게다가 연치가 상적하고 의취가 상합하므로 <persName ref="#KJY">김종렬</persName>과 <persName ref="#GYE">김계도</persName> <num value="2">양</num>인은 절친한 지기지우라.
+          게다가 연치가 상적하고 의취가 상합하므로 <persName ref="#KJY">김종렬</persName>과 <persName ref="#GYE">김계도</persName> 양인은 절친한 지기지우라.
           <persName ref="#KJY">김종렬</persName>의 생각에는, 세상에 족히 마음을 허하고 서로 천하를 의논할 사람은 나폴레옹과 <persName ref="#GYE">김계도</persName>밖에는 없다 하였다.
-          <rs type="person" ref="#KJY">그</rs>는 무론 나폴레옹의 자세한 전기도 <num value="1">한</num> 권 읽지 아니하였으나, 다만 서양사에서 얻어들은 재료를 가지고 즉각적으로 나폴레옹은 이러한 사람이어니 하여 <rs type="person" ref="#KJY">자기</rs>의 유일한 숭배 인물을 삼았다.
+          <rs type="person" ref="#KJY">그</rs>는 무론 나폴레옹의 자세한 전기도 한 권 읽지 아니하였으나, 다만 서양사에서 얻어들은 재료를 가지고 즉각적으로 나폴레옹은 이러한 사람이어니 하여 <rs type="person" ref="#KJY">자기</rs>의 유일한 숭배 인물을 삼았다.
           친구와 이야기를 할 때에도 나폴레옹이요, 동창회에서 연설을 할 때에도 나폴레옹이라.
           모든 것에 나폴레옹을 인용하므로 학생들은 <rs type="person" ref="#KJY">그</rs>를 나폴레옹이라고 별호를 짓고,
           얼굴이 검다 하여 <rs type="person" ref="#KJY">그</rs>의 별호에 ‘검은’이라는 형용사를 붙여 ‘검은 나폴레옹’이라고 부르게 되고, 혹 영리한 학생은―<persName ref="#LHK">이희경</persName>도 그렇다― 발음의 편의상 ‘검은 나폴레옹’을 줄여 ‘검나, 검나’ 하고 부르게 되었다.
@@ -2685,7 +2685,7 @@
         <p>또 학생들이 무슨 일을 의논하여 <persName ref="#KJY">김종렬</persName>을 내어세웠는고 하고 <persName ref="#LHS">형식</persName>은 지극히 은근하게,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">왜, 무슨 일이 있습니까.</said>”</p>
         <p>“<said who="#KJY" direct="true" aloud="true">녜, 학교에 중대사건이 발생하였습니다.</said>” <persName ref="#KJY">김종렬</persName>은 이렇게 조고마한 일에도 법률상, 정치상 술어를 쓰기를 좋아하며 또 다른 것을 외우는 재주는 없으되, <rs type="person" ref="#KJY">자기</rs>의 유일한 숭배 인물인 나폴레옹의 이름이 보나파르트인 줄도 외우지 못하되, 법률상 정치상의 술어는 용하게 잘 외운다.
-          한번 들으면 반드시 실제에 응용을 하나니, 혹 잘못 응용하는 때도 있거니와 <num type="cardinal" value="10">열</num>에 <num type="cardinal" value="4">네</num> <num type="cardinal" value="5">다섯</num>은 옳게 응용한다.
+          한번 들으면 반드시 실제에 응용을 하나니, 혹 잘못 응용하는 때도 있거니와 열에 네 다섯은 옳게 응용한다.
           이번 <persName ref="#LHS">형식</persName>에게 ‘<said who="#KJY" direct="true" aloud="true">중대사건이 일어났습니다</said>’ 한 것 같은 것은 적당하게 응용한 일례라.
           <persName ref="#LHS">형식</persName>은,
         </p>
@@ -2695,7 +2695,7 @@
           하고 동맹 퇴학 청원서를 낸다.
           <persName ref="#KJY">김종렬</persName>은 그만 말 두 마디를 잘못 적용하였다.
           ‘처분 권리’의 ‘권리’는 연문이요, ‘동맹을 체결한다’는 ‘체결’은 너무 굉장하다 하였다.
-          그러나 <measure type="length" quantity="1" unit="m">한 발</measure>이나 되는 퇴학 청원서에 <num type="cardinal" value="200">이백</num>여 명이 연명 날인한 것을 보고 <persName ref="#LHS">형식</persName>은 놀랐다.
+          그러나 <measure type="length" quantity="1" unit="m">한 발</measure>이나 되는 퇴학 청원서에 이백여 명이 연명 날인한 것을 보고 <persName ref="#LHS">형식</persName>은 놀랐다.
           과연 ‘중대사건’이요, 굉장하게 ‘동맹을 체결하였구나’ 하였다.
           <persName ref="#KJY">김종렬</persName>은 퇴학 청원서를 내어 <persName ref="#LHS">형식</persName>을 주며 <rs type="person" ref="#KJY">자기</rs>도 <persName ref="#LHS">형식</persName>의 곁으로 가까이 자리를 옮겨 그 글을 낭독하려는 모양을 보인다.
           <persName ref="#LHS">형식</persName>은 너무 <persName ref="#KJY">김종렬</persName>의 예절답지 못한 데 불쾌한 생각이 나서 얼른 퇴학 청원서를 책상 위에 올려놓고 <rs type="person" ref="#LHS">자기</rs> 혼자만 소리 없이 읽었다.
@@ -2734,11 +2734,11 @@
           학감 <persName ref="#BMS">배명식</persName>은 <orgName ref="#ORG_DONGSABUM">동경고등사범</orgName> 지리 역사과의 전과를 졸업하고 <measure type="duration" quantity="2" unit="year" atLeast="2" atMost="3">이삼 년</measure>
           전에 환국하여 <orgName ref="#ORG_GYEONGSUNG">경성학교</orgName>주 <persName ref="#KNJ">김남작</persName>의 청탁으로
           대번에 <orgName ref="#ORG_GYEONGSUNG">경성학교</orgName>의 학감이라는 중요한 지위를 얻었다.
-          <orgName ref="#ORG_GYEONGSUNG">경성학교</orgName>의 <num type="cardinal" value="10" atLeast="10" atMost="19">십여</num> 명 교사가 다 중등교원의 법률상 자격이 없는 중에 <rs type="person" ref="#BMS">자기</rs>는 당당히 <orgName ref="#ORG_DONGSABUM">동경고등사범학교</orgName>를 졸업하였노라 하여 학교 일에 대한 만반 사무는 오직 <rs type="person" ref="#BMS">자기</rs>의 임의대로 하였다.
+          <orgName ref="#ORG_GYEONGSUNG">경성학교</orgName>의 십여 명 교사가 다 중등교원의 법률상 자격이 없는 중에 <rs type="person" ref="#BMS">자기</rs>는 당당히 <orgName ref="#ORG_DONGSABUM">동경고등사범학교</orgName>를 졸업하였노라 하여 학교 일에 대한 만반 사무는 오직 <rs type="person" ref="#BMS">자기</rs>의 임의대로 하였다.
           <rs type="person" ref="#BMS">그</rs>의 주장하는 바를 듣건대 <orgName ref="#ORG_DONGSABUM">동경고등사범학교</orgName>는 세계에 제일 좋은 학교요, 그 학교를 졸업한 <rs type="person" ref="#BMS">자기</rs>는 <placeName ref="#PL_JS">조선</placeName>에 제일가는 교육가라.
           교육에 관한 모든 것에 모르는 것이 없고 <rs type="person" ref="#BMS">자기</rs>가 하려 하는 모든 일은 다 교육학의 원리와 <placeName ref="#PL_JS">조선</placeName>의 시세에 맞는 것이라 하였다.
           그러나 곁에서 보기에는 고등사범을 졸업하지 아니한 다른 교사들보다 별로 나은 줄을 모르겠더라.
-          <rs type="person" ref="#BMS">그</rs>는 취임 초에 학과의 변경을 주장하고 지리와 역사는 만학의 집합처라 하여 시간을 배나 늘리고, 수학과 박물은 중등교육에 그다지 필요한 것이 아니라 하여 시간 수효를 <num type="cardinal" value="2" atLeast="2" atMost="3">이삼</num> 할이나 줄였다.
+          <rs type="person" ref="#BMS">그</rs>는 취임 초에 학과의 변경을 주장하고 지리와 역사는 만학의 집합처라 하여 시간을 배나 늘리고, 수학과 박물은 중등교육에 그다지 필요한 것이 아니라 하여 시간 수효를 이삼 할이나 줄였다.
           <rs type="person" ref="#BMS">그</rs>는 역사 지리 중심 교육론자로라 자칭하여 학생을 대하여서는 역사 지리가 모든 학과 중에 가장 필요하고 귀중한 학과이며, 따라서 역사와 지리를 가르치는 교사가 가장 중요하고 힘드는 교사라 하였다.
           그때에 다른 교사들은 <orgName ref="#ORG_CHONGDOKBU">총독부</orgName>의 고등보통교육령과 <placeName ref="#PL_JAPAN">일본</placeName> 중학교의 제도를 근거로 하여 <rs type="person" ref="#BMS">배학감</rs>의 주장에 반대하였다.
           <rs type="person" ref="#BMS">배학감</rs>은 웃으며, “<said who="#BMS" aloud="true" direct="true">여러분은 교육의 원리를 모르시니까</said>”
@@ -2753,7 +2753,7 @@
         </p>
         <p>“<said who="#LHS" aloud="true" direct="true">선생의 신학설은 뉘 학설을 근거로 한 것이오니까. 페스탈로치오니까, 엘렌 케이오니까?</said>”</p>
         <p><rs type="person" ref="#BMS">배학감</rs>은 페스탈로치가 누구며, 엘렌 케이가 누군지 한번 들은 듯은 하건마는 얼른 생각이 아니 난다.
-          그러나 <placeName ref="#PL_JS">조선</placeName> 일류 교육가가 <num type="ordinal" value="3" atLeast="3" atMost="4">삼사</num>류의 교육가가 아는 이름을 모른다 함도 수치라, 이에 <rs type="person" ref="#BMS">배학감</rs>은 껄껄 웃으며,
+          그러나 <placeName ref="#PL_JS">조선</placeName> 일류 교육가가 삼사류의 교육가가 아는 이름을 모른다 함도 수치라, 이에 <rs type="person" ref="#BMS">배학감</rs>은 껄껄 웃으며,
         </p>
         <p>“녜, 나도 푸스털과 얼른커의 학설은 보았지요.
           그러나 그것은 다 지다이 오쿠레(時代運)왼다” 한다.
@@ -2775,7 +2775,7 @@
         <p><rs type="person" ref="#BMS">배학감</rs>은 또 규칙을 좋아한다.
           ‘규칙적’이란 말과 ‘엄하게’라는 말은 <rs type="person" ref="#BMS">배학감</rs>의 가장 잘 쓰는 말이었다.
           취임 후 얼마 아니하여 친히 규칙을 개정하였다.
-          개정이 아니라 이전 있던 규칙은 교육의 원리에 합하지 아니하여 폐지하고 <rs type="person" ref="#BMS">자기</rs>의 신학설을 기초로 하여 온통 <num value="200">이백</num>여 조에 달하는 당당한 대규칙을 제정하였다.
+          개정이 아니라 이전 있던 규칙은 교육의 원리에 합하지 아니하여 폐지하고 <rs type="person" ref="#BMS">자기</rs>의 신학설을 기초로 하여 온통 이백여 조에 달하는 당당한 대규칙을 제정하였다.
           어느 날 직원 회의에 <rs type="person" ref="#TEA">교원 일동</rs>을 소집하고 친히 신규칙의 각 조목을 낭독하며 일일이 그 규칙의 정신을 설명하였다.
           <time when="13:00:00">오후 한시</time>에 시작한 것이 <time when="16:00:00">넉점</time>이 지나도록 끝이 나지 못하였다.
           <rs type="person" ref="#BMS">배학감</rs>은 이마와 코에 땀이 흐르고 목이 쉬었다.
@@ -2783,7 +2783,7 @@
           어떤 교원은 고개를 푹 숙이고 코를 골다가 학감의 대갈일성에 깊이 든 꿈을 놀라기도 하고, 어떤 교원은 문을 홱 닫치고 뒷간에 한번 간 후에 영원히 다시 돌아오지 아니하였다.
           그때에 <persName ref="#LHS">형식</persName>은 참다 못하여, “<said who="#LHS" direct="true" aloud="true">그것은 학교 규칙이 아니라 한 나라의 법률이외다그려</said>”
           하고 그 조목이 너무 많음을 공격하였다.
-          자리에 있던 <num value="5">오</num> <num value="6">륙</num> 인―뒷간에 가고 남은―<rs type="person" ref="#TEA">교원</rs>은 일제히 <persName ref="#LHS">형식</persName>의 말에 찬성을 표하였다.
+          자리에 있던 오륙 인―뒷간에 가고 남은―<rs type="person" ref="#TEA">교원</rs>은 일제히 <persName ref="#LHS">형식</persName>의 말에 찬성을 표하였다.
           그러나 학감의 직권으로 이 규칙이 확정이 되었다.
           <rs type="person" ref="#BMS">배학감</rs>과 일반 <rs type="person" ref="#TEA">교원</rs> 및 학생과의 갈등이 심하여진 것은 이때부터라.
         </p>
@@ -5288,9 +5288,9 @@
           하고 <rs type="person" ref="#PYC #KBU">두 사람</rs> 앞에 와 섰다.
         </p>
         <p><persName ref="#LHS">형식</persName>은 얼마 전에 이 차실에 들어와서 바로 <persName ref="#PYC">영채</persName>의 곁으로 오려다가
-          <persName ref="#PYC">영채</persName>가 우는 듯한 모양을 보고 <persName ref="#PYC">영채</persName> 앉은 걸상에서 <num value="3" atLeast="3" atMost="4">서넛</num> 건너 있는 빈 걸상에 앉아서
+          <persName ref="#PYC">영채</persName>가 우는 듯한 모양을 보고 <persName ref="#PYC">영채</persName> 앉은 걸상에서 서넛 건너 있는 빈 걸상에 앉아서
           가만히 <rs type="person" ref="#PYC #KBU">두 사람</rs>의 말을 엿들었다.
-          찻바퀴 소리에 자세히 들리지는 아니하나 이따금 이따금 <num value="1">한</num> 마디씩<num value="2">두</num> 마디씩 들리는 말을 주워 모으면 대강 뜻은 짐작할 수가 있었다.
+          찻바퀴 소리에 자세히 들리지는 아니하나 이따금 이따금 한 마디씩두 마디씩 들리는 말을 주워 모으면 대강 뜻은 짐작할 수가 있었다.
           그러고 <persName ref="#LHS">형식</persName>은 <persName ref="#PYC">영채</persName>에게 대하여 죄송한 마음과 <rs type="person" ref="#LHS">자기</rs>에게 대하여 부끄러운 마음을 금치 못하여
           <persName ref="#PYC">영채</persName>에게 정성껏 사죄를 하리라 하였다.
         </p>
@@ -5971,7 +5971,7 @@
           숨쉬듯 불어오는 동남풍에 비스듬히 휘면서 뒷산으로 달아 들어간다.
           그러할 때마다 풀대 사이로 흙물이 모래를 밀고 왁 쓸려 내려온다.
           또 한번 우레 소리가 나고는 또 한바탕 앞산 너머로서 모진 비가 밀려 넘어온다.
-          그 속에 <num value="100">백여</num> 명 사람들은 어찌할 줄을 모르고 가만히 섰다.
+          그 속에 백여 명 사람들은 어찌할 줄을 모르고 가만히 섰다.
           처음에는 무서운 마음도 나고 슬픈 마음도 났건마는 한참 지나서는 아무러한 생각도 없이 되었다.
           굵은 빗발이 깨어져라 하고 얼굴을 때릴 때마다 흑흑 느끼며 몸을 움츠릴 뿐이라.
         </p>
