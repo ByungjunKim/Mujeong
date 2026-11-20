@@ -805,12 +805,6 @@
             <persName>계집 하인도</persName>
             <note type="source-ids">구간 원 ID: 71-80:SERV</note>
           </person>
-          <person xml:id="STU1" sex="M" cert="low">
-            <persName type="main">경성학교 학생 두 사람</persName>
-            <persName>학생 두 사람</persName>
-            <persName>두 학생</persName>
-            <note type="source-ids">구간 원 ID: 11-20:STU1</note>
-          </person>
           <person xml:id="STU2" sex="M" cert="low">
             <persName type="main">어린 학생</persName>
             <persName>일년급 어린 학생들</persName>
@@ -2623,7 +2617,7 @@
         <p>이튿날 <persName ref="#LHS">형식</persName>은 어젯밤 늦게야 잠이 들었던 탓으로 <time>여덟시</time>가 지나서야 일어났다.
           세수를 하고 <persName ref="#PYC">영채</persName>의 일을 생각하며 조반을 먹을 제, <persName ref="#LHS">형식</persName>이가 가르치는 <orgName ref="#ORG_GYEONGSUNG">경성학교</orgName> 학생 <num value="2">두</num> 사람이 왔다.
           <persName ref="#LHS">형식</persName>은 어느 학생에게나 친절하고 다정하게 하므로 <persName ref="#LHS">형식</persName>을 따르는 학생이 많았었다.
-          그 중에도 <persName ref="#LHS">형식</persName>은 <rs type="person" ref="#LHS">자기</rs>의 과거의 신세를 생각하여 불쌍한 학생에게 특별히 동정을 표하고, 그러할 뿐더러 그 얼마 아니 되는 수입을 가지고 학비 없는 학생을 이삼인이나 도와 주었다.
+          그 중에도 <persName ref="#LHS">형식</persName>은 <rs type="person" ref="#LHS">자기</rs>의 과거의 신세를 생각하여 불쌍한 학생에게 특별히 동정을 표하고, 그러할 뿐더러 그 얼마 아니 되는 수입을 가지고 학비 없는 학생을 이삼 인이나 도와 주었다.
           그러나 <persName ref="#LHS">형식</persName>에게는 재주 있는 학생 얌전한 학생을 더욱 사랑하는 버릇이 있었다.
           무론 아무나 재주 있고 얌전한 사람을 더욱 사랑하건마는, 그네는 용하게 그것을 겉에 드러내지 아니하되, 정이 많은 <persName ref="#LHS">형식</persName>은 이러할 줄을 모르고 <rs type="person" ref="#LHS">자기</rs>의 어떤 사람에게 대한 특별한 사랑을 감추지 못하였다. 
           그래서 <rs type="person" ref="#FRIEND">어떤 친구</rs>가 <persName ref="#LHS">형식</persName>에게, 
@@ -2634,7 +2628,7 @@
           이리하여서 <persName ref="#LHS">형식</persName>은 동료간에나 학생간에 편애하는 사람이라는 말을 듣고, 혹 어떤 <persName ref="#LHS">형식</persName>을 미워하는 사람은, <persName ref="#LHS">형식</persName>이가 얼굴 어여쁜 학생만 사랑한다는 말도 한다.
           학생 중에도 <rs type="person" ref="#STU3">삼사년급 심술 사납고 장난 잘하는 학생들</rs>은, <persName ref="#LHS">형식</persName>은 얼굴 어여쁜 학생만 사랑하여 시험 점수도 특별히 많이 주고, 질문하는 것도 특별히 잘 가르쳐 준다 하며, <persName ref="#LHS">형식</persName>이가 특별히 사랑하는 학생을 대하여서는 듣기 싫은 비방도 많이 한다.
           그럴 때면 <persName ref="#LHS">형식</persName>의 특별히 사랑하는 학생들이 <persName ref="#LHS">형식</persName>을 위하여 여러 가지로 변명하건마는, 도리어 <rs type="person" ref="#STU3">심술 사나운 학생들</rs>은 그네를 비웃었다.
-          지금 <persName ref="#LHS">형식</persName>을 찾아온 <rs type="person" ref="#LHK #KJY">두 학생</rs> 중에 십 칠팔 세 되는 얌전해 보이는 학생은 <persName ref="#LHS">형식</persName>의 특별한 사랑을 받는 자 중에 하나이요, <rs type="person" ref="#LHK">그</rs>와 함께 온 키 크고 얼굴 거무테테한 학생은 <persName ref="#LHS">형식</persName>을 미워하는 학생 중의 하나이라.
+          지금 <persName ref="#LHS">형식</persName>을 찾아온 <rs type="person" ref="#LHK #KJY">두 학생</rs> 중에 십칠팔 세 되는 얌전해 보이는 학생은 <persName ref="#LHS">형식</persName>의 특별한 사랑을 받는 자 중에 하나이요, <rs type="person" ref="#LHK">그</rs>와 함께 온 키 크고 얼굴 거무테테한 학생은 <persName ref="#LHS">형식</persName>을 미워하는 학생 중의 하나이라.
           <persName ref="#LHS">형식</persName>을 사랑하는 학생의 이름은 <persName ref="#LHK">이희경</persName>이니 지금 <orgName ref="#ORG_GYEONGSUNG">경성학교</orgName> 사년급 첫 자리요, 다른 학생의 이름은 <persName ref="#KJY">김종렬</persName>이니, 겨우하여 낙제나 아니하고 따라 올라오는, 역시 <orgName ref="#ORG_GYEONGSUNG">경성학교</orgName> 사년생이라.
           그러나 이 <persName ref="#KJY">김종렬</persName>은 낫살이 많고 또 공부에 재주는 없으면서도 무슨 일을 꾸미는 수단이 매우 능란하여 이년급 이래로 그 반의 모든 일은 다 제가 맡아 하게 되고, 그뿐더러 이 <persName ref="#KJY">김종렬</persName>이가 무슨 의견을 제출하면 열에 아홉은 <rs type="person" ref="#STU4">전반 학생</rs>이 다 찬성한다.
           <rs type="person" ref="#STU4">전반 학생</rs>이 반드시 <rs type="person" ref="#KJY">그</rs>를 존경하거나 사랑함이 아니로되,
@@ -2666,25 +2660,27 @@
       </div>
       <div type="chapter" n="19" resp="#enc11-20" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/1%EC%9E%A5~20%EC%9E%A5">
         <head>19장</head>
-        <p><persName ref="#LHS">형식</persName>은 궐련을 피워 물고 <persName ref="#KJY">김종렬</persName>과 <persName ref="#LHK">이희경</persName> 두 학생을 웃는 낯으로 대한다.
+        <p>
+          <persName ref="#LHS">형식</persName>은 궐련을 피워 물고 <persName ref="#KJY">김종렬</persName>과 <persName ref="#LHK">이희경</persName> 두 학생을 웃는 낯으로 대한다.
           무슨 일이 있어서 이 두 학생이 찾아왔는지는 모르거니와 <persName ref="#KJY">김종렬</persName>, <persName ref="#LHK">이희경</persName> 양인이 함께 온 것을 보니 학생 전체에 관한 일이거나, 그렇지 아니하면 사년급 전체에 관한 일인 줄은 알았다.
           대개 전부터 학생 전체에 관한 일이거나, 사년급 전체에 관한 일에는 <rs type="person" ref="#KJY #LHK">이 두 사람</rs>이 흔히 총대가 됨을 앎이다.
-          원 격식으로 말하면 최상급의 반장인 <persName ref="#LHK">이희경</persName>이가 으레 <rs type="person" ref="#LHK">그 총대</rs>가 될 것이로되, <persName ref="#LHK">이희경</persName>은 아직 나이 어리고 또 <persName ref="#KJY">김종렬</persName>과 같이 얼굴(일을) 좋아하는 마음과 일을 잘 처리하는 수단이 없으므로 항상 <persName ref="#KJY">김종렬</persName>의 절제를 받는다.
-          혹 <persName ref="#LHK">이희경</persName>이가 갈 일에도 <persName ref="#KJY">김종렬</persName>은 마치 <rs type="person" ref="#LHK">어린것</rs>을 혼자 보내는 것이 마음이 아니 놓이는 듯이,
-          반드시 <persName ref="#LHK">희경</persName>의 뒤를 따라가고,
-          따라가서는 이 <persName ref="#LHK">희경</persName>이가 두어 마디 말도 하기 전에 <rs type="person" ref="#KJY">자기</rs>가 가로맡아 말을 하고 <persName ref="#LHK">이희경</persName>은 도리어 따라온 사람 모양으로 한 걸음 물러서서 방긋방긋 웃고만 있을 뿐이다.
-          <persName ref="#LHK">이희경</persName>은 이렇게 <persName ref="#KJY">김종렬</persName>에게 권리의 침해를 받으면서도 처음은 <rs type="person" ref="#LHK">자기</rs>의 인격을 무시하는 듯하여 불쾌한 생각도 있었으며(있었으나) 점점 습관이 되매,
-          도리어 <persName ref="#KJY">김종렬</persName>이가 <rs type="person" ref="#LHK">자기</rs>의 할일을 가로맡아 하여 주는 것을 다행으로 여길 뿐더러,
+        </p>
+        <p>
+          원 격식으로 말하면 최상급의 반장인 <persName ref="#LHK">이희경</persName>이가 으레 그 총대가 될 것이로되, 
+          <persName ref="#LHK">이희경</persName>은 아직 나이 어리고 또 <persName ref="#KJY">김종렬</persName>과 같이 얼굴(일을) 좋아하는 마음과 일을 잘 처리하는 수단이 없으므로 항상 <persName ref="#KJY">김종렬</persName>의 절제를 받는다.
+          혹 <persName ref="#LHK">이희경</persName>이가 갈 일에도 <persName ref="#KJY">김종렬</persName>은 마치 어린것을 혼자 보내는 것이 마음이 아니 놓이는 듯이, 반드시 <persName ref="#LHK">희경</persName>의 뒤를 따라가고, 따라가서는 <persName ref="#LHK">이희경</persName>이가 두어 마디 말도 하기 전에 <rs type="person" ref="#KJY">자기</rs>가 가로맡아 말을 하고 <persName ref="#LHK">이희경</persName>은 도리어 따라온 사람 모양으로 한 걸음 물러서서 방긋방긋 웃고만 있을 뿐이다.
+          <persName ref="#LHK">이희경</persName>은 이렇게 <persName ref="#KJY">김종렬</persName>에게 권리의 침해를 받으면서도 처음은 <rs type="person" ref="#LHK">자기</rs>의 인격을 무시하는 듯하여 불쾌한 생각도 있었으며(있었으나) 점점 습관이 되매, 도리어 <persName ref="#KJY">김종렬</persName>이가 <rs type="person" ref="#LHK">자기</rs>의 할일을 가로맡아 하여 주는 것을 다행으로 여길 뿐더러,
           혹 <rs type="person" ref="#LHK">자기</rs>가 공부가 분주하거나 일하기가 싫은 때에는 <rs type="person" ref="#LHK">자기</rs>가 <persName ref="#KJY">김종렬</persName>을 찾아가서 <rs type="person" ref="#LHK">자기</rs>의 맡은 일을 위탁하기조차 한다.
           그리하면 <persName ref="#KJY">김종렬</persName>은 즉시 승낙하고 <rs type="person" ref="#KJY">저</rs> 볼일도 내어놓고 알선한다.
           이러한 때마다 <persName ref="#LHK">이희경</persName>은 혼자 웃었다.
+        </p>
+        <p> 
           이번에 <persName ref="#LHS">형식</persName>을 찾아온 일도 아마 명의상으로는 <persName ref="#LHK">이희경</persName>이가 대표요, <persName ref="#KJY">김종렬</persName>은 수행원인 줄을 <persName ref="#LHS">형식</persName>은 알았다.
           그러고 정작 대표자는 상긋상긋 웃고만 앉았고 수행원인 <persName ref="#KJY">김종렬</persName>이가 입을 열어, ‘<said who="#KJY" direct="true" aloud="true">저희가 오늘 선생을 찾은 것은</said>’ 함이 하도 우스워서 <persName ref="#LHS">형식</persName>은 속으로 웃었다.
           그러고 <persName ref="#KJY">김종렬</persName> 같은 사람도 사회에 쓸 곳이 많다 하였다.
           <rs type="person" ref="#KJY">저런 사람</rs>은 아무 재능도 없으되, 오직 무슨 일이나 하기 좋아하는 성미가 있으므로 그것을 잘 이용하면 여러 가지 좋은 일을 실행하기에 편리하리라 하였다.
           <persName ref="#KJY">김종렬</persName> 같은 사람은 조고마한 일을 맡길 때에도 그것을 큰일인 듯이 말하고, 조고마한 성공을 하거든 그것이 큰 성공인 듯이, 사회에 큰 이익이 있는 성공인 듯이 말하고, ‘<said who="#LHS" direct="true" aloud="false">노형이 아니면 이 일을 할 수가 없소</said>’ 하여 주기만 하면 <rs type="person" ref="#KJY">그</rs>는 물불을 가리지 아니하고 아무러한 일이나 맡으리라 하였다.
-          지금 <rs type="person" ref="#KJY">자기</rs>가 <rs type="person" ref="#KJY">자기</rs>보다 유치하게 보고 철없게 보는 <persName ref="#LHK">이희경</persName>이가 얼마가 아니하여 <rs type="person" ref="#KJY">자기</rs>를 부리는 사람이 되고,
-          <rs type="person" ref="#KJY">자기</rs>보다 세상에 더 공경받는 사람이 될 것이언마는 <persName ref="#KJY">김종렬</persName>은 그런 줄을 모르나니 그런 줄을 모르는 것이 <persName ref="#KJY">김종렬</persName>에게는 행복이라 하였다.
+          지금 <rs type="person" ref="#KJY">자기</rs>가 <rs type="person" ref="#KJY">자기</rs>보다 유치하게 보고 철없게 보는 <persName ref="#LHK">이희경</persName>이가 얼마가 아니하여 <rs type="person" ref="#KJY">자기</rs>를 부리는 사람이 되고, <rs type="person" ref="#KJY">자기</rs>보다 세상에 더 공경받는 사람이 될 것이언마는 <persName ref="#KJY">김종렬</persName>은 그런 줄을 모르나니 그런 줄을 모르는 것이 <persName ref="#KJY">김종렬</persName>에게는 행복이라 하였다.
         </p>
         <p>또 학생들이 무슨 일을 의논하여 <persName ref="#KJY">김종렬</persName>을 내어세웠는고 하고 <persName ref="#LHS">형식</persName>은 지극히 은근하게,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">왜, 무슨 일이 있습니까.</said>”</p>
@@ -2694,7 +2690,7 @@
           <persName ref="#LHS">형식</persName>은,
         </p>
         <p>“<said who="#LHS" direct="true" aloud="true">녜, 무슨 중대사건이오?</said>”</p>
-        <p>“<said who="#STU1" direct="true" aloud="true">저희는 삼사년급이 합하여 <rs type="org" ref="#ORG_STUDENT_ALLIANCE">동맹 퇴학</rs>을 하려 합니다.
+        <p>“<said who="#KJY" direct="true" aloud="true"><rs type="person" ref="#LHK #KJY">저희</rs>는 삼사년급이 합하여 <rs type="org" ref="#ORG_STUDENT_ALLIANCE">동맹 퇴학</rs>을 하려 합니다.
           학교의 학생에게 대한 처분 권리를 불만족히 여겨서 이렇게 동맹을 체결한 것이올시다</said>”
           하고 동맹 퇴학 청원서를 낸다.
           <persName ref="#KJY">김종렬</persName>은 그만 말 두 마디를 잘못 적용하였다.
