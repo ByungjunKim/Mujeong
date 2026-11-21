@@ -1169,7 +1169,7 @@
       <change when="2026-11-12" who="#merge">v1: 수강생이 v0에 직접 고친 내용(헤더 식별자, 51–60 장 구분, 71–80 · 101–110 수정 등)을 이어받고, 11주차 회의 결정을 반영함. 김장로 ID KJH → KGH, 박진사 · 박응진 · 영채의 아버지를 PJS로, 1–10 · 11–20의 악한을 AKHAN으로 합침. 서술자 '나', 개, 작품 밖 인물은 등록하지 않고 본문 태그를 벗김. @toWhom · @ana를 지움. 본문 글자는 바꾸지 않음.</change>
       <change when="2026-11-13">위키문헌 저본의 장 구분과 각 장 첫 문단을 대조하여 11–20·111–120장의 part 2개를 chapter 20개로 나누고 각 장 번호(n)와 제목(head)을 추가함. 본문 문단과 기존 태그·속성은 유지하고, 111–120장의 장 구분 복원 필요 메모를 삭제함.</change>
       <change when="2026-11-19">사용자 지정에 따라 78장의 두부 장수를 28장의 TOUBU로 통합함. 인물 지칭과 발화자의 참조를 #TOUBU로 통일하고 별도 인물 항목 S78_TOFU_VENDOR를 삭제함.</change>
-      <change when="2026-11-22">61–70장 동경 소년 집단의 인사에 S61_TK_BOYS를 연결하고, 「녜」라고 대답한 소년은 S61_TK_BOY_01로 별도 등록하였다. 67장 경성학교 소년들의 「선생님」 발화에는 S61_GYEONGSUNG_BOYS를 연결하고, 미상 조롱자 발화에는 S67_UNKNOWN을 지정하였다.</change>
+      <change when="2026-11-22">61–70장 동경 소년 집단의 인사에 S61_TK_BOYS를 연결하고, 「녜」라고 대답한 소년은 S61_TK_BOY_01로 별도 등록하였다. 67장 경성학교 소년들의 「선생님」 발화에는 S61_GYEONGSUNG_BOYS를 연결하고, 미상 조롱자 발화에는 S67_UNKNOWN을 지정하였다. 숙천 객주에서 영채를 업어 간 인물의 지칭은 기존 인물 YAK에 연결하였다.</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
@@ -3877,7 +3877,7 @@
           <persName ref="#LHS">형식</persName>은
           <persName ref="#PYC">영채</persName>가
           <placeName ref="#PL_SUKCHON">숙천</placeName> 어느 객주에
-          <rs type="person">어떤 사람</rs>에게 업혀 가다가 <rs type="person">그 사람</rs>의
+          <rs type="person" ref="#YAK">어떤 사람</rs>에게 업혀 가다가 <rs type="person" ref="#YAK">그 사람</rs>의
           얼굴에 흙을 뿌리던 생각을 한다. <persName ref="#GH">계향</persName>은 우뚝 서며 우는
           <rs type="person" ref="#S61_AI">아이</rs>를 돌아보더니 두 손으로
           <persName ref="#LHS">형식</persName>의 손을 꼭 쥔다.
