@@ -1083,6 +1083,11 @@
             <note>67장에서 형식이 교사로 있을 때 “선생님”이라고 부르는 여러 소년들.</note>
             <note type="source-ids">구간 원 ID: 61-70:GYEONGSUNG_BOYS</note>
           </personGrp>
+          <personGrp xml:id="S67_UNKNOWN" cert="low">
+            <persName type="main">이름이 밝혀지지 않은 조롱자들</persName>
+            <note>67장에서 형식을 “사상가”, “철학자”라 부르며 조롱하는 사람들 가운데 발화자는 특정되지 않음.</note>
+            <note type="source-ids">구간 원 ID: 61-70:S67_UNKNOWN</note>
+          </personGrp>
           <person xml:id="S61_TK_BOY_01" cert="low">
             <persName type="descriptive">형식이 말을 건 소년</persName>
             <note>동경에서 형식이 동무가 되자고 말을 건 익명의 소년. “녜”라고 대답하고 모자를 벗어 경례한 뒤 달아남.</note>
@@ -1164,7 +1169,7 @@
       <change when="2026-11-12" who="#merge">v1: 수강생이 v0에 직접 고친 내용(헤더 식별자, 51–60 장 구분, 71–80 · 101–110 수정 등)을 이어받고, 11주차 회의 결정을 반영함. 김장로 ID KJH → KGH, 박진사 · 박응진 · 영채의 아버지를 PJS로, 1–10 · 11–20의 악한을 AKHAN으로 합침. 서술자 '나', 개, 작품 밖 인물은 등록하지 않고 본문 태그를 벗김. @toWhom · @ana를 지움. 본문 글자는 바꾸지 않음.</change>
       <change when="2026-11-13">위키문헌 저본의 장 구분과 각 장 첫 문단을 대조하여 11–20·111–120장의 part 2개를 chapter 20개로 나누고 각 장 번호(n)와 제목(head)을 추가함. 본문 문단과 기존 태그·속성은 유지하고, 111–120장의 장 구분 복원 필요 메모를 삭제함.</change>
       <change when="2026-11-19">사용자 지정에 따라 78장의 두부 장수를 28장의 TOUBU로 통합함. 인물 지칭과 발화자의 참조를 #TOUBU로 통일하고 별도 인물 항목 S78_TOFU_VENDOR를 삭제함.</change>
-      <change when="2026-11-22">61–70장 동경 소년 집단의 인사에 S61_TK_BOYS를 연결하고, 「녜」라고 대답한 소년은 S61_TK_BOY_01로 별도 등록하였다. 67장 경성학교 소년들의 「선생님」 발화에는 S61_GYEONGSUNG_BOYS를 연결하였다.</change>
+      <change when="2026-11-22">61–70장 동경 소년 집단의 인사에 S61_TK_BOYS를 연결하고, 「녜」라고 대답한 소년은 S61_TK_BOY_01로 별도 등록하였다. 67장 경성학교 소년들의 「선생님」 발화에는 S61_GYEONGSUNG_BOYS를 연결하고, 미상 조롱자 발화에는 S67_UNKNOWN을 지정하였다.</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
@@ -5061,7 +5066,7 @@
           <persName ref="#LHS">형식</persName>의 지식이 (꽤) 많음과 어려운 책을 많이 보고 생각이
           (꽤) 깊은 줄을 인정하였다. 그래서 농담삼아, 칭찬삼아 <persName ref="#LHS">형식</persName>을
           ‘사상가’라고도 하고, ‘철학자’라고도 하였다. 그러나 이러한 별명에는 ‘
-          <said aloud="false" direct="true">너는 생각이나 하여라. 실지에는 아무것도 못 하겠다
+          <said who="#S67_UNKNOWN" aloud="true" direct="true">너는 생각이나 하여라. 실지에는 아무것도 못 하겠다
           </said>’ 하는 조롱의 뜻이 대부분이었다. 그러나 이 별명을 듣는
           <persName ref="#LHS">형식</persName>은,
         </p>
