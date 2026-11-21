@@ -5668,8 +5668,7 @@
         <p>‘<said who="#KSH" aloud="false" direct="true">아이그, 꼴보기 싫어!</said>’하며 <persName ref="#KSH">선형</persName>은 두 손길을 펴서 이마에 댄다.</p>
         <p>‘<said who="#KSH" aloud="false" direct="true">왜 이 사람이 아직 아니 오누</said>’하며 자리를 한번 옮아 앉는다.</p>
         <p>‘<said who="#KSH" aloud="false" direct="true">무슨 이야기가 이렇게 많아!</said>’하매 차마 견딜 수가 없어서 한번 일어났다가 앉는다.</p>
-        </p>
-          <persName ref="#LHS">형식</persName>이가 돌아오거든 실컷 분풀이를 하고 싶다.
+        <p><persName ref="#LHS">형식</persName>이가 돌아오거든 실컷 분풀이를 하고 싶다.</p>
         <p>‘<said who="#KSH" aloud="false" direct="true">너희들끼리 더럽게 잘 놀아라</said>’하고 침을 탁 뱉고 달아나고도 싶다.</p>
         <p>‘<said who="#KSH" aloud="false" direct="true">아이쿠, 내 팔자야!</said>’하고 함부로 몸을 흔든다.</p>
         <p>한번 더‘<said who="#KSH" aloud="false" direct="true">어쩌면 좋아!</said>’하고 푹 쓰러져 운다.</p>
@@ -5882,7 +5881,7 @@
           하고 <persName ref="#KSH">선형</persName>이가 <persName ref="#PYC">영채</persName>를 보며 묻는다.
         </p>
         <p>“<said who="#PYC" aloud="true" direct="true">들어오구말구요.
-          성내</placeName>에는 별로 들어오는 일이 없지마는 <placeName ref="#PL_PY">외성</placeName>에는 흔히 들어옵니다.
+          <placeName ref="#PL_PY">성내</placeName>에는 별로 들어오는 일이 없지마는 <placeName ref="#PL_PY">외성</placeName>에는 흔히 들어옵니다.
           그저께도 <placeName ref="#PL_PY">외성</placeName> 신시가로 배를 탔다구(타구) 다녔는데요</said>”
           하고 <persName ref="#KSH">선형</persName>의 눈을 실적 본다.
           <persName ref="#KSH">선형</persName>이 얼른 눈을 피하였다.
