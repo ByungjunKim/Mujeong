@@ -835,10 +835,11 @@
             <persName type="main">그림 잘 그리는 사람</persName>
             <note type="source-ids">구간 원 ID: 61-70:GR</note>
           </person>
-          <person xml:id="MS" sex="M" cert="medium">
+          <person xml:id="MGS" sex="M" cert="medium">
             <persName type="main">민감사</persName>
             <note type="source-ids">구간 원 ID: 41-50:MS</note>
-          </person>
+            <note type="editorial">민감사의 대표 ID를 기존 MS에서 MGS로 변경하였다. 성씨와 관직명을 반영한 표기이다.</note>
+         </person>
           <personGrp xml:id="NUNS37" cert="medium">
             <persName type="main">NUNS37</persName>
             <note type="source-ids">구간 원 ID: 31-40:NUNS37</note>
