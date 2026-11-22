@@ -551,12 +551,6 @@
             <persName type="main">청류벽에서 두 번째 노래를 부르는 학생</persName>
             <note type="source-ids">구간 원 ID: 31-40:LYRIC-STUDENT</note>
           </person>
-          <person xml:id="YJ" sex="F" cert="medium">
-            <persName type="main">젊은 부인</persName>
-            <persName>부인</persName>
-            <persName>태모</persName>
-            <note type="source-ids">구간 원 ID: 111-120:YJ</note>
-          </person>
           <personGrp xml:id="AUDIENCE33" cert="medium">
             <persName type="main">AUDIENCE33</persName>
             <note type="source-ids">구간 원 ID: 31-40:AUDIENCE33</note>
@@ -604,12 +598,6 @@
           <person xml:id="CM" cert="medium">
             <persName type="main">형식의 종매</persName>
             <note type="source-ids">구간 원 ID: 61-70:CM</note>
-          </person>
-          <person xml:id="S111_YN" sex="M" cert="low">
-            <persName type="main">젊은 남자</persName>
-            <persName>젊은 사람</persName>
-            <persName>남자</persName>
-            <note type="source-ids">구간 원 ID: 111-120:YN</note>
           </person>
           <person xml:id="S51_POLICE1" cert="low">
             <persName type="main">순사</persName>
@@ -1041,10 +1029,6 @@
             <persName>태모</persName>
             <note type="source-ids">구간 원 ID: 111-120:YJ, 121-126:TAEMO</note>
             <note type="editorial">제120~121장에서 산기를 겪는 젊은 부인. 수재 가족 노파의 며느리이자 젊은 남자의 아내이다. 기존 YJ와 S121_TAEMO를 통합하였다.</note>
-          </person>
-          <person xml:id="S111_NP1" sex="F" cert="low">
-            <persName type="main">노파</persName>
-            <note type="source-ids">구간 원 ID: 111-120:NP1</note>
           </person>
           <person xml:id="S11_NOPA" sex="F" cert="low">
             <persName type="main">노파</persName>
