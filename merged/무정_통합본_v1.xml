@@ -740,11 +740,6 @@
             <persName>놀러 오는 기생들</persName>
             <note type="source-ids">구간 원 ID: 11-20:GISAENG</note>
           </person>
-          <person xml:id="S121_YOUNG_M" sex="M" cert="low">
-            <persName type="main">젊은 사람</persName>
-            <persName>업은 사람</persName>
-            <note type="source-ids">구간 원 ID: 121-126:YOUNG_M</note>
-          </person>
           <person xml:id="S21_TEACHER6" cert="low">
             <persName type="main">한 교사</persName>
             <note type="source-ids">구간 원 ID: 21-30:TEACHER6</note>
