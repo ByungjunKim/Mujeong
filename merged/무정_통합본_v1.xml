@@ -1060,11 +1060,6 @@
             <persName>주인 노파</persName>
             <note type="source-ids">구간 원 ID: 11-20:NOPA</note>
           </person>
-          <person xml:id="S121_FLOOD_OLD" sex="F" cert="low">
-            <persName type="main">노파</persName>
-            <persName>흙 묻은 노파</persName>
-            <note type="source-ids">구간 원 ID: 121-126:FLOOD_OLD</note>
-          </person>
           <person xml:id="AKHAN" sex="M" cert="low">
             <persName type="main">악한</persName>
             <persName>그 사람</persName>
