@@ -7124,30 +7124,30 @@
         <p>비는 언제 그칠 것 같지도 아니하다. 하늘이 온통 녹아서 비가 되고 말 듯이 쏟아져 내려온다.</p>
         <p>그 중에 저편 언덕에 지게를 기둥삼아 낡은 거적이 하나를 덮어 놓은 것이 있고,
           그 밑에는 어떤 행주치마 입고 얼굴에 주름잡힌 노파가 입술을 물고 괴로워하는 <rs type="person" ref="#YJ">젊은 부인</rs>을 안고 앉았다.
-          풀물 묻은 잠방이 입은 <rs type="person" ref="#S111_YN">젊은 남자</rs>는 상투 바람으로 우뚝 서서 바람에 날리려는 섬거적을 붙들고 있다.
+          풀물 묻은 잠방이 입은 <rs type="person" ref="#FLOOD_SON">젊은 남자</rs>는 상투 바람으로 우뚝 서서 바람에 날리려는 섬거적을 붙들고 있다.
           이 귀작이(귀)가 들먹하면 이것을 누르고 저 귀작이가 들먹하면 저것을 누른다.
         </p>
         <p><rs type="person" ref="#YJ">노파에게 안긴 젊은 부인</rs>은 괴로움을 견디지 못하는 듯이 몸을 비틀고 이따금 아이쿠 아이쿠 하고 소리를 친다.
           그러할 때마다 <rs type="person" ref="#FLOOD_NP">노파</rs>는 더 힘껏 <rs type="person" ref="#YJ">그 부인</rs>을 껴안아 주고
-          <rs type="person" ref="#S111_YN">젊은 남자</rs>는 고개를 기울여 들여다본다.
+          <rs type="person" ref="#FLOOD_SON">젊은 남자</rs>는 고개를 기울여 들여다본다.
           <rs type="place" subtype="mountain">산</rs>에서 흘러내려오는 물이 흙을 밀어다가 <rs type="person" ref="#FLOOD_NP">노파</rs>의 몸을 섬삼아 좌우로 흘러내려간다.
           <rs type="person" ref="#FLOOD_NP">노파</rs>와 <rs type="person" ref="#YJ">젊은 부인</rs>의 치맛자락이 흙에 묻혔다 나왔다 한다.
         </p>
         <p>이윽고 우레 소리가 저 멀리 서편으로 달아나며 비가 차차 그치고 어둡던 천지가 좀 밝아진다. <rs type="place" subtype="mountain">산</rs>들이 모두 제 모양이 될 때에는 사방으로 흘러내리는 물소리만 칼칼하게 들린다.</p>
-        <p>이때에 <rs type="person" ref="#S111_YN">젊은 남자</rs>는 섬거적을 벗겨 내어 버리고 허리를 굽혀 <rs type="person" ref="#YJ">젊은 부인</rs>의 얼굴을 들여다보면서,</p>
-        <p>“<said who="#S111_YN" aloud="true" direct="true">어떤고?</said>” 한다.
+        <p>이때에 <rs type="person" ref="#FLOOD_SON">젊은 남자</rs>는 섬거적을 벗겨 내어 버리고 허리를 굽혀 <rs type="person" ref="#YJ">젊은 부인</rs>의 얼굴을 들여다보면서,</p>
+        <p>“<said who="#FLOOD_SON" aloud="true" direct="true">어떤고?</said>” 한다.
           그러나 <rs type="person" ref="#YJ">부인</rs>은 몸을 비틀 뿐이요, 아무 대답도 없다.
           <rs type="person" ref="#FLOOD_NP">노파</rs>가 <rs type="person" ref="#YJ">부인</rs>의 손을 만지며,
         </p>
         <p>“<said who="#FLOOD_NP" aloud="true" direct="true">이것 보려무나. 이렇게 전신이 얼음장같이 차구나. 어떻게 하면 좋으냐?</said>” 하고 화증을 내며 눈물을 흘린다.</p>
-        <p>“<said who="#S111_YN" aloud="true" direct="true">어떻게 하나</said>”
-          하고 <rs type="person" ref="#S111_YN">젊은 사람</rs>도 얼굴을 찌푸린다.
+        <p>“<said who="#FLOOD_SON" aloud="true" direct="true">어떻게 하나</said>”
+          하고 <rs type="person" ref="#FLOOD_SON">젊은 사람</rs>도 얼굴을 찌푸린다.
           <rs type="person" ref="#YJ">부인</rs>은 또 한번 몸을 비틀며, “<said who="#YJ" aloud="true" direct="true">아이쿠, 창자가 끊어지는 것 같소</said>”
           하고는 말끝에 울음이 나온다.
           전신은 흙투성이가 되었다.
         </p>
         <p>“<said who="#FLOOD_NP" aloud="true" direct="true">얘, 그래도 어느 집에 가서 말을 해봐라. 그래도 인정이 있지, 그렇겠니?</said>”</p>
-        <p>“<said who="#S111_YN" aloud="true" direct="true">어느 집에를 가요. 누가 앓는 사람을 들인답디까?</said>”</p>
+        <p>“<said who="#FLOOD_SON" aloud="true" direct="true">어느 집에를 가요. 누가 앓는 사람을 들인답디까?</said>”</p>
         <p>이때에 저편으로서 지금 바로 조반을 먹은 <persName ref="#LHS">형식</persName>의 일행이 나와서 차차 이편을 향하고 온다.
           몸에서 물이 흐르는 사람들은 땅바닥에 그냥 주저앉아서 말없이 일행이 지나가는 것을 본다.
           다른 객들도 둘씩 셋씩 담배를 피워 물고 물구경을 나온다.
@@ -7156,7 +7156,7 @@
           앞서서 오던 <persName ref="#KBU">병욱</persName>은 앓는 <rs type="person" ref="#YJ">부인</rs> 앞에 서며,
         </p>
         <p>“<said who="#KBU" aloud="true" direct="true">어디가 편치 않아요?</said>”
-          할 때에 <rs type="person" ref="#S111_YN">남자</rs>는 한번 실적 <persName ref="#KBU">병욱</persName>을 보고는 부끄러운 듯이 고개를 숙인다.
+          할 때에 <rs type="person" ref="#FLOOD_SON">남자</rs>는 한번 실적 <persName ref="#KBU">병욱</persName>을 보고는 부끄러운 듯이 고개를 숙인다.
           <persName ref="#LHS">형식</persName>과 <persName ref="#KSH">선형</persName>과 <persName ref="#PYC">영채</persName>도 그 앞에 와 선다.
           흙투성이가 된 <rs type="person" ref="#YJ">부인</rs>은 또 한번 몸을 비틀며, “<said who="#YJ" aloud="true" direct="true">아이쿠!</said>” 한다.
           <rs type="person" ref="#FLOOD_NP">노파</rs>는 그 바람에 뒤로 쓰러졌다가 손에 묻은 흙을 자기의 팔과 허리에 되는 대로 문대면서,
