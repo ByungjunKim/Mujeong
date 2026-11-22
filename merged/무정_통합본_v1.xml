@@ -948,10 +948,11 @@
             <persName type="main">거리 노래의 일인칭 화자</persName>
             <note type="source-ids">구간 원 ID: 31-40:LYRIC-STREET</note>
           </person>
-          <person xml:id="MS_SON" cert="medium">
+          <person xml:id="MGS_SON" cert="medium">
             <persName type="main">민감사의 아들</persName>
             <note type="source-ids">구간 원 ID: 41-50:MS_SON</note>
-          </person>
+            <note type="editorial">민감사의 아들로서 민감사(MGS)와 구별되는 인물이다. 부친의 ID 변경에 따라 기존 MS_SON을 MGS_SON으로 변경하였다.</note>
+         </person>
           <person xml:id="NBR_W" cert="medium">
             <persName type="main">건넛집 아씨</persName>
             <note type="source-ids">구간 원 ID: 41-50:NBR_W</note>
