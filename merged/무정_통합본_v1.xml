@@ -574,10 +574,6 @@
             <persName>그 처녀</persName>
             <note type="source-ids">구간 원 ID: 11-20:KUR_SIS</note>
           </person>
-          <person xml:id="S121_TAEMO" sex="F" cert="low">
-            <persName type="main">태모</persName>
-            <note type="source-ids">구간 원 ID: 121-126:TAEMO</note>
-          </person>
           <person xml:id="TEACHER4" cert="medium">
             <persName type="main">정직하여 보이는 교사</persName>
             <note type="source-ids">구간 원 ID: 21-30:TEACHER4</note>
