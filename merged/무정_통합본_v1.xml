@@ -637,8 +637,9 @@
           <person xml:id="KYS_SON" cert="medium">
             <persName type="main">김윤수의 맏아들</persName>
             <persName>김윤수의 아들</persName>
-            <note type="source-ids">구간 원 ID: 31-40:KYS_SON</note>
-          </person>
+            <note type="source-ids">구간 원 ID: 31-40:KYS_SON, 41-50:KY_SON</note>
+            <note type="editorial">제31~34장에서 '김윤수의 맏아들', 제41장에서 '김윤수의 아들'로 지칭되는 인물은 문맥을 근거로 동일인물로 추정하여 KYS_SON으로 통합하였다. 두 지칭의 차이는 원문대로 보존한다. 김현수(KHS)와의 동일성은 미확정이다.</note>
+         </person>
           <person xml:id="MOTH" cert="medium">
             <persName type="main">계향의 어머니</persName>
             <note type="source-ids">구간 원 ID: 61-70:MOTH</note>
