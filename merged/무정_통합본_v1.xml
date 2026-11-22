@@ -939,10 +939,6 @@
             <persName type="main">어떤 일본 부인</persName>
             <note type="source-ids">구간 원 ID: 61-70:JP</note>
           </person>
-          <person xml:id="KY_SON" cert="medium">
-            <persName type="main">김윤수의 아들</persName>
-            <note type="source-ids">구간 원 ID: 41-50:KY_SON</note>
-          </person>
           <person xml:id="LYRIC_SOL" cert="medium">
             <persName type="main">시조의 일인칭 화자</persName>
             <note type="source-ids">구간 원 ID: 31-40:LYRIC-SOL</note>
