@@ -1,0 +1,139 @@
+id,name,aliases,kind,sex,cert
+PL_PY,평양,,place,,medium
+PL_AMERICA,미국,,place,,medium
+PL_JS,조선,,place,,medium
+PL_SEL,서울,,place,,medium
+PL_DAEDONG_RIVER,대동강,,place,,medium
+PL_L19,동경,,place,,medium
+PL_WEST,서양,,place,,medium
+PL_CL,청량리,,place,,medium
+PL_PYEONGYANG_POLICE,평양경찰서,,place,,medium
+PL_CRB,청류벽,,place,,medium
+PL_GYEONGSEONG_SCH,경성학교,,place,,medium
+PL_ANJU,안주,,place,,medium
+PL_GYEONGSEONG,경성,,place,,medium
+PL_JAPAN,일본,,place,,medium
+PL_CSM,칠성문,,place,,medium
+PL_PYONGYANG_PRISON,평양 감옥,평양감옥,place,,medium
+PL_DB,다방골,,place,,medium
+PL_GYODONG,교동,,place,,medium
+PL_BBR,부벽루,,place,,medium
+PL_KUR_HOUSE,김운룡의 집,,place,,medium
+PL_MRB,모란봉,,place,,medium
+PL_NMD,남대문,,place,,medium
+PL_AM,아메리카,,place,,medium
+PL_JONG,종로,,place,,medium
+PL_ANDONG,안동,,place,,medium
+PL_CLS,청량사,,place,,medium
+PL_HWANGJU,황주,,place,,medium
+PL_PAD,평안도,,place,,medium
+PL_SUKCHON,숙천,,place,,medium
+PL_DAEDONG_GATE,대동문,,place,,medium
+PL_DDM,동대문,,place,,medium
+PL_OK,옥,,place,,medium
+PL_YHOME,영채의 집,,place,,medium
+PL_DAEHAP,대합실,,place,,medium
+PL_EMD,을밀대,,place,,medium
+PL_JG,종각,,place,,medium
+PL_JG_3,정거장,,place,,medium
+PL_OR_H_2,집(형식의 하숙집),,place,,medium
+PL_CHINA,청국,,place,,medium
+PL_MJ,무명밭,,place,,medium
+PL_NEUNGRA_ISLAND,능라도,,place,,medium
+PL_PARKHOUSE,박진사의 집,,place,,medium
+PL_PYS,평양성,,place,,medium
+PL_AMJA39,39 구간 우물 북쪽 암자,,place,,medium
+PL_BERLIN,백림,,place,,medium
+PL_BMS,북망산,,place,,medium
+PL_BUK,북악,,place,,medium
+PL_BUSAN,부산,,place,,medium
+PL_CMG,철물교,,place,,medium
+PL_ENGLAND,영국,,place,,medium
+PL_GHY,고향,,place,,medium
+PL_HHB,황해바다,,place,,medium
+PL_HWAJANG,화류촌,,place,,medium
+PL_JUMAK,주막,,place,,medium
+PL_NAMSAN,남산,,place,,medium
+PL_OR_H,집,,place,,medium
+PL_SHD,선화당,,place,,medium
+PL_CHEONBYEON,천변,,place,,medium
+PL_CORSICA,코르시카 섬,,place,,medium
+PL_DAESEOYANG,대서양,,place,,medium
+PL_DC,도청,,place,,medium
+PL_DONGNE,이 동네,,place,,medium
+PL_EUROPE,구라파,,place,,medium
+PL_FRANCE,법국,,place,,medium
+PL_GURIGAE,구리개,,place,,medium
+PL_GWANGCHUNGYO,광충교,,place,,medium
+PL_HAN,한강,,place,,medium
+PL_HNP_ROOM,하숙집 노파의 방,,place,,medium
+PL_HOEDANG,회당,,place,,medium
+PL_HWANGHAE,황해도,,place,,medium
+PL_INW,인왕산,,place,,medium
+PL_L23,탑골,,place,,medium
+PL_PYEONGYANG_STATION,평양역,,place,,medium
+PL_SAMNANGJIN,삼랑진,,place,,medium
+PL_SAMNANGJIN_STATION,삼랑진 정거장,,place,,medium
+PL_STHELENA,세인트헬레나,,place,,medium
+PL_TAEPYEYANG,태평양,,place,,medium
+PL_WAS,워싱턴,,place,,medium
+PL_WATERLOO,워털루,,place,,medium
+PL_YC_ROOM,영채의 방,,place,,medium
+PL_YNP_ROOM,영채 집 노파의 방,,place,,medium
+PL_ANJUKGOL,안주골,,place,,medium
+PL_BAEGUNDAE,백운대,,place,,medium
+PL_BM,북문,,place,,medium
+PL_BOG,배오개,,place,,medium
+PL_BUKGANDO,북간도,,place,,medium
+PL_CHEONGCHEON_RIVER,청천강,,place,,medium
+PL_CHILSUNG,칠성문 밖,,place,,medium
+PL_DADONG,다동,,place,,medium
+PL_DAEGUK,대국,,place,,medium
+PL_GAESEONG,개성,,place,,medium
+PL_GBG,경복궁,,place,,medium
+PL_GC,금천 큰고개,,place,,medium
+PL_GERMANY,독일,,place,,medium
+PL_GN,강남,,place,,medium
+PL_GSN,겟세마네,,place,,medium
+PL_GW,강원도,,place,,medium
+PL_GYEJU,객주,,place,,medium
+PL_HB,횡빈,,place,,medium
+PL_HD,함경도,,place,,medium
+PL_HOKKAIDO,북해도,,place,,medium
+PL_HR,홍릉,,place,,medium
+PL_HZ,항주,,place,,medium
+PL_JAPAN_2,내지,,place,,medium
+PL_JG_2,진고개,,place,,medium
+PL_JHJ,종현 천주당,,place,,medium
+PL_JIJUNGHAE,지중해,,place,,medium
+PL_JN,지나,,place,,medium
+PL_JUKCHEON,죽천,,place,,medium
+PL_KJM,기자묘,,place,,medium
+PL_MG,마관,,place,,medium
+PL_NAMDAMUN_STATION,남대문역,,place,,medium
+PL_NAMDEMUN,남대문 안,,place,,medium
+PL_NAMONE,남원,,place,,medium
+PL_ND,노들,,place,,medium
+PL_ND_2,낙동강,,place,,medium
+PL_NM,신막 남천역,,place,,medium
+PL_PALGAK,팔각 국숫집,,place,,medium
+PL_RUSSIA,아라사,,place,,medium
+PL_SANMIT,산밑,,place,,medium
+PL_SD,삼량진,,place,,medium
+PL_SDM,서대문,,place,,medium
+PL_SEOHUENG,서흥,,place,,medium
+PL_SG,상항,,place,,medium
+PL_SIBERIA,시베리아,,place,,medium
+PL_SR,사리원,,place,,medium
+PL_SUKAM,순안 석암리,,place,,medium
+PL_SW,상원,,place,,medium
+PL_SW_2,수원역,,place,,medium
+PL_SZ,소주,,place,,medium
+PL_TANG,당나라,,place,,medium
+PL_UIJU,의주,,place,,medium
+PL_UR,우리나라,,place,,medium
+PL_YEONGBYEON,영변,,place,,medium
+PL_YONG,용산,,place,,medium
+PL_YS,연산,,place,,medium
+PL_NAMDAEMUN_STREET,남대문통,,place,,
+PL_KY_HOME,경애의 집,우리집,place,,

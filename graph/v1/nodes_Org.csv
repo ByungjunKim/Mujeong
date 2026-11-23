@@ -1,0 +1,42 @@
+id,name,aliases,kind,sex,cert
+ORG_GYEONGSUNG,경성학교,,org,,medium
+ORG_STUDENT_ALLIANCE,동맹,,org,,medium
+ORG_KSSORG,학교,,org,,medium
+ORG_PSH,패성학교,패성중학,org,,medium
+ORG_CHURCH,예수교회,,org,,medium
+ORG_CHURCH_2,교회,,org,,medium
+ORG_DONGHAK,동학,,org,,medium
+ORG_COLLEGE,칼리지대학,,org,,medium
+ORG_DONGSABUM,동경고등사범,,org,,medium
+ORG_JRPS,종로경찰서,,org,,medium
+ORG_CHUNGYEONHOE,청년회관,,org,,medium
+ORG_DSH,대성학교,,org,,medium
+ORG_JEONGSINSCHOOLORG,정신여학교,,org,,medium
+ORG_MUSIC_SCHOOL,음악학교,,org,,medium
+ORG_O28,경성전수학교,,org,,medium
+ORG_PJH,박진사의 학교,,org,,medium
+ORG_POLICE_2,경찰서,,org,,medium
+ORG_PYPS,평양경찰서,,org,,medium
+ORG_ACTIVITY,활동사진 음악대,,org,,medium
+ORG_CHICAGO_UNIV,시카고대학,,org,,medium
+ORG_CHONGDOKBU,총독부,,org,,medium
+ORG_DSM,대신문,,org,,medium
+ORG_GYODONG_POLICE,교동파출소,,org,,medium
+ORG_HAKMUGUK,학무국,,org,,medium
+ORG_HUNBYEONGDAE,헌병대,,org,,medium
+ORG_HWARYU,화류계,,org,,medium
+ORG_ILHANSEOBANG,일한서방,,org,,medium
+ORG_JINMUNG,진명,,org,,medium
+ORG_KSE,경성교육회,,org,,medium
+ORG_MARUZEN,마루젠,,org,,medium
+ORG_NEWSPAPER,신문사,,org,,medium
+ORG_O29,양잠회사,,org,,medium
+ORG_PJM,박씨 문중,,org,,medium
+ORG_POLICE,안동파출소,,org,,medium
+ORG_SAH,사범학교,,org,,medium
+ORG_SJD,삼중당,,org,,medium
+ORG_SMG,신문관,,org,,medium
+ORG_STUDENT_DORM,학생 기숙관,,org,,medium
+ORG_SUKMUNG,숙명,,org,,medium
+ORG_UENO_MUSIC_SCHOOL,상야 음악학교,,org,,medium
+ORG_UMIGWAN,우미관,,org,,medium

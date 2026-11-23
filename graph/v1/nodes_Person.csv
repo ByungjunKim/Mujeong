@@ -1,0 +1,169 @@
+id,name,aliases,kind,sex,cert
+LHS,이형식,형식|이선생|미스터 리|선생|선생님|이형식 씨|형식이|형식 씨|나|이선생님|내|이씨,person,M,medium
+PYC,박영채,영채|영채 씨|계집|기생|갈보|계집아이|처녀|박선생의 따님|제|월향|계월향,person,F,medium
+KSH,김선형,선형|善馨|아씨|내 딸|처녀|김장로의 딸 선형|선형이|선형은|선형 씨|작은아씨|박선형,person,F,medium
+SWS,신우선,우선|신주사|우선이|우선은|자네|그|자기|호남자|신우선이,person,M,low
+KBU,김병욱,병욱|병옥|여학생|형님|병목|병욱이|병욱 언니|언니|손녀|누이|아씨,person,F,medium
+GWH,계월화,월화|솔이,person,F,medium
+KGH,김장로,김광현|장로|김장로의|노형|김장로는|아버지|부친|장인|김 장로,person,M,medium
+BMS,배명식,배학감|학감|배명식 씨|그|자기|배|배학감이|배학감은,person,M,medium
+GH,계향,계향이,person,F,medium
+YNP,영채의 노파,노파(영채의 집)|영채의 집 노파|어머니|영채의 ‘어머니’|노파,person,F,medium
+KBG,김병국,병국|병국이|오빠|형|황주 김병국,person,M,medium
+PJS,박진사,박선생|진사|아버님|부친|은사|내 선생님|그 아버지|아버지|박선생님|박교장|박응진|응진|영채의 아버지|영채의 부친,person,M,medium
+HMS,한목사,목사|이목사|목사는|목사가,person,M,medium
+LHK,이희경,희경|희경군|이희경이|희경 군|희경이|희경은|이희경 군,person,M,medium
+KJY,김종렬,종렬|종렬군|검은 나폴레옹|검나|종렬 군|김군|김종렬이|김종렬은|김종렬 군,person,M,medium
+YSA,윤순애,순애|이애|박순애|순애야|순애는|얘 순애야,person,F,medium
+HNP,형식의 하숙집 노파,노파(형식의 서울 하숙집)|형식의 하숙집 주인 노파|주인 노파|형식의 주인 노파|형식의 주인 하고 있던 노파|노파,person,F,medium
+KHS,김현수,현수|김윤수의 아들,person,M,medium
+KGH_W,김장로의 부인,장로의 부인|부인|김장로 부인|마님|부인은|부인이|어머님|모친|김 장로의 부인|춘향|어머니,person,F,medium
+KBG_W,김병국의 부인,김병국의 처|병국의 부인|형수,person,F,medium
+KBU_M,병욱의 모친,병욱의 어머니|모친|자친|어머님|김병욱의 모친,person,F,medium
+KBU_F,병욱의 부친,병욱의 아버지|부친|아버지|김병욱의 부친,person,M,medium
+HSM,함상모,함교장,person,,medium
+KUR,김운룡,김운룡(金雲龍)|그 사람|이 어른|은인|큰 은인,person,M,medium
+YC_BROTHERS,영채의 두 오라비,영채의 오라비|두 오라비|오라버니|형제|두 오라버니|영채의 오라버니|오라버니네|형들,person,M,medium
+KUR_W,김운룡의 부인,부인|어여쁜 젊은 부인|본래 기생,person,F,medium
+KNJ,김남작,경성학교주 김남작|교주|교주 각하|교주 댁,person,M,medium
+KBU_GM,병욱의 조모,조모|어머님|김병욱의 조모|김병국의 조모,person,F,medium
+KY,경애,경애 씨,person,F,medium
+TNP,동경 주인 노파,동경의 주인 노파,person,,medium
+SWS_W,신우선의 아내,,person,F,low
+KYS,김윤수,,person,M,medium
+NO,칠성문 밖 노인,,person,,medium
+S121_CHIEF,서장,,person,M,low
+FR,자행거 탄 사람,,person,,medium
+S41_YG,영감쟁이,,person,M,low
+BUYONG,부용,평양 명기 부용|부인|마님|어머니|모친,person,F,medium
+LYRIC_STUDENT,청류벽에서 두 번째 노래를 부르는 학생,,person,,medium
+S11_GAMSU,간수,순검|그 간수|수염 많이 난 간수,person,M,low
+KUR_SIS,김운룡의 누이,처녀|그 처녀,person,F,medium
+TEACHER4,정직하여 보이는 교사,,person,,medium
+AM,영채 집 어멈,,person,,medium
+MANGONIM,맏오라버니댁,맏오라버니댁이|오라버니댁|그 어머니,person,F,medium
+S21_TEACHERS,교원들,,person,,low
+TEACHER2,월향의 말을 하던 교사,,person,,medium
+S21_UNKNOWN_TEACHER,교사,,person,,low
+CM,형식의 종매,,person,,medium
+S51_POLICE1,순사,,person,,low
+TEA,경성학교 교원 일동,교원 일동|여러 교사들|다른 교사들|어떤 교원,person,U,medium
+TEACHER5,카이젤 수염 있는 교사,,person,,medium
+DETECTIVE,종로경찰서 형사,,person,,medium
+KYS_SON,김윤수의 맏아들,김윤수의 아들,person,,medium
+MOTH,계향의 어머니,,person,,medium
+S21_KYOJANG,교장,교장어른|교장 댁,person,M,low
+GIRL,옛날 처녀,어떤 처녀,person,F,medium
+S121_DOCTOR,의사,의원,person,M,low
+S1_GYEJIPAI,계집아이,예쁜 계집아이,person,F,low
+S1_SAESEOBANG,새서방,새서방님|외오촌 조카,person,M,low
+CZ,형식의 족제,,person,,medium
+S1_OESUKMO,외숙모,외숙모님,person,F,low
+S31_MOTHER,계월화의 기생 어미,,person,,low
+S41_DG,대감,,person,M,low
+S61_AI,사내아이,,person,,low
+BY_YOUNGER,병욱의 남동생,제동생|소년,person,M,medium
+CH,천문학 선생,,person,M,medium
+FRIEND,형식의 친구,어떤 친구|그 친구,person,M,medium
+GYE,김계도,,person,M,medium
+HONGGMO,홍모,홍모와|제일 나 많은 홍모,person,M,medium
+JPS,재판소 서기,,person,,medium
+NEIGHBORWOMAN,이웃에 사는 계집,,person,,medium
+S11_GISAENG,기생들,놀러 오는 기생들,person,F,low
+S21_TEACHER6,한 교사,,person,,low
+S51_UNKNOWN,미상,,person,,low
+STU3,심술 사나운 학생들,삼사년급 심술 사납고 장난 잘하는 학생들,person,M,low
+STU4,전반 학생,학생 전체,person,U,low
+UNK,차장 및 익명의 손님들,,person,,medium
+UNKNOWN169,수염 많이 나고 얼굴 투돔투돔한 사람,,person,,medium
+S11_TEA1,어떤 교사,어떤 사람|같이 경성학교의 교사로 있는 어떤 사람,person,M,low
+S31_CJ,37장 동대문행 전차 차장,,person,,low
+S31_STUDENT,월화와 영채를 안내한 패성학교 학생,,person,,low
+S41_GF,조부,,person,M,low
+SERV,계집 하인,계집아이|계집 하인도,person,F,low
+STU2,어린 학생,일년급 어린 학생들,person,M,low
+YAK,숙천의 악한,어떤 악한|머리 깎은 사람,person,M,medium
+AKHAN_S1,악한의 맏아들,맏아들,person,M,medium
+AKHAN_W,악한의 아내,아내,person,F,medium
+CHILDREN169,장난꾼 아이들,,person,,medium
+GR,그림 잘 그리는 사람,,person,,medium
+MGS,민감사,,person,M,medium
+OLD_BUDDHA,돌부처 노인,돌부처|그 노인|노인,person,M,medium
+S101_YEOKBU,역부,,person,,low
+S1_GOMO,고모,고모님|영변 고모님,person,F,low
+S1_OMONIM,어멈,어멈의,person,F,low
+S41_MG,문객,,person,M,low
+S61_BOIN,부인,,person,,low
+SCHOOL_HEAD,대성학교장,,person,M,low
+SI,형식의 친누이,,person,,low
+TEACHER3,셋째 교원,,person,,medium
+TEACHER7,지금껏 듣기만 하던 이,,person,,medium
+VOICE36,거리에서 노래하는 익명 화자,,person,,medium
+YOON,윤선생,윤선생님|윤교감,person,M,medium
+YUA,유야랑,유야랑(遊冶郞)|어떤 키 큰 남자,person,M,medium
+AKHAN_S2,악한의 둘째아들,둘째아들|더벅머리,person,M,medium
+CG,늙은 총각,,person,,medium
+GEUM,금점꾼,,person,M,medium
+HUNJANG169,서당 훈장 같은 이,,person,,medium
+JO,형식의 종조부,,person,,medium
+JP,어떤 일본 부인,,person,,medium
+LYRIC_SOL,시조의 일인칭 화자,,person,,medium
+LYRIC_STREET,거리 노래의 일인칭 화자,,person,,medium
+MGS_SON,민감사의 아들,,person,,medium
+NBR_W,건넛집 아씨,,person,,medium
+POLICE2,다른 순사,,person,,medium
+S1_JEONCHEO,전처,,person,,low
+S31_MAN,월향의 집에서 질문한 남자,,person,,low
+S41_DW1,어떤 여자,,person,,low
+S41_SGM,서조모,,person,F,low
+TOUBU,두부 장수,,person,,medium
+YC_GM,영채의 조모,조모님,person,F,medium
+BY_BR,병욱의 오라비,오라비,person,M,medium
+BY_BW,오라범댁,형수,person,F,medium
+FA,형식의 아버지,,person,,medium
+MO,형식의 어머니,,person,,medium
+S101_FTH,부친,아버님|아버지,person,M,low
+S101_GM,조모,할머니,person,F,low
+S101_MTH,모친,어머님|어머니,person,F,low
+FLOOD_NP,수재 가족의 노파,노파|흙 묻은 노파,person,F,medium
+FLOOD_SON,수재 가족의 아들,젊은 남자|젊은 사람|남자|업은 사람,person,M,medium
+FLOOD_SON_W,수재 가족의 며느리,젊은 부인|부인|태모,person,F,medium
+S11_NOPA,노파,주인 노파,person,F,low
+AKHAN,악한,그 사람|그 악한|그|협잡꾼|몹쓸놈,person,M,low
+S1_NOPA,노파,주인 노파|주인|이선생,person,F,low
+S21_NOPA,노파,주인 노파|나,person,F,low
+S51_NP,노파,어머니|형님,person,F,low
+S61_NP,노파,,person,,low
+S61_TK_BOY_01,형식이 말을 건 소년,,person,,low
+S71_NP,노파,아주머니|노파는|노파가,person,F,low
+ST,어떤 노동자 같은 소년,,person,,low
+S71_STUDENT_A,「무엇 하러?」라고 묻는 학생,,person,,
+S71_STUDENT_B,「누구하고?」라고 묻는 다른 학생,,person,,
+S71_STUDENT_C,「누구를 따라서?」라고 묻는 학생,,person,,
+S71_STUDENT_D,「계월향이 따라서 후후」라고 말하는 학생,,person,,
+S71_STUDENT_E,「계월향!」이라고 외치는 학생,,person,,
+STU,경성학교 사년급 학생들,,personGrp,,low
+STUDENTS32,STUDENTS32,,personGrp,,low
+STUDENTS33,STUDENTS33,,personGrp,,low
+AUDIENCE33,AUDIENCE33,,personGrp,,medium
+GISAENG31,GISAENG31,,personGrp,,medium
+PARTY_MEN31,PARTY-MEN31,,personGrp,,medium
+SUITORS31,SUITORS31,,personGrp,,low
+VISITORS38,VISITORS38,,personGrp,,medium
+GISAENG_PARTY31,GISAENG-PARTY31,,personGrp,,medium
+NUNS37,NUNS37,,personGrp,,medium
+US_FRIENDS38,US-FRIENDS38,,personGrp,,medium
+CARRIERS34,CARRIERS34,,personGrp,,medium
+YC_BROTHERS_2,YC-BROTHERS,,personGrp,,medium
+S61_TK_BOYS,동경보이즈,,personGrp,,low
+S61_GYEONGSUNG_BOYS,경성학교 소년들,,personGrp,,low
+S67_UNKNOWN,이름이 밝혀지지 않은 조롱자들,,personGrp,,low
+S78_SHOP_PEOPLE,가게에 앉았던 사람들,,personGrp,,
+S79_WESTERN_PEOPLE,가정된 비평 주체인 서양 사람,,personGrp,,
+S102_VILLAGERS,동네 사람들,,personGrp,,
+S102_DEPARTING_PARTY,동구를 떠나는 일행,,personGrp,,
+S104_SENDOFF_PEOPLE,역의 배웅객들,,personGrp,,
+S104_CHEERING_PARTY,형식의 만세를 부르는 모시 두루마기에 파나마 쓴 패,,personGrp,,
+S119_FLOOD_PEOPLE,수해를 겪는 사람들,,personGrp,,
+S119_HOUSEHOLD_OWNERS,세간을 소유한 일반적인 사람들,,personGrp,,
+S119_INN_STAFF,여관의 하녀들과 반토(지배인),,personGrp,,

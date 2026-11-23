@@ -1,0 +1,36 @@
+{
+ "노드": {
+  "Person": 168,
+  "Place": 138,
+  "Org": 41,
+  "Object": 4,
+  "Chapter": 126,
+  "Paragraph": 2037,
+  "Utterance": 1954
+ },
+ "관계": {
+  "IN-Paragraph-Chapter": 2037,
+  "MENTIONED_IN-Place-Paragraph": 879,
+  "MENTIONED_IN-Person-Paragraph": 8844,
+  "IN-Utterance-Paragraph": 1954,
+  "THINKS-Person-Utterance": 391,
+  "SAYS-Person-Utterance": 1583,
+  "MENTIONED_IN-Org-Paragraph": 115,
+  "REFERS_TO-Utterance-Person": 756,
+  "SAYS-Org-Utterance": 2,
+  "MENTIONED_IN-Object-Paragraph": 15
+ },
+ "등록부에 없는 ID(본문 참조)": {
+  "S61_ROLE_GAMSA": 1,
+  "S61_ROLE_DOJANGGWAN": 1
+ },
+ "본문에서 안 쓰인 등록 ID": [
+  "BY_BR",
+  "BY_BW",
+  "S11_NOPA",
+  "S71_NP"
+ ],
+ "who 없는 said": 0,
+ "who가 인물이 아닌 said": 2,
+ "well-formed": "통과"
+}

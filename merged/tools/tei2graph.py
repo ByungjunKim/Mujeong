@@ -1,11 +1,13 @@
 # 11주차: TEI XML → 그래프(노드·관계 CSV + Neo4j 적재용 Cypher + 검증 보고서)
 # 한국문학텍스트와네트워크분석연구 (2026-2) · 파이썬 표준 기능 + lxml만 사용
+# 2026-11-23 (그래프 v1): ① said/@who가 인물이 아닌 ID(기관 등)를 가리키면 그 종류의 노드에서 SAYS·THINKS를 긋는다
+#   (이전에는 무조건 Person으로 적어 Neo4j에 들어가지 못했다) ② Chapter에 title · source(위키문헌 주소) · resp 추가
 #
 # 스키마 (속성 그래프)
 #   노드:  Person · Place · Org · Object · Chapter · Paragraph(원문 텍스트 포함) · Utterance(said)
 #   관계:  (Paragraph)-[:IN]->(Chapter)
 #          (Person|Place|Org|Object)-[:MENTIONED_IN {surface, tag}]->(Paragraph)
-#          (Person)-[:SAYS]->(Utterance)      aloud가 false가 아닌 발화
+#          (Person)-[:SAYS]->(Utterance)      aloud가 false가 아닌 발화 (who가 기관이면 (Org)-[:SAYS]->)
 #          (Person)-[:THINKS]->(Utterance)    aloud="false" (속마음)
 #          (Utterance)-[:IN]->(Paragraph)
 #          (Utterance)-[:REFERS_TO {surface}]->(Person)   발화 안에서 가리킨 인물
@@ -65,7 +67,10 @@ def convert(root):
     for d in chapters:
         n = d.get("n", "?")
         cid = f"ch{n}"
-        nodes["Chapter"].append({"id": cid, "n": n, "type": d.get("type", ""), "order": len(nodes["Chapter"]) + 1})
+        head = d.find(TEI + "head")
+        nodes["Chapter"].append({"id": cid, "n": n, "type": d.get("type", ""), "order": len(nodes["Chapter"]) + 1,
+                                 "title": text(head) if head is not None else f"{n}장",
+                                 "source": d.get("source", ""), "resp": (d.get("resp") or "").lstrip("#")})
         for seq, p in enumerate(d.iter(TEI + "p", TEI + "l"), 1):
             order += 1
             pid = f"{cid}_p{seq}"
@@ -91,7 +96,7 @@ def convert(root):
                     if w not in reg:
                         dangling[w] += 1
                         continue
-                    rels[("THINKS" if aloud == "false" else "SAYS", "Person", "Utterance")].append({"start": w, "end": uid})
+                    rels[("THINKS" if aloud == "false" else "SAYS", reg[w]["label"], "Utterance")].append({"start": w, "end": uid})
                 for t in ids(s.get("toWhom")):
                     if t in reg:
                         rels[("ADDRESSED_TO", "Utterance", "Person")].append({"start": uid, "end": t})
@@ -119,6 +124,7 @@ def convert(root):
         "등록부에 없는 ID(본문 참조)": dict(dangling.most_common()),
         "본문에서 안 쓰인 등록 ID": sorted(i for i in reg if used[i] == 0),
         "who 없는 said": sum(1 for u in nodes["Utterance"] if not u["who"]),
+        "who가 인물이 아닌 said": sum(len(v) for (t, a, b), v in rels.items() if t in ("SAYS", "THINKS") and a != "Person"),
     }
     return nodes, dict(rels), report
 
@@ -145,9 +151,10 @@ def save(nodes, rels, outdir):
 
 
 CYPHER_HEAD = """// 『무정』 그래프 적재 (Neo4j 5 · AuraDB Free)
-// BASE는 CSV가 있는 주소. GitHub에 올렸다면 raw 주소, 아니면 Aura 'Import'로 직접 올린다.
-// MERGE를 쓰므로 같은 파일을 다시 넣어도 노드가 두 번 생기지 않는다.
-:param BASE => 'https://raw.githubusercontent.com/ByungjunKim/Mujeong/main/graph/';
+// BASE는 CSV가 있는 주소. 저장소의 graph/v1/ 을 그대로 읽는다(다른 판이면 v1을 바꾼다).
+// 노드는 MERGE라 다시 넣어도 두 번 생기지 않는다. 관계는 CREATE이므로 다시 넣기 전에
+//   MATCH (n) DETACH DELETE n;   으로 비운다.
+:param BASE => 'https://raw.githubusercontent.com/ByungjunKim/Mujeong/main/graph/v1/';
 """
 
 

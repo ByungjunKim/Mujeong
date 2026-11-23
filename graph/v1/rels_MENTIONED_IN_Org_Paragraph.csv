@@ -1,0 +1,116 @@
+start,end,surface,tag
+ORG_POLICE,ch1_p13,안동파출소,orgName
+ORG_JEONGSINSCHOOLORG,ch1_p29,정신여학교,orgName
+ORG_CHURCH,ch2_p1,교회,orgName
+ORG_CHURCH,ch2_p1,교회,orgName
+ORG_CHURCH,ch2_p1,교회,orgName
+ORG_CHURCH,ch2_p1,예수교회,orgName
+ORG_CHURCH,ch2_p2,예수교회,orgName
+ORG_JEONGSINSCHOOLORG,ch3_p3,정신학교,orgName
+ORG_HUNBYEONGDAE,ch5_p2,헌병대,orgName
+ORG_DONGHAK,ch11_p1,동학,orgName
+ORG_DONGHAK,ch11_p1,동학,orgName
+ORG_DONGHAK,ch11_p1,동학,orgName
+ORG_DONGHAK,ch11_p1,동학,orgName
+ORG_GYODONG_POLICE,ch16_p26,교동파출소,placeName
+ORG_ACTIVITY,ch16_p38,활동사진 음악대,orgName
+ORG_GYEONGSUNG,ch18_p1,경성학교,orgName
+ORG_GYEONGSUNG,ch18_p1,경성학교,orgName
+ORG_GYEONGSUNG,ch18_p1,경성학교,orgName
+ORG_STUDENT_ALLIANCE,ch19_p8,동맹 퇴학,rs
+ORG_GYEONGSUNG,ch19_p11,모교,rs
+ORG_GYEONGSUNG,ch19_p11,모교,rs
+ORG_GYEONGSUNG,ch20_p1,경성학교,orgName
+ORG_HWARYU,ch20_p1,화류계,orgName
+ORG_DONGSABUM,ch20_p1,동경고등사범,orgName
+ORG_GYEONGSUNG,ch20_p1,경성학교,orgName
+ORG_GYEONGSUNG,ch20_p1,경성학교,orgName
+ORG_GYEONGSUNG,ch20_p1,경성학교,orgName
+ORG_DONGSABUM,ch20_p1,동경고등사범학교,orgName
+ORG_DONGSABUM,ch20_p1,동경고등사범학교,orgName
+ORG_CHONGDOKBU,ch20_p1,총독부,orgName
+ORG_HAKMUGUK,ch20_p1,학무국,orgName
+ORG_STUDENT_ALLIANCE,ch22_p3,자기,rs
+ORG_STUDENT_ALLIANCE,ch22_p10,동맹 퇴학,rs
+ORG_STUDENT_ALLIANCE,ch22_p13,동맹 퇴학,rs
+ORG_STUDENT_ALLIANCE,ch22_p14,동맹 퇴학,rs
+ORG_STUDENT_ALLIANCE,ch23_p23,학생들,rs
+ORG_STUDENT_ALLIANCE,ch23_p26,학생들,rs
+ORG_STUDENT_ALLIANCE,ch23_p28,학생들,rs
+ORG_STUDENT_ALLIANCE,ch23_p28,학생들,rs
+ORG_STUDENT_ALLIANCE,ch23_p28,군들,rs
+ORG_STUDENT_ALLIANCE,ch23_p28,저희들,rs
+ORG_STUDENT_ALLIANCE,ch23_p28,학생,rs
+ORG_STUDENT_ALLIANCE,ch23_p31,학생,rs
+ORG_ILHANSEOBANG,ch24_p1,일한서방,orgName
+ORG_MARUZEN,ch24_p1,마루젠,orgName
+ORG_STUDENT_DORM,ch29_p1,학생 기숙관,orgName
+ORG_UMIGWAN,ch29_p15,우미관,orgName
+ORG_CHUNGYEONHOE,ch29_p15,청년회관,orgName
+ORG_PSH,ch32_p1,패성중학,orgName
+ORG_DSH,ch32_p1,대성학교,orgName
+ORG_SMG,ch32_p1,신문관,orgName
+ORG_PSH,ch32_p1,패성학교,orgName
+ORG_SJD,ch32_p1,삼중당,orgName
+ORG_DSH,ch32_p1,대성학교,orgName
+ORG_PSH,ch33_p1,패성학교,orgName
+ORG_PSH,ch33_p1,패성학교,orgName
+ORG_PSH,ch33_p1,패성학교,orgName
+ORG_PSH,ch33_p1,패성학교,orgName
+ORG_PSH,ch33_p2,패성학교,orgName
+ORG_PSH,ch33_p4,패성학교,orgName
+ORG_CHUNGYEONHOE,ch36_p7,청년회관,orgName
+ORG_DSM,ch37_p12,대신문,orgName
+ORG_GYEONGSUNG,ch38_p13,경성학교,orgName
+ORG_JRPS,ch38_p13,종로경찰서,orgName
+ORG_JRPS,ch38_p13,종로경찰서,orgName
+ORG_JRPS,ch39_p1,종로경찰서,orgName
+ORG_GYEONGSUNG,ch40_p1,경성학교,orgName
+ORG_PJH,ch64_p3,학교,orgName
+ORG_PJH,ch64_p3,학교,orgName
+ORG_PJM,ch64_p3,박씨 문중,orgName
+ORG_GYEONGSUNG,ch67_p6,경성학교,orgName
+ORG_GYEONGSUNG,ch68_p1,경성학교,orgName
+ORG_GYEONGSUNG,ch68_p2,경성학교,orgName
+ORG_KSE,ch70_p1,경성교육회,orgName
+ORG_GYEONGSUNG,ch70_p3,학교,orgName
+ORG_KSSORG,ch71_p13,학교,rs
+ORG_KSSORG,ch72_p1,학교,rs
+ORG_KSSORG,ch72_p1,학교,rs
+ORG_KSSORG,ch72_p2,경성 학교,rs
+ORG_KSSORG,ch72_p2,학교,rs
+ORG_KSSORG,ch73_p6,학교,rs
+ORG_KSSORG,ch73_p7,학교,rs
+ORG_KSSORG,ch73_p16,학교,rs
+ORG_KSSORG,ch74_p1,학교,rs
+ORG_KSSORG,ch75_p2,학교,rs
+ORG_KSSORG,ch75_p15,학교,orgName
+ORG_CHURCH_2,ch75_p25,교회,orgName
+ORG_CHURCH_2,ch77_p11,교회,orgName
+ORG_KSSORG,ch77_p16,경성학교,orgName
+ORG_KSSORG,ch77_p29,경성학교,orgName
+ORG_CHURCH_2,ch79_p3,교회,orgName
+ORG_COLLEGE,ch83_p7,칼리지대학,orgName
+ORG_COLLEGE,ch83_p15,칼리지대학,orgName
+ORG_COLLEGE,ch83_p15,포스트 그래듀에이트 코스 대학원,orgName
+ORG_SUKMUNG,ch88_p11,숙명,orgName
+ORG_JINMUNG,ch88_p11,진명,orgName
+ORG_O28,ch93_p2,경성전수학교,orgName
+ORG_O28,ch93_p2,전수학교,orgName
+ORG_GYEONGSUNG,ch95_p2,경성학교,orgName
+ORG_GYEONGSUNG,ch95_p13,경성학교,orgName
+ORG_GYEONGSUNG,ch96_p2,경성학교,orgName
+ORG_CHURCH_2,ch99_p18,교회,orgName
+ORG_O29,ch100_p18,양잠회사,orgName
+ORG_SAH,ch105_p5,사범학교,orgName
+ORG_CHURCH_2,ch108_p3,교회,orgName
+ORG_PYPS,ch113_p12,평양경찰서,orgName
+ORG_PYPS,ch113_p12,경찰서,orgName
+ORG_GYEONGSUNG,ch115_p10,경성학교,orgName
+ORG_POLICE_2,ch122_p1,경찰서,orgName
+ORG_MUSIC_SCHOOL,ch122_p6,음악학교,orgName
+ORG_POLICE_2,ch122_p10,경찰서,orgName
+ORG_NEWSPAPER,ch124_p15,사(社),rs
+ORG_CHICAGO_UNIV,ch126_p1,시카고대학,orgName
+ORG_MUSIC_SCHOOL,ch126_p2,음악학교,orgName
+ORG_UENO_MUSIC_SCHOOL,ch126_p2,상야 음악학교,orgName

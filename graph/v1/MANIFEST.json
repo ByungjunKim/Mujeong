@@ -1,0 +1,67 @@
+{
+ "이름": "『무정』 그래프 v1",
+ "만든 날": "2026-11-23",
+ "저본": {
+  "파일": "merged/무정_통합본_v1.xml",
+  "sha256": "0213011b1b4e71ce183250b7e544aeec85a694089c1ff19065dc6eb17a59c545",
+  "마지막으로 고친 커밋": "bb9ea39ca2b3cb0c271563970ab137a04862aa99 2026-11-23 01:25:43 +0000 Merge: 원선미 61–70장 재수정 브랜치(who 입력) 병합",
+  "설명": "통합본 v1을 2026-11-23에 동결한 판. 11/24부터의 수정은 통합본 v2에 한다."
+ },
+ "변환기": "merged/tools/tei2graph.py (CSV · Cypher), merged/tools/tei2crm.py (CIDOC CRM)",
+ "노드": {
+  "Person": 168,
+  "Place": 138,
+  "Org": 41,
+  "Object": 4,
+  "Chapter": 126,
+  "Paragraph": 2037,
+  "Utterance": 1954
+ },
+ "노드 합계": 4468,
+ "관계": {
+  "IN-Paragraph-Chapter": 2037,
+  "MENTIONED_IN-Place-Paragraph": 879,
+  "MENTIONED_IN-Person-Paragraph": 8844,
+  "IN-Utterance-Paragraph": 1954,
+  "THINKS-Person-Utterance": 391,
+  "SAYS-Person-Utterance": 1583,
+  "MENTIONED_IN-Org-Paragraph": 115,
+  "REFERS_TO-Utterance-Person": 756,
+  "SAYS-Org-Utterance": 2,
+  "MENTIONED_IN-Object-Paragraph": 15
+ },
+ "관계 합계": 16576,
+ "파일별 행 수": {
+  "nodes_Chapter.csv": 126,
+  "nodes_Object.csv": 4,
+  "nodes_Org.csv": 41,
+  "nodes_Paragraph.csv": 2037,
+  "nodes_Person.csv": 168,
+  "nodes_Place.csv": 138,
+  "nodes_Utterance.csv": 1954,
+  "rels_IN_Paragraph_Chapter.csv": 2037,
+  "rels_IN_Utterance_Paragraph.csv": 1954,
+  "rels_MENTIONED_IN_Object_Paragraph.csv": 15,
+  "rels_MENTIONED_IN_Org_Paragraph.csv": 115,
+  "rels_MENTIONED_IN_Person_Paragraph.csv": 8844,
+  "rels_MENTIONED_IN_Place_Paragraph.csv": 879,
+  "rels_REFERS_TO_Utterance_Person.csv": 756,
+  "rels_SAYS_Org_Utterance.csv": 2,
+  "rels_SAYS_Person_Utterance.csv": 1583,
+  "rels_THINKS_Person_Utterance.csv": 391
+ },
+ "알려진 문제": {
+  "등록부에 없는 ID(본문 참조)": {
+   "S61_ROLE_GAMSA": 1,
+   "S61_ROLE_DOJANGGWAN": 1
+  },
+  "본문에서 안 쓰인 등록 ID": [
+   "BY_BR",
+   "BY_BW",
+   "S11_NOPA",
+   "S71_NP"
+  ],
+  "who가 인물이 아닌 said": 2,
+  "문단 수": "Paragraph 2,037개(p 2,021 + l 16). 저본(위키문헌) 문단은 1,977개 — 16·17·19·116장에서 원문 한 문단을 여러 p로 나눈 곳이 있다(merged/기록/v1_최종검수_2026-11-23.md)."
+ }
+}
