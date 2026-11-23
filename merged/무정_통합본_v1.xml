@@ -1068,6 +1068,25 @@
             <persName type="main">노파</persName>
             <note type="source-ids">구간 원 ID: 61-70:NP</note>
           </person>
+          <personGrp xml:id="S61_TK_BOYS" cert="low">
+            <persName type="main">동경보이즈</persName>
+            <note type="source-ids">구간 원 ID: 61-70:TK_BOYS</note>
+          </personGrp>
+          <personGrp xml:id="S61_GYEONGSUNG_BOYS" cert="low">
+            <persName type="main">경성학교 소년들</persName>
+            <note>67장에서 형식이 교사로 있을 때 “선생님”이라고 부르는 여러 소년들.</note>
+            <note type="source-ids">구간 원 ID: 61-70:GYEONGSUNG_BOYS</note>
+          </personGrp>
+          <personGrp xml:id="S67_UNKNOWN" cert="low">
+            <persName type="main">이름이 밝혀지지 않은 조롱자들</persName>
+            <note>67장에서 형식을 “사상가”, “철학자”라 부르며 조롱하는 사람들 가운데 발화자는 특정되지 않음.</note>
+            <note type="source-ids">구간 원 ID: 61-70:S67_UNKNOWN</note>
+          </personGrp>
+          <person xml:id="S61_TK_BOY_01" cert="low">
+            <persName type="descriptive">형식이 말을 건 소년</persName>
+            <note>동경에서 형식이 동무가 되자고 말을 건 익명의 소년. “녜”라고 대답하고 모자를 벗어 경례한 뒤 달아남.</note>
+            <note type="source-ids">구간 원 ID: 61-70:TK_BOY_01</note>
+          </person>
           <person xml:id="S71_NP" sex="F" cert="low">
             <persName type="main">노파</persName>
             <persName>아주머니</persName>
@@ -1144,6 +1163,7 @@
       <change when="2026-11-12" who="#merge">v1: 수강생이 v0에 직접 고친 내용(헤더 식별자, 51–60 장 구분, 71–80 · 101–110 수정 등)을 이어받고, 11주차 회의 결정을 반영함. 김장로 ID KJH → KGH, 박진사 · 박응진 · 영채의 아버지를 PJS로, 1–10 · 11–20의 악한을 AKHAN으로 합침. 서술자 '나', 개, 작품 밖 인물은 등록하지 않고 본문 태그를 벗김. @toWhom · @ana를 지움. 본문 글자는 바꾸지 않음.</change>
       <change when="2026-11-13">위키문헌 저본의 장 구분과 각 장 첫 문단을 대조하여 11–20·111–120장의 part 2개를 chapter 20개로 나누고 각 장 번호(n)와 제목(head)을 추가함. 본문 문단과 기존 태그·속성은 유지하고, 111–120장의 장 구분 복원 필요 메모를 삭제함.</change>
       <change when="2026-11-19">사용자 지정에 따라 78장의 두부 장수를 28장의 TOUBU로 통합함. 인물 지칭과 발화자의 참조를 #TOUBU로 통일하고 별도 인물 항목 S78_TOFU_VENDOR를 삭제함.</change>
+      <change when="2026-11-22">61–70장 동경 소년 집단의 인사에 S61_TK_BOYS를 연결하고, 「녜」라고 대답한 소년은 S61_TK_BOY_01로 별도 등록하였다. 67장 경성학교 소년들의 「선생님」 발화에는 S61_GYEONGSUNG_BOYS를 연결하고, 미상 조롱자 발화에는 S67_UNKNOWN을 지정하였다. 숙천 객주에서 영채를 업어 간 인물의 지칭은 기존 인물 YAK에 연결하였다.</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
@@ -3847,7 +3867,7 @@
           <persName ref="#LHS">형식</persName>은
           <persName ref="#PYC">영채</persName>가
           <placeName ref="#PL_SUKCHON">숙천</placeName> 어느 객주에
-          <rs type="person">어떤 사람</rs>에게 업혀 가다가 <rs type="person">그 사람</rs>의
+          <rs type="person" ref="#YAK">어떤 사람</rs>에게 업혀 가다가 <rs type="person" ref="#YAK">그 사람</rs>의
           얼굴에 흙을 뿌리던 생각을 한다. <persName ref="#GH">계향</persName>은 우뚝 서며 우는
           <rs type="person" ref="#S61_AI">아이</rs>를 돌아보더니 두 손으로
           <persName ref="#LHS">형식</persName>의 손을 꼭 쥔다.
@@ -4668,7 +4688,7 @@
           <persName ref="#LHS">형식</persName>을 선배 모양으로 공경하는 생각은 가지되, 어깨를 겯고 손을
           잡고 동무가 되려고는 하지 아니하였다. 그 소년들은 <persName ref="#LHS">형식</persName>을
           대하면 가댁질하던 것도 그치고 고개를 숙이며, “
-          <said aloud="true" direct="true">안녕합시오</said>” 하였다.
+          <said who="#S61_TK_BOYS" aloud="true" direct="true">안녕합시오</said>” 하였다.
           <persName ref="#LHS">형식</persName>도 하릴없이, “
           <said who="#LHS" aloud="true" direct="true">안녕합시오</said>” 하고 대답하였다.
           한번은 <persName ref="#LHS">형식</persName>이가 자기보다 두어 살 아래 되는 소년을 붙들고,
@@ -4676,7 +4696,7 @@
         <p>
           “<said who="#LHS" aloud="true" direct="true">여보, 나하고 동무가 되십시다. 너, 나
           하고 지내입시다</said>” 하였다. 그 소년은 농담인 줄 알고, “
-          <said aloud="true" direct="true">녜</said>” 하면서 모자를 벗고 경례하고 달아났다. 그
+          <said who="#S61_TK_BOY_01" aloud="true" direct="true">녜</said>” 하면서 모자를 벗고 경례하고 달아났다. 그
           후에도 기회 있는 대로 소년들의 동무가 되려 하였으나 소년들은 헤헤 웃고는 경례를 하고 달아났다. 마침내
           <persName ref="#LHS">형식</persName>은 소년의 동무가 되어 보지 못하고 말았다. 그러고 지금까지
           평생 자기보다 십여 년이나 어른 되는 이와 친구가 되어 왔다.
@@ -4694,7 +4714,7 @@
         <p>
           그러다가 스물한 살에 <orgName ref="#ORG_GYEONGSUNG">경성학교</orgName>에 교사가 되어
           여러 소년들과 가까이 접할 기회를 얻었다. 그러나 소년들이 ‘
-          <said aloud="true" direct="true">선생님</said>’ 하고 슬슬 피할 때에는
+          <said who="#S61_GYEONGSUNG_BOYS" aloud="true" direct="true">선생님</said>’ 하고 슬슬 피할 때에는
           <persName ref="#LHS">형식</persName>은 여전히 적막한 생각이 있었다. 그래서
           <rs type="person" ref="#LHS">나</rs>도 이제 어느 중학교에 입학을 하여 저 소년들과 같이 놀아
           보았으면 하는 생각까지도 하였다.
@@ -4973,7 +4993,7 @@
  하는 선각자(
           <foreign xml:lang="zh">先覺者</foreign>)의 적막(
           <foreign xml:lang="zh">寂寞</foreign>)과 비애(
-          <foreign xml:lang="zh">悲哀</foreign>)를 깨닫는다.</said> 그러고 자기의 하는 말을
+          <foreign xml:lang="zh">悲哀</foreign>)를 깨닫는다. 그러고 자기의 하는 말을
           알아들을 만한 친구를 생각하여 본다. 그러나 <persName ref="#LHS">형식</persName>은 열 손가락을
           다 꼽지 못한다. 그러고 이 열도 못 되는 사람이 <placeName ref="#PL_SEL">조선</placeName>
           사람 중에 신문명(<foreign xml:lang="zh">新文明</foreign>)을 이해하는 선각자요, 따라서 온
@@ -5036,7 +5056,7 @@
           <persName ref="#LHS">형식</persName>의 지식이 (꽤) 많음과 어려운 책을 많이 보고 생각이
           (꽤) 깊은 줄을 인정하였다. 그래서 농담삼아, 칭찬삼아 <persName ref="#LHS">형식</persName>을
           ‘사상가’라고도 하고, ‘철학자’라고도 하였다. 그러나 이러한 별명에는 ‘
-          <said aloud="false" direct="true">너는 생각이나 하여라. 실지에는 아무것도 못 하겠다
+          <said who="#S67_UNKNOWN" aloud="true" direct="true">너는 생각이나 하여라. 실지에는 아무것도 못 하겠다
           </said>’ 하는 조롱의 뜻이 대부분이었다. 그러나 이 별명을 듣는
           <persName ref="#LHS">형식</persName>은,
         </p>
