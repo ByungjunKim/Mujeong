@@ -1,7 +1,0 @@
-# Wait a few minutes before connecting using these details. Instance status can be viewed at https://console.neo4j.io
-NEO4J_URI=neo4j+s://5a4bac81.databases.neo4j.io
-NEO4J_USERNAME=5a4bac81
-NEO4J_PASSWORD=G_bAoRHostqeXTa-c9YgCSrzEvjj3iDK3sRNNoZAOqA
-NEO4J_DATABASE=5a4bac81
-AURA_INSTANCEID=5a4bac81
-AURA_INSTANCENAME=mujeong
