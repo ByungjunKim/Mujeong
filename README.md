@@ -10,10 +10,12 @@
 | **태깅 고치기** (11/24부터) | [`merged/무정_통합본_v2.xml`](merged/무정_통합본_v2.xml) |
 | 그래프 · RAG 실습 | [`graph/v1/`](graph/v1/) — 통합본 v1(11/23 동결)에서 만든 노드 · 관계 CSV |
 | 내 구간에 남은 일 확인 | [`merged/기록/v1_최종검수_2026-11-23.md`](merged/기록/v1_최종검수_2026-11-23.md) |
+| 에이전트 하네스(DeepSeek Harness 등)로 실험 | [`AGENTS.md`](AGENTS.md) — 하네스가 세션을 시작할 때 읽는 규칙. 실험은 각자 fork에서 |
 
 ## 폴더
 ```
 Mujeong/
+├── AGENTS.md    에이전트 하네스가 읽는 규칙 (RAG 실험 · v2 수정)
 ├── TEI/          구간별 원자료 13개(1-10 … 121-126): 수강생이 올린 xml · TEI Agent json · 원문 txt (이제 고치지 않음)
 ├── merged/       통합 TEI
 │   ├── 무정_통합본_v2.xml    함께 고치는 파일 (2026-11-24~)
