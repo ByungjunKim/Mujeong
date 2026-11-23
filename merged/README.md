@@ -1,14 +1,17 @@
-# merged/ — 『무정』 1–126장 통합본 (v0 2026-11-10 · v1 2026-11-12)
+# merged/ — 『무정』 1–126장 통합 TEI
 
-13개 구간(TEI/)을 하나로 합친 통합 TEI와 점검 결과다. 11주차(11/10) 인물 등록부 통합 회의 전 검토용이며, 회의 결정을 반영해 v1을 다시 만든다.
+| 파일 · 폴더 | 내용 |
+|---|---|
+| `무정_통합본_v2.xml` | **함께 고치는 파일** (2026-11-24~). v1의 사본에서 시작했다. 본문은 v1과 같고 머리 부분에 기록 한 줄이 늘어, 본문 행 번호는 v1 + 1 |
+| `무정_통합본_v1.xml` | 2026-11-23 동결. `graph/v1/`의 저본. 고치지 않는다 |
+| `기록/v1_최종검수_2026-11-23.md` | v1 최종 검수: 원문 대조 · 참조 · 구간별로 남은 일 |
+| `기록/v1_변경기록.md` | v0 → v1에서 바뀐 것(11주차 회의 결정) |
+| `기록/v1_검증_*.json` · `기록/v1_변환기록_2026-11-12.json` | 원문 대조 결과(생성 시점 11/12 · 동결 시점 11/23)와 v1 생성 실행 기록 |
+| `tools/` | `inspect_sections` → `build_idmap` → `merge_sections` → `validate_merged` 순서로 통합본을 만들고 검사한다. `make_v1.py`는 v0 → v1, `tei2graph.py`는 속성 그래프 CSV, `tei2crm.py`는 CIDOC CRM(rdflib 필요) |
+| `이전판/v0/` | 통합본 v0, v0 검증 · 병합 보고, v0 최종점검 보고(11/10), ID 대조표 · 공통 등록부 초안, v0 기준 CIDOC CRM |
 
-- `무정_통합본_v0.xml` : 기준본(11/10–11/12 수강생이 직접 고친 내용 포함, 이제 고치지 않는다). 처음 올린 판은 tei_all(TEI P5 4.12.0) 검증 통과. 저본은 위키문헌 『무정』(https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95). 헤더에 작가 · 작품 식별자(ISNI · Wikidata · 민백)와 위키문헌 하위 문서 7개 주소를 적었고, 각 장 `<div>`의 `@source`에 그 장이 실린 하위 문서 주소를 적었다(위키문헌에는 장별 주소가 없다). 공통 ID 초안 적용, 정해지지 않은 ID는 `S구간시작_원래ID`(임시).
-- `무정_통합본_v1.xml` : **함께 고치는 파일.** v0(수강생 수정 포함)에 11주차 회의 결정을 반영해 2026-11-12에 만듦. tei_all 검증 통과. 무엇이 바뀌었는지는 `v1_변경기록.md`, 실행 기록은 `무정_통합본_v1_변환기록.json`, 원문 대조는 `무정_통합본_v1_검증.json`.
-- `최종점검_보고.md` : 검사 다섯 가지의 결과와 구간별 수정 제안.
-- `무정_통합본_v0_검증.json` · `무정_통합본_v0_병합보고.json` : 위키문헌 원문(KNoTE 저장소 rawdata에 수집된 7개 파일, 1,977문단) 대조 · 참조 검사 · 병합 기록.
-- `id_map_초안.csv` : 구간 ID → 공통 ID(제안). 회의에서 `회의 결정` 칸을 채워 `id_map.csv`로 저장한다.
-- `공통_인물_등록부_초안.csv` · `공통_장소기관_등록부_초안.csv` : 공통 등록부 초안.
-- `crm/mujeong_crm.ttl` : 통합본을 CIDOC CRM 7.1 어휘로 바꾼 RDF(Turtle, 트리플 30,069개). 작중 인물은 `mjo:Character` ⊂ E89, 실존 인물은 E21, 화자는 `mjo:has_speaker` ⊂ P67. `crm/mujeong_crm_report.json`에 정의역 · 치역 검사 결과(위반 0). 이름공간 IRI는 임시다.
-- `tools/` : 다시 만드는 스크립트. inspect_sections → build_idmap → merge_sections → validate_merged 순서. 속성 그래프 CSV는 `tei2graph.py`, CIDOC CRM은 `tei2crm.py`(rdflib 필요).
+- 저본은 위키문헌 [『무정』](https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95). 헤더에 작가 · 작품 식별자(ISNI · Wikidata · 민백)와 하위 문서 7개 주소가 있고, 각 장 `<div>`의 `@source`가 그 장이 실린 하위 문서 주소다.
+- 원문 대조는 KNoTE 저장소 `rawdata/`에 수집된 위키문헌 7개 파일(1,977문단)과 한다: `python tools/validate_merged.py 무정_통합본_v2.xml <KNoTE>/rawdata`
+- 스키마 검증은 tei_all(TEI P5 4.12.0) RelaxNG.
 
-원문 글자는 61–70의 복사 흔적(장 번호 · 곧은 큰따옴표) 제거 말고는 바꾸지 않았다. 데이터는 CC BY 4.0, 코드는 저장소의 LICENSE-CODE를 따른다.
+데이터는 CC BY 4.0, 코드는 저장소의 LICENSE-CODE를 따른다.
