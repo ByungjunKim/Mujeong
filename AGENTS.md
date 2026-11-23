@@ -15,9 +15,10 @@
 - 자료: `graph/v1/`의 노드 · 관계 CSV(그래프 v1). 설명은 `graph/README.md`와 `graph/v1/MANIFEST.json`. `merged/`는 읽기만
 - 근거 표시: 문단 ID `ch16_p3`을 `[16장-3]` 꼴로 적기
 - 코드 기준: 13주차 실습 B 노트(수업 드라이브에서 받아 폴더 맨 위에 둔 `.ipynb`). 원본은 그대로 두고, 고친 것은 `lab/` 아래 새 파일(`.py` 또는 새 `.ipynb`)로 저장
-- LLM: DeepSeek `deepseek-flash`. 키는 환경 변수(`DEEPSEEK_API_KEY`, 없으면 `MUJEONG_LLM_KEY`)로만 읽기
+- LLM: DeepSeek `deepseek-flash`만 쓰기(`deepseek-v4-pro`는 쓰지 않기). 키는 환경 변수(`DEEPSEEK_API_KEY`, 없으면 `MUJEONG_LLM_KEY`)로만 읽기
 - 환경 변수에 키가 없으면 LLM을 부르는 부분은 실행하지 말고, 사람에게 Colab에서 돌리라고 알리기
-- 임베딩 기준: `intfloat/multilingual-e5-small`(문서 `passage: `, 질문 `query: `). 다른 모델을 쓰면 무엇으로 바꿨는지 적기
+- 임베딩 모델은 자유(컴퓨터 사양에 맞게). 노트의 기본값은 `intfloat/multilingual-e5-small`(문서 `passage: `, 질문 `query: `). 바꿨으면 모델 이름과 접두어 규칙을 적기
+- 프롬프트도 자유롭게 고쳐 보기. 고친 프롬프트는 `lab/`에 파일로 남기기
 - Neo4j가 필요한 일(Text2Cypher)은 환경 변수 `NEO4J_URI` · `NEO4J_USERNAME` · `NEO4J_PASSWORD`가 있을 때만
 - 검증: 무엇을 바꾸든 노트 12-1번의 질문 10개(정답 장 범위)로 바꾸기 전 · 후 표를 만들어 `lab/`에 CSV로 저장. 답을 만드는 부분을 바꿨으면 노트 12번의 질문 7개도 전 · 후로 저장
 - LLM이 지어낸 글(질문 다시 쓰기의 가짜 문단 등)은 검색에만 쓰고 답의 근거로 넣지 않기
