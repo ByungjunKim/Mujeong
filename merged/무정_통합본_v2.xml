@@ -5944,94 +5944,37 @@
       </div>
       <div type="chapter" n="114" resp="#enc111-120" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/101%EC%9E%A5~120%EC%9E%A5">
         <head>114장</head>
-        <p><persName ref="#LHS">형식</persName>은 부글부글 끓는 머리를 가지고 <persName ref="#PYC">영채</persName>의 차실에서 나왔다.
-          <persName ref="#SWS">우선</persName>이가 지켜 섰다가 <persName ref="#LHS">형식</persName>의 어깨를 툭 치며,
-        </p>
-        <p>“<said who="#SWS" aloud="true" direct="true">
-            <persName ref="#PYC">영채</persName> 씨가 울데그려.</said>”</p>
-        <p>
-          <persName ref="#LHS">형식</persName>은 <persName ref="#SWS">우선</persName>의 손을 잡으며,</p>
+        <p><persName ref="#LHS">형식</persName>은 부글부글 끓는 머리를 가지고 <persName ref="#PYC">영채</persName>의 차실에서 나왔다. <persName ref="#SWS">우선</persName>이가 지켜 섰다가 <persName ref="#LHS">형식</persName>의 어깨를 툭 치며,</p>
+        <p>“<said who="#SWS" aloud="true" direct="true"><persName ref="#PYC">영채</persName> 씨가 울데그려.</said>”</p>
+        <p><persName ref="#LHS">형식</persName>은 <persName ref="#SWS">우선</persName>의 손을 잡으며,</p>
         <p>“<said who="#LHS" aloud="true" direct="true">아, 이 일을 어찌하면 좋은가.</said>”</p>
         <p>“<said who="#SWS" aloud="true" direct="true">왜, 무슨 일이 났나. <persName ref="#PYC">영채</persName> 씨가 바가지를 긁던가 보이그려…… 요― 호남자!</said>”</p>
         <p>“<said who="#LHS" aloud="true" direct="true">아니어! 그렇게 농담으로 들을 것이 아닐세…… 참, 어쩌면 좋아?</said>”</p>
-        <p>“<said who="#SWS" aloud="true" direct="true">아따, 걱정도 많기도 많아……
-          <placeName ref="#PL_BUSAN">부산</placeName> 가서 배 타고, <placeName ref="#PL_MG">마관</placeName> 가서 차 타고,
-          <placeName ref="#PL_HB">횡빈</placeName> 가서 배 타고,
-          <placeName ref="#PL_SG">상항</placeName> 가서 내리고 하면 그만이지 걱정이 무슨 걱정이어!</said>”
-        </p>
-        <p>
-          <persName ref="#LHS">형식</persName>은 원망스러이 <persName ref="#SWS">우선</persName>의 얼굴을 보고 서서 무슨 생각을 하더니,</p>
+        <p>“<said who="#SWS" aloud="true" direct="true">아따, 걱정도 많기도 많아…… <placeName ref="#PL_BUSAN">부산</placeName> 가서 배 타고, <placeName ref="#PL_MG">마관</placeName> 가서 차 타고, <placeName ref="#PL_HB">횡빈</placeName> 가서 배 타고, <placeName ref="#PL_SG">상항</placeName> 가서 내리고 하면 그만이지 걱정이 무슨 걱정이어!</said>”</p>
+        <p><persName ref="#LHS">형식</persName>은 원망스러이 <persName ref="#SWS">우선</persName>의 얼굴을 보고 서서 무슨 생각을 하더니,</p>
         <p>“<said who="#LHS" aloud="true" direct="true">나는 <placeName ref="#PL_AMERICA">미국</placeName> 가기를 중지할라네.</said>”</p>
         <p>“<said who="#SWS" aloud="true" direct="true">응?</said>” 하고 <persName ref="#SWS">우선</persName>도 놀라며, “<said who="#SWS" aloud="true" direct="true">어째?</said>”</p>
-        <p>“<said who="#LHS" aloud="true" direct="true"> <placeName ref="#PL_AMERICA">미국</placeName> 가기를 중지할 테여……
-          그것이 옳은 일이지……
-          응, 그리할라네</said>”
-          하면서 <persName ref="#SWS">우선</persName>의 손을 놓고 차실로 들어가려 한다.
-          <persName ref="#SWS">우선</persName>은 손을 잡아 <persName ref="#LHS">형식</persName>을 끌어당기며,
-        </p>
+        <p>“<said who="#LHS" aloud="true" direct="true"> <placeName ref="#PL_AMERICA">미국</placeName> 가기를 중지할 테여…… 그것이 옳은 일이지…… 응, 그리할라네</said>” 하면서 <persName ref="#SWS">우선</persName>의 손을 놓고 차실로 들어가려 한다. <persName ref="#SWS">우선</persName>은 손을 잡아 <persName ref="#LHS">형식</persName>을 끌어당기며,</p>
         <p>“<said who="#SWS" aloud="true" direct="true">자네 미쳤단 말인가. 이리 좀 오게.</said>”</p>
-        <p>
-          <persName ref="#LHS">형식</persName>은 멀거니 섰다.</p>
+        <p><persName ref="#LHS">형식</persName>은 멀거니 섰다.</p>
         <p>“<said who="#SWS" aloud="true" direct="true">자네 지금 정신이 혼란되었네. <placeName ref="#PL_AMERICA">미국</placeName> 가기를 중지한다는 것이 무슨 소리여?</said>”</p>
-        <p>“<said who="#LHS" aloud="true" direct="true">아니 저편은 <rs type="person" ref="#LHS">나</rs>를 위해서 목숨까지 버리려고 하는데 <rs type="person" ref="#LHS">나</rs>는 이게 무슨 일인가.
-          <rs type="person" ref="#LHS">나</rs>는 <persName ref="#KSH">선형</persName> 씨한테 이 뜻을 말하고 약혼을 파하겠네……
-          그것이 옳은 일이지.</said>”
-        </p>
+        <p>“<said who="#LHS" aloud="true" direct="true">아니 저편은 <rs type="person" ref="#LHS">나</rs>를 위해서 목숨까지 버리려고 하는데 <rs type="person" ref="#LHS">나</rs>는 이게 무슨 일인가. <rs type="person" ref="#LHS">나</rs>는 <persName ref="#KSH">선형</persName> 씨한테 이 뜻을 말하고 약혼을 파하겠네…… 그것이 옳은 일이지.</said>”</p>
         <p>“<said who="#SWS" aloud="true" direct="true">그러면 <persName ref="#PYC">영채</persName>하고 혼인한단 말이지?</said>”</p>
         <p>“<said who="#LHS" aloud="true" direct="true">응, 그렇지! 그것이 옳지!</said>”</p>
-        <p>“<said who="#SWS" aloud="true" direct="true">
-            <persName ref="#PYC">영채</persName>는 <rs type="person" ref="#LHS">자네</rs>와 혼인을 한다던가.</said>”</p>
+        <p>“<said who="#SWS" aloud="true" direct="true"><persName ref="#PYC">영채</persName>는 <rs type="person" ref="#LHS">자네</rs>와 혼인을 한다던가.</said>”</p>
         <p>“<said who="#LHS" aloud="true" direct="true">그런 말은 없어.</said>”</p>
         <p>“<said who="#SWS" aloud="true" direct="true">만일 <persName ref="#PYC">영채</persName>가 <rs type="person" ref="#LHS">자네</rs>와 혼인하기를 싫다 하면 어쩔 터인가.</said>”</p>
-        <p>
-          <persName ref="#LHS">형식</persName>은 한참 생각하더니,</p>
+        <p><persName ref="#LHS">형식</persName>은 한참 생각하더니,</p>
         <p>“<said who="#LHS" aloud="true" direct="true">그러면 일생 혼인 말고 지내지…… 절에 가서 중이 되든지.</said>”</p>
-        <p>
-          <persName ref="#SWS">우선</persName>은 마침내 껄껄 웃으며,</p>
-        <p>“<said who="#SWS" aloud="true" direct="true">지금 <rs type="person" ref="#LHS">자네</rs>가 좀 노보세(<foreign xml:lang="zh">上氣</foreign>)했네.
-          참 <rs type="person" ref="#LHS">자네</rs>는 어린내일세.
-          세상이 무엇인지를 모르네그려.
-          행여 꿈에라도 그런 생각 내지 말고 어서 <placeName ref="#PL_AMERICA">미국</placeName>이나 가게.</said>”
-        </p>
+        <p><persName ref="#SWS">우선</persName>은 마침내 껄껄 웃으며,</p>
+        <p>“<said who="#SWS" aloud="true" direct="true">지금 <rs type="person" ref="#LHS">자네</rs>가 좀 노보세(<foreign xml:lang="zh">上氣</foreign>)했네. 참 <rs type="person" ref="#LHS">자네</rs>는 어린내일세. 세상이 무엇인지를 모르네그려. 행여 꿈에라도 그런 생각 내지 말고 어서 <placeName ref="#PL_AMERICA">미국</placeName>이나 가게.</said>”</p>
         <p>“<said who="#LHS" aloud="true" direct="true">그러면 <rs type="person" ref="#PYC">저 사람</rs>을 버리고?</said>”</p>
-        <p>“<said who="#SWS" aloud="true" direct="true">버리는 것이 아니지.
-          일이 이미 그렇게 되었으니까.
-          이제 그런 생각을 하면 무엇 하나.
-          또 <persName ref="#PYC">영채</persName> 씨도 <placeName ref="#PL_L19">동경</placeName>에 유학도 하게 되었고 하니까 피차에 공부나 잘하고 장래에 서로 형제삼아 지내게그려.
-          그런 어림없는 미친 소리는 다 집어치고……</said>”
-          하면서 <persName ref="#LHS">형식</persName>의 등을 퉁 하고 때린다.
-          팔에 붉은 헝겊 두른 차장이 지나가다가 <rs type="person" ref="#LHS #SWS">두 사람</rs>을 실척 본다.
-        </p>
-        <p><persName ref="#LHS">형식</persName>은 <rs type="person" ref="#LHS">자기</rs>의 자리에 돌아와 뒤에 몸을 기대고 가만히 눈을 감았다.
-          <persName ref="#KSH">선형</persName>은 조는지 무슨 생각을 하는지 그린 듯이 기대어 앉았다.
-        </p>
-        <p>
-          <persName ref="#LHS">형식</persName>의 가슴속에는 새로운 의문 하나가 일어난다.</p>
-        <p>대체 <rs type="person" ref="#LHS">자기</rs>는 누구를 사랑하는가.
-          <persName ref="#KSH">선형</persName>인가, <persName ref="#PYC">영채</persName>인가.
-          <persName ref="#PYC">영채</persName>를 대하면 <persName ref="#PYC">영채</persName>를 사랑하는 것 같고,
-          <persName ref="#KSH">선형</persName>을 대하면 <persName ref="#KSH">선형</persName>을 사랑하는 것 같다.
-          아까 <placeName ref="#PL_NMD">남대문</placeName>에서 차를 탈 때까지는 <rs type="person" ref="#LHS">자기</rs>는 오직 <persName ref="#KSH">선형</persName>에게 몸과 마음을 다 바친 듯하더니
-          지금 또 <persName ref="#PYC">영채</persName>를 보매, <persName ref="#KSH">선형</persName>은 둘째가 되고 <persName ref="#PYC">영채</persName>가 <rs type="person" ref="#LHS">자기</rs>의 사랑의 대상인 듯도 하다.
-          그러다가 또 앞에 앉은 <persName ref="#KSH">선형</persName>을 보매 ‘<said who="#LHS" aloud="false" direct="true">이야말로 <rs type="person" ref="#LHS">내</rs> 아내, <rs type="person" ref="#LHS">내</rs> 사랑하는 아내</said>’라는 생각도 난다.
-          <rs type="person" ref="#LHS">자기</rs>는 <persName ref="#KSH">선형</persName>과 <persName ref="#PYC">영채</persName>를 둘 다 사랑하는가.
-          그렇다 하면 동시에 <rs type="person" ref="#KSH #PYC">두 사람</rs>을 다 같이 사랑할 수가 있을까.
-          남들이 하는 말을 듣거나, <rs type="person" ref="#LHS">자기</rs>가 지금껏 생각하여 온 바로 보건대,
-          참된 사랑은 결코 동시에 <rs type="person" ref="#KSH #PYC">두 사람</rs> 이상에 향할 수 없는 것이어늘,
-          지금 <rs type="person" ref="#LHS">자기</rs>의 마음은 어떠한 상태에 있나.
-          아무렇게 해서라도, 어떠한 표준을 세워서라도
-          <persName ref="#LHS">형식</persName>은 <persName ref="#KSH">선형</persName>과 <persName ref="#PYC">영채</persName> <rs type="person" ref="#KSH #PYC">양인</rs> 중에 한 사람을 골라야 하겠다.
-        </p>
+        <p>“<said who="#SWS" aloud="true" direct="true">버리는 것이 아니지. 일이 이미 그렇게 되었으니까. 이제 그런 생각을 하면 무엇 하나. 또 <persName ref="#PYC">영채</persName> 씨도 <placeName ref="#PL_L19">동경</placeName>에 유학도 하게 되었고 하니까 피차에 공부나 잘하고 장래에 서로 형제삼아 지내게그려. 그런 어림없는 미친 소리는 다 집어치고……</said>” 하면서 <persName ref="#LHS">형식</persName>의 등을 퉁 하고 때린다. 팔에 붉은 헝겊 두른 차장이 지나가다가 <rs type="person" ref="#LHS #SWS">두 사람</rs>을 실척 본다.</p>
+        <p><persName ref="#LHS">형식</persName>은 <rs type="person" ref="#LHS">자기</rs>의 자리에 돌아와 뒤에 몸을 기대고 가만히 눈을 감았다. <persName ref="#KSH">선형</persName>은 조는지 무슨 생각을 하는지 그린 듯이 기대어 앉았다.</p>
+        <p><persName ref="#LHS">형식</persName>의 가슴속에는 새로운 의문 하나가 일어난다.</p>
+        <p>대체 <rs type="person" ref="#LHS">자기</rs>는 누구를 사랑하는가. <persName ref="#KSH">선형</persName>인가, <persName ref="#PYC">영채</persName>인가. <persName ref="#PYC">영채</persName>를 대하면 <persName ref="#PYC">영채</persName>를 사랑하는 것 같고, <persName ref="#KSH">선형</persName>을 대하면 <persName ref="#KSH">선형</persName>을 사랑하는 것 같다. 아까 <placeName ref="#PL_NMD">남대문</placeName>에서 차를 탈 때까지는 <rs type="person" ref="#LHS">자기</rs>는 오직 <persName ref="#KSH">선형</persName>에게 몸과 마음을 다 바친 듯하더니 지금 또 <persName ref="#PYC">영채</persName>를 보매, <persName ref="#KSH">선형</persName>은 둘째가 되고 <persName ref="#PYC">영채</persName>가 <rs type="person" ref="#LHS">자기</rs>의 사랑의 대상인 듯도 하다. 그러다가 또 앞에 앉은 <persName ref="#KSH">선형</persName>을 보매 ‘<said who="#LHS" aloud="false" direct="true">이야말로 <rs type="person" ref="#LHS">내</rs> 아내, <rs type="person" ref="#LHS">내</rs> 사랑하는 아내</said>’라는 생각도 난다. <rs type="person" ref="#LHS">자기</rs>는 <persName ref="#KSH">선형</persName>과 <persName ref="#PYC">영채</persName>를 둘 다 사랑하는가. 그렇다 하면 동시에 <rs type="person" ref="#KSH #PYC">두 사람</rs>을 다 같이 사랑할 수가 있을까. 남들이 하는 말을 듣거나, <rs type="person" ref="#LHS">자기</rs>가 지금껏 생각하여 온 바로 보건대, 참된 사랑은 결코 동시에 <rs type="person" ref="#KSH #PYC">두 사람</rs> 이상에 향할 수 없는 것이어늘, 지금 <rs type="person" ref="#LHS">자기</rs>의 마음은 어떠한 상태에 있나. 아무렇게 해서라도, 어떠한 표준을 세워서라도 <persName ref="#LHS">형식</persName>은 <persName ref="#KSH">선형</persName>과 <persName ref="#PYC">영채</persName> <rs type="person" ref="#KSH #PYC">양인</rs> 중에 한 사람을 골라야 하겠다.</p>
         <p>오래 생각한 후에 <persName ref="#LHS">형식</persName>은 이러한 결론에 달하였다.</p>
-        <p><rs type="person" ref="#LHS">자기</rs>가 <persName ref="#KSH">선형</persName>을 사랑하는 것도 결코 뿌리 깊은 사랑이 아니라.
-          <rs type="person" ref="#LHS">자기</rs>는 <persName ref="#KSH">선형</persName>의 얼굴이 어여쁜 것과 태도가 얌전한 것과
-          학교에서 우등한 것과 부자요 양반집 딸인 것밖에 아무것도 <persName ref="#KSH">선형</persName>에게 관하여 아는 것이 없다.
-          <rs type="person" ref="#LHS">나</rs>는 아직도 약혼한 지금까지도 <persName ref="#KSH">선형</persName>의 성격을 알지 못한다.
-          무론 <persName ref="#KSH">선형</persName>도 <rs type="person" ref="#LHS">자기</rs>의 성격을 알지 못한다.
-          서로 이해(<foreign xml:lang="zh">理解</foreign>)함이 없이 참사랑이 성립될 수 있을까.
-          <rs type="person" ref="#LHS">내</rs> 영혼은 과연 <persName ref="#KSH">선형</persName>을 요구하고, <persName ref="#KSH">선형</persName>의 영혼은 과연 <rs type="person" ref="#LHS">나</rs>를 요구하는가.
-          서로 만날 때에 영혼과 영혼이 마주 합하고, 마음과 마음이 마주 합하였는가.
-        </p>
+        <p><rs type="person" ref="#LHS">자기</rs>가 <persName ref="#KSH">선형</persName>을 사랑하는 것도 결코 뿌리 깊은 사랑이 아니라. <rs type="person" ref="#LHS">자기</rs>는 <persName ref="#KSH">선형</persName>의 얼굴이 어여쁜 것과 태도가 얌전한 것과 학교에서 우등한 것과 부자요 양반집 딸인 것밖에 아무것도 <persName ref="#KSH">선형</persName>에게 관하여 아는 것이 없다. <rs type="person" ref="#LHS">나</rs>는 아직도 약혼한 지금까지도 <persName ref="#KSH">선형</persName>의 성격을 알지 못한다. 무론 <persName ref="#KSH">선형</persName>도 <rs type="person" ref="#LHS">자기</rs>의 성격을 알지 못한다. 서로 이해(<foreign xml:lang="zh">理解</foreign>)함이 없이 참사랑이 성립될 수 있을까. <rs type="person" ref="#LHS">내</rs> 영혼은 과연 <persName ref="#KSH">선형</persName>을 요구하고, <persName ref="#KSH">선형</persName>의 영혼은 과연 <rs type="person" ref="#LHS">나</rs>를 요구하는가. 서로 만날 때에 영혼과 영혼이 마주 합하고, 마음과 마음이 마주 합하였는가.</p>
         <p>일언이폐지하면 <rs type="person" ref="#LHS">자기</rs>와 <persName ref="#KSH">선형</persName> 사이에는 과연 칼로 끊지 못하고 불로도 끊지 못할 사랑의 사실이 있는가.</p>
         <p>이렇게 생각하매 <persName ref="#LHS">형식</persName>은 실망함을 금치 못한다.
           <rs type="person" ref="#LHS">자기</rs>는 비록 <persName ref="#KSH">선형</persName>에게 이 모든 것을 구하였다 하더라도
@@ -6042,10 +5985,7 @@
           하고 대답은 하였다.
           그러나 그 대답이 과연 자각(<foreign xml:lang="zh">自覺</foreign>)있게 나온 대답일까.
         </p>
-        <p>그러면 <rs type="person" ref="#LHS">자기</rs>가 <persName ref="#KSH">선형</persName>에게 대한 사랑은,
-          즉 항용 사나이들이 고운 기생 같은 여성의 색에 취하여 하는 사랑과 다름이 있을까.
-          <rs type="person" ref="#LHS">자기</rs>의 사랑은 과연 문명의 세례를 받은 전인격적(<foreign xml:lang="zh">全人格的</foreign>) 사랑이라고 할 수 있을까.
-        </p>
+        <p>그러면 <rs type="person" ref="#LHS">자기</rs>가 <persName ref="#KSH">선형</persName>에게 대한 사랑은, 즉 항용 사나이들이 고운 기생 같은 여성의 색에 취하여 하는 사랑과 다름이 있을까. <rs type="person" ref="#LHS">자기</rs>의 사랑은 과연 문명의 세례를 받은 전인격적(<foreign xml:lang="zh">全人格的</foreign>) 사랑이라고 할 수 있을까.</p>
       </div>
       <div type="chapter" n="115" resp="#enc111-120" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/101%EC%9E%A5~120%EC%9E%A5">
         <head>115장</head>
