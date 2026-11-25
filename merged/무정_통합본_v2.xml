@@ -5921,93 +5921,26 @@
       </div>
       <div type="chapter" n="113" resp="#enc111-120" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/101%EC%9E%A5~120%EC%9E%A5">
         <head>113장</head>
-        <p>
-          <persName ref="#LHS">형식</persName>은 차마 더 <persName ref="#PYC">영채</persName>에게 말이 나오지 아니하므로 <persName ref="#KBU">병욱</persName>더러,</p>
+        <p><persName ref="#LHS">형식</persName>은 차마 더 <persName ref="#PYC">영채</persName>에게 말이 나오지 아니하므로 <persName ref="#KBU">병욱</persName>더러,</p>
         <p>“<said who="#LHS" aloud="true" direct="true">그런데 대관절 어찌 된 일이오니까. 이전부터 <persName ref="#PYC">영채</persName> 씨를 아셨어요?</said>”</p>
-        <p><persName ref="#KBU">병욱</persName>은 <persName ref="#LHS">형식</persName>을 보고 웃는다.
-          그 웃음이 <persName ref="#LHS">형식</persName>에게 말할 수 없는 부끄러움을 준다.
-          <rs type="person" ref="#LHS">자기</rs>를 비웃는 것같이 생각되었다.
-        </p>
+        <p><persName ref="#KBU">병욱</persName>은 <persName ref="#LHS">형식</persName>을 보고 웃는다. 그 웃음이 <persName ref="#LHS">형식</persName>에게 말할 수 없는 부끄러움을 준다. <rs type="person" ref="#LHS">자기</rs>를 비웃는 것같이 생각되었다.</p>
         <p>“<said who="#KBU" aloud="true" direct="true">아니올시다. <rs type="person" ref="#KBU">제</rs>가 방학에 집으로 오는 길에 차 속에서 만났어요.</said>”</p>
-        <p>
-          <persName ref="#LHS">형식</persName>은 눈이 둥그래지며 <persName ref="#PYC">영채</persName>를 한번 보고 다시 <persName ref="#KBU">병욱</persName>을 향하여,</p>
+        <p><persName ref="#LHS">형식</persName>은 눈이 둥그래지며 <persName ref="#PYC">영채</persName>를 한번 보고 다시 <persName ref="#KBU">병욱</persName>을 향하여,</p>
         <p>“<said who="#LHS" aloud="true" direct="true">그러면 <persName ref="#PYC">영채</persName> 씨가 <placeName ref="#PL_PY">평양</placeName> 가시는 길에?</said>”</p>
-        <p>“<said who="#KBU" aloud="true" direct="true">녜</said>” 하고 만다.
-          <persName ref="#LHS">형식</persName>은 더 알고 싶었다.
-          <persName ref="#PYC">영채</persName>가 어찌하여 죽을 결심을 풀었으며, 어찌하여 <placeName ref="#PL_L19">동경</placeName>으로 가게 된 것을 자세히 알고 싶었다.
-          그래서,
-        </p>
+        <p>“<said who="#KBU" aloud="true" direct="true">녜</said>” 하고 만다. <persName ref="#LHS">형식</persName>은 더 알고 싶었다. <persName ref="#PYC">영채</persName>가 어찌하여 죽을 결심을 풀었으며, 어찌하여 <placeName ref="#PL_L19">동경</placeName>으로 가게 된 것을 자세히 알고 싶었다. 그래서,</p>
         <p>“<said who="#LHS" aloud="true" direct="true">그래 어떻게 되었어요?</said>”</p>
-        <p>
-          <persName ref="#KBU">병욱</persName>은 고개를 기울여서 <persName ref="#PYC">영채</persName>의 돌아앉은 얼굴을 물끄러미 보더니,</p>
-        <p>“<said who="#KBU" aloud="true" direct="true">그래서 죽기는 왜 죽는단 말이냐.
-          즐거운 인생을 하루라도 오래 살지 못하여 걱정인데 왜 구태 지레 죽으려느냐고 그랬지요.
-          그러고 지금까지는 네가 천하 사람의 조롱을 받고, 학대를 받고……</said>”
-          하고는 주저하는 듯이 <persName ref="#LHS">형식</persName>을 바라보다가
-          또 웃으면서, 
-          “<said who="#KBU" aloud="true" direct="true">또 일생에 생각하고 사모하던 사람에도 버림을 받았지마는……</said>”
-          이 말이 끝나기 전에 <persName ref="#LHS">형식</persName>의 가슴은 마치 바늘로 찌르는 것 같았다.
-          <persName ref="#KBU">병욱</persName>은 <persName ref="#LHS">형식</persName>의 낯빛이 변하여짐을 보고 말을 끊었다가,
-        </p>
+        <p><persName ref="#KBU">병욱</persName>은 고개를 기울여서 <persName ref="#PYC">영채</persName>의 돌아앉은 얼굴을 물끄러미 보더니,</p>
+        <p>“<said who="#KBU" aloud="true" direct="true">그래서 죽기는 왜 죽는단 말이냐. 즐거운 인생을 하루라도 오래 살지 못하여 걱정인데 왜 구태 지레 죽으려느냐고 그랬지요. 그러고 지금까지는 네가 천하 사람의 조롱을 받고, 학대를 받고……</said>” 하고는 주저하는 듯이 <persName ref="#LHS">형식</persName>을 바라보다가 또 웃으면서, “<said who="#KBU" aloud="true" direct="true">또 일생에 생각하고 사모하던 사람에도 버림을 받았지마는……</said>” 이 말이 끝나기 전에 <persName ref="#LHS">형식</persName>의 가슴은 마치 바늘로 찌르는 것 같았다. <persName ref="#KBU">병욱</persName>은 <persName ref="#LHS">형식</persName>의 낯빛이 변하여짐을 보고 말을 끊었다가,</p>
         <p>“<said who="#KBU" aloud="true" direct="true">그렇게 지금토록 네 일생은 눈물과 원망의 일생이지마는 이제부터 네 앞에는 넓고 즐거운 장래가 있지 아니하냐 하고 억지로 차에서 끌어내렸지요.</said>”</p>
-        <p>“<said who="#LHS" aloud="true" direct="true">참 감사합니다.
-          <rs type="person" ref="#KBU">아씨</rs> 덕에 <rs type="person" ref="#LHS">나</rs>도 죄가 얼마큼 가벼워진 듯합니다.
-          <rs type="person" ref="#LHS">저</rs>는 꼭 <persName ref="#PYC">영채</persName> 씨께서 돌아가신 줄만 알았어요――</said>
-          이때에 <persName ref="#KBU">병욱</persName>과 <persName ref="#PYC">영채</persName>는 속으로 <said who="#KBU #PYC" aloud="false" direct="true">흥</said> 한다――
-          <said who="#LHS" aloud="true" direct="true">그래 즉시 <orgName ref="#ORG_PYPS">평양경찰서</orgName>에 전보를 놓고 다음 번 차로 <placeName ref="#PL_PY">평양</placeName>으로 내려갔지요――</said>
-          여기 와서 <persName ref="#LHS">형식</persName>은 <rs type="person" ref="#LHS">자기</rs>의 변명을 할 기회가 생긴 것이 기쁘다 하는 생각이 난다――
-          <said who="#LHS" aloud="true" direct="true">했더니, <orgName ref="#ORG_PYPS">경찰서</orgName>에서 하는 말이 정거장에 나가서 수탐을 하여 보았지마는 알 수 없다고 하지요.
-          그래서 알 만한 집에도 가 물어 보고,
-          또 <rs type="person" ref="#PJS">박선생</rs> 묘소에도……</said>”
-          하다가, 중간에 돌아온 생각을 하매 문득 말을 그치고 고개를 숙인다.
-          그때에 <placeName ref="#PL_BMS">북망산</placeName>까지 가보고 <placeName ref="#PL_DAEDONG_RIVER">대동강</placeName>가로 다만 한두 시간이라도 시체를 찾아보았더면 좋을 뻔하였다 하는 생각이 난다.
-          <persName ref="#KBU">병욱</persName>은 한참 듣더니,
-        </p>
+        <p>“<said who="#LHS" aloud="true" direct="true">참 감사합니다. <rs type="person" ref="#KBU">아씨</rs> 덕에 <rs type="person" ref="#LHS">나</rs>도 죄가 얼마큼 가벼워진 듯합니다. <rs type="person" ref="#LHS">저</rs>는 꼭 <persName ref="#PYC">영채</persName> 씨께서 돌아가신 줄만 알았어요――</said>이때에 <persName ref="#KBU">병욱</persName>과 <persName ref="#PYC">영채</persName>는 속으로 <said who="#KBU #PYC" aloud="false" direct="true">흥</said> 한다―― <said who="#LHS" aloud="true" direct="true">그래 즉시 <orgName ref="#ORG_PYPS">평양경찰서</orgName>에 전보를 놓고 다음 번 차로 <placeName ref="#PL_PY">평양</placeName>으로 내려갔지요――</said>여기 와서 <persName ref="#LHS">형식</persName>은 <rs type="person" ref="#LHS">자기</rs>의 변명을 할 기회가 생긴 것이 기쁘다 하는 생각이 난다―― <said who="#LHS" aloud="true" direct="true">했더니, <orgName ref="#ORG_PYPS">경찰서</orgName>에서 하는 말이 정거장에 나가서 수탐을 하여 보았지마는 알 수 없다고 하지요. 그래서 알 만한 집에도 가 물어 보고, 또 <rs type="person" ref="#PJS">박선생</rs> 묘소에도……</said>” 하다가, 중간에 돌아온 생각을 하매 문득 말을 그치고 고개를 숙인다. 그때에 <placeName ref="#PL_BMS">북망산</placeName>까지 가보고 <placeName ref="#PL_DAEDONG_RIVER">대동강</placeName>가로 다만 한두 시간이라도 시체를 찾아보았더면 좋을 뻔하였다 하는 생각이 난다. <persName ref="#KBU">병욱</persName>은 한참 듣더니,</p>
         <p>“<said who="#KBU" aloud="true" direct="true">녜, 아마 그리하셨겠지요. 그러면 시체를 찾으시느라고 꽤 애를 쓰셨겠네.</said>”</p>
-        <p><persName ref="#LHS">형식</persName>은 ‘<said who="#LHS" aloud="false" direct="true">이 계집애가 꽤 사람을 골린다</said>’ 하였다.
-          과연 <persName ref="#LHS">형식</persName>의 등에는 땀이 흘렀다.
-        </p>
-        <p><persName ref="#PYC">영채</persName>는 <persName ref="#LHS">형식</persName>의 하는 말을 다 들었다.
-          그러고 <persName ref="#LHS">형식</persName>에게 대하여 원통한 듯하던 마음이 얼마큼 풀린다.
-          그러나 <persName ref="#LHS">형식</persName>이가 즉시 <rs type="person" ref="#LHS">자기</rs>의 뒤를 따라 <placeName ref="#PL_PY">평양</placeName>으로 내려온 것과,
-          열심으로 <rs type="person" ref="#PYC">자기</rs>의 시체를 찾아 준 고마움도
-          <rs type="person" ref="#PYC">자기</rs>가 죽은 지 한 달이 못 하여 <persName ref="#KSH">선형</persName>과 혼인을 하여 가지고 <placeName ref="#PL_AM">미국</placeName>으로 간다는 생각에 눌려 버리고 만다.
-          <persName ref="#PYC">영채</persName>의 생각에는 <persName ref="#LHS">형식</persName> 한 사람이 정다운 애인도 되고 박정한 낭군도 되어 보인다.
-          그러나 만사가 이미 다 지나갔으니 이제 와서 한탄하면 무엇 하고 분풀이를 하면 무엇 하랴.
-          차라리 웃는 낯으로 <persName ref="#LHS">형식</persName>을 대하여 저편의 마음이나 기쁘게 하여 줌이 좋으리라 하는 생각도 난다.
-          그래서 마음을 좀 돌리기는 돌렸으나 그래도 아주 웃는 얼굴을 보여 <persName ref="#LHS">형식</persName>에게 안심을 주고 싶지는 아니하여,
-        </p>
-        <p>“<said who="#PYC" aloud="true" direct="true">참말 죄송합니다.
-          <placeName ref="#PL_HWANGJU">황주</placeName> 가서 곧 편지를 드리려다가 언제 죽을지 모르는 몸이 잠깐 살아 있는 것을 알려 드리면 무엇 하랴.
-          차라리 죽은 줄로 믿고 계시는 것이 도리어 안심이 되실 듯하기로 그만두었습니다……
-          이제 보면 아니 알려 드린 것이 어떻게 잘 되었는지요</said>”
-          하고 <persName ref="#PYC">영채</persName>도 과히 말하였다는 생각이 나서 웃는다.
-        </p>
-        <p>“<said who="#LHS" aloud="true" direct="true">그러면 어찌해서 엽서 한 장도 아니 주신단 말씀이오?</said>”
-          하고 <persName ref="#LHS">형식</persName>은 분개한 구조로, “<said who="#LHS" aloud="true" direct="true">그렇게 사람을 괴롭게 하십니까?</said>”
-          <persName ref="#LHS">형식</persName>은 진실로 이 말을 듣고 <persName ref="#PYC">영채</persName>를 원망하였다.
-          만일 <persName ref="#PYC">영채</persName>가 엽서 한 장만 하였으면
-          <rs type="person" ref="#LHS">자기</rs>는 마땅히 당장 <persName ref="#PYC">영채</persName>를 찾아가서 <persName ref="#PYC">영채</persName>의 손을 잡았을 것 같다.
-          <persName ref="#KBU">병욱</persName>과 <persName ref="#PYC">영채</persName>는 <persName ref="#LHS">형식</persName>의 분개하여 하는 얼굴을 본다.
-          더구나 <persName ref="#PYC">영채</persName>는 <persName ref="#LHS">형식</persName>에게 대하여 불안한 생각이 나서,
-        </p>
-        <p>“<said who="#PYC" aloud="true" direct="true">그러나 저는 제가 살아 있는 줄을 알게 하는 것이 도리어 <rs type="person" ref="#LHS">선생</rs>께 부질없는 근심을 끼칠 줄로 알았어요.
-          만일 제가 <rs type="person" ref="#LHS">선생</rs>의 몸에 누가 되어서 명예를 상한다든지 하면 도리어――주저하다가―― <rs type="person" ref="#LHS">선생</rs>을 위하는 도리도 아니겠고……
-          그래서 억지로 참고 가만히 있었습니다</said>”
-          하고 또 <persName ref="#PYC">영채</persName>의 눈에서는 눈물이 흐른다.
-        </p>
-        <p><persName ref="#LHS">형식</persName>이 <persName ref="#PYC">영채</persName>의 하는 말을 듣다가 눈물 떨어지는 것을 보고 저편으로 고개를 돌린다.
-          어디까지든지 <rs type="person" ref="#LHS">자기</rs>를 위하여 주는 <persName ref="#PYC">영채</persName>의 심정이 더욱 감사하게 생각된다.
-          죽으려 한 것도 <rs type="person" ref="#LHS">자기</rs>를 위하여,
-          살아 있으면서 살아 있는 줄을 알리지 아니한 것도 <rs type="person" ref="#LHS">자기</rs>를 위하여 한 것임을 생각하매
-          <rs type="person" ref="#LHS">자기</rs>의 <persName ref="#PYC">영채</persName>에게 대한 태도의 너무 무정함이 후회된다.
-        </p>
-        <p>마주앉은 눈물 흘리는 <persName ref="#PYC">영채</persName>를 보고,
-          또 저편 차실에 앉은 <persName ref="#KSH">선형</persName>을 생각하매 <persName ref="#LHS">형식</persName>의 마음은 자못 산란하다.
-          <rs type="person" ref="#KBU #LHS #PYC">세 사람</rs> 사이에는 한참 말이 없고 기차는 어느 철교를 건너가느라고 요란한 소리를 낸다.
-          창에 뿌리는 빗발과 흘러가는 물소리는 큰비가 아직 계속하는 줄을 알게 한다.
-          홍수나 아니 나려는지.
-        </p>
+        <p><persName ref="#LHS">형식</persName>은 ‘<said who="#LHS" aloud="false" direct="true">이 계집애가 꽤 사람을 골린다</said>’ 하였다. 과연 <persName ref="#LHS">형식</persName>의 등에는 땀이 흘렀다.</p>
+        <p><persName ref="#PYC">영채</persName>는 <persName ref="#LHS">형식</persName>의 하는 말을 다 들었다. 그러고 <persName ref="#LHS">형식</persName>에게 대하여 원통한 듯하던 마음이 얼마큼 풀린다. 그러나 <persName ref="#LHS">형식</persName>이가 즉시 <rs type="person" ref="#LHS">자기</rs>의 뒤를 따라 <placeName ref="#PL_PY">평양</placeName>으로 내려온 것과, 열심으로 <rs type="person" ref="#PYC">자기</rs>의 시체를 찾아 준 고마움도 <rs type="person" ref="#PYC">자기</rs>가 죽은 지 한 달이 못 하여 <persName ref="#KSH">선형</persName>과 혼인을 하여 가지고 <placeName ref="#PL_AM">미국</placeName>으로 간다는 생각에 눌려 버리고 만다. <persName ref="#PYC">영채</persName>의 생각에는 <persName ref="#LHS">형식</persName> 한 사람이 정다운 애인도 되고 박정한 낭군도 되어 보인다. 그러나 만사가 이미 다 지나갔으니 이제 와서 한탄하면 무엇 하고 분풀이를 하면 무엇 하랴. 차라리 웃는 낯으로 <persName ref="#LHS">형식</persName>을 대하여 저편의 마음이나 기쁘게 하여 줌이 좋으리라 하는 생각도 난다. 그래서 마음을 좀 돌리기는 돌렸으나 그래도 아주 웃는 얼굴을 보여 <persName ref="#LHS">형식</persName>에게 안심을 주고 싶지는 아니하여,</p>
+        <p>“<said who="#PYC" aloud="true" direct="true">참말 죄송합니다. <placeName ref="#PL_HWANGJU">황주</placeName> 가서 곧 편지를 드리려다가 언제 죽을지 모르는 몸이 잠깐 살아 있는 것을 알려 드리면 무엇 하랴. 차라리 죽은 줄로 믿고 계시는 것이 도리어 안심이 되실 듯하기로 그만두었습니다…… 이제 보면 아니 알려 드린 것이 어떻게 잘 되었는지요</said>” 하고 <persName ref="#PYC">영채</persName>도 과히 말하였다는 생각이 나서 웃는다.</p>
+        <p>“<said who="#LHS" aloud="true" direct="true">그러면 어찌해서 엽서 한 장도 아니 주신단 말씀이오?</said>” 하고 <persName ref="#LHS">형식</persName>은 분개한 구조로, “<said who="#LHS" aloud="true" direct="true">그렇게 사람을 괴롭게 하십니까?</said>” <persName ref="#LHS">형식</persName>은 진실로 이 말을 듣고 <persName ref="#PYC">영채</persName>를 원망하였다. 만일 <persName ref="#PYC">영채</persName>가 엽서 한 장만 하였으면 <rs type="person" ref="#LHS">자기</rs>는 마땅히 당장 <persName ref="#PYC">영채</persName>를 찾아가서 <persName ref="#PYC">영채</persName>의 손을 잡았을 것 같다. <persName ref="#KBU">병욱</persName>과 <persName ref="#PYC">영채</persName>는 <persName ref="#LHS">형식</persName>의 분개하여 하는 얼굴을 본다. 더구나 <persName ref="#PYC">영채</persName>는 <persName ref="#LHS">형식</persName>에게 대하여 불안한 생각이 나서,</p>
+        <p>“<said who="#PYC" aloud="true" direct="true">그러나 저는 제가 살아 있는 줄을 알게 하는 것이 도리어 <rs type="person" ref="#LHS">선생</rs>께 부질없는 근심을 끼칠 줄로 알았어요. 만일 제가 <rs type="person" ref="#LHS">선생</rs>의 몸에 누가 되어서 명예를 상한다든지 하면 도리어――주저하다가―― <rs type="person" ref="#LHS">선생</rs>을 위하는 도리도 아니겠고…… 그래서 억지로 참고 가만히 있었습니다</said>” 하고 또 <persName ref="#PYC">영채</persName>의 눈에서는 눈물이 흐른다.</p>
+        <p><persName ref="#LHS">형식</persName>이 <persName ref="#PYC">영채</persName>의 하는 말을 듣다가 눈물 떨어지는 것을 보고 저편으로 고개를 돌린다. 어디까지든지 <rs type="person" ref="#LHS">자기</rs>를 위하여 주는 <persName ref="#PYC">영채</persName>의 심정이 더욱 감사하게 생각된다. 죽으려 한 것도 <rs type="person" ref="#LHS">자기</rs>를 위하여, 살아 있으면서 살아 있는 줄을 알리지 아니한 것도 <rs type="person" ref="#LHS">자기</rs>를 위하여 한 것임을 생각하매 <rs type="person" ref="#LHS">자기</rs>의 <persName ref="#PYC">영채</persName>에게 대한 태도의 너무 무정함이 후회된다.</p>
+        <p>마주앉은 눈물 흘리는 <persName ref="#PYC">영채</persName>를 보고, 또 저편 차실에 앉은 <persName ref="#KSH">선형</persName>을 생각하매 <persName ref="#LHS">형식</persName>의 마음은 자못 산란하다. <rs type="person" ref="#KBU #LHS #PYC">세 사람</rs> 사이에는 한참 말이 없고 기차는 어느 철교를 건너가느라고 요란한 소리를 낸다. 창에 뿌리는 빗발과 흘러가는 물소리는 큰비가 아직 계속하는 줄을 알게 한다. 홍수나 아니 나려는지.</p>
       </div>
       <div type="chapter" n="114" resp="#enc111-120" source="https://ko.wikisource.org/wiki/%EB%AC%B4%EC%A0%95/101%EC%9E%A5~120%EC%9E%A5">
         <head>114장</head>
