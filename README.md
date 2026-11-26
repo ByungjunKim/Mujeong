@@ -23,8 +23,10 @@ Mujeong/
 │   ├── 기록/                 변경 기록 · 검증 결과 · 최종 검수
 │   ├── tools/                병합 · 검증 · 변환 스크립트
 │   └── 이전판/v0/            통합본 v0와 그때의 초안 · 보고 (보관)
-└── graph/        통합본에서 만든 그래프 데이터
-    └── v1/                   노드 · 관계 CSV, Neo4j 적재 Cypher, CIDOC CRM(Turtle), MANIFEST
+├── graph/        통합본에서 만든 그래프 데이터
+│   └── v1/                   노드 · 관계 CSV, Neo4j 적재 Cypher, CIDOC CRM(Turtle), MANIFEST
+└── rag/          그래프에서 만든 벡터 DB (Colab 실습에서 바로 내려받아 쓰기)
+    └── v1/                   그래프 v1의 문단 · 발화 임베딩(E5-small), 청크 목록, MANIFEST
 ```
 
 ## 판 이름
