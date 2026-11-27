@@ -1722,6 +1722,10 @@
         <note type="source-ids">구간 원 ID: 101-110:KY_HOME</note>
         <note type="editorial">104장에서 경애가 '우리집'으로 지칭하는 장소.</note>
       </place>
+      <place xml:id="PL_GEUM_RIVER">
+        <placeName type="main">금강</placeName>
+        <note type="editorial">109장 신문 보도에 언급된 강. 본문 연결을 위해 추가함.</note>
+      </place>
     </listPlace>
     <listOrg>
       <org xml:id="ORG_GYEONGSUNG" cert="medium">
@@ -5830,8 +5834,8 @@
           <persName ref="#SWS">우선</persName>은 <persName ref="#LHS">형식</persName>의 뒷자리에 앉아서 빙그레 웃으며 자기 곁에서 일어나는 <persName ref="#LHS">형식</persName>과 <persName ref="#KSH">선형</persName>의 말을 들어 가며 신문을 보고 앉았더니 고개를 돌리며,</p>
         <p>“<said who="#SWS" direct="true" aloud="true">여보게, 큰일났네그려</said>” 한다. <persName ref="#LHS">형식</persName>은 <persName ref="#KSH">선형</persName>만 바라보고 <persName ref="#SWS">우선</persName>은 잊어버리고 앉았다가 깜짝 놀라 고개를 돌리며,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">응? 왜?</said>”</p>
-        <p>“<said who="#SWS" direct="true" aloud="true">하하하, 그렇게 놀랄 것은 없지마는…… 오늘 아침부터 경상남북도, 전라남북도 일경에 비가 오기 시작하여 <placeName>금강</placeName>
-            <placeName>낙동강</placeName>은 십여 척의 증수가 되었다고.</said>”</p>
+        <p>“<said who="#SWS" direct="true" aloud="true">하하하, 그렇게 놀랄 것은 없지마는…… 오늘 아침부터 경상남북도, 전라남북도 일경에 비가 오기 시작하여 <placeName ref="#PL_GEUM_RIVER">금강</placeName>
+            <placeName ref="#PL_ND_2">낙동강</placeName>은 십여 척의 증수가 되었다고.</said>”</p>
         <p>“<said who="#LHS" direct="true" aloud="true">어디</said>” 하고 <persName ref="#SWS">우선</persName>의 들었던 신문을 받아 보더니,</p>
         <p>“<said who="#LHS" direct="true" aloud="true">그러면 철로가 불통하지나 아니할까?</said>”</p>
         <p>
