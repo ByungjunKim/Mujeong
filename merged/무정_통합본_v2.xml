@@ -4168,7 +4168,7 @@
           <said who="#S61_TK_BOYS" aloud="true" direct="true">안녕합시오</said>” 하였다.
           <persName ref="#LHS">형식</persName>도 하릴없이, “
           <said who="#LHS" aloud="true" direct="true">안녕합시오</said>” 하고 대답하였다.
-          한번은 <persName ref="#LHS">형식</persName>이가 자기보다 두어 살 아래 되는 소년을 붙들고,
+          한번은 <persName ref="#LHS">형식</persName>이가 자기보다 두어 살 아래 되는 <rs type="person" ref="#S61_TK_BOY_01">소년</rs>을 붙들고,
         </p>
         <p>
           “<said who="#LHS" aloud="true" direct="true">여보, 나하고 동무가 되십시다. 너, 나
