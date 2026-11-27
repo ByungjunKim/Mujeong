@@ -4190,7 +4190,7 @@
         </p>
         <p>
           그러다가 스물한 살에 <orgName ref="#ORG_GYEONGSUNG">경성학교</orgName>에 교사가 되어
-          여러 소년들과 가까이 접할 기회를 얻었다. 그러나 소년들이 ‘
+          <rs type="group" ref="#S61_GYEONGSUNG_BOYS">여러 소년들</rs>과 가까이 접할 기회를 얻었다. 그러나 소년들이 ‘
           <said who="#S61_GYEONGSUNG_BOYS" aloud="true" direct="true">선생님</said>’ 하고 슬슬 피할 때에는
           <persName ref="#LHS">형식</persName>은 여전히 적막한 생각이 있었다. 그래서
           <rs type="person" ref="#LHS">나</rs>도 이제 어느 중학교에 입학을 하여 저 소년들과 같이 놀아
