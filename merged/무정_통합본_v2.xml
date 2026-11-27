@@ -995,18 +995,18 @@
             <note type="source-ids">구간 원 ID: 61-70:MO</note>
           </person>
           <person xml:id="S101_FTH" sex="M" cert="low">
-            <persName type="main">부친</persName>
+            <persName type="main">병욱의 아버지</persName>
             <persName>아버님</persName>
             <persName>아버지</persName>
             <note type="source-ids">구간 원 ID: 101-110:FTH</note>
           </person>
           <person xml:id="S101_GM" sex="F" cert="low">
-            <persName type="main">조모</persName>
+            <persName type="main">병욱의 할머니</persName>
             <persName>할머니</persName>
             <note type="source-ids">구간 원 ID: 101-110:GM</note>
           </person>
           <person xml:id="S101_MTH" sex="F" cert="low">
-            <persName type="main">모친</persName>
+            <persName type="main">병욱의 어머니</persName>
             <persName>어머님</persName>
             <persName>어머니</persName>
             <note type="source-ids">구간 원 ID: 101-110:MTH</note>
