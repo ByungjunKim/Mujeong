@@ -3670,9 +3670,9 @@
           <foreign xml:lang="ko-Hani">宣化堂</foreign>)이던 것이
           <placeName ref="#PL_DC">도청</placeName>(
           <foreign xml:lang="ko-Hani">道廳</foreign>)이 되고
-          <rs type="role" ref="#S61_ROLE_GAMSA">감사</rs>(
+          <rs type="role">감사</rs>(
           <foreign xml:lang="ko-Hani">監司</foreign>)이던 것이
-          <rs type="role" ref="#S61_ROLE_DOJANGGWAN">도장관</rs>(
+          <rs type="role">도장관</rs>(
           <foreign xml:lang="ko-Hani">道長官</foreign>)이 된 모양으로. 그러고 곁에 오는
           <persName ref="#GH">계향</persName>을 보았다.
           <persName ref="#GH">계향</persName>과 그
