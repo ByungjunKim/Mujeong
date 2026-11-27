@@ -3419,7 +3419,7 @@
           <persName ref="#LHS">형식</persName>의 대답의 뜻을 몰라 담배를 문 채로 멍멍하니 섰다.
           <rs type="person" ref="#FR">그 사람</rs>은
           <persName ref="#LHS">형식</persName>에게 오직 한 누이가 있는 줄을 알고 또 그 누이는 이미
-          남의 아내가 된 줄을 안다. 한참이나 우두커니 섰더니 담배 꽁달이를 발로 비비면서,
+          남의 아내가 된 줄을 안다. 한참이나 우두커니 섰더니 <rs type="object">담배 꽁달이</rs>를 발로 비비면서,
         </p>
         <p>
           “<said who="#FR" aloud="true" direct="true">그런데 어디로 가는가?</said>”
