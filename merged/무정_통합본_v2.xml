@@ -3215,7 +3215,7 @@
           <rs type="person" ref="#GH">아름다운 처녀</rs>에게 “
           <said who="#GH" aloud="true" direct="true">어서 더 잡수셔요</said>” 하고
           정성스럽게 권함을 받은 적은 없었다. <persName ref="#GH">계향</persName>은
-          <persName ref="#LHS">형식</persName>의 밥상에 붙어서 손수 <rs>구운 조기</rs>를 뜯었다.
+          <persName ref="#LHS">형식</persName>의 밥상에 붙어서 손수 <rs type="object">구운 조기</rs>를 뜯었다.
           아까 성냥개비에 덴 손가락에 누렇게 탄 자리가 보인다. <persName ref="#GH">계향</persName>은
           <persName ref="#LHS">형식</persName>의 숟가락을 빼앗아 제 손으로 <rs type="object">대접</rs>에 밥을
           말았다. <persName ref="#LHS">형식</persName>은, “
