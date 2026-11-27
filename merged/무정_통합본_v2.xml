@@ -1091,13 +1091,6 @@
             <note>동경에서 형식이 동무가 되자고 말을 건 익명의 소년. “녜”라고 대답하고 모자를 벗어 경례한 뒤 달아남.</note>
             <note type="source-ids">구간 원 ID: 61-70:TK_BOY_01</note>
           </person>
-          <person xml:id="S71_NP" sex="F" cert="low">
-            <persName type="main">노파</persName>
-            <persName>아주머니</persName>
-            <persName>노파는</persName>
-            <persName>노파가</persName>
-            <note type="source-ids">구간 원 ID: 71-80:NP</note>
-          </person>
           <person xml:id="ST" cert="low">
             <persName type="main">어떤 노동자 같은 소년</persName>
             <note type="source-ids">구간 원 ID: 61-70:ST</note>
