@@ -299,6 +299,7 @@
           <person xml:id="GH" sex="F" cert="medium">
             <persName type="main">계향</persName>
             <persName>계향이</persName>
+            <persName type="alias">혜경</persName>
             <note type="source-ids">구간 원 ID: 51-60:KH, 61-70:GH, 121-126:GYEHANG</note>
             <note type="editorial">평양 칠성문 밖에서 만난 기생 아이</note>
           </person>
