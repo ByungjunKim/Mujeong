@@ -690,6 +690,10 @@
             <persName type="main">앓는 어린아이</persName>
             <note type="editorial">66장에서 형식이 상상하는 장면의 인물</note>
           </person>
+          <person xml:id="S66_CHILDREN" cert="low">
+            <persName type="main">아이들</persName>
+            <note type="editorial">66장에서 가난한 어머니가 잠들여 놓은 아이들</note>
+          </person>
           <person xml:id="BY_YOUNGER" sex="M" cert="medium">
             <persName type="main">병욱의 남동생</persName>
             <persName>제동생</persName>
