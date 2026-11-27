@@ -682,6 +682,14 @@
             <persName type="main">사내아이</persName>
             <note type="source-ids">구간 원 ID: 61-70:AI</note>
           </person>
+          <person xml:id="S66_POOR_MOTHER" cert="low">
+            <persName type="main">가난한 어머니</persName>
+            <note type="editorial">66장에서 형식이 상상하는 장면의 인물</note>
+          </person>
+          <person xml:id="S66_SICK_CHILD" cert="low">
+            <persName type="main">앓는 어린아이</persName>
+            <note type="editorial">66장에서 형식이 상상하는 장면의 인물</note>
+          </person>
           <person xml:id="BY_YOUNGER" sex="M" cert="medium">
             <persName type="main">병욱의 남동생</persName>
             <persName>제동생</persName>
@@ -4005,7 +4013,7 @@
         <rs type="person" ref="#S66_POOR_MOTHER">가난한 어머니</rs>가 아이들을 잠들여 놓고
 혼자 일어나 지아비와 아이들의 누더기를
           깁는가. 잘 보이지 아니하는 눈으로 바늘구멍을 찾지 못하여 연방 불을 돋우고 눈을 비비는가. 그러다가 ‘<said direct="true" ana="#S41_imagined">아아 늙었구나!</said>’ 하고 깁던 누더기에 굵은 눈물을 떨구는가. 그때에 아랫목에서 자던
-          앓는 어린아이가 꿈에 놀라서 우는 것을 껴안고 먹은 것이 없어서 나지도 아니하는
+          <rs type="person" ref="#S66_SICK_CHILD">앓는 어린아이</rs>가 꿈에 놀라서 우는 것을 껴안고 먹은 것이 없어서 나지도 아니하는
           젖을 물리고 있는 것이나 아닌가. 또는
           앓는 외아들을 가운데 놓고 <rs type="person">늙은 내외</rs>가
           자리 위에 서서 번갈아 아들의 몸을 만지고 번갈아 울고 위로하면서 마음속으로 ‘<said direct="true" ana="#S41_thought">하느님 내려다봅소서</said>’ 하는 것이 아닌가. 이에 <persName ref="#LHS">형식</persName>은 십여 년
